@@ -1,0 +1,139 @@
+{
+  "species": {
+    "common_name": "Yellow Rail",
+    "code": "yelrai",
+    "scientific_name": "Coturnicops noveboracensis"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0006,
+    "total_detections": 29,
+    "total_checklists_with_species": 29,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 29,
+    "highest_occurrence_rate": 0.023
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L7619204",
+      "name": "Trout Lake",
+      "coordinates": {
+        "latitude": 46.1861295,
+        "longitude": -85.0429559
+      },
+      "occurrence": {
+        "rate": 0.023,
+        "lift": 35.49,
+        "detection_count": 2,
+        "total_checklists": 87,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 4.0,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.05,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.1111,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1640836",
+      "name": "Munuscong WMA (Munuscong Potholes)",
+      "coordinates": {
+        "latitude": 46.1874469,
+        "longitude": -84.3106817
+      },
+      "occurrence": {
+        "rate": 0.0153,
+        "lift": 23.7,
+        "detection_count": 26,
+        "total_checklists": 1694,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0186,
+        "summer": 0.0221,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0243,
+        "6": 0.0295,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L3724055",
+      "name": "Dryburg & Teets Rd. grasslands",
+      "coordinates": {
+        "latitude": 46.1868054,
+        "longitude": -84.6768022
+      },
+      "occurrence": {
+        "rate": 0.0039,
+        "lift": 6.01,
+        "detection_count": 1,
+        "total_checklists": 257,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0156,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0222,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:03.018158Z",
+    "data_version": "Dec-2025"
+  }
+}

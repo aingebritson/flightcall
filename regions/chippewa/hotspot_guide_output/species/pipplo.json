@@ -1,0 +1,182 @@
+{
+  "species": {
+    "common_name": "Piping Plover",
+    "code": "pipplo",
+    "scientific_name": "Charadrius melodus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0689,
+    "total_detections": 3087,
+    "total_checklists_with_species": 3087,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 4
+  },
+  "summary": {
+    "total_hotspots_detected": 4,
+    "total_detections": 3087,
+    "highest_occurrence_rate": 0.163
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L140452",
+      "name": "Whitefish Point",
+      "coordinates": {
+        "latitude": 46.7706876,
+        "longitude": -84.9569493
+      },
+      "occurrence": {
+        "rate": 0.163,
+        "lift": 2.36,
+        "detection_count": 3032,
+        "total_checklists": 18603,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.7,
+        "max_count": 21
+      },
+      "seasonal": {
+        "spring": 0.1886,
+        "summer": 0.6327,
+        "fall": 0.0567,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0153,
+        "5": 0.3237,
+        "6": 0.5774,
+        "7": 0.7244,
+        "8": 0.3284,
+        "9": 0.0162,
+        "10": 0.0006,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L887532",
+      "name": "Vermillion Point Nature Preserve",
+      "coordinates": {
+        "latitude": 46.76259,
+        "longitude": -85.1481414
+      },
+      "occurrence": {
+        "rate": 0.104,
+        "lift": 1.51,
+        "detection_count": 36,
+        "total_checklists": 346,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.2,
+        "max_count": 9
+      },
+      "seasonal": {
+        "spring": 0.1452,
+        "summer": 0.1622,
+        "fall": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.1111,
+        "5": 0.1532,
+        "6": 0.1348,
+        "7": 0.2727,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L956899",
+      "name": "Whitefish Point--Harbor of Refuge",
+      "coordinates": {
+        "latitude": 46.761323,
+        "longitude": -84.9646745
+      },
+      "occurrence": {
+        "rate": 0.0136,
+        "lift": 0.2,
+        "detection_count": 16,
+        "total_checklists": 1178,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.5,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.0146,
+        "summer": 0.0638,
+        "fall": 0.002,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.024,
+        "6": 0.0291,
+        "7": 0.1579,
+        "8": 0.0128,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L1596803",
+      "name": "Vermilion Rd.",
+      "coordinates": {
+        "latitude": 46.7372473,
+        "longitude": -85.0783129
+      },
+      "occurrence": {
+        "rate": 0.0073,
+        "lift": 0.11,
+        "detection_count": 3,
+        "total_checklists": 413,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0312,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.037,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:02.963410Z",
+    "data_version": "Dec-2025"
+  }
+}

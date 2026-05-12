@@ -1,0 +1,99 @@
+{
+  "species": {
+    "common_name": "Tufted Titmouse",
+    "code": "tuftit",
+    "scientific_name": "Baeolophus bicolor"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0002,
+    "total_detections": 7,
+    "total_checklists_with_species": 7,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 7,
+    "highest_occurrence_rate": 0.0038
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L3487831",
+      "name": "Ravenstone Haven Wildlife Sanctuary (Kinross Rd. feeders)",
+      "coordinates": {
+        "latitude": 46.2910411,
+        "longitude": -84.5107526
+      },
+      "occurrence": {
+        "rate": 0.0038,
+        "lift": 24.26,
+        "detection_count": 3,
+        "total_checklists": 791,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "fall": 0.0,
+        "winter": 0.0042
+      },
+      "monthly": {
+        "1": 0.012,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L140452",
+      "name": "Whitefish Point",
+      "coordinates": {
+        "latitude": 46.7706876,
+        "longitude": -84.9569493
+      },
+      "occurrence": {
+        "rate": 0.0002,
+        "lift": 1.38,
+        "detection_count": 4,
+        "total_checklists": 18603,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0002,
+        "summer": 0.0,
+        "fall": 0.0002,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0007,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0006,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:03.024145Z",
+    "data_version": "Dec-2025"
+  }
+}

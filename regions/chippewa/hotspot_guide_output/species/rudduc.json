@@ -1,0 +1,319 @@
+{
+  "species": {
+    "common_name": "Ruddy Duck",
+    "code": "rudduc",
+    "scientific_name": "Oxyura jamaicensis"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.001,
+    "total_detections": 45,
+    "total_checklists_with_species": 45,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 8
+  },
+  "summary": {
+    "total_hotspots_detected": 8,
+    "total_detections": 45,
+    "highest_occurrence_rate": 0.1106
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L12924924",
+      "name": "Pickford Sewage Lagoons (from road only; no access)",
+      "coordinates": {
+        "latitude": 46.1723786,
+        "longitude": -84.3559368
+      },
+      "occurrence": {
+        "rate": 0.1106,
+        "lift": 110.04,
+        "detection_count": 24,
+        "total_checklists": 217,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.125,
+        "summer": 0.0926,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.4615,
+        "5": 0.0942,
+        "6": 0.125,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L7599192",
+      "name": "Rudyard Sewage Lagoons (restricted access)",
+      "coordinates": {
+        "latitude": 46.2265477,
+        "longitude": -84.6069816
+      },
+      "occurrence": {
+        "rate": 0.0674,
+        "lift": 67.08,
+        "detection_count": 6,
+        "total_checklists": 89,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0741,
+        "summer": 0.1429,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.1111,
+        "6": 0.1,
+        "7": 0.25,
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L5721689",
+      "name": "Munuscong WMA--South Trail",
+      "coordinates": {
+        "latitude": 46.1945686,
+        "longitude": -84.2695767
+      },
+      "occurrence": {
+        "rate": 0.0227,
+        "lift": 22.61,
+        "detection_count": 1,
+        "total_checklists": 44,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.3333,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L3972115",
+      "name": "Ashmun Bay Park--boat launch",
+      "coordinates": {
+        "latitude": 46.4988025,
+        "longitude": -84.3749202
+      },
+      "occurrence": {
+        "rate": 0.0069,
+        "lift": 6.87,
+        "detection_count": 4,
+        "total_checklists": 579,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0226,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0741,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L1542347",
+      "name": "Munuscong WMA--Munuscong River mouth",
+      "coordinates": {
+        "latitude": 46.2115331,
+        "longitude": -84.2635304
+      },
+      "occurrence": {
+        "rate": 0.0048,
+        "lift": 4.75,
+        "detection_count": 2,
+        "total_checklists": 419,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0109,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0122,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L956899",
+      "name": "Whitefish Point--Harbor of Refuge",
+      "coordinates": {
+        "latitude": 46.761323,
+        "longitude": -84.9646745
+      },
+      "occurrence": {
+        "rate": 0.0017,
+        "lift": 1.69,
+        "detection_count": 2,
+        "total_checklists": 1178,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0049,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.008,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L612041",
+      "name": "Tahquamenon River Mouth",
+      "coordinates": {
+        "latitude": 46.5549281,
+        "longitude": -85.0312936
+      },
+      "occurrence": {
+        "rate": 0.0007,
+        "lift": 0.7,
+        "detection_count": 1,
+        "total_checklists": 1415,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0011,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0022,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L140452",
+      "name": "Whitefish Point",
+      "coordinates": {
+        "latitude": 46.7706876,
+        "longitude": -84.9569493
+      },
+      "occurrence": {
+        "rate": 0.0003,
+        "lift": 0.27,
+        "detection_count": 5,
+        "total_checklists": 18603,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0002,
+        "summer": 0.0,
+        "fall": 0.0004,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0004,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0028,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:03.018906Z",
+    "data_version": "Dec-2025"
+  }
+}

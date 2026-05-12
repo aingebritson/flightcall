@@ -1,0 +1,208 @@
+{
+  "species": {
+    "common_name": "Forster's Tern",
+    "code": "forter",
+    "scientific_name": "Sterna forsteri"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0026,
+    "total_detections": 118,
+    "total_checklists_with_species": 118,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 5
+  },
+  "summary": {
+    "total_hotspots_detected": 5,
+    "total_detections": 118,
+    "highest_occurrence_rate": 0.0196
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1542166",
+      "name": "De Tour SF CG",
+      "coordinates": {
+        "latitude": 45.9591145,
+        "longitude": -84.0083852
+      },
+      "occurrence": {
+        "rate": 0.0196,
+        "lift": 7.44,
+        "detection_count": 1,
+        "total_checklists": 51,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 4.0,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.037,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0417,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1596154",
+      "name": "Sugar Island",
+      "coordinates": {
+        "latitude": 46.4836142,
+        "longitude": -84.2717029
+      },
+      "occurrence": {
+        "rate": 0.0133,
+        "lift": 5.06,
+        "detection_count": 1,
+        "total_checklists": 75,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "6": 0.3333,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L140452",
+      "name": "Whitefish Point",
+      "coordinates": {
+        "latitude": 46.7706876,
+        "longitude": -84.9569493
+      },
+      "occurrence": {
+        "rate": 0.0061,
+        "lift": 2.3,
+        "detection_count": 113,
+        "total_checklists": 18603,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.6,
+        "max_count": 45
+      },
+      "seasonal": {
+        "spring": 0.0007,
+        "summer": 0.0007,
+        "fall": 0.0129,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0013,
+        "6": 0.001,
+        "7": 0.0,
+        "8": 0.0094,
+        "9": 0.0262,
+        "10": 0.0073,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L612041",
+      "name": "Tahquamenon River Mouth",
+      "coordinates": {
+        "latitude": 46.5549281,
+        "longitude": -85.0312936
+      },
+      "occurrence": {
+        "rate": 0.0014,
+        "lift": 0.54,
+        "detection_count": 2,
+        "total_checklists": 1415,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 7.0,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0121,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0156,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L956899",
+      "name": "Whitefish Point--Harbor of Refuge",
+      "coordinates": {
+        "latitude": 46.761323,
+        "longitude": -84.9646745
+      },
+      "occurrence": {
+        "rate": 0.0008,
+        "lift": 0.32,
+        "detection_count": 1,
+        "total_checklists": 1178,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.002,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0084,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:03.004448Z",
+    "data_version": "Dec-2025"
+  }
+}

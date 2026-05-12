@@ -1,0 +1,98 @@
+{
+  "species": {
+    "common_name": "American Three-toed Woodpecker",
+    "code": "amewoo",
+    "scientific_name": "Picoides dorsalis"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0001,
+    "total_detections": 3,
+    "total_checklists_with_species": 3,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 3,
+    "highest_occurrence_rate": 0.007
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1019048",
+      "name": "Forest Road 3145",
+      "coordinates": {
+        "latitude": 46.2636615,
+        "longitude": -85.0559324
+      },
+      "occurrence": {
+        "rate": 0.007,
+        "lift": 105.1,
+        "detection_count": 1,
+        "total_checklists": 142,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.037
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.1111,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L140452",
+      "name": "Whitefish Point",
+      "coordinates": {
+        "latitude": 46.7706876,
+        "longitude": -84.9569493
+      },
+      "occurrence": {
+        "rate": 0.0001,
+        "lift": 1.6,
+        "detection_count": 2,
+        "total_checklists": 18603,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0002,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0006,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:03.009762Z",
+    "data_version": "Dec-2025"
+  }
+}

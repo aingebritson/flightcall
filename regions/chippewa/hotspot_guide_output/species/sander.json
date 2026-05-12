@@ -1,0 +1,427 @@
+{
+  "species": {
+    "common_name": "Sanderling",
+    "code": "sander",
+    "scientific_name": "Calidris alba"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0805,
+    "total_detections": 3605,
+    "total_checklists_with_species": 3605,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 11
+  },
+  "summary": {
+    "total_hotspots_detected": 11,
+    "total_detections": 3605,
+    "highest_occurrence_rate": 0.1905
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L140452",
+      "name": "Whitefish Point",
+      "coordinates": {
+        "latitude": 46.7706876,
+        "longitude": -84.9569493
+      },
+      "occurrence": {
+        "rate": 0.1905,
+        "lift": 2.37,
+        "detection_count": 3543,
+        "total_checklists": 18603,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 6.2,
+        "max_count": 87
+      },
+      "seasonal": {
+        "spring": 0.0857,
+        "summer": 0.212,
+        "fall": 0.3027,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0085,
+        "5": 0.1462,
+        "6": 0.181,
+        "7": 0.2634,
+        "8": 0.5421,
+        "9": 0.4838,
+        "10": 0.1315,
+        "11": 0.064,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L887532",
+      "name": "Vermillion Point Nature Preserve",
+      "coordinates": {
+        "latitude": 46.76259,
+        "longitude": -85.1481414
+      },
+      "occurrence": {
+        "rate": 0.0636,
+        "lift": 0.79,
+        "detection_count": 22,
+        "total_checklists": 346,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.3,
+        "max_count": 15
+      },
+      "seasonal": {
+        "spring": 0.0323,
+        "summer": 0.036,
+        "fall": 0.1308
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.036,
+        "6": 0.0449,
+        "7": 0.0,
+        "8": 0.2857,
+        "9": 0.3889,
+        "10": 0.0196,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L1542166",
+      "name": "De Tour SF CG",
+      "coordinates": {
+        "latitude": 45.9591145,
+        "longitude": -84.0083852
+      },
+      "occurrence": {
+        "rate": 0.0588,
+        "lift": 0.73,
+        "detection_count": 3,
+        "total_checklists": 51,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 6.0,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.1538,
+        "fall": 0.0909
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.1818,
+        "8": 0.0,
+        "9": 0.2
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L3655161",
+      "name": "De Tour Roadside Park",
+      "coordinates": {
+        "latitude": 45.9620096,
+        "longitude": -84.0326428
+      },
+      "occurrence": {
+        "rate": 0.0256,
+        "lift": 0.32,
+        "detection_count": 1,
+        "total_checklists": 39,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 15.0,
+        "max_count": 15
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0833
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "9": 0.1667,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L1563473",
+      "name": "Monocle Lake Campground",
+      "coordinates": {
+        "latitude": 46.468201,
+        "longitude": -84.641304
+      },
+      "occurrence": {
+        "rate": 0.0238,
+        "lift": 0.3,
+        "detection_count": 1,
+        "total_checklists": 42,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": null,
+        "max_count": null
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.1667,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "7": 0.25,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L3045425",
+      "name": "Brimley SP",
+      "coordinates": {
+        "latitude": 46.4137403,
+        "longitude": -84.5555449
+      },
+      "occurrence": {
+        "rate": 0.023,
+        "lift": 0.29,
+        "detection_count": 4,
+        "total_checklists": 174,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.2,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.044
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0345,
+        "9": 0.0952,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L956899",
+      "name": "Whitefish Point--Harbor of Refuge",
+      "coordinates": {
+        "latitude": 46.761323,
+        "longitude": -84.9646745
+      },
+      "occurrence": {
+        "rate": 0.0178,
+        "lift": 0.22,
+        "detection_count": 21,
+        "total_checklists": 1178,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.4,
+        "max_count": 18
+      },
+      "seasonal": {
+        "spring": 0.0122,
+        "summer": 0.0284,
+        "fall": 0.0237,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.02,
+        "6": 0.0291,
+        "7": 0.0263,
+        "8": 0.0385,
+        "9": 0.042,
+        "10": 0.0203,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L3957866",
+      "name": "Point Iroquois Light Station",
+      "coordinates": {
+        "latitude": 46.483851,
+        "longitude": -84.631623
+      },
+      "occurrence": {
+        "rate": 0.0154,
+        "lift": 0.19,
+        "detection_count": 2,
+        "total_checklists": 130,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0133,
+        "summer": 0.0,
+        "fall": 0.0323,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.0147,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.1,
+        "9": 0.0,
+        "10": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L3594049",
+      "name": "Paradise",
+      "coordinates": {
+        "latitude": 46.6269243,
+        "longitude": -85.0374627
+      },
+      "occurrence": {
+        "rate": 0.0049,
+        "lift": 0.06,
+        "detection_count": 1,
+        "total_checklists": 205,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0141,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0345,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L612041",
+      "name": "Tahquamenon River Mouth",
+      "coordinates": {
+        "latitude": 46.5549281,
+        "longitude": -85.0312936
+      },
+      "occurrence": {
+        "rate": 0.0042,
+        "lift": 0.05,
+        "detection_count": 6,
+        "total_checklists": 1415,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.0,
+        "max_count": 17
+      },
+      "seasonal": {
+        "spring": 0.0011,
+        "summer": 0.0,
+        "fall": 0.0148,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0027,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0253,
+        "10": 0.0,
+        "11": 0.0349,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L4529991",
+      "name": "Tahquamenon Falls Rivermouth SP",
+      "coordinates": {
+        "latitude": 46.5595123,
+        "longitude": -85.0375971
+      },
+      "occurrence": {
+        "rate": 0.0017,
+        "lift": 0.02,
+        "detection_count": 1,
+        "total_checklists": 574,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0056
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0116,
+        "10": 0.0,
+        "11": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:02.938628Z",
+    "data_version": "Dec-2025"
+  }
+}

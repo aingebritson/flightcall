@@ -1,0 +1,2040 @@
+{
+  "species": {
+    "common_name": "Double-crested Cormorant",
+    "code": "doucor",
+    "scientific_name": "Nannopterum auritum"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.1453,
+    "total_detections": 6492,
+    "total_checklists_with_species": 6507,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 64
+  },
+  "summary": {
+    "total_hotspots_detected": 57,
+    "total_detections": 6492,
+    "highest_occurrence_rate": 0.8235
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L4943204",
+      "name": "De Tour Village boat access site",
+      "coordinates": {
+        "latitude": 45.993918,
+        "longitude": -83.899511
+      },
+      "occurrence": {
+        "rate": 0.8235,
+        "lift": 5.67,
+        "detection_count": 14,
+        "total_checklists": 17,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 9
+      },
+      "seasonal": {
+        "spring": 0.8571,
+        "summer": 0.8333
+      },
+      "monthly": {
+        "5": 1.0,
+        "6": 0.75,
+        "8": 0.6667
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1095861",
+      "name": "Harbor Island NWR",
+      "coordinates": {
+        "latitude": 46.0607975,
+        "longitude": -83.756413
+      },
+      "occurrence": {
+        "rate": 0.6111,
+        "lift": 4.2,
+        "detection_count": 22,
+        "total_checklists": 36,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 38.6,
+        "max_count": 267
+      },
+      "seasonal": {
+        "spring": 0.8,
+        "summer": 0.6667,
+        "fall": 0.4615
+      },
+      "monthly": {
+        "5": 0.8,
+        "6": 0.5,
+        "7": 0.7143,
+        "8": 0.4286,
+        "9": 0.5
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L28826943",
+      "name": "Soo Locks Park and Visitor Center",
+      "coordinates": {
+        "latitude": 46.5016675,
+        "longitude": -84.3491693
+      },
+      "occurrence": {
+        "rate": 0.5763,
+        "lift": 3.97,
+        "detection_count": 34,
+        "total_checklists": 59,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 3.1,
+        "max_count": 19
+      },
+      "seasonal": {
+        "spring": 0.3636,
+        "summer": 0.5833,
+        "fall": 0.6957
+      },
+      "monthly": {
+        "5": 0.4286,
+        "6": 0.4286,
+        "7": 0.8,
+        "8": 0.5833,
+        "9": 0.9
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L4895346",
+      "name": "Neebish Island (general)",
+      "coordinates": {
+        "latitude": 46.2805013,
+        "longitude": -84.1560686
+      },
+      "occurrence": {
+        "rate": 0.4628,
+        "lift": 3.18,
+        "detection_count": 56,
+        "total_checklists": 121,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 23.3,
+        "max_count": 470
+      },
+      "seasonal": {
+        "spring": 0.5,
+        "summer": 0.6471,
+        "fall": 0.5814,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "5": 0.6,
+        "6": 0.5,
+        "7": 0.8125,
+        "8": 0.6571,
+        "10": 0.5,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L7885241",
+      "name": "De Tour State Harbor",
+      "coordinates": {
+        "latitude": 45.99856,
+        "longitude": -83.900594
+      },
+      "occurrence": {
+        "rate": 0.4444,
+        "lift": 3.06,
+        "detection_count": 8,
+        "total_checklists": 18,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 7.4,
+        "max_count": 42
+      },
+      "seasonal": {
+        "spring": 0.4,
+        "summer": 0.8,
+        "winter": 0.0
+      },
+      "monthly": {
+        "6": 1.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L5721689",
+      "name": "Munuscong WMA--South Trail",
+      "coordinates": {
+        "latitude": 46.1945686,
+        "longitude": -84.2695767
+      },
+      "occurrence": {
+        "rate": 0.4318,
+        "lift": 2.97,
+        "detection_count": 19,
+        "total_checklists": 44,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 6.1,
+        "max_count": 34
+      },
+      "seasonal": {
+        "spring": 0.4571,
+        "fall": 0.4
+      },
+      "monthly": {
+        "4": 0.5714,
+        "5": 0.4286,
+        "6": 0.3333,
+        "8": 0.6667
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L612041",
+      "name": "Tahquamenon River Mouth",
+      "coordinates": {
+        "latitude": 46.5549281,
+        "longitude": -85.0312936
+      },
+      "occurrence": {
+        "rate": 0.4092,
+        "lift": 2.82,
+        "detection_count": 579,
+        "total_checklists": 1415,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 18.3,
+        "max_count": 250
+      },
+      "seasonal": {
+        "spring": 0.5667,
+        "summer": 0.1212,
+        "fall": 0.1834,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0208,
+        "4": 0.7042,
+        "5": 0.4707,
+        "6": 0.1406,
+        "7": 0.0541,
+        "8": 0.2973,
+        "9": 0.3797,
+        "10": 0.0808,
+        "11": 0.0233,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L3972115",
+      "name": "Ashmun Bay Park--boat launch",
+      "coordinates": {
+        "latitude": 46.4988025,
+        "longitude": -84.3749202
+      },
+      "occurrence": {
+        "rate": 0.3782,
+        "lift": 2.6,
+        "detection_count": 219,
+        "total_checklists": 579,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 9.7,
+        "max_count": 50
+      },
+      "seasonal": {
+        "spring": 0.4068,
+        "summer": 0.5833,
+        "fall": 0.655,
+        "winter": 0.0112
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.087,
+        "4": 0.35,
+        "5": 0.6481,
+        "6": 0.5,
+        "7": 0.75,
+        "8": 0.7143,
+        "9": 0.8088,
+        "10": 0.8148,
+        "11": 0.0556,
+        "12": 0.1538
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L3045425",
+      "name": "Brimley SP",
+      "coordinates": {
+        "latitude": 46.4137403,
+        "longitude": -84.5555449
+      },
+      "occurrence": {
+        "rate": 0.3391,
+        "lift": 2.33,
+        "detection_count": 59,
+        "total_checklists": 174,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 8.8,
+        "max_count": 212
+      },
+      "seasonal": {
+        "spring": 0.5806,
+        "summer": 0.2292,
+        "fall": 0.3297
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.4,
+        "5": 0.6957,
+        "6": 0.28,
+        "7": 0.1739,
+        "8": 0.3966,
+        "9": 0.2857,
+        "10": 0.2,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L1542347",
+      "name": "Munuscong WMA--Munuscong River mouth",
+      "coordinates": {
+        "latitude": 46.2115331,
+        "longitude": -84.2635304
+      },
+      "occurrence": {
+        "rate": 0.3389,
+        "lift": 2.33,
+        "detection_count": 142,
+        "total_checklists": 419,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.1,
+        "max_count": 48
+      },
+      "seasonal": {
+        "spring": 0.4511,
+        "summer": 0.2935,
+        "fall": 0.098
+      },
+      "monthly": {
+        "4": 0.4737,
+        "5": 0.4512,
+        "6": 0.3309,
+        "7": 0.1875,
+        "8": 0.1667,
+        "9": 0.0909,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L3957866",
+      "name": "Point Iroquois Light Station",
+      "coordinates": {
+        "latitude": 46.483851,
+        "longitude": -84.631623
+      },
+      "occurrence": {
+        "rate": 0.2846,
+        "lift": 1.96,
+        "detection_count": 37,
+        "total_checklists": 130,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.2,
+        "max_count": 16
+      },
+      "seasonal": {
+        "spring": 0.3067,
+        "summer": 0.3125,
+        "fall": 0.2903,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.3382,
+        "6": 0.1667,
+        "7": 0.4,
+        "8": 0.4,
+        "9": 0.3333,
+        "10": 0.1667,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L1542166",
+      "name": "De Tour SF CG",
+      "coordinates": {
+        "latitude": 45.9591145,
+        "longitude": -84.0083852
+      },
+      "occurrence": {
+        "rate": 0.2745,
+        "lift": 1.89,
+        "detection_count": 14,
+        "total_checklists": 51,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 6.6,
+        "max_count": 20
+      },
+      "seasonal": {
+        "spring": 0.1852,
+        "summer": 0.2308,
+        "fall": 0.5455
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.2083,
+        "6": 0.2727,
+        "8": 0.6,
+        "9": 0.6
+      }
+    },
+    {
+      "rank": 13,
+      "locality_id": "L956899",
+      "name": "Whitefish Point--Harbor of Refuge",
+      "coordinates": {
+        "latitude": 46.761323,
+        "longitude": -84.9646745
+      },
+      "occurrence": {
+        "rate": 0.2632,
+        "lift": 1.81,
+        "detection_count": 310,
+        "total_checklists": 1178,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.0,
+        "max_count": 40
+      },
+      "seasonal": {
+        "spring": 0.2433,
+        "summer": 0.1986,
+        "fall": 0.3597,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.031,
+        "5": 0.384,
+        "6": 0.1165,
+        "7": 0.4211,
+        "8": 0.7949,
+        "9": 0.7143,
+        "10": 0.1777,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 14,
+      "locality_id": "L4646623",
+      "name": "Munuscong WMA--overlook",
+      "coordinates": {
+        "latitude": 46.2044275,
+        "longitude": -84.2691864
+      },
+      "occurrence": {
+        "rate": 0.2529,
+        "lift": 1.74,
+        "detection_count": 65,
+        "total_checklists": 257,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.1,
+        "max_count": 40
+      },
+      "seasonal": {
+        "spring": 0.4205,
+        "summer": 0.1985,
+        "fall": 0.0526
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.52,
+        "5": 0.4211,
+        "6": 0.1961,
+        "7": 0.2069,
+        "8": 0.0952,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 15,
+      "locality_id": "L16386088",
+      "name": "Neebish Ferry Landing",
+      "coordinates": {
+        "latitude": 46.2841961,
+        "longitude": -84.2135718
+      },
+      "occurrence": {
+        "rate": 0.2358,
+        "lift": 1.62,
+        "detection_count": 25,
+        "total_checklists": 106,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.7,
+        "max_count": 25
+      },
+      "seasonal": {
+        "spring": 0.1739,
+        "summer": 0.3529,
+        "fall": 0.3659,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "5": 0.4,
+        "6": 0.3333,
+        "7": 0.375,
+        "8": 0.5882,
+        "9": 0.3846,
+        "10": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 16,
+      "locality_id": "L140452",
+      "name": "Whitefish Point",
+      "coordinates": {
+        "latitude": 46.7706876,
+        "longitude": -84.9569493
+      },
+      "occurrence": {
+        "rate": 0.2303,
+        "lift": 1.58,
+        "detection_count": 4285,
+        "total_checklists": 18603,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.0,
+        "max_count": 150
+      },
+      "seasonal": {
+        "spring": 0.2074,
+        "summer": 0.199,
+        "fall": 0.2702,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.1079,
+        "5": 0.3024,
+        "6": 0.2029,
+        "7": 0.1924,
+        "8": 0.6115,
+        "9": 0.4366,
+        "10": 0.0778,
+        "11": 0.0102,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 17,
+      "locality_id": "L4048435",
+      "name": "Aune-Osborn CG",
+      "coordinates": {
+        "latitude": 46.4885352,
+        "longitude": -84.3102193
+      },
+      "occurrence": {
+        "rate": 0.2243,
+        "lift": 1.54,
+        "detection_count": 24,
+        "total_checklists": 107,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 16.5,
+        "max_count": 90
+      },
+      "seasonal": {
+        "spring": 0.2439,
+        "summer": 0.7273,
+        "fall": 0.5455,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.4444,
+        "5": 0.6,
+        "6": 0.75,
+        "7": 0.7143,
+        "8": 1.0,
+        "9": 0.75,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 18,
+      "locality_id": "L4932121",
+      "name": "Maxton Bay boat launch",
+      "coordinates": {
+        "latitude": 46.0404121,
+        "longitude": -83.6797929
+      },
+      "occurrence": {
+        "rate": 0.2222,
+        "lift": 1.53,
+        "detection_count": 4,
+        "total_checklists": 18,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "summer": 0.4,
+        "fall": 0.0909
+      },
+      "monthly": {
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.2
+      }
+    },
+    {
+      "rank": 19,
+      "locality_id": "L4529991",
+      "name": "Tahquamenon Falls Rivermouth SP",
+      "coordinates": {
+        "latitude": 46.5595123,
+        "longitude": -85.0375971
+      },
+      "occurrence": {
+        "rate": 0.2056,
+        "lift": 1.41,
+        "detection_count": 118,
+        "total_checklists": 574,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.8,
+        "max_count": 60
+      },
+      "seasonal": {
+        "spring": 0.2982,
+        "summer": 0.0283,
+        "fall": 0.1676
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.4054,
+        "5": 0.2619,
+        "6": 0.0149,
+        "7": 0.0513,
+        "8": 0.1923,
+        "9": 0.2093,
+        "10": 0.0769,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 20,
+      "locality_id": "L3972112",
+      "name": "Brady Park",
+      "coordinates": {
+        "latitude": 46.5004555,
+        "longitude": -84.3401366
+      },
+      "occurrence": {
+        "rate": 0.1667,
+        "lift": 1.15,
+        "detection_count": 15,
+        "total_checklists": 90,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 8.9,
+        "max_count": 99
+      },
+      "seasonal": {
+        "spring": 0.1333,
+        "summer": 0.3846,
+        "fall": 0.4211,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.1429,
+        "5": 0.125,
+        "6": 0.375,
+        "7": 0.4,
+        "8": 0.4,
+        "9": 0.5714,
+        "10": 0.4,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 21,
+      "locality_id": "L4961294",
+      "name": "Big Pines Day Use Area",
+      "coordinates": {
+        "latitude": 46.455401,
+        "longitude": -84.75887
+      },
+      "occurrence": {
+        "rate": 0.1667,
+        "lift": 1.15,
+        "detection_count": 3,
+        "total_checklists": 18,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.3,
+        "max_count": 2
+      },
+      "seasonal": {
+        "summer": 0.125,
+        "fall": 0.25
+      },
+      "monthly": {
+        "6": 0.0,
+        "7": 0.3333,
+        "9": 0.0,
+        "10": 0.3333
+      }
+    },
+    {
+      "rank": 22,
+      "locality_id": "L3615357",
+      "name": "Prentiss Bay",
+      "coordinates": {
+        "latitude": 45.9899551,
+        "longitude": -84.2284226
+      },
+      "occurrence": {
+        "rate": 0.1633,
+        "lift": 1.12,
+        "detection_count": 8,
+        "total_checklists": 49,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.125,
+        "summer": 0.1538,
+        "fall": 0.3333
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.2,
+        "6": 0.0909,
+        "7": 0.5,
+        "9": 0.3333
+      }
+    },
+    {
+      "rank": 23,
+      "locality_id": "L3655161",
+      "name": "De Tour Roadside Park",
+      "coordinates": {
+        "latitude": 45.9620096,
+        "longitude": -84.0326428
+      },
+      "occurrence": {
+        "rate": 0.1538,
+        "lift": 1.06,
+        "detection_count": 6,
+        "total_checklists": 39,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 3.5,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.2,
+        "summer": 0.0625,
+        "fall": 0.25
+      },
+      "monthly": {
+        "5": 0.2,
+        "6": 0.0833,
+        "7": 0.0,
+        "9": 0.5,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 24,
+      "locality_id": "L4932117",
+      "name": "Pigeon Cove flooding",
+      "coordinates": {
+        "latitude": 45.9809646,
+        "longitude": -83.8104326
+      },
+      "occurrence": {
+        "rate": 0.1304,
+        "lift": 0.9,
+        "detection_count": 3,
+        "total_checklists": 23,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 7.0,
+        "max_count": 10
+      },
+      "seasonal": {
+        "summer": 0.0769,
+        "fall": 0.25
+      },
+      "monthly": {
+        "7": 0.0909,
+        "8": 0.5,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 25,
+      "locality_id": "L576768",
+      "name": "end of Rosedale Rd.",
+      "coordinates": {
+        "latitude": 46.376662,
+        "longitude": -84.2460823
+      },
+      "occurrence": {
+        "rate": 0.125,
+        "lift": 0.86,
+        "detection_count": 5,
+        "total_checklists": 40,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.6,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.2857,
+        "summer": 0.1111,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.8,
+        "6": 0.1667,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 26,
+      "locality_id": "L3946059",
+      "name": "Kemps Point",
+      "coordinates": {
+        "latitude": 46.2414455,
+        "longitude": -84.1816945
+      },
+      "occurrence": {
+        "rate": 0.125,
+        "lift": 0.86,
+        "detection_count": 4,
+        "total_checklists": 32,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 14.8,
+        "max_count": 55
+      },
+      "seasonal": {
+        "spring": 0.1429,
+        "summer": 0.1,
+        "fall": 0.1667
+      },
+      "monthly": {
+        "3": 0.0,
+        "5": 0.3333,
+        "6": 0.0,
+        "7": 0.1667,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 27,
+      "locality_id": "L7435332",
+      "name": "Soldier Lake CG",
+      "coordinates": {
+        "latitude": 46.3506712,
+        "longitude": -84.868395
+      },
+      "occurrence": {
+        "rate": 0.125,
+        "lift": 0.86,
+        "detection_count": 2,
+        "total_checklists": 16,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "summer": 0.0,
+        "fall": 0.3333
+      },
+      "monthly": {
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.4
+      }
+    },
+    {
+      "rank": 28,
+      "locality_id": "L1918216",
+      "name": "Sugar Island Ferry Dock",
+      "coordinates": {
+        "latitude": 46.4856139,
+        "longitude": -84.3013144
+      },
+      "occurrence": {
+        "rate": 0.1034,
+        "lift": 0.71,
+        "detection_count": 86,
+        "total_checklists": 832,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 13.1,
+        "max_count": 100
+      },
+      "seasonal": {
+        "spring": 0.3306,
+        "summer": 0.7778,
+        "fall": 0.3582,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0377,
+        "4": 0.2895,
+        "5": 0.8485,
+        "6": 0.9167,
+        "7": 0.6667,
+        "8": 0.4286,
+        "9": 0.8125,
+        "10": 0.381,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 29,
+      "locality_id": "L1542319",
+      "name": "Cranberry Lake",
+      "coordinates": {
+        "latitude": 45.9767373,
+        "longitude": -84.0086957
+      },
+      "occurrence": {
+        "rate": 0.1,
+        "lift": 0.69,
+        "detection_count": 1,
+        "total_checklists": 10,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0
+      },
+      "monthly": {
+        "5": 0.0
+      }
+    },
+    {
+      "rank": 30,
+      "locality_id": "L612034",
+      "name": "Shelldrake Campground area",
+      "coordinates": {
+        "latitude": 46.7121783,
+        "longitude": -85.0650358
+      },
+      "occurrence": {
+        "rate": 0.0969,
+        "lift": 0.67,
+        "detection_count": 34,
+        "total_checklists": 351,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.1,
+        "summer": 0.0676,
+        "fall": 0.1103
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.1239,
+        "6": 0.0758,
+        "7": 0.0,
+        "8": 0.16,
+        "9": 0.2381,
+        "10": 0.0845,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 31,
+      "locality_id": "L775794",
+      "name": "Tahquamenon--Lone Pine Rd.",
+      "coordinates": {
+        "latitude": 46.541034,
+        "longitude": -85.0408959
+      },
+      "occurrence": {
+        "rate": 0.09,
+        "lift": 0.62,
+        "detection_count": 26,
+        "total_checklists": 289,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 7.8,
+        "max_count": 100
+      },
+      "seasonal": {
+        "spring": 0.0549,
+        "summer": 0.0,
+        "fall": 0.1382,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.05,
+        "5": 0.0615,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.1429,
+        "9": 0.1389,
+        "10": 0.1791,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 32,
+      "locality_id": "L861963",
+      "name": "Tahquamenon Falls SP--Clark Lake Trail",
+      "coordinates": {
+        "latitude": 46.60999,
+        "longitude": -85.2263063
+      },
+      "occurrence": {
+        "rate": 0.0619,
+        "lift": 0.43,
+        "detection_count": 13,
+        "total_checklists": 210,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0833,
+        "summer": 0.0267,
+        "fall": 0.0833
+      },
+      "monthly": {
+        "2": 0.0,
+        "4": 0.0,
+        "5": 0.0938,
+        "6": 0.0408,
+        "7": 0.0,
+        "8": 0.0435,
+        "9": 0.1364,
+        "10": 0.0909,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 33,
+      "locality_id": "L3957890",
+      "name": "Algonquin Cross-Country Ski Trail",
+      "coordinates": {
+        "latitude": 46.4762415,
+        "longitude": -84.4231725
+      },
+      "occurrence": {
+        "rate": 0.0617,
+        "lift": 0.42,
+        "detection_count": 5,
+        "total_checklists": 81,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 3.2,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.0732,
+        "summer": 0.1818,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.15,
+        "6": 0.0,
+        "7": 0.4,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 34,
+      "locality_id": "L1594299",
+      "name": "Maxton Plains",
+      "coordinates": {
+        "latitude": 46.0745566,
+        "longitude": -83.661573
+      },
+      "occurrence": {
+        "rate": 0.06,
+        "lift": 0.41,
+        "detection_count": 6,
+        "total_checklists": 100,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.7,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.1613,
+        "fall": 0.0238
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.1176,
+        "7": 0.2143,
+        "8": 0.0,
+        "9": 0.0769,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 35,
+      "locality_id": "L31748956",
+      "name": "Munuscong SF--Campground",
+      "coordinates": {
+        "latitude": 46.2132787,
+        "longitude": -84.2806721
+      },
+      "occurrence": {
+        "rate": 0.0588,
+        "lift": 0.4,
+        "detection_count": 1,
+        "total_checklists": 17,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0833,
+        "summer": 0.0
+      },
+      "monthly": {
+        "5": 0.0833,
+        "6": 0.0
+      }
+    },
+    {
+      "rank": 36,
+      "locality_id": "L3747154",
+      "name": "De Tour Peninsula Nature Preserve",
+      "coordinates": {
+        "latitude": 45.970497,
+        "longitude": -83.914367
+      },
+      "occurrence": {
+        "rate": 0.0556,
+        "lift": 0.38,
+        "detection_count": 1,
+        "total_checklists": 18,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.125,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.1667
+      }
+    },
+    {
+      "rank": 37,
+      "locality_id": "L3594049",
+      "name": "Paradise",
+      "coordinates": {
+        "latitude": 46.6269243,
+        "longitude": -85.0374627
+      },
+      "occurrence": {
+        "rate": 0.0537,
+        "lift": 0.37,
+        "detection_count": 11,
+        "total_checklists": 205,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0533,
+        "summer": 0.1538,
+        "fall": 0.0423,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0417,
+        "5": 0.06,
+        "6": 0.0,
+        "7": 0.2857,
+        "8": 0.0667,
+        "9": 0.1176,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 38,
+      "locality_id": "L1594293",
+      "name": "Potagannissing Wildlife Flooding",
+      "coordinates": {
+        "latitude": 46.0415378,
+        "longitude": -83.6547655
+      },
+      "occurrence": {
+        "rate": 0.05,
+        "lift": 0.34,
+        "detection_count": 3,
+        "total_checklists": 60,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.125,
+        "summer": 0.0625,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.25,
+        "6": 0.2,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 39,
+      "locality_id": "L827667",
+      "name": "Edison Sault Power Plant",
+      "coordinates": {
+        "latitude": 46.4966788,
+        "longitude": -84.3290377
+      },
+      "occurrence": {
+        "rate": 0.0498,
+        "lift": 0.34,
+        "detection_count": 40,
+        "total_checklists": 804,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.8,
+        "max_count": 25
+      },
+      "seasonal": {
+        "spring": 0.1538,
+        "summer": 0.8824,
+        "fall": 0.2826,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0189,
+        "4": 0.2941,
+        "5": 0.75,
+        "6": 0.9167,
+        "7": 0.8,
+        "9": 0.4615,
+        "10": 0.375,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 40,
+      "locality_id": "L326995",
+      "name": "Tahquamenon Falls SP (Chippewa Co.)",
+      "coordinates": {
+        "latitude": 46.6017722,
+        "longitude": -85.2040083
+      },
+      "occurrence": {
+        "rate": 0.0455,
+        "lift": 0.31,
+        "detection_count": 18,
+        "total_checklists": 396,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0756,
+        "summer": 0.0076,
+        "fall": 0.0656,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.1,
+        "5": 0.0722,
+        "6": 0.0108,
+        "7": 0.0,
+        "8": 0.1429,
+        "9": 0.0,
+        "10": 0.0465,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 41,
+      "locality_id": "L887532",
+      "name": "Vermillion Point Nature Preserve",
+      "coordinates": {
+        "latitude": 46.76259,
+        "longitude": -85.1481414
+      },
+      "occurrence": {
+        "rate": 0.0405,
+        "lift": 0.28,
+        "detection_count": 14,
+        "total_checklists": 346,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.0,
+        "max_count": 32
+      },
+      "seasonal": {
+        "spring": 0.0565,
+        "summer": 0.018,
+        "fall": 0.0467
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0631,
+        "6": 0.0225,
+        "7": 0.0,
+        "8": 0.1905,
+        "9": 0.0,
+        "10": 0.0196,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 42,
+      "locality_id": "L1596154",
+      "name": "Sugar Island",
+      "coordinates": {
+        "latitude": 46.4836142,
+        "longitude": -84.2717029
+      },
+      "occurrence": {
+        "rate": 0.04,
+        "lift": 0.28,
+        "detection_count": 3,
+        "total_checklists": 75,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 3.3,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.1111,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "6": 0.3333,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 43,
+      "locality_id": "L3972100",
+      "name": "Sault Ste. Marie Municipal Marina",
+      "coordinates": {
+        "latitude": 46.4691837,
+        "longitude": -84.2985597
+      },
+      "occurrence": {
+        "rate": 0.0388,
+        "lift": 0.27,
+        "detection_count": 5,
+        "total_checklists": 129,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.1111,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.3846,
+        "7": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 44,
+      "locality_id": "L609952",
+      "name": "Tahquamenon Falls SP--Lower Falls",
+      "coordinates": {
+        "latitude": 46.6019,
+        "longitude": -85.19768
+      },
+      "occurrence": {
+        "rate": 0.035,
+        "lift": 0.24,
+        "detection_count": 18,
+        "total_checklists": 515,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0629,
+        "summer": 0.0227,
+        "fall": 0.027,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0746,
+        "6": 0.0,
+        "7": 0.0588,
+        "8": 0.0,
+        "9": 0.0889,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 45,
+      "locality_id": "L653089",
+      "name": "Dunbar Forest",
+      "coordinates": {
+        "latitude": 46.3199038,
+        "longitude": -84.2263842
+      },
+      "occurrence": {
+        "rate": 0.0347,
+        "lift": 0.24,
+        "detection_count": 54,
+        "total_checklists": 1555,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 8.2,
+        "max_count": 250
+      },
+      "seasonal": {
+        "spring": 0.1127,
+        "summer": 0.7,
+        "fall": 0.1301,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.1829,
+        "5": 0.45,
+        "6": 0.75,
+        "7": 0.6667,
+        "8": 0.4667,
+        "9": 0.2857,
+        "10": 0.0811,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 46,
+      "locality_id": "L609946",
+      "name": "Andrus Lake CG",
+      "coordinates": {
+        "latitude": 46.7034,
+        "longitude": -85.03778
+      },
+      "occurrence": {
+        "rate": 0.0309,
+        "lift": 0.21,
+        "detection_count": 11,
+        "total_checklists": 356,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0482,
+        "summer": 0.0,
+        "fall": 0.0221
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0625,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0278,
+        "9": 0.0426,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 47,
+      "locality_id": "L4051424",
+      "name": "Round Island Point Nature Preserve",
+      "coordinates": {
+        "latitude": 46.426889,
+        "longitude": -84.4955599
+      },
+      "occurrence": {
+        "rate": 0.0256,
+        "lift": 0.18,
+        "detection_count": 1,
+        "total_checklists": 39,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0909,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.2,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 48,
+      "locality_id": "L1563473",
+      "name": "Monocle Lake Campground",
+      "coordinates": {
+        "latitude": 46.468201,
+        "longitude": -84.641304
+      },
+      "occurrence": {
+        "rate": 0.0238,
+        "lift": 0.16,
+        "detection_count": 1,
+        "total_checklists": 42,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0833,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.1,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 49,
+      "locality_id": "L1640836",
+      "name": "Munuscong WMA (Munuscong Potholes)",
+      "coordinates": {
+        "latitude": 46.1874469,
+        "longitude": -84.3106817
+      },
+      "occurrence": {
+        "rate": 0.0177,
+        "lift": 0.12,
+        "detection_count": 30,
+        "total_checklists": 1694,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.3,
+        "max_count": 20
+      },
+      "seasonal": {
+        "spring": 0.0166,
+        "summer": 0.0208,
+        "fall": 0.0236,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.013,
+        "5": 0.0189,
+        "6": 0.0243,
+        "7": 0.0104,
+        "8": 0.0312,
+        "9": 0.0125,
+        "10": 0.0303,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 50,
+      "locality_id": "L1027804",
+      "name": "Vermillion Road--The Slab",
+      "coordinates": {
+        "latitude": 46.7083786,
+        "longitude": -85.0446457
+      },
+      "occurrence": {
+        "rate": 0.0126,
+        "lift": 0.09,
+        "detection_count": 8,
+        "total_checklists": 637,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.1,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0115,
+        "summer": 0.0,
+        "fall": 0.0263,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0178,
+        "5": 0.006,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0588,
+        "9": 0.0435,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 51,
+      "locality_id": "L389791",
+      "name": "Hulbert Bog",
+      "coordinates": {
+        "latitude": 46.3179921,
+        "longitude": -85.1598573
+      },
+      "occurrence": {
+        "rate": 0.0091,
+        "lift": 0.06,
+        "detection_count": 11,
+        "total_checklists": 1207,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0118,
+        "summer": 0.0221,
+        "fall": 0.0338,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0323,
+        "6": 0.0197,
+        "7": 0.0345,
+        "8": 0.0833,
+        "9": 0.0,
+        "10": 0.0727,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 52,
+      "locality_id": "L1596803",
+      "name": "Vermilion Rd.",
+      "coordinates": {
+        "latitude": 46.7372473,
+        "longitude": -85.0783129
+      },
+      "occurrence": {
+        "rate": 0.0073,
+        "lift": 0.05,
+        "detection_count": 3,
+        "total_checklists": 413,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.3,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0065,
+        "summer": 0.0,
+        "fall": 0.0143,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0105,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0588,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 53,
+      "locality_id": "L579085",
+      "name": "Forest Road 3344",
+      "coordinates": {
+        "latitude": 46.2237012,
+        "longitude": -85.0449085
+      },
+      "occurrence": {
+        "rate": 0.0055,
+        "lift": 0.04,
+        "detection_count": 3,
+        "total_checklists": 548,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0083,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0099,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 54,
+      "locality_id": "L2154495",
+      "name": "Wild Cat Rd.",
+      "coordinates": {
+        "latitude": 46.7544756,
+        "longitude": -84.982574
+      },
+      "occurrence": {
+        "rate": 0.0048,
+        "lift": 0.03,
+        "detection_count": 1,
+        "total_checklists": 207,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0141
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0476,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 55,
+      "locality_id": "L4080414",
+      "name": "Lake Superior State University campus",
+      "coordinates": {
+        "latitude": 46.4927199,
+        "longitude": -84.3627745
+      },
+      "occurrence": {
+        "rate": 0.0033,
+        "lift": 0.02,
+        "detection_count": 1,
+        "total_checklists": 303,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0137,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0323,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "9": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 56,
+      "locality_id": "L576775",
+      "name": "Farm Truck Trail",
+      "coordinates": {
+        "latitude": 46.6448947,
+        "longitude": -85.1347904
+      },
+      "occurrence": {
+        "rate": 0.0031,
+        "lift": 0.02,
+        "detection_count": 2,
+        "total_checklists": 648,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0106,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.069,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 57,
+      "locality_id": "L834272",
+      "name": "Rudyard Loop--Northeast",
+      "coordinates": {
+        "latitude": 46.2303329,
+        "longitude": -84.5510334
+      },
+      "occurrence": {
+        "rate": 0.0007,
+        "lift": 0.0,
+        "detection_count": 1,
+        "total_checklists": 1432,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0169,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.25,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:02.951859Z",
+    "data_version": "Dec-2025"
+  }
+}

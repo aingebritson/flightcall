@@ -1,0 +1,173 @@
+{
+  "species": {
+    "common_name": "Ring-necked Pheasant",
+    "code": "rinphe",
+    "scientific_name": "Phasianus colchicus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0008,
+    "total_detections": 36,
+    "total_checklists_with_species": 36,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 4
+  },
+  "summary": {
+    "total_hotspots_detected": 4,
+    "total_detections": 36,
+    "highest_occurrence_rate": 0.0227
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L2595563",
+      "name": "M-48 fields (129 to Pennington)",
+      "coordinates": {
+        "latitude": 46.128215,
+        "longitude": -84.332418
+      },
+      "occurrence": {
+        "rate": 0.0227,
+        "lift": 28.27,
+        "detection_count": 1,
+        "total_checklists": 44,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "fall": 0.0,
+        "winter": 0.0435
+      },
+      "monthly": {
+        "1": 0.0769,
+        "2": 0.0,
+        "4": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L5421878",
+      "name": "Pickford (Chippewa Co.)",
+      "coordinates": {
+        "latitude": 46.1617941,
+        "longitude": -84.3565798
+      },
+      "occurrence": {
+        "rate": 0.0186,
+        "lift": 23.14,
+        "detection_count": 8,
+        "total_checklists": 430,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0234
+      },
+      "monthly": {
+        "1": 0.0361,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "12": 0.0769
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L1640836",
+      "name": "Munuscong WMA (Munuscong Potholes)",
+      "coordinates": {
+        "latitude": 46.1874469,
+        "longitude": -84.3106817
+      },
+      "occurrence": {
+        "rate": 0.0142,
+        "lift": 17.62,
+        "detection_count": 24,
+        "total_checklists": 1694,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.3,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0166,
+        "summer": 0.0104,
+        "fall": 0.0197,
+        "winter": 0.016
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.019,
+        "3": 0.1111,
+        "4": 0.013,
+        "5": 0.0081,
+        "6": 0.0121,
+        "7": 0.0052,
+        "8": 0.0312,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0769,
+        "12": 0.0345
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L653089",
+      "name": "Dunbar Forest",
+      "coordinates": {
+        "latitude": 46.3199038,
+        "longitude": -84.2263842
+      },
+      "occurrence": {
+        "rate": 0.0019,
+        "lift": 2.4,
+        "detection_count": 3,
+        "total_checklists": 1555,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0047,
+        "summer": 0.0,
+        "fall": 0.0163,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.05,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.1333,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:03.026778Z",
+    "data_version": "Dec-2025"
+  }
+}

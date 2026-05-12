@@ -1,0 +1,176 @@
+{
+  "species": {
+    "common_name": "Lesser Black-backed Gull",
+    "code": "lesgul",
+    "scientific_name": "Larus fuscus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0027,
+    "total_detections": 121,
+    "total_checklists_with_species": 121,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 4
+  },
+  "summary": {
+    "total_hotspots_detected": 4,
+    "total_detections": 121,
+    "highest_occurrence_rate": 0.0152
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L844776",
+      "name": "Dafter Dump",
+      "coordinates": {
+        "latitude": 46.3341656,
+        "longitude": -84.4451183
+      },
+      "occurrence": {
+        "rate": 0.0152,
+        "lift": 5.62,
+        "detection_count": 17,
+        "total_checklists": 1120,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.3,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0556,
+        "fall": 0.0563,
+        "winter": 0.0092
+      },
+      "monthly": {
+        "1": 0.0251,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.25,
+        "9": 0.0,
+        "10": 0.1333,
+        "11": 0.0385,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1917339",
+      "name": "S. Centerline Rd.",
+      "coordinates": {
+        "latitude": 46.2608317,
+        "longitude": -84.5718098
+      },
+      "occurrence": {
+        "rate": 0.0082,
+        "lift": 3.02,
+        "detection_count": 2,
+        "total_checklists": 245,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0392,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.087,
+        "5": 0.0,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L956899",
+      "name": "Whitefish Point--Harbor of Refuge",
+      "coordinates": {
+        "latitude": 46.761323,
+        "longitude": -84.9646745
+      },
+      "occurrence": {
+        "rate": 0.0076,
+        "lift": 2.83,
+        "detection_count": 9,
+        "total_checklists": 1178,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0024,
+        "summer": 0.0,
+        "fall": 0.0158,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.004,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0406,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L140452",
+      "name": "Whitefish Point",
+      "coordinates": {
+        "latitude": 46.7706876,
+        "longitude": -84.9569493
+      },
+      "occurrence": {
+        "rate": 0.005,
+        "lift": 1.85,
+        "detection_count": 93,
+        "total_checklists": 18603,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0065,
+        "summer": 0.0013,
+        "fall": 0.0044,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0032,
+        "5": 0.0096,
+        "6": 0.001,
+        "7": 0.0017,
+        "8": 0.0023,
+        "9": 0.0055,
+        "10": 0.0038,
+        "11": 0.0056,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:03.021509Z",
+    "data_version": "Dec-2025"
+  }
+}

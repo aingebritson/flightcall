@@ -1,0 +1,65 @@
+{
+  "species": {
+    "common_name": "Hudsonian Godwit",
+    "code": "hudgod",
+    "scientific_name": "Limosa haemastica"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0008,
+    "total_detections": 34,
+    "total_checklists_with_species": 34,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 34,
+    "highest_occurrence_rate": 0.0018
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L140452",
+      "name": "Whitefish Point",
+      "coordinates": {
+        "latitude": 46.7706876,
+        "longitude": -84.9569493
+      },
+      "occurrence": {
+        "rate": 0.0018,
+        "lift": 2.41,
+        "detection_count": 34,
+        "total_checklists": 18603,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 11.7,
+        "max_count": 128
+      },
+      "seasonal": {
+        "spring": 0.0013,
+        "summer": 0.0,
+        "fall": 0.0028,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0023,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0094,
+        "9": 0.0018,
+        "10": 0.0019,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:03.000524Z",
+    "data_version": "Dec-2025"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "species": {
+    "common_name": "Tropical Kingbird",
+    "code": "trokin",
+    "scientific_name": "Tyrannus melancholicus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0008,
+    "total_detections": 38,
+    "total_checklists_with_species": 38,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 38,
+    "highest_occurrence_rate": 0.8718
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L5024081",
+      "name": "stakeout Tropical Kingbird 932 W. 10 Mile Rd. (2016)",
+      "coordinates": {
+        "latitude": 46.360288,
+        "longitude": -84.383205
+      },
+      "occurrence": {
+        "rate": 0.8718,
+        "lift": 1027.2,
+        "detection_count": 34,
+        "total_checklists": 39,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "fall": 0.9444
+      },
+      "monthly": {
+        "10": 0.9714
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L140452",
+      "name": "Whitefish Point",
+      "coordinates": {
+        "latitude": 46.7706876,
+        "longitude": -84.9569493
+      },
+      "occurrence": {
+        "rate": 0.0002,
+        "lift": 0.25,
+        "detection_count": 4,
+        "total_checklists": 18603,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0005,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0015,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:03.027828Z",
+    "data_version": "Dec-2025"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "species": {
+    "common_name": "Boreal Owl",
+    "code": "borowl",
+    "scientific_name": "Aegolius funereus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0019,
+    "total_detections": 87,
+    "total_checklists_with_species": 87,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 87,
+    "highest_occurrence_rate": 0.0316
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L12348493",
+      "name": "N. Preachers Rd.",
+      "coordinates": {
+        "latitude": 46.6229919,
+        "longitude": -85.1152112
+      },
+      "occurrence": {
+        "rate": 0.0316,
+        "lift": 16.27,
+        "detection_count": 35,
+        "total_checklists": 1107,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.3,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0523,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0772,
+        "11": 0.1368,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L576775",
+      "name": "Farm Truck Trail",
+      "coordinates": {
+        "latitude": 46.6448947,
+        "longitude": -85.1347904
+      },
+      "occurrence": {
+        "rate": 0.0123,
+        "lift": 6.35,
+        "detection_count": 8,
+        "total_checklists": 648,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0423,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0603,
+        "11": 0.0588,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L140452",
+      "name": "Whitefish Point",
+      "coordinates": {
+        "latitude": 46.7706876,
+        "longitude": -84.9569493
+      },
+      "occurrence": {
+        "rate": 0.0024,
+        "lift": 1.22,
+        "detection_count": 44,
+        "total_checklists": 18603,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0019,
+        "summer": 0.0,
+        "fall": 0.0034,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0012,
+        "4": 0.0043,
+        "5": 0.0006,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0004,
+        "10": 0.0085,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:02.880621Z",
+    "data_version": "Dec-2025"
+  }
+}

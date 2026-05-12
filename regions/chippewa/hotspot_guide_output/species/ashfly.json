@@ -1,0 +1,103 @@
+{
+  "species": {
+    "common_name": "Ash-throated Flycatcher",
+    "code": "ashfly",
+    "scientific_name": "Myiarchus cinerascens"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0006,
+    "total_detections": 26,
+    "total_checklists_with_species": 27,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 26,
+    "highest_occurrence_rate": 0.0146
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L3594049",
+      "name": "Paradise",
+      "coordinates": {
+        "latitude": 46.6269243,
+        "longitude": -85.0374627
+      },
+      "occurrence": {
+        "rate": 0.0146,
+        "lift": 24.27,
+        "detection_count": 3,
+        "total_checklists": 205,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0423,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.3
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L140452",
+      "name": "Whitefish Point",
+      "coordinates": {
+        "latitude": 46.7706876,
+        "longitude": -84.9569493
+      },
+      "occurrence": {
+        "rate": 0.0012,
+        "lift": 2.05,
+        "detection_count": 23,
+        "total_checklists": 18603,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0028,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.007,
+        "9": 0.0,
+        "10": 0.0044,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:03.013618Z",
+    "data_version": "Dec-2025"
+  }
+}

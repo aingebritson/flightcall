@@ -1,0 +1,691 @@
+{
+  "species": {
+    "common_name": "Spruce Grouse",
+    "code": "sprgro",
+    "scientific_name": "Canachites canadensis"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0251,
+    "total_detections": 1123,
+    "total_checklists_with_species": 1123,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 18
+  },
+  "summary": {
+    "total_hotspots_detected": 18,
+    "total_detections": 1123,
+    "highest_occurrence_rate": 0.4932
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L12348493",
+      "name": "N. Preachers Rd.",
+      "coordinates": {
+        "latitude": 46.6229919,
+        "longitude": -85.1152112
+      },
+      "occurrence": {
+        "rate": 0.4932,
+        "lift": 19.66,
+        "detection_count": 546,
+        "total_checklists": 1107,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.3,
+        "max_count": 16
+      },
+      "seasonal": {
+        "spring": 0.4,
+        "summer": 0.3385,
+        "fall": 0.577,
+        "winter": 0.3171
+      },
+      "monthly": {
+        "1": 0.2941,
+        "3": 0.0,
+        "5": 0.402,
+        "6": 0.3411,
+        "7": 0.3333,
+        "8": 0.5079,
+        "9": 0.5885,
+        "10": 0.6421,
+        "11": 0.4,
+        "12": 0.3636
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L861963",
+      "name": "Tahquamenon Falls SP--Clark Lake Trail",
+      "coordinates": {
+        "latitude": 46.60999,
+        "longitude": -85.2263063
+      },
+      "occurrence": {
+        "rate": 0.2429,
+        "lift": 9.68,
+        "detection_count": 51,
+        "total_checklists": 210,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.8,
+        "max_count": 13
+      },
+      "seasonal": {
+        "spring": 0.0556,
+        "summer": 0.1867,
+        "fall": 0.3646
+      },
+      "monthly": {
+        "2": 0.0,
+        "4": 0.25,
+        "5": 0.0312,
+        "6": 0.2449,
+        "7": 0.0769,
+        "8": 0.4348,
+        "9": 0.2273,
+        "10": 0.3864,
+        "11": 0.4286
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L576775",
+      "name": "Farm Truck Trail",
+      "coordinates": {
+        "latitude": 46.6448947,
+        "longitude": -85.1347904
+      },
+      "occurrence": {
+        "rate": 0.1914,
+        "lift": 7.63,
+        "detection_count": 124,
+        "total_checklists": 648,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.3,
+        "max_count": 12
+      },
+      "seasonal": {
+        "spring": 0.1067,
+        "summer": 0.1636,
+        "fall": 0.3333,
+        "winter": 0.1
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.3333,
+        "4": 0.3333,
+        "5": 0.0905,
+        "6": 0.129,
+        "7": 0.3929,
+        "8": 0.2069,
+        "9": 0.5926,
+        "10": 0.3276,
+        "11": 0.1765,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L1027804",
+      "name": "Vermillion Road--The Slab",
+      "coordinates": {
+        "latitude": 46.7083786,
+        "longitude": -85.0446457
+      },
+      "occurrence": {
+        "rate": 0.19,
+        "lift": 7.57,
+        "detection_count": 121,
+        "total_checklists": 637,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.2751,
+        "summer": 0.0441,
+        "fall": 0.0921,
+        "winter": 0.1176
+      },
+      "monthly": {
+        "1": 0.1053,
+        "2": 0.1282,
+        "3": 0.0714,
+        "4": 0.4201,
+        "5": 0.1446,
+        "6": 0.0588,
+        "7": 0.0,
+        "8": 0.0588,
+        "9": 0.2174,
+        "10": 0.0,
+        "11": 0.08,
+        "12": 0.1
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L1596803",
+      "name": "Vermilion Rd.",
+      "coordinates": {
+        "latitude": 46.7372473,
+        "longitude": -85.0783129
+      },
+      "occurrence": {
+        "rate": 0.1356,
+        "lift": 5.41,
+        "detection_count": 56,
+        "total_checklists": 413,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.7,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.2273,
+        "summer": 0.1354,
+        "fall": 0.0429,
+        "winter": 0.087
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.1429,
+        "3": 0.6429,
+        "4": 0.2889,
+        "5": 0.1368,
+        "6": 0.1358,
+        "7": 0.1333,
+        "8": 0.0,
+        "9": 0.0294,
+        "10": 0.0789,
+        "11": 0.1053,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L1019048",
+      "name": "Forest Road 3145",
+      "coordinates": {
+        "latitude": 46.2636615,
+        "longitude": -85.0559324
+      },
+      "occurrence": {
+        "rate": 0.0634,
+        "lift": 2.53,
+        "detection_count": 9,
+        "total_checklists": 142,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.9,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0417,
+        "summer": 0.0556,
+        "fall": 0.1111
+      },
+      "monthly": {
+        "5": 0.0435,
+        "6": 0.0694,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.4286
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L579085",
+      "name": "Forest Road 3344",
+      "coordinates": {
+        "latitude": 46.2237012,
+        "longitude": -85.0449085
+      },
+      "occurrence": {
+        "rate": 0.031,
+        "lift": 1.24,
+        "detection_count": 17,
+        "total_checklists": 548,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 9
+      },
+      "seasonal": {
+        "spring": 0.0362,
+        "summer": 0.0331,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0382,
+        "6": 0.0396,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L24955044",
+      "name": "Forest Road 3141",
+      "coordinates": {
+        "latitude": 46.2443667,
+        "longitude": -84.9557516
+      },
+      "occurrence": {
+        "rate": 0.0294,
+        "lift": 1.17,
+        "detection_count": 2,
+        "total_checklists": 68,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0408
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.025,
+        "7": 0.1111
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L326995",
+      "name": "Tahquamenon Falls SP (Chippewa Co.)",
+      "coordinates": {
+        "latitude": 46.6017722,
+        "longitude": -85.2040083
+      },
+      "occurrence": {
+        "rate": 0.0177,
+        "lift": 0.7,
+        "detection_count": 7,
+        "total_checklists": 396,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0168,
+        "summer": 0.0305,
+        "fall": 0.0082,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0,
+        "5": 0.0206,
+        "6": 0.043,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0312,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L887532",
+      "name": "Vermillion Point Nature Preserve",
+      "coordinates": {
+        "latitude": 46.76259,
+        "longitude": -85.1481414
+      },
+      "occurrence": {
+        "rate": 0.0173,
+        "lift": 0.69,
+        "detection_count": 6,
+        "total_checklists": 346,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0323,
+        "summer": 0.0,
+        "fall": 0.0187
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.2222,
+        "5": 0.018,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0952,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L7619204",
+      "name": "Trout Lake",
+      "coordinates": {
+        "latitude": 46.1861295,
+        "longitude": -85.0429559
+      },
+      "occurrence": {
+        "rate": 0.0115,
+        "lift": 0.46,
+        "detection_count": 1,
+        "total_checklists": 87,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": null,
+        "max_count": null
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.025,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0455,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L612034",
+      "name": "Shelldrake Campground area",
+      "coordinates": {
+        "latitude": 46.7121783,
+        "longitude": -85.0650358
+      },
+      "occurrence": {
+        "rate": 0.0114,
+        "lift": 0.45,
+        "detection_count": 4,
+        "total_checklists": 351,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0286,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0354,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 13,
+      "locality_id": "L140452",
+      "name": "Whitefish Point",
+      "coordinates": {
+        "latitude": 46.7706876,
+        "longitude": -84.9569493
+      },
+      "occurrence": {
+        "rate": 0.0088,
+        "lift": 0.35,
+        "detection_count": 163,
+        "total_checklists": 18603,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.7,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0034,
+        "summer": 0.0007,
+        "fall": 0.0161,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0024,
+        "4": 0.0067,
+        "5": 0.0017,
+        "6": 0.001,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0324,
+        "10": 0.012,
+        "11": 0.0065,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 14,
+      "locality_id": "L609952",
+      "name": "Tahquamenon Falls SP--Lower Falls",
+      "coordinates": {
+        "latitude": 46.6019,
+        "longitude": -85.19768
+      },
+      "occurrence": {
+        "rate": 0.0058,
+        "lift": 0.23,
+        "detection_count": 3,
+        "total_checklists": 515,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.7,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0063,
+        "summer": 0.0,
+        "fall": 0.0135,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0455,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0196,
+        "9": 0.0,
+        "10": 0.0227,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 15,
+      "locality_id": "L609946",
+      "name": "Andrus Lake CG",
+      "coordinates": {
+        "latitude": 46.7034,
+        "longitude": -85.03778
+      },
+      "occurrence": {
+        "rate": 0.0056,
+        "lift": 0.22,
+        "detection_count": 2,
+        "total_checklists": 356,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0392,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0556,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 16,
+      "locality_id": "L4529991",
+      "name": "Tahquamenon Falls Rivermouth SP",
+      "coordinates": {
+        "latitude": 46.5595123,
+        "longitude": -85.0375971
+      },
+      "occurrence": {
+        "rate": 0.0052,
+        "lift": 0.21,
+        "detection_count": 3,
+        "total_checklists": 574,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0168
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.1154,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 17,
+      "locality_id": "L389791",
+      "name": "Hulbert Bog",
+      "coordinates": {
+        "latitude": 46.3179921,
+        "longitude": -85.1598573
+      },
+      "occurrence": {
+        "rate": 0.005,
+        "lift": 0.2,
+        "detection_count": 6,
+        "total_checklists": 1207,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0166,
+        "fall": 0.0135,
+        "winter": 0.0014
+      },
+      "monthly": {
+        "1": 0.004,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0197,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0364,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 18,
+      "locality_id": "L612041",
+      "name": "Tahquamenon River Mouth",
+      "coordinates": {
+        "latitude": 46.5549281,
+        "longitude": -85.0312936
+      },
+      "occurrence": {
+        "rate": 0.0014,
+        "lift": 0.06,
+        "detection_count": 2,
+        "total_checklists": 1415,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0011,
+        "summer": 0.0,
+        "fall": 0.003,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0022,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0101,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:02.978081Z",
+    "data_version": "Dec-2025"
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "species": {
+    "common_name": "Boreal Chickadee",
+    "code": "borchi",
+    "scientific_name": "Poecile hudsonicus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0076,
+    "total_detections": 339,
+    "total_checklists_with_species": 340,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 7
+  },
+  "summary": {
+    "total_hotspots_detected": 6,
+    "total_detections": 339,
+    "highest_occurrence_rate": 0.0282
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1019048",
+      "name": "Forest Road 3145",
+      "coordinates": {
+        "latitude": 46.2636615,
+        "longitude": -85.0559324
+      },
+      "occurrence": {
+        "rate": 0.0282,
+        "lift": 3.71,
+        "detection_count": 4,
+        "total_checklists": 142,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.8,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0111,
+        "fall": 0.1111
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0139,
+        "7": 0.0,
+        "8": 0.1818,
+        "9": 0.1111,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L887532",
+      "name": "Vermillion Point Nature Preserve",
+      "coordinates": {
+        "latitude": 46.76259,
+        "longitude": -85.1481414
+      },
+      "occurrence": {
+        "rate": 0.026,
+        "lift": 3.43,
+        "detection_count": 9,
+        "total_checklists": 346,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 8.4,
+        "max_count": 26
+      },
+      "seasonal": {
+        "spring": 0.0645,
+        "summer": 0.009,
+        "fall": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.1111,
+        "5": 0.0631,
+        "6": 0.0112,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L389791",
+      "name": "Hulbert Bog",
+      "coordinates": {
+        "latitude": 46.3179921,
+        "longitude": -85.1598573
+      },
+      "occurrence": {
+        "rate": 0.0249,
+        "lift": 3.27,
+        "detection_count": 30,
+        "total_checklists": 1207,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0353,
+        "summer": 0.011,
+        "fall": 0.0135,
+        "winter": 0.0282
+      },
+      "monthly": {
+        "1": 0.0159,
+        "2": 0.0343,
+        "3": 0.0267,
+        "4": 0.0303,
+        "5": 0.0484,
+        "6": 0.0,
+        "7": 0.069,
+        "8": 0.0,
+        "9": 0.0606,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0417
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L140452",
+      "name": "Whitefish Point",
+      "coordinates": {
+        "latitude": 46.7706876,
+        "longitude": -84.9569493
+      },
+      "occurrence": {
+        "rate": 0.0158,
+        "lift": 2.08,
+        "detection_count": 294,
+        "total_checklists": 18603,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.5,
+        "max_count": 40
+      },
+      "seasonal": {
+        "spring": 0.028,
+        "summer": 0.0261,
+        "fall": 0.0019,
+        "winter": 0.0027
+      },
+      "monthly": {
+        "1": 0.0063,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0142,
+        "5": 0.0411,
+        "6": 0.0418,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0011,
+        "10": 0.0003,
+        "11": 0.0111,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L3594049",
+      "name": "Paradise",
+      "coordinates": {
+        "latitude": 46.6269243,
+        "longitude": -85.0374627
+      },
+      "occurrence": {
+        "rate": 0.0049,
+        "lift": 0.64,
+        "detection_count": 1,
+        "total_checklists": 205,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0133,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0417,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L579085",
+      "name": "Forest Road 3344",
+      "coordinates": {
+        "latitude": 46.2237012,
+        "longitude": -85.0449085
+      },
+      "occurrence": {
+        "rate": 0.0018,
+        "lift": 0.24,
+        "detection_count": 1,
+        "total_checklists": 548,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0028,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0033,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:02.880401Z",
+    "data_version": "Dec-2025"
+  }
+}

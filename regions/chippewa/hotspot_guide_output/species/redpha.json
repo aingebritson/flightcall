@@ -1,0 +1,65 @@
+{
+  "species": {
+    "common_name": "Red Phalarope",
+    "code": "redpha",
+    "scientific_name": "Phalaropus fulicarius"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0013,
+    "total_detections": 60,
+    "total_checklists_with_species": 60,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 60,
+    "highest_occurrence_rate": 0.0032
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L140452",
+      "name": "Whitefish Point",
+      "coordinates": {
+        "latitude": 46.7706876,
+        "longitude": -84.9569493
+      },
+      "occurrence": {
+        "rate": 0.0032,
+        "lift": 2.41,
+        "detection_count": 60,
+        "total_checklists": 18603,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0073,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0149,
+        "11": 0.0121,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:03.024058Z",
+    "data_version": "Dec-2025"
+  }
+}

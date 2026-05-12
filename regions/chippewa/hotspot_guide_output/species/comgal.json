@@ -1,0 +1,95 @@
+{
+  "species": {
+    "common_name": "Common Gallinule",
+    "code": "comgal",
+    "scientific_name": "Gallinula galeata"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0016,
+    "total_detections": 72,
+    "total_checklists_with_species": 72,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 72,
+    "highest_occurrence_rate": 0.1671
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1542347",
+      "name": "Munuscong WMA--Munuscong River mouth",
+      "coordinates": {
+        "latitude": 46.2115331,
+        "longitude": -84.2635304
+      },
+      "occurrence": {
+        "rate": 0.1671,
+        "lift": 103.89,
+        "detection_count": 70,
+        "total_checklists": 419,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.2011,
+        "summer": 0.1522,
+        "fall": 0.098
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.2256,
+        "6": 0.1691,
+        "7": 0.1042,
+        "8": 0.2083,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L4646623",
+      "name": "Munuscong WMA--overlook",
+      "coordinates": {
+        "latitude": 46.2044275,
+        "longitude": -84.2691864
+      },
+      "occurrence": {
+        "rate": 0.0078,
+        "lift": 4.84,
+        "detection_count": 2,
+        "total_checklists": 257,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0153,
+        "fall": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0196,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:03.029424Z",
+    "data_version": "Dec-2025"
+  }
+}

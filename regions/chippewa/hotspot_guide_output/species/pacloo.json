@@ -1,0 +1,105 @@
+{
+  "species": {
+    "common_name": "Pacific Loon",
+    "code": "pacloo",
+    "scientific_name": "Gavia pacifica"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0023,
+    "total_detections": 103,
+    "total_checklists_with_species": 103,
+    "total_checklists_countywide": 44774,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 103,
+    "highest_occurrence_rate": 0.0055
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L140452",
+      "name": "Whitefish Point",
+      "coordinates": {
+        "latitude": 46.7706876,
+        "longitude": -84.9569493
+      },
+      "occurrence": {
+        "rate": 0.0055,
+        "lift": 2.38,
+        "detection_count": 102,
+        "total_checklists": 18603,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0044,
+        "summer": 0.0,
+        "fall": 0.0079,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0014,
+        "5": 0.0069,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0026,
+        "10": 0.0149,
+        "11": 0.0102,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L612041",
+      "name": "Tahquamenon River Mouth",
+      "coordinates": {
+        "latitude": 46.5549281,
+        "longitude": -85.0312936
+      },
+      "occurrence": {
+        "rate": 0.0007,
+        "lift": 0.31,
+        "detection_count": 1,
+        "total_checklists": 1415,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0011,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0022,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-12T23:46:03.022654Z",
+    "data_version": "Dec-2025"
+  }
+}
