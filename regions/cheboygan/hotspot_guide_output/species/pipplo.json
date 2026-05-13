@@ -1,0 +1,172 @@
+{
+  "species": {
+    "common_name": "Piping Plover",
+    "code": "pipplo",
+    "scientific_name": "Charadrius melodus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0078,
+    "total_detections": 41,
+    "total_checklists_with_species": 41,
+    "total_checklists_countywide": 5275,
+    "hotspots_detected": 4
+  },
+  "summary": {
+    "total_hotspots_detected": 4,
+    "total_detections": 41,
+    "highest_occurrence_rate": 0.0924
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L3447105",
+      "name": "Grass Bay Preserve (restricted access)",
+      "coordinates": {
+        "latitude": 45.6550806,
+        "longitude": -84.37235
+      },
+      "occurrence": {
+        "rate": 0.0924,
+        "lift": 11.89,
+        "detection_count": 22,
+        "total_checklists": 238,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0659,
+        "summer": 0.1975,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "4": 0.0,
+        "5": 0.0789,
+        "6": 0.3256,
+        "7": 0.0526,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1807808",
+      "name": "Cheboygan SP",
+      "coordinates": {
+        "latitude": 45.6477885,
+        "longitude": -84.41921
+      },
+      "occurrence": {
+        "rate": 0.0268,
+        "lift": 3.44,
+        "detection_count": 17,
+        "total_checklists": 635,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.4,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0267,
+        "summer": 0.0732,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0402,
+        "6": 0.1216,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L2598629",
+      "name": "Douglas Lake",
+      "coordinates": {
+        "latitude": 45.5783317,
+        "longitude": -84.6934319
+      },
+      "occurrence": {
+        "rate": 0.0133,
+        "lift": 1.72,
+        "detection_count": 1,
+        "total_checklists": 75,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.02,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.1429,
+        "7": 0.0,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L941500",
+      "name": "Cordwood Point",
+      "coordinates": {
+        "latitude": 45.6577277,
+        "longitude": -84.3523407
+      },
+      "occurrence": {
+        "rate": 0.0114,
+        "lift": 1.46,
+        "detection_count": 1,
+        "total_checklists": 88,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0294,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0333,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-13T00:09:34.728278Z",
+    "data_version": "Dec-2025"
+  }
+}

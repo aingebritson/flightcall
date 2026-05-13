@@ -1,0 +1,98 @@
+{
+  "species": {
+    "common_name": "Carolina Wren",
+    "code": "carwre",
+    "scientific_name": "Thryothorus ludovicianus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0004,
+    "total_detections": 2,
+    "total_checklists_with_species": 2,
+    "total_checklists_countywide": 5275,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 2,
+    "highest_occurrence_rate": 0.0123
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L3447092",
+      "name": "University of Michigan Biological Station--Carp Creek Gorge",
+      "coordinates": {
+        "latitude": 45.5528708,
+        "longitude": -84.6837974
+      },
+      "occurrence": {
+        "rate": 0.0123,
+        "lift": 32.56,
+        "detection_count": 1,
+        "total_checklists": 81,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0233,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0556,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L4614418",
+      "name": "Straits State Harbor",
+      "coordinates": {
+        "latitude": 45.7774844,
+        "longitude": -84.7222676
+      },
+      "occurrence": {
+        "rate": 0.0019,
+        "lift": 5.1,
+        "detection_count": 1,
+        "total_checklists": 517,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0087,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0385,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-13T00:09:34.744705Z",
+    "data_version": "Dec-2025"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "species": {
+    "common_name": "Forster's Tern",
+    "code": "forter",
+    "scientific_name": "Sterna forsteri"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0008,
+    "total_detections": 4,
+    "total_checklists_with_species": 4,
+    "total_checklists_countywide": 5275,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 4,
+    "highest_occurrence_rate": 0.0185
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L4051097",
+      "name": "Mackinaw Mill Creek Camping",
+      "coordinates": {
+        "latitude": 45.7508591,
+        "longitude": -84.6869999
+      },
+      "occurrence": {
+        "rate": 0.0185,
+        "lift": 24.42,
+        "detection_count": 1,
+        "total_checklists": 54,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "summer": 0.0323,
+        "fall": 0.0
+      },
+      "monthly": {
+        "6": 0.125,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L3580153",
+      "name": "Burt Lake SP",
+      "coordinates": {
+        "latitude": 45.4017154,
+        "longitude": -84.6261406
+      },
+      "occurrence": {
+        "rate": 0.0094,
+        "lift": 12.44,
+        "detection_count": 1,
+        "total_checklists": 106,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0233,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0323,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L4614418",
+      "name": "Straits State Harbor",
+      "coordinates": {
+        "latitude": 45.7774844,
+        "longitude": -84.7222676
+      },
+      "occurrence": {
+        "rate": 0.0039,
+        "lift": 5.1,
+        "detection_count": 2,
+        "total_checklists": 517,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0069,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0112,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-13T00:09:34.747577Z",
+    "data_version": "Dec-2025"
+  }
+}

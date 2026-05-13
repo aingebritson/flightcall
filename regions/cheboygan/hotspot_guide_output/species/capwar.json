@@ -1,0 +1,596 @@
+{
+  "species": {
+    "common_name": "Cape May Warbler",
+    "code": "capwar",
+    "scientific_name": "Setophaga tigrina"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0277,
+    "total_detections": 145,
+    "total_checklists_with_species": 146,
+    "total_checklists_countywide": 5275,
+    "hotspots_detected": 18
+  },
+  "summary": {
+    "total_hotspots_detected": 17,
+    "total_detections": 145,
+    "highest_occurrence_rate": 0.1818
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L12187443",
+      "name": "Adolph and Margaret Gauthier Nature Preserve",
+      "coordinates": {
+        "latitude": 45.6603787,
+        "longitude": -84.4842754
+      },
+      "occurrence": {
+        "rate": 0.1818,
+        "lift": 6.57,
+        "detection_count": 2,
+        "total_checklists": 11,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {},
+      "monthly": {
+        "5": 0.6667,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L11957059",
+      "name": "Mackinac Straits Roadside Park",
+      "coordinates": {
+        "latitude": 45.719454,
+        "longitude": -84.601265
+      },
+      "occurrence": {
+        "rate": 0.1667,
+        "lift": 6.02,
+        "detection_count": 3,
+        "total_checklists": 18,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.5,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.6,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L25131745",
+      "name": "Red Bridge Road",
+      "coordinates": {
+        "latitude": 45.427358,
+        "longitude": -84.2982895
+      },
+      "occurrence": {
+        "rate": 0.1481,
+        "lift": 5.35,
+        "detection_count": 4,
+        "total_checklists": 27,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.6667,
+        "summer": 0.0
+      },
+      "monthly": {
+        "5": 0.6667,
+        "6": 0.0,
+        "7": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L12010577",
+      "name": "Duncan Bay Nature Preserve",
+      "coordinates": {
+        "latitude": 45.6517283,
+        "longitude": -84.4514751
+      },
+      "occurrence": {
+        "rate": 0.1429,
+        "lift": 5.16,
+        "detection_count": 24,
+        "total_checklists": 168,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.6,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.2,
+        "summer": 0.0,
+        "fall": 0.1667,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "4": 0.0,
+        "5": 0.2368,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.2121,
+        "9": 0.1702,
+        "10": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L6005522",
+      "name": "Aloha SP",
+      "coordinates": {
+        "latitude": 45.5254384,
+        "longitude": -84.4648942
+      },
+      "occurrence": {
+        "rate": 0.0811,
+        "lift": 2.93,
+        "detection_count": 3,
+        "total_checklists": 37,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "summer": 0.0,
+        "fall": 0.1875
+      },
+      "monthly": {
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.1,
+        "9": 0.5
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L3055994",
+      "name": "Old Mackinac Point Lighthouse",
+      "coordinates": {
+        "latitude": 45.7878282,
+        "longitude": -84.7296835
+      },
+      "occurrence": {
+        "rate": 0.064,
+        "lift": 2.31,
+        "detection_count": 24,
+        "total_checklists": 375,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.4,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.1719,
+        "summer": 0.0,
+        "fall": 0.0164,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.2444,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0435,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L2598618",
+      "name": "University of Michigan Biological Station--Reese's Swamp",
+      "coordinates": {
+        "latitude": 45.5392819,
+        "longitude": -84.6774888
+      },
+      "occurrence": {
+        "rate": 0.06,
+        "lift": 2.17,
+        "detection_count": 3,
+        "total_checklists": 50,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 0.7,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.1071,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.1765,
+        "7": 0.0,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L1807808",
+      "name": "Cheboygan SP",
+      "coordinates": {
+        "latitude": 45.6477885,
+        "longitude": -84.41921
+      },
+      "occurrence": {
+        "rate": 0.0551,
+        "lift": 1.99,
+        "detection_count": 35,
+        "total_checklists": 635,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0833,
+        "summer": 0.0081,
+        "fall": 0.0481,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.1256,
+        "6": 0.0135,
+        "7": 0.0,
+        "8": 0.0263,
+        "9": 0.0909,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L3447105",
+      "name": "Grass Bay Preserve (restricted access)",
+      "coordinates": {
+        "latitude": 45.6550806,
+        "longitude": -84.37235
+      },
+      "occurrence": {
+        "rate": 0.0378,
+        "lift": 1.37,
+        "detection_count": 9,
+        "total_checklists": 238,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 0.9,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0879,
+        "summer": 0.0123,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "4": 0.0,
+        "5": 0.1053,
+        "6": 0.0233,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L3580149",
+      "name": "North Central State Trail (Wolverine section)",
+      "coordinates": {
+        "latitude": 45.2730966,
+        "longitude": -84.6018505
+      },
+      "occurrence": {
+        "rate": 0.0333,
+        "lift": 1.2,
+        "detection_count": 2,
+        "total_checklists": 60,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0476,
+        "summer": 0.0,
+        "fall": 0.0625
+      },
+      "monthly": {
+        "5": 0.05,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.125
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L5944746",
+      "name": "Chaboiganing Nature Preserve",
+      "coordinates": {
+        "latitude": 45.4891707,
+        "longitude": -84.6920156
+      },
+      "occurrence": {
+        "rate": 0.0286,
+        "lift": 1.03,
+        "detection_count": 1,
+        "total_checklists": 35,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0625
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.1,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L2611526",
+      "name": "University of Michigan Biological Station",
+      "coordinates": {
+        "latitude": 45.5600432,
+        "longitude": -84.6760619
+      },
+      "occurrence": {
+        "rate": 0.0233,
+        "lift": 0.84,
+        "detection_count": 13,
+        "total_checklists": 557,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0343,
+        "summer": 0.0078,
+        "fall": 0.046,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0435,
+        "6": 0.0127,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.1176,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 13,
+      "locality_id": "L1289447",
+      "name": "Dingman Marsh",
+      "coordinates": {
+        "latitude": 45.7144697,
+        "longitude": -84.685588
+      },
+      "occurrence": {
+        "rate": 0.0213,
+        "lift": 0.77,
+        "detection_count": 11,
+        "total_checklists": 517,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.4,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0393,
+        "summer": 0.0,
+        "fall": 0.0144
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0529,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0364,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 14,
+      "locality_id": "L4051097",
+      "name": "Mackinaw Mill Creek Camping",
+      "coordinates": {
+        "latitude": 45.7508591,
+        "longitude": -84.6869999
+      },
+      "occurrence": {
+        "rate": 0.0185,
+        "lift": 0.67,
+        "detection_count": 1,
+        "total_checklists": 54,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "summer": 0.0,
+        "fall": 0.0526
+      },
+      "monthly": {
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0769,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 15,
+      "locality_id": "L3133553",
+      "name": "Cheboygan Marsh/Gordon Turner Park",
+      "coordinates": {
+        "latitude": 45.6561882,
+        "longitude": -84.4709344
+      },
+      "occurrence": {
+        "rate": 0.0179,
+        "lift": 0.65,
+        "detection_count": 7,
+        "total_checklists": 392,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.7,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0387,
+        "summer": 0.0,
+        "fall": 0.0099,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0674,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0345,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 16,
+      "locality_id": "L941642",
+      "name": "Mill Creek State Historic Park",
+      "coordinates": {
+        "latitude": 45.7406934,
+        "longitude": -84.6719742
+      },
+      "occurrence": {
+        "rate": 0.013,
+        "lift": 0.47,
+        "detection_count": 2,
+        "total_checklists": 154,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.2857
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.3333
+      }
+    },
+    {
+      "rank": 17,
+      "locality_id": "L15063520",
+      "name": "Stimpson Rd.",
+      "coordinates": {
+        "latitude": 45.742875,
+        "longitude": -84.7122628
+      },
+      "occurrence": {
+        "rate": 0.0085,
+        "lift": 0.31,
+        "detection_count": 1,
+        "total_checklists": 117,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0333
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0385,
+        "7": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-13T00:09:34.703595Z",
+    "data_version": "Dec-2025"
+  }
+}

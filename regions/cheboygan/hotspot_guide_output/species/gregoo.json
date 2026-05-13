@@ -1,0 +1,65 @@
+{
+  "species": {
+    "common_name": "Greater White-fronted Goose",
+    "code": "gregoo",
+    "scientific_name": "Anser albifrons"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0006,
+    "total_detections": 3,
+    "total_checklists_with_species": 3,
+    "total_checklists_countywide": 5275,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 3,
+    "highest_occurrence_rate": 0.0058
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L4614418",
+      "name": "Straits State Harbor",
+      "coordinates": {
+        "latitude": 45.7774844,
+        "longitude": -84.7222676
+      },
+      "occurrence": {
+        "rate": 0.0058,
+        "lift": 10.2,
+        "detection_count": 3,
+        "total_checklists": 517,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.0,
+        "max_count": 13
+      },
+      "seasonal": {
+        "spring": 0.0034,
+        "summer": 0.0,
+        "fall": 0.0174,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.037,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0714,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-13T00:09:34.748647Z",
+    "data_version": "Dec-2025"
+  }
+}

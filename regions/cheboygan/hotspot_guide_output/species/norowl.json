@@ -1,0 +1,135 @@
+{
+  "species": {
+    "common_name": "Northern Saw-whet Owl",
+    "code": "norowl",
+    "scientific_name": "Aegolius acadicus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0188,
+    "total_detections": 99,
+    "total_checklists_with_species": 99,
+    "total_checklists_countywide": 5275,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 99,
+    "highest_occurrence_rate": 0.5519
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L941642",
+      "name": "Mill Creek State Historic Park",
+      "coordinates": {
+        "latitude": 45.7406934,
+        "longitude": -84.6719742
+      },
+      "occurrence": {
+        "rate": 0.5519,
+        "lift": 29.41,
+        "detection_count": 85,
+        "total_checklists": 154,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.6,
+        "max_count": 15
+      },
+      "seasonal": {
+        "spring": 0.6391,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "3": 0.8333,
+        "4": 0.6825,
+        "5": 0.3529,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1807808",
+      "name": "Cheboygan SP",
+      "coordinates": {
+        "latitude": 45.6477885,
+        "longitude": -84.41921
+      },
+      "occurrence": {
+        "rate": 0.0205,
+        "lift": 1.09,
+        "detection_count": 13,
+        "total_checklists": 635,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.1,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0367,
+        "summer": 0.0,
+        "fall": 0.0053,
+        "winter": 0.04
+      },
+      "monthly": {
+        "2": 0.1429,
+        "3": 0.0556,
+        "4": 0.0769,
+        "5": 0.0201,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.037,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L12010577",
+      "name": "Duncan Bay Nature Preserve",
+      "coordinates": {
+        "latitude": 45.6517283,
+        "longitude": -84.4514751
+      },
+      "occurrence": {
+        "rate": 0.006,
+        "lift": 0.32,
+        "detection_count": 1,
+        "total_checklists": 168,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0222,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "4": 0.2,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-13T00:09:34.740128Z",
+    "data_version": "Dec-2025"
+  }
+}

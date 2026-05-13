@@ -1,0 +1,132 @@
+{
+  "species": {
+    "common_name": "Black-crowned Night Heron",
+    "code": "blaher",
+    "scientific_name": "Nycticorax nycticorax"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0015,
+    "total_detections": 8,
+    "total_checklists_with_species": 8,
+    "total_checklists_countywide": 5275,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 8,
+    "highest_occurrence_rate": 0.0133
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L2598629",
+      "name": "Douglas Lake",
+      "coordinates": {
+        "latitude": 45.5783317,
+        "longitude": -84.6934319
+      },
+      "occurrence": {
+        "rate": 0.0133,
+        "lift": 8.79,
+        "detection_count": 1,
+        "total_checklists": 75,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.05
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0556
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L4614418",
+      "name": "Straits State Harbor",
+      "coordinates": {
+        "latitude": 45.7774844,
+        "longitude": -84.7222676
+      },
+      "occurrence": {
+        "rate": 0.0097,
+        "lift": 6.38,
+        "detection_count": 5,
+        "total_checklists": 517,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.4,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0172,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0235,
+        "5": 0.0169,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L1289447",
+      "name": "Dingman Marsh",
+      "coordinates": {
+        "latitude": 45.7144697,
+        "longitude": -84.685588
+      },
+      "occurrence": {
+        "rate": 0.0039,
+        "lift": 2.55,
+        "detection_count": 2,
+        "total_checklists": 517,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0134,
+        "fall": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0465,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-13T00:09:34.741806Z",
+    "data_version": "Dec-2025"
+  }
+}

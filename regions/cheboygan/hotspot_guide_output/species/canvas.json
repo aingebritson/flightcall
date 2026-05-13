@@ -1,0 +1,170 @@
+{
+  "species": {
+    "common_name": "Canvasback",
+    "code": "canvas",
+    "scientific_name": "Aythya valisineria"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0015,
+    "total_detections": 8,
+    "total_checklists_with_species": 8,
+    "total_checklists_countywide": 5275,
+    "hotspots_detected": 4
+  },
+  "summary": {
+    "total_hotspots_detected": 4,
+    "total_detections": 8,
+    "highest_occurrence_rate": 0.1333
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L7069560",
+      "name": "The Forks Boating Access Site",
+      "coordinates": {
+        "latitude": 45.6088814,
+        "longitude": -84.4686064
+      },
+      "occurrence": {
+        "rate": 0.1333,
+        "lift": 87.92,
+        "detection_count": 2,
+        "total_checklists": 15,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 3.5,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.1667
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.3333
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L3133553",
+      "name": "Cheboygan Marsh/Gordon Turner Park",
+      "coordinates": {
+        "latitude": 45.6561882,
+        "longitude": -84.4709344
+      },
+      "occurrence": {
+        "rate": 0.0051,
+        "lift": 3.36,
+        "detection_count": 2,
+        "total_checklists": 392,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0129,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.04,
+        "4": 0.0244,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L4614418",
+      "name": "Straits State Harbor",
+      "coordinates": {
+        "latitude": 45.7774844,
+        "longitude": -84.7222676
+      },
+      "occurrence": {
+        "rate": 0.0039,
+        "lift": 2.55,
+        "detection_count": 2,
+        "total_checklists": 517,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0034,
+        "summer": 0.0,
+        "fall": 0.0087,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0118,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0357,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L1807808",
+      "name": "Cheboygan SP",
+      "coordinates": {
+        "latitude": 45.6477885,
+        "longitude": -84.41921
+      },
+      "occurrence": {
+        "rate": 0.0031,
+        "lift": 2.08,
+        "detection_count": 2,
+        "total_checklists": 635,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0033,
+        "summer": 0.0,
+        "fall": 0.0053,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0278,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0294,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-13T00:09:34.748899Z",
+    "data_version": "Dec-2025"
+  }
+}

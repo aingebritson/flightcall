@@ -1,0 +1,624 @@
+{
+  "species": {
+    "common_name": "Mute Swan",
+    "code": "mutswa",
+    "scientific_name": "Cygnus olor"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.1245,
+    "total_detections": 653,
+    "total_checklists_with_species": 657,
+    "total_checklists_countywide": 5275,
+    "hotspots_detected": 19
+  },
+  "summary": {
+    "total_hotspots_detected": 17,
+    "total_detections": 653,
+    "highest_occurrence_rate": 0.6786
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L5766060",
+      "name": "Mullett Lake--Pigeon River Bay",
+      "coordinates": {
+        "latitude": 45.4415176,
+        "longitude": -84.5588064
+      },
+      "occurrence": {
+        "rate": 0.6786,
+        "lift": 5.45,
+        "detection_count": 57,
+        "total_checklists": 84,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.1,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.8077,
+        "summer": 0.6842,
+        "fall": 0.3333,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.9375,
+        "4": 0.8333,
+        "5": 0.6667,
+        "6": 0.7692,
+        "7": 0.5,
+        "10": 0.5,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L3133553",
+      "name": "Cheboygan Marsh/Gordon Turner Park",
+      "coordinates": {
+        "latitude": 45.6561882,
+        "longitude": -84.4709344
+      },
+      "occurrence": {
+        "rate": 0.4872,
+        "lift": 3.91,
+        "detection_count": 191,
+        "total_checklists": 392,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.5,
+        "max_count": 13
+      },
+      "seasonal": {
+        "spring": 0.4839,
+        "summer": 0.5043,
+        "fall": 0.505,
+        "winter": 0.3333
+      },
+      "monthly": {
+        "1": 0.5714,
+        "3": 0.4,
+        "4": 0.6098,
+        "5": 0.4494,
+        "6": 0.4697,
+        "7": 0.551,
+        "8": 0.4483,
+        "9": 0.4783,
+        "10": 0.619,
+        "11": 0.6,
+        "12": 0.25
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L7069560",
+      "name": "The Forks Boating Access Site",
+      "coordinates": {
+        "latitude": 45.6088814,
+        "longitude": -84.4686064
+      },
+      "occurrence": {
+        "rate": 0.4,
+        "lift": 3.21,
+        "detection_count": 6,
+        "total_checklists": 15,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 9.0,
+        "max_count": 22
+      },
+      "seasonal": {
+        "spring": 0.25
+      },
+      "monthly": {
+        "3": 0.6,
+        "4": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L859599",
+      "name": "Cheboygan River mouth/marina",
+      "coordinates": {
+        "latitude": 45.6551481,
+        "longitude": -84.4657767
+      },
+      "occurrence": {
+        "rate": 0.3492,
+        "lift": 2.8,
+        "detection_count": 44,
+        "total_checklists": 126,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.2,
+        "max_count": 15
+      },
+      "seasonal": {
+        "spring": 0.3111,
+        "summer": 0.4375,
+        "fall": 0.3696,
+        "winter": 0.3158
+      },
+      "monthly": {
+        "1": 0.5714,
+        "2": 0.0,
+        "3": 0.5625,
+        "4": 0.0909,
+        "5": 0.4286,
+        "6": 0.75,
+        "7": 0.3333,
+        "8": 0.2667,
+        "9": 0.2222,
+        "10": 0.6667,
+        "11": 0.7143,
+        "12": 0.2857
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L1807808",
+      "name": "Cheboygan SP",
+      "coordinates": {
+        "latitude": 45.6477885,
+        "longitude": -84.41921
+      },
+      "occurrence": {
+        "rate": 0.2898,
+        "lift": 2.33,
+        "detection_count": 184,
+        "total_checklists": 635,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.1,
+        "max_count": 16
+      },
+      "seasonal": {
+        "spring": 0.3433,
+        "summer": 0.2764,
+        "fall": 0.2246,
+        "winter": 0.2
+      },
+      "monthly": {
+        "2": 0.1429,
+        "3": 0.25,
+        "4": 0.4462,
+        "5": 0.3266,
+        "6": 0.2973,
+        "7": 0.2449,
+        "8": 0.1579,
+        "9": 0.2273,
+        "10": 0.1176,
+        "11": 0.4444,
+        "12": 0.25
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L12010577",
+      "name": "Duncan Bay Nature Preserve",
+      "coordinates": {
+        "latitude": 45.6517283,
+        "longitude": -84.4514751
+      },
+      "occurrence": {
+        "rate": 0.1905,
+        "lift": 1.53,
+        "detection_count": 32,
+        "total_checklists": 168,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.7,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.2,
+        "summer": 0.1364,
+        "fall": 0.1667,
+        "winter": 0.4545
+      },
+      "monthly": {
+        "2": 0.0,
+        "4": 0.0,
+        "5": 0.2105,
+        "6": 0.0,
+        "7": 0.3333,
+        "8": 0.1212,
+        "9": 0.1915,
+        "10": 0.25,
+        "12": 0.625
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L5268412",
+      "name": "Cheboygan River Lock",
+      "coordinates": {
+        "latitude": 45.6358868,
+        "longitude": -84.4796705
+      },
+      "occurrence": {
+        "rate": 0.1792,
+        "lift": 1.44,
+        "detection_count": 38,
+        "total_checklists": 212,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.4,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0843,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.3196
+      },
+      "monthly": {
+        "1": 0.1613,
+        "2": 0.5306,
+        "3": 0.1321,
+        "4": 0.0,
+        "5": 0.0,
+        "7": 0.0,
+        "9": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L3447105",
+      "name": "Grass Bay Preserve (restricted access)",
+      "coordinates": {
+        "latitude": 45.6550806,
+        "longitude": -84.37235
+      },
+      "occurrence": {
+        "rate": 0.1555,
+        "lift": 1.25,
+        "detection_count": 37,
+        "total_checklists": 238,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.9,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.0769,
+        "summer": 0.284,
+        "fall": 0.125,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "4": 0.0,
+        "5": 0.0921,
+        "6": 0.2326,
+        "7": 0.3421,
+        "8": 0.1875,
+        "9": 0.1765,
+        "10": 0.1111,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L12055413",
+      "name": "North Central State Trail--Topinabee",
+      "coordinates": {
+        "latitude": 45.4831714,
+        "longitude": -84.5936283
+      },
+      "occurrence": {
+        "rate": 0.1,
+        "lift": 0.8,
+        "detection_count": 1,
+        "total_checklists": 10,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 5.0,
+        "max_count": 5
+      },
+      "seasonal": {},
+      "monthly": {}
+    },
+    {
+      "rank": 10,
+      "locality_id": "L4614418",
+      "name": "Straits State Harbor",
+      "coordinates": {
+        "latitude": 45.7774844,
+        "longitude": -84.7222676
+      },
+      "occurrence": {
+        "rate": 0.0832,
+        "lift": 0.67,
+        "detection_count": 43,
+        "total_checklists": 517,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.9,
+        "max_count": 15
+      },
+      "seasonal": {
+        "spring": 0.0759,
+        "summer": 0.0,
+        "fall": 0.1478,
+        "winter": 0.1176
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.037,
+        "4": 0.1294,
+        "5": 0.0562,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0385,
+        "10": 0.2973,
+        "11": 0.1786,
+        "12": 0.3636
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L4051097",
+      "name": "Mackinaw Mill Creek Camping",
+      "coordinates": {
+        "latitude": 45.7508591,
+        "longitude": -84.6869999
+      },
+      "occurrence": {
+        "rate": 0.0556,
+        "lift": 0.45,
+        "detection_count": 3,
+        "total_checklists": 54,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.7,
+        "max_count": 2
+      },
+      "seasonal": {
+        "summer": 0.0323,
+        "fall": 0.1053
+      },
+      "monthly": {
+        "6": 0.125,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.5
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L941500",
+      "name": "Cordwood Point",
+      "coordinates": {
+        "latitude": 45.6577277,
+        "longitude": -84.3523407
+      },
+      "occurrence": {
+        "rate": 0.0341,
+        "lift": 0.27,
+        "detection_count": 3,
+        "total_checklists": 88,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0882,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.1,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 13,
+      "locality_id": "L5944746",
+      "name": "Chaboiganing Nature Preserve",
+      "coordinates": {
+        "latitude": 45.4891707,
+        "longitude": -84.6920156
+      },
+      "occurrence": {
+        "rate": 0.0286,
+        "lift": 0.23,
+        "detection_count": 1,
+        "total_checklists": 35,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 15.0,
+        "max_count": 15
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0625
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.1667
+      }
+    },
+    {
+      "rank": 14,
+      "locality_id": "L6005522",
+      "name": "Aloha SP",
+      "coordinates": {
+        "latitude": 45.5254384,
+        "longitude": -84.4648942
+      },
+      "occurrence": {
+        "rate": 0.027,
+        "lift": 0.22,
+        "detection_count": 1,
+        "total_checklists": 37,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "summer": 0.0667,
+        "fall": 0.0
+      },
+      "monthly": {
+        "6": 0.0,
+        "7": 0.0909,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 15,
+      "locality_id": "L3580153",
+      "name": "Burt Lake SP",
+      "coordinates": {
+        "latitude": 45.4017154,
+        "longitude": -84.6261406
+      },
+      "occurrence": {
+        "rate": 0.0189,
+        "lift": 0.15,
+        "detection_count": 2,
+        "total_checklists": 106,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0233,
+        "fall": 0.0,
+        "winter": 0.125
+      },
+      "monthly": {
+        "2": 0.1429,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0323,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 16,
+      "locality_id": "L3055994",
+      "name": "Old Mackinac Point Lighthouse",
+      "coordinates": {
+        "latitude": 45.7878282,
+        "longitude": -84.7296835
+      },
+      "occurrence": {
+        "rate": 0.0187,
+        "lift": 0.15,
+        "detection_count": 7,
+        "total_checklists": 375,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.3,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0182,
+        "fall": 0.041,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0182,
+        "7": 0.0182,
+        "8": 0.0,
+        "9": 0.0625,
+        "10": 0.0,
+        "11": 0.1667,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 17,
+      "locality_id": "L1289447",
+      "name": "Dingman Marsh",
+      "coordinates": {
+        "latitude": 45.7144697,
+        "longitude": -84.685588
+      },
+      "occurrence": {
+        "rate": 0.0058,
+        "lift": 0.05,
+        "detection_count": 3,
+        "total_checklists": 517,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0044,
+        "summer": 0.0134,
+        "fall": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0059,
+        "6": 0.0189,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-13T00:09:34.727151Z",
+    "data_version": "Dec-2025"
+  }
+}

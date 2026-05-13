@@ -1,0 +1,57 @@
+{
+  "species": {
+    "common_name": "Northern Bobwhite",
+    "code": "norbob",
+    "scientific_name": "Colinus virginianus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0002,
+    "total_detections": 1,
+    "total_checklists_with_species": 1,
+    "total_checklists_countywide": 5275,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 1,
+    "highest_occurrence_rate": 0.0217
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L9201586",
+      "name": "Jack and Tucker Harris Working Forest Reserve",
+      "coordinates": {
+        "latitude": 45.3512101,
+        "longitude": -84.4715744
+      },
+      "occurrence": {
+        "rate": 0.0217,
+        "lift": 114.67,
+        "detection_count": 1,
+        "total_checklists": 46,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0435,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "5": 0.0,
+        "6": 0.0625,
+        "7": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-05-13T00:09:34.750412Z",
+    "data_version": "Dec-2025"
+  }
+}
