@@ -20,6 +20,10 @@ on:
       - 'kalamazoo/**'
       - 'chippewa/**'
       - 'jackson/**'
+      - 'cheboygan/**'
+      - 'iosco/**'
+      - 'alger/**'
+      - 'leelanau/**'
       - 'index.html'
       - 'about.html'
 
@@ -96,6 +100,18 @@ jobs:
 
           # Copy jackson app into jackson/ subdirectory
           git checkout main -- jackson/
+
+          # Copy cheboygan app into cheboygan/ subdirectory
+          git checkout main -- cheboygan/
+
+          # Copy iosco app into iosco/ subdirectory
+          git checkout main -- iosco/
+
+          # Copy alger app into alger/ subdirectory
+          git checkout main -- alger/
+
+          # Copy leelanau app into leelanau/ subdirectory
+          git checkout main -- leelanau/
 
           # Stage all changes
           git add -A
