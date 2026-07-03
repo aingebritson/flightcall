@@ -7418,11 +7418,13 @@
     "name": "Evening Grosbeak",
     "code": "evegro",
     "category": "single-season",
-    "flags": [],
+    "flags": [
+      "overwintering"
+    ],
     "timing": {
-      "arrival": "October 22-31",
-      "peak": "November 1-7",
-      "departure": "November 15-21"
+      "winter_arrival": "October 22-31",
+      "winter_peak": "November 1-7",
+      "winter_departure": "November 15-21"
     },
     "weekly_frequency": [
       0.0005577,
@@ -16013,11 +16015,13 @@
     "name": "Red-necked Grebe",
     "code": "redgre",
     "category": "single-season",
-    "flags": [],
+    "flags": [
+      "overwintering"
+    ],
     "timing": {
-      "arrival": "October 15-21",
-      "peak": "November 15-21",
-      "departure": "November 22-30"
+      "winter_arrival": "October 15-21",
+      "winter_peak": "November 15-21",
+      "winter_departure": "November 22-30"
     },
     "weekly_frequency": [
       0.0,
@@ -16904,12 +16908,12 @@
       "classic_bimodal"
     ],
     "timing": {
-      "spring_arrival": "October 22-31",
-      "spring_peak": "December 1-7",
-      "spring_departure": "March 8-14",
-      "fall_arrival": "April 15-21",
-      "fall_peak": "April 15-21",
-      "fall_departure": "April 15-21"
+      "spring_arrival": "April 15-21",
+      "spring_peak": "April 15-21",
+      "spring_departure": "April 15-21",
+      "fall_arrival": "October 22-31",
+      "fall_peak": "December 1-7",
+      "fall_departure": "March 8-14"
     },
     "weekly_frequency": [
       0.0200781,
@@ -22243,12 +22247,12 @@
       "classic_bimodal"
     ],
     "timing": {
-      "spring_arrival": "September 22-30",
-      "spring_peak": "October 1-7",
-      "spring_departure": "December 22-31",
-      "fall_arrival": "March 22-31",
-      "fall_peak": "April 8-14",
-      "fall_departure": "April 22-30"
+      "spring_arrival": "March 22-31",
+      "spring_peak": "April 8-14",
+      "spring_departure": "April 22-30",
+      "fall_arrival": "September 22-30",
+      "fall_peak": "October 1-7",
+      "fall_departure": "December 22-31"
     },
     "weekly_frequency": [
       0.0066927,

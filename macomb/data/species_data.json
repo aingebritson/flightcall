@@ -6789,12 +6789,13 @@
     "code": "evegro",
     "category": "single-season",
     "flags": [
+      "overwintering",
       "low_presence"
     ],
     "timing": {
-      "arrival": "October 22-31",
-      "peak": "October 22-31",
-      "departure": "November 15-21"
+      "winter_arrival": "October 22-31",
+      "winter_peak": "October 22-31",
+      "winter_departure": "November 15-21"
     },
     "weekly_frequency": [
       0.0,
@@ -14499,12 +14500,12 @@
       "classic_bimodal"
     ],
     "timing": {
-      "spring_arrival": "September 15-21",
-      "spring_peak": "October 22-31",
-      "spring_departure": "November 22-30",
-      "fall_arrival": "April 8-14",
-      "fall_peak": "April 22-30",
-      "fall_departure": "May 1-7"
+      "spring_arrival": "April 8-14",
+      "spring_peak": "April 22-30",
+      "spring_departure": "May 1-7",
+      "fall_arrival": "September 15-21",
+      "fall_peak": "October 22-31",
+      "fall_departure": "November 22-30"
     },
     "weekly_frequency": [
       0.0029192,
@@ -19877,12 +19878,12 @@
       "classic_bimodal"
     ],
     "timing": {
-      "spring_arrival": "September 15-21",
-      "spring_peak": "October 8-14",
-      "spring_departure": "February 22-28",
-      "fall_arrival": "April 1-7",
-      "fall_peak": "May 1-7",
-      "fall_departure": "May 15-21"
+      "spring_arrival": "April 1-7",
+      "spring_peak": "May 1-7",
+      "spring_departure": "May 15-21",
+      "fall_arrival": "September 15-21",
+      "fall_peak": "October 8-14",
+      "fall_departure": "February 22-28"
     },
     "weekly_frequency": [
       0.0506001,
