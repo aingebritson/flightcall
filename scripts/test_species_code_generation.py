@@ -67,7 +67,7 @@ def test_two_word_names():
 def test_multi_word_names():
     """Test multi-word species names (3+ words)."""
     test_cases = [
-        ("Black-crowned Night-Heron", "blanig"),  # First 3 + last 3
+        ("Black-crowned Night-Heron", "blaher"),  # Hyphens split words: first 3 + last 3
         ("Greater White-fronted Goose", "gregoo"),  # First 3 + last 3
     ]
 
