@@ -34,6 +34,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 
 from utils.region_config import load_region_config, ConfigError
+from utils.ebd import resolve_ebd_dir
 from hotspot_guide import config as hg_config
 from hotspot_guide.main import main as run_pipeline
 
@@ -67,7 +68,7 @@ def main():
 
     # Set up paths
     region_path = project_root / "regions" / region_name
-    input_dir = region_path / "ebird_basic_dataset"
+    input_dir = resolve_ebd_dir(region_path)
     output_dir = region_path / "hotspot_guide_output"
 
     # Verify input directory exists

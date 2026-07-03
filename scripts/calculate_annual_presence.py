@@ -34,6 +34,7 @@ import pandas as pd
 sys.path.insert(0, str(Path(__file__).parent))
 
 from utils.validation import validate_region_name, ValidationError
+from utils.ebd import resolve_ebd_dir
 
 
 ANNUAL_PRESENCE_COLS = [
@@ -176,7 +177,7 @@ def main():
         project_root = Path.cwd()
 
     region_path = project_root / "regions" / region_name
-    ebd_dir = region_path / "ebird_basic_dataset"
+    ebd_dir = resolve_ebd_dir(region_path)
     intermediate_path = region_path / "intermediate"
 
     # Graceful failure if EBD data is not present

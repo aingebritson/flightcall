@@ -70,7 +70,7 @@ Examples:
     region = args.region
 
     print("="*70)
-    print("BirdFinder - Full Data Pipeline")
+    print("Flightcall - Full Data Pipeline")
     print("="*70)
     print(f"\nRegion: {region}")
 
@@ -102,6 +102,7 @@ Examples:
         # Fetch from API
         success = run_script(
             scripts_dir / "fetch_hotspots.py",
+            args=[region],
             description="Hotspots Pipeline - Fetch from eBird API"
         )
         results["hotspots-fetch"] = success
@@ -110,6 +111,7 @@ Examples:
             # Enrich with content
             success = run_script(
                 scripts_dir / "build_enriched_hotspots.py",
+                args=[region],
                 description="Hotspots Pipeline - Enrich with content"
             )
             results["hotspots-enrich"] = success

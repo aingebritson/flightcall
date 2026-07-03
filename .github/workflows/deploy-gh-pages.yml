@@ -1,31 +1,13 @@
 name: Deploy to GitHub Pages
 
+# Deploys on every push to main. The county list comes from counties.json,
+# so new counties deploy automatically once they appear in the manifest —
+# no workflow edits needed. The commit step below no-ops when nothing changed.
 on:
   workflow_dispatch:
   push:
     branches:
       - main
-    paths:
-      - 'washtenaw/**'
-      - 'oakland/**'
-      - 'kent/**'
-      - 'wayne/**'
-      - 'ottawa/**'
-      - 'gladwin/**'
-      - 'macomb/**'
-      - 'berrien/**'
-      - 'allegan/**'
-      - 'muskegon/**'
-      - 'ingham/**'
-      - 'kalamazoo/**'
-      - 'chippewa/**'
-      - 'jackson/**'
-      - 'cheboygan/**'
-      - 'iosco/**'
-      - 'alger/**'
-      - 'leelanau/**'
-      - 'index.html'
-      - 'about.html'
 
 permissions:
   contents: write
@@ -54,64 +36,13 @@ jobs:
           # Remove all files except .git
           find . -maxdepth 1 ! -name '.git' ! -name '.' ! -name '..' -exec rm -rf {} +
 
-          # Copy landing page, about page, and custom domain config to root
-          git checkout main -- index.html
-          git checkout main -- about.html
-          git checkout main -- CNAME
+          # Copy landing page, about page, custom domain config, and county manifest to root
+          git checkout main -- index.html about.html CNAME counties.json
 
-          # Copy washtenaw app into washtenaw/ subdirectory
-          git checkout main -- washtenaw/
-
-          # Copy oakland app into oakland/ subdirectory
-          git checkout main -- oakland/
-
-          # Copy kent app into kent/ subdirectory
-          git checkout main -- kent/
-
-          # Copy wayne app into wayne/ subdirectory
-          git checkout main -- wayne/
-
-          # Copy ottawa app into ottawa/ subdirectory
-          git checkout main -- ottawa/
-
-          # Copy gladwin app into gladwin/ subdirectory
-          git checkout main -- gladwin/
-
-          # Copy macomb app into macomb/ subdirectory
-          git checkout main -- macomb/
-
-          # Copy berrien app into berrien/ subdirectory
-          git checkout main -- berrien/
-
-          # Copy allegan app into allegan/ subdirectory
-          git checkout main -- allegan/
-
-          # Copy muskegon app into muskegon/ subdirectory
-          git checkout main -- muskegon/
-
-          # Copy ingham app into ingham/ subdirectory
-          git checkout main -- ingham/
-
-          # Copy kalamazoo app into kalamazoo/ subdirectory
-          git checkout main -- kalamazoo/
-
-          # Copy chippewa app into chippewa/ subdirectory
-          git checkout main -- chippewa/
-
-          # Copy jackson app into jackson/ subdirectory
-          git checkout main -- jackson/
-
-          # Copy cheboygan app into cheboygan/ subdirectory
-          git checkout main -- cheboygan/
-
-          # Copy iosco app into iosco/ subdirectory
-          git checkout main -- iosco/
-
-          # Copy alger app into alger/ subdirectory
-          git checkout main -- alger/
-
-          # Copy leelanau app into leelanau/ subdirectory
-          git checkout main -- leelanau/
+          # Copy each county app listed in the manifest into its subdirectory
+          for slug in $(jq -r '.counties[].slug' counties.json); do
+            git checkout main -- "$slug/"
+          done
 
           # Stage all changes
           git add -A

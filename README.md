@@ -56,7 +56,9 @@ cp regions/[region_name]/[region_name]_species_data.json washtenaw/data/species_
 ```
 .
 ├── index.html                   # Landing page — county directory (Flightcall home)
-├── washtenaw/                   # Washtenaw County app (deployed to /washtenaw/ on gh-pages)
+├── counties.json                # County manifest: slug, name, eBird code, status
+│                                #   (drives landing page cards/map and the deploy workflow)
+├── washtenaw/                   # Canonical county app (synced to all other county dirs)
 │   ├── index.html              # This Week view (main page)
 │   ├── browse.html             # Browse All Species view
 │   ├── species.html            # Species Detail view
@@ -65,6 +67,7 @@ cp regions/[region_name]/[region_name]_species_data.json washtenaw/data/species_
 │   ├── css/
 │   │   └── styles.css          # Custom styles (Field Journal aesthetic)
 │   ├── js/
+│   │   ├── county.js           # Fills in county name from URL slug + counties.json
 │   │   ├── data-loader.js      # Robust data loading with retry logic
 │   │   ├── data.js             # Species data access functions
 │   │   ├── week-calculator.js  # Date/week conversion utilities
@@ -84,8 +87,10 @@ cp regions/[region_name]/[region_name]_species_data.json washtenaw/data/species_
 │       ├── notable_species_by_hotspot.json  # Rare/specialty species per hotspot
 │       └── top_hotspots_by_species.json     # Best hotspots for each species
 ├── scripts/                     # Data processing pipeline
+│   ├── new_county.py           # Scaffold a new county (config + manifest + app dir)
+│   ├── sync_counties.py        # Propagate the shared app to all county dirs
+│   ├── run_all.py              # Run all pipelines for a region in one shot
 │   ├── run_pipeline.py         # Run species data pipeline
-│   ├── run_all.py              # Run pipeline for all regions
 │   ├── parse_ebird_data.py     # Step 1: Parse eBird barchart file
 │   ├── calculate_annual_presence.py    # Step 2: Annual presence from EBD (optional)
 │   ├── classify_migration_patterns.py  # Step 3: Classify species
@@ -172,14 +177,30 @@ The app uses a "Field Journal" aesthetic - warm, naturalist-inspired design with
 
 ### Adding a New County
 
-To add a new county, create a new county directory (e.g., `genesee/`) modeled after `washtenaw/`. Then:
-1. Run the data pipeline for the new region: `python3 scripts/run_pipeline.py genesee`
-2. Copy the output data files into `genesee/data/`
-3. Update all HTML files in `genesee/` to reference the correct county name
-4. Add the county card to the root `index.html` landing page
-5. Update `.github/workflows/deploy-gh-pages.yml` to include `genesee/**` in the deploy step
+Everything is driven by the root `counties.json` manifest — the landing page cards, the Michigan map, and the deploy workflow all read it. County app files are identical across counties (pages derive the county slug from the URL and the display name from the manifest), so there is nothing to hand-edit.
 
-To rename the county in an existing app directory, change the `<p>Washtenaw County, Michigan</p>` text in the header and footer of each HTML file.
+**1. Scaffold (before data arrives):**
+```bash
+python3 scripts/new_county.py genesee US-MI-049
+```
+This writes `regions/genesee/config.json`, adds a "coming soon" entry to `counties.json`, and creates `genesee/` from the shared app. Commit and push — the coming-soon card and map shading deploy automatically.
+
+**2. When the eBird data arrives:**
+```bash
+# Barchart .txt        -> regions/genesee/
+# EBD download folder  -> regions/genesee/   (release-named ebd_* folder is auto-renamed)
+python3 scripts/run_all.py genesee
+```
+
+**3. Go live:** flip `"status": "soon"` to `"live"` in `counties.json`, commit, and push all pipeline outputs.
+
+### Updating the Shared County App
+
+`washtenaw/` is the canonical copy of the app. Edit HTML/JS/CSS there, then propagate:
+```bash
+python3 scripts/sync_counties.py           # copy to all county dirs (data/ untouched)
+python3 scripts/sync_counties.py --check   # report drift without changing anything
+```
 
 ## Data Processing Pipeline
 
@@ -220,13 +241,19 @@ python3 scripts/merge_to_json.py [region_name]               # Step 5: Generate 
 
 ```bash
 # Fetch hotspot data from eBird API
-python3 scripts/fetch_hotspots.py
+python3 scripts/fetch_hotspots.py [region_name]
 
 # Create content file for a new hotspot
 python3 scripts/new_hotspot_content.py L320822
 
 # Build enriched hotspot JSON (merges content with base data)
-python3 scripts/build_enriched_hotspots.py
+python3 scripts/build_enriched_hotspots.py [region_name]
+```
+
+Or run every pipeline (species, hotspots, hotspot guide) in one shot:
+
+```bash
+python3 scripts/run_all.py [region_name]
 ```
 
 ### Pipeline Steps
@@ -308,11 +335,13 @@ Additional notes about the hotspot can go here as free-form Markdown.
 
 The repository is configured for automatic deployment:
 
-1. Push changes to `main` branch (touching `index.html` or `washtenaw/**`)
+1. Push changes to `main` branch
 2. GitHub Actions deploys to `gh-pages` branch:
-   - `index.html` → site root (`/`)
-   - `washtenaw/` → `/washtenaw/` subdirectory
-3. Site updates at `https://[username].github.io/[repo-name]/`
+   - `index.html`, `about.html`, `CNAME`, `counties.json` → site root (`/`)
+   - every county listed in `counties.json` → `/<county>/` subdirectory
+3. Site updates at `https://flight-call.org` (the commit step no-ops when nothing changed)
+
+New counties deploy automatically once they appear in `counties.json` — the workflow never needs editing.
 
 **Setup** (one-time):
 1. Repository Settings → Pages
