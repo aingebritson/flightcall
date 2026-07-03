@@ -23,6 +23,10 @@
    Do instead: edit the app only in `washtenaw/`, then run `python3 scripts/sync_counties.py`; verify with `--check`.
 3. **[2026-07-03] County pages get their name from `js/county.js` hooks**
    Do instead: use `[data-county-line]`, `[data-county-name]`, `title[data-county-title]` markup hooks — never hardcode a county name in county app HTML.
+4. **[2026-07-03] ONE valley-season definition: `VALLEY_WINTER_WEEKS`/`VALLEY_SUMMER_WEEKS` in constants.py**
+   Do instead: label a valley's season only via `classify_valley_season`/`valley_is_winter` in valley_detection.py; never re-hardcode winter/summer week ranges (that mismatch swapped spring/fall labels). Classify persists valleys to the CSV; timing reuses them — don't re-`detect_valleys` in the timing stage.
+5. **[2026-07-03] Regenerate all live counties from committed intermediates (no EBD needed)**
+   Do instead: after pipeline logic changes, loop live counties running classify→timing→merge then `cp regions/<c>/<c>_species_data.json <c>/data/`; verify via git diff that only intended species changed and category totals hold.
 
 ## User Directives
 1. **[2026-07-03] Always commit and push after completing tasks; check README.md for needed updates**
