@@ -11,7 +11,7 @@ import sys
 
 # Add parent directory to path to import utils
 sys.path.insert(0, str(Path(__file__).parent))
-from utils.valley_detection import detect_valleys
+from utils.valley_detection import detect_valleys, parse_valleys, valley_is_winter
 from utils.constants import (
     WEEKS_PER_YEAR,
     ARRIVAL_THRESHOLD_PEAK_RATIO,
@@ -23,7 +23,6 @@ from utils.timing_helpers import (
     find_departure_week,
     find_last_week_above_threshold,
     calculate_threshold,
-    identify_valley_type,
     get_presence_weeks,
     find_passage_timing,
     week_range
@@ -131,7 +130,7 @@ def calculate_timing_two_passage(species_name, frequencies, category, pattern_ty
         return calculate_timing_irregular(species_name, frequencies, category, pattern_type)
 
     # Identify which valley is winter and which is summer
-    if identify_valley_type(valleys[0]) == 'winter':
+    if valley_is_winter(*valleys[0]):
         winter_valley = valleys[0]
         summer_valley = valleys[1]
     else:
@@ -382,11 +381,15 @@ def main():
     with open(classifications_file, 'r') as f:
         reader = csv.DictReader(f)
         for row in reader:
+            # 'valleys' is present in current classification CSVs. If missing
+            # (an older intermediate), leave it None and recompute below.
+            raw_valleys = row.get('valleys')
             classifications[row['species']] = {
                 'category': row['category'],
                 'pattern_type': row['pattern_type'],
                 'flags': row['edge_case_flags'],
-                'peak_frequency': float(row['peak_frequency'])
+                'peak_frequency': float(row['peak_frequency']),
+                'valleys': parse_valleys(raw_valleys) if raw_valleys is not None else None
             }
 
     # Load the frequency data
@@ -410,8 +413,12 @@ def main():
 
         classification = classifications[species_name]
 
-        # Detect valleys for this species
-        valleys = detect_valleys(frequencies)
+        # Reuse the valleys the classification stage already detected and stored,
+        # so the two stages can never disagree about a species' valleys or their
+        # season. Fall back to re-detecting only for older CSVs without the column.
+        valleys = classification['valleys']
+        if valleys is None:
+            valleys = detect_valleys(frequencies)
 
         timing = calculate_migration_timing(
             species_name,

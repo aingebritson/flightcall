@@ -7487,11 +7487,13 @@
     "name": "Golden Eagle",
     "code": "goleag",
     "category": "single-season",
-    "flags": [],
+    "flags": [
+      "overwintering"
+    ],
     "timing": {
-      "arrival": "November 1-7",
-      "peak": "November 8-14",
-      "departure": "November 8-14"
+      "winter_arrival": "November 1-7",
+      "winter_peak": "November 8-14",
+      "winter_departure": "November 8-14"
     },
     "weekly_frequency": [
       0.000193,
@@ -8963,12 +8965,12 @@
       "classic_bimodal"
     ],
     "timing": {
-      "spring_arrival": "October 1-7",
-      "spring_peak": "October 8-14",
-      "spring_departure": "December 22-31",
-      "fall_arrival": "April 1-7",
-      "fall_peak": "April 22-30",
-      "fall_departure": "May 8-14"
+      "spring_arrival": "April 1-7",
+      "spring_peak": "April 22-30",
+      "spring_departure": "May 8-14",
+      "fall_arrival": "October 1-7",
+      "fall_peak": "October 8-14",
+      "fall_departure": "December 22-31"
     },
     "weekly_frequency": [
       0.0100367,
@@ -14079,12 +14081,12 @@
       "classic_bimodal"
     ],
     "timing": {
-      "spring_arrival": "September 15-21",
-      "spring_peak": "October 8-14",
-      "spring_departure": "March 1-7",
-      "fall_arrival": "April 8-14",
-      "fall_peak": "April 15-21",
-      "fall_departure": "May 1-7"
+      "spring_arrival": "April 8-14",
+      "spring_peak": "April 15-21",
+      "spring_departure": "May 1-7",
+      "fall_arrival": "September 15-21",
+      "fall_peak": "October 8-14",
+      "fall_departure": "March 1-7"
     },
     "weekly_frequency": [
       0.0054044,
@@ -14203,6 +14205,7 @@
     "code": "redcro",
     "category": "vagrant",
     "flags": [
+      "overwintering",
       "low_annual_presence"
     ],
     "timing": {
@@ -19574,6 +19577,7 @@
     "code": "whicro",
     "category": "vagrant",
     "flags": [
+      "overwintering",
       "low_annual_presence"
     ],
     "timing": {

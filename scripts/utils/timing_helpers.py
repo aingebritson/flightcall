@@ -11,8 +11,10 @@ from typing import List, Tuple, Optional
 
 try:
     from .constants import WEEKS_PER_YEAR
+    from .valley_detection import valley_is_winter
 except ImportError:
     from constants import WEEKS_PER_YEAR
+    from valley_detection import valley_is_winter
 
 
 def normalize_week(week: int) -> int:
@@ -197,8 +199,8 @@ def identify_valley_type(valley: Tuple[int, int]) -> str:
     """
     Determine if a valley is a winter or summer valley.
 
-    Winter weeks: 44-47, 0-7 (December through February)
-    Summer weeks: 18-32 (May through August)
+    Delegates to the shared valley-season definition in valley_detection so the
+    timing stage and the classification stage use one set of season windows.
 
     Args:
         valley: Tuple of (start_week, end_week)
@@ -206,24 +208,7 @@ def identify_valley_type(valley: Tuple[int, int]) -> str:
     Returns:
         'winter' or 'summer'
     """
-    valley_start, valley_end = valley
-
-    # Winter weeks (wraps around year boundary)
-    winter_weeks = set(range(44, 48)) | set(range(0, 8))
-
-    # Count how many valley weeks fall in winter
-    if valley_start <= valley_end:
-        valley_weeks = set(range(valley_start, valley_end + 1))
-    else:
-        # Valley wraps around year
-        valley_weeks = set(range(valley_start, 48)) | set(range(0, valley_end + 1))
-
-    winter_overlap = len(valley_weeks & winter_weeks)
-
-    # If more than half the valley is in winter, it's a winter valley
-    if winter_overlap > len(valley_weeks) / 2:
-        return 'winter'
-    return 'summer'
+    return 'winter' if valley_is_winter(*valley) else 'summer'
 
 
 def get_presence_weeks(

@@ -4,7 +4,100 @@ Valley detection utilities for bird migration pattern analysis.
 
 A valley is defined as a period of absence or very low detection frequency,
 indicating when a species is not present in the region.
+
+This module is the single authority for both detecting valleys and labeling
+their season. Every pipeline stage that needs a valley's season must call
+``classify_valley_season`` / ``valley_is_winter`` here rather than reimplement
+winter/summer week ranges — see the note on the constants for why.
 """
+
+try:
+    from .constants import (
+        WEEKS_PER_YEAR,
+        VALLEY_WINTER_WEEKS,
+        VALLEY_SUMMER_WEEKS,
+        VALLEY_SEASON_MIN_OVERLAP,
+    )
+except ImportError:  # when scripts/ is on sys.path and this is imported as utils.*
+    from constants import (
+        WEEKS_PER_YEAR,
+        VALLEY_WINTER_WEEKS,
+        VALLEY_SUMMER_WEEKS,
+        VALLEY_SEASON_MIN_OVERLAP,
+    )
+
+
+def _valley_week_set(valley_start, valley_end):
+    """Return the set of week indices covered by a valley, handling year-wrap.
+
+    A valley with start > end wraps the year boundary (e.g. (44, 5) covers
+    weeks 44-47 and 0-5).
+    """
+    if valley_start <= valley_end:
+        return set(range(valley_start, valley_end + 1))
+    return set(range(valley_start, WEEKS_PER_YEAR)) | set(range(0, valley_end + 1))
+
+
+def _season_overlaps(valley_start, valley_end):
+    """Return (winter_overlap, summer_overlap, total_weeks) for a valley."""
+    weeks = _valley_week_set(valley_start, valley_end)
+    return (
+        len(weeks & VALLEY_WINTER_WEEKS),
+        len(weeks & VALLEY_SUMMER_WEEKS),
+        len(weeks),
+    )
+
+
+def classify_valley_season(valley_start, valley_end):
+    """Label a valley 'winter', 'summer', or 'mixed'.
+
+    A valley is 'winter' or 'summer' when at least VALLEY_SEASON_MIN_OVERLAP of
+    its weeks fall in that season's window (winter checked first, matching the
+    historical classifier); otherwise 'mixed'.
+    """
+    winter, summer, total = _season_overlaps(valley_start, valley_end)
+    if total == 0:
+        return 'mixed'
+    if winter >= total * VALLEY_SEASON_MIN_OVERLAP:
+        return 'winter'
+    if summer >= total * VALLEY_SEASON_MIN_OVERLAP:
+        return 'summer'
+    return 'mixed'
+
+
+def valley_is_winter(valley_start, valley_end):
+    """Binary winter/summer decision for a valley.
+
+    Returns True when the valley overlaps the winter window at least as much as
+    the summer window. Used where a definitive winter-vs-summer split is needed
+    (e.g. assigning the two gaps of a two-passage migrant), including valleys
+    that ``classify_valley_season`` would call 'mixed'.
+    """
+    winter, summer, _ = _season_overlaps(valley_start, valley_end)
+    return winter >= summer
+
+
+def serialize_valleys(valleys):
+    """Serialize a list of (start, end) valley tuples to a CSV-safe string.
+
+    Format: tuples joined by ';', endpoints joined by '-', e.g. "40-7;18-30".
+    Empty list -> "". Round-trips with ``parse_valleys``.
+    """
+    return ';'.join(f"{start}-{end}" for start, end in valleys)
+
+
+def parse_valleys(text):
+    """Inverse of ``serialize_valleys``: parse a string back to (start, end) tuples."""
+    if not text:
+        return []
+    valleys = []
+    for token in text.split(';'):
+        token = token.strip()
+        if not token:
+            continue
+        start_str, end_str = token.split('-')
+        valleys.append((int(start_str), int(end_str)))
+    return valleys
 
 
 def detect_valleys(frequencies):

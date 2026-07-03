@@ -4353,12 +4353,12 @@
       "classic_bimodal"
     ],
     "timing": {
-      "spring_arrival": "November 1-7",
-      "spring_peak": "November 8-14",
-      "spring_departure": "January 8-14",
-      "fall_arrival": "April 22-30",
-      "fall_peak": "April 22-30",
-      "fall_departure": "April 22-30"
+      "spring_arrival": "April 22-30",
+      "spring_peak": "April 22-30",
+      "spring_departure": "April 22-30",
+      "fall_arrival": "November 1-7",
+      "fall_peak": "November 8-14",
+      "fall_departure": "January 8-14"
     },
     "weekly_frequency": [
       0.0045326,
@@ -7858,11 +7858,13 @@
     "name": "Golden Eagle",
     "code": "goleag",
     "category": "single-season",
-    "flags": [],
+    "flags": [
+      "overwintering"
+    ],
     "timing": {
-      "arrival": "October 15-21",
-      "peak": "November 1-7",
-      "departure": "November 22-30"
+      "winter_arrival": "October 15-21",
+      "winter_peak": "November 1-7",
+      "winter_departure": "November 22-30"
     },
     "weekly_frequency": [
       0.0,
@@ -13319,12 +13321,12 @@
       "classic_bimodal"
     ],
     "timing": {
-      "spring_arrival": "December 1-7",
-      "spring_peak": "January 22-31",
-      "spring_departure": "February 15-21",
-      "fall_arrival": "May 1-7",
-      "fall_peak": "June 8-14",
-      "fall_departure": "July 1-7"
+      "spring_arrival": "May 1-7",
+      "spring_peak": "June 8-14",
+      "spring_departure": "July 1-7",
+      "fall_arrival": "December 1-7",
+      "fall_peak": "January 22-31",
+      "fall_departure": "February 15-21"
     },
     "weekly_frequency": [
       0.0053824,
@@ -16737,19 +16739,17 @@
   {
     "name": "Ross's Goose",
     "code": "rosgoo",
-    "category": "vagrant",
+    "category": "two-passage-migrant",
     "flags": [
-      "two_valleys_close"
+      "classic_bimodal"
     ],
     "timing": {
-      "status": "irregular",
-      "first_appears": "February 1-7",
-      "peak": "April 22-30",
-      "last_appears": "December 8-14",
-      "years_present": 7,
-      "last_year_observed": 2024,
-      "presence_window_start": 2016,
-      "presence_window_end": 2025
+      "spring_arrival": "April 15-21",
+      "spring_peak": "April 22-30",
+      "spring_departure": "May 1-7",
+      "fall_arrival": "February 1-7",
+      "fall_peak": "February 1-7",
+      "fall_departure": "February 1-7"
     },
     "weekly_frequency": [
       0.0,
@@ -18817,11 +18817,13 @@
     "name": "Surf Scoter",
     "code": "sursco",
     "category": "single-season",
-    "flags": [],
+    "flags": [
+      "overwintering"
+    ],
     "timing": {
-      "arrival": "November 8-14",
-      "peak": "November 15-21",
-      "departure": "November 22-30"
+      "winter_arrival": "November 8-14",
+      "winter_peak": "November 15-21",
+      "winter_departure": "November 22-30"
     },
     "weekly_frequency": [
       0.0002833,
@@ -19017,12 +19019,12 @@
       "classic_bimodal"
     ],
     "timing": {
-      "spring_arrival": "September 22-30",
-      "spring_peak": "October 8-14",
-      "spring_departure": "February 1-7",
-      "fall_arrival": "April 8-14",
-      "fall_peak": "April 22-30",
-      "fall_departure": "July 22-31"
+      "spring_arrival": "April 8-14",
+      "spring_peak": "April 22-30",
+      "spring_departure": "July 22-31",
+      "fall_arrival": "September 22-30",
+      "fall_peak": "October 8-14",
+      "fall_departure": "February 1-7"
     },
     "weekly_frequency": [
       0.0371105,
@@ -19279,12 +19281,12 @@
       "classic_bimodal"
     ],
     "timing": {
-      "spring_arrival": "November 8-14",
-      "spring_peak": "November 22-30",
-      "spring_departure": "March 1-7",
-      "fall_arrival": "April 15-21",
-      "fall_peak": "April 15-21",
-      "fall_departure": "April 15-21"
+      "spring_arrival": "April 15-21",
+      "spring_peak": "April 15-21",
+      "spring_departure": "April 15-21",
+      "fall_arrival": "November 8-14",
+      "fall_peak": "November 22-30",
+      "fall_departure": "March 1-7"
     },
     "weekly_frequency": [
       0.0096317,
@@ -21176,12 +21178,12 @@
       "classic_bimodal"
     ],
     "timing": {
-      "spring_arrival": "September 22-30",
-      "spring_peak": "October 8-14",
-      "spring_departure": "February 1-7",
-      "fall_arrival": "March 22-31",
-      "fall_peak": "April 15-21",
-      "fall_departure": "April 22-30"
+      "spring_arrival": "March 22-31",
+      "spring_peak": "April 15-21",
+      "spring_departure": "April 22-30",
+      "fall_arrival": "September 22-30",
+      "fall_peak": "October 8-14",
+      "fall_departure": "February 1-7"
     },
     "weekly_frequency": [
       0.0311615,

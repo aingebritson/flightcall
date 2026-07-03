@@ -16,7 +16,11 @@ import sys
 
 # Add parent directory to path to import utils
 sys.path.insert(0, str(Path(__file__).parent))
-from utils.valley_detection import detect_valleys
+from utils.valley_detection import (
+    detect_valleys,
+    classify_valley_season,
+    serialize_valleys,
+)
 from utils.validation import (
     ValidationError,
     validate_frequency_array,
@@ -29,9 +33,8 @@ from utils.validation import (
     validate_week_index
 )
 from utils.constants import (
-    # Week ranges
-    WINTER_WEEKS_START, WINTER_WEEKS_END,
-    SUMMER_WEEKS_START, SUMMER_WEEKS_END,
+    # Valley-season windows (single source of truth)
+    VALLEY_WINTER_WEEKS, VALLEY_SUMMER_WEEKS,
     # Thresholds
     MIN_WEEKS_PRESENCE,
     MIN_PEAK_FREQUENCY,
@@ -74,28 +77,10 @@ def classify_valley_timing(valley_start, valley_end):
 
     Returns: 'winter', 'summer', or 'mixed'
 
-    Winter weeks: Expanded to 40-11 (Nov-Feb, wrapping around year)
-    Summer weeks: Expanded to 16-35 (late April-early Sep)
+    Thin wrapper over the shared valley-season classifier so that this stage and
+    the timing stage always agree on what "winter" and "summer" mean.
     """
-    # Expanded definitions to be more lenient
-    # Winter: weeks 40-47 (Oct-Dec) + 0-11 (Jan-Mar)
-    winter_weeks = set(range(40, 48)) | set(range(0, 12))
-    # Summer: weeks SUMMER_WEEKS_START to SUMMER_WEEKS_END + 1
-    summer_weeks = set(range(SUMMER_WEEKS_START, SUMMER_WEEKS_END + 1))
-
-    valley_weeks = set(range(valley_start, valley_end + 1))
-
-    winter_count = len(valley_weeks & winter_weeks)
-    summer_count = len(valley_weeks & summer_weeks)
-    total_valley_weeks = len(valley_weeks)
-
-    # More lenient rule: 40% threshold instead of 50%
-    if winter_count >= total_valley_weeks * 0.4:
-        return VALLEY_TYPE_WINTER
-    elif summer_count >= total_valley_weeks * 0.4:
-        return VALLEY_TYPE_SUMMER
-    else:
-        return 'mixed'
+    return classify_valley_season(valley_start, valley_end)
 
 
 def detect_overwintering(frequencies):
@@ -240,9 +225,9 @@ def classify_species(metrics):
                 valley1_mid = (valley1_start + valley1_end) // 2
                 valley2_mid = (valley2_start + valley2_end) // 2
 
-                # If one valley midpoint is in roughly winter (weeks 40-47, 0-11) and other in summer (16-35)
-                winter_weeks = set(range(40, 48)) | set(range(0, 12))
-                summer_weeks = set(range(16, 36))
+                # If one valley midpoint is in roughly winter and the other in summer
+                winter_weeks = VALLEY_WINTER_WEEKS
+                summer_weeks = VALLEY_SUMMER_WEEKS
 
                 valley1_is_winter = valley1_mid in winter_weeks
                 valley2_is_winter = valley2_mid in winter_weeks
@@ -290,8 +275,8 @@ def classify_species(metrics):
         else:
             valley_mid = (valley_start + valley_end) // 2
 
-            winter_weeks = set(range(40, 48)) | set(range(0, 12))
-            summer_weeks = set(range(16, 36))
+            winter_weeks = VALLEY_WINTER_WEEKS
+            summer_weeks = VALLEY_SUMMER_WEEKS
 
             if valley_mid in winter_weeks:
                 # Valley leans winter, so it's a summer migrant
@@ -450,6 +435,9 @@ def main():
             'min_max_ratio': round(metrics['min_max_ratio'], 4),
             'weeks_with_presence': metrics['weeks_with_presence'],
             'num_valleys': metrics['num_valleys'],
+            # Serialized so the timing stage reuses these exact valleys instead
+            # of re-detecting them (keeps the two stages from ever disagreeing).
+            'valleys': serialize_valleys(metrics['valleys']),
             'valley_types': '|'.join(metrics['valley_types']) if metrics['valley_types'] else '',
             'is_overwintering': 'Yes' if metrics['is_overwintering'] else 'No',
             'edge_case_flags': '|'.join(flags) if flags else ''
@@ -461,7 +449,7 @@ def main():
     with open(output_file, 'w', newline='', encoding='utf-8') as f:
         fieldnames = [
             'species', 'category', 'pattern_type', 'peak_frequency', 'min_frequency',
-            'min_max_ratio', 'weeks_with_presence', 'num_valleys', 'valley_types',
+            'min_max_ratio', 'weeks_with_presence', 'num_valleys', 'valleys', 'valley_types',
             'is_overwintering', 'edge_case_flags'
         ]
         writer = csv.DictWriter(f, fieldnames=fieldnames)

@@ -64,6 +64,29 @@ def is_summer_week(week):
 
 
 # ==============================================================================
+# VALLEY-SEASON CLASSIFICATION WINDOWS (single source of truth)
+# ==============================================================================
+
+# A detected absence-valley is labeled winter/summer by which of these windows
+# it overlaps most. These windows are intentionally WIDER than the meteorological
+# season ranges above so that valleys straddling the migration shoulders still
+# resolve to the adjacent season.
+#
+# IMPORTANT: Both the classification stage (classify_migration_patterns.py) and
+# the timing stage (calculate_arrival_departure.py / timing_helpers.py) label
+# valley seasons through the shared helpers in valley_detection.py, which read
+# these windows. Do NOT redefine winter/summer week ranges anywhere else — a
+# second definition is exactly what caused spring/fall labels to disagree
+# between the two stages.
+VALLEY_WINTER_WEEKS = frozenset(range(40, 48)) | frozenset(range(0, 12))  # Oct–mid-Mar
+VALLEY_SUMMER_WEEKS = frozenset(range(16, 36))                            # May–Aug
+
+# A valley is labeled for a season when at least this fraction of its weeks fall
+# inside that season's window; otherwise it is 'mixed'.
+VALLEY_SEASON_MIN_OVERLAP = 0.4
+
+
+# ==============================================================================
 # VALLEY DETECTION THRESHOLDS
 # ==============================================================================
 
