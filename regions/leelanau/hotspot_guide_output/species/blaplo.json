@@ -1,0 +1,274 @@
+{
+  "species": {
+    "common_name": "Black-bellied Plover",
+    "code": "blaplo",
+    "scientific_name": "Pluvialis squatarola"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0016,
+    "total_detections": 37,
+    "total_checklists_with_species": 37,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 7
+  },
+  "summary": {
+    "total_hotspots_detected": 7,
+    "total_detections": 37,
+    "highest_occurrence_rate": 0.14
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1667058",
+      "name": "North Manitou Island--Dimmick's Point",
+      "coordinates": {
+        "latitude": 45.0593874,
+        "longitude": -85.9631048
+      },
+      "occurrence": {
+        "rate": 0.14,
+        "lift": 85.77,
+        "detection_count": 14,
+        "total_checklists": 100,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.2,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.2195,
+        "summer": 0.0233,
+        "fall": 0.25
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.3214,
+        "6": 0.0455,
+        "7": 0.0,
+        "8": 0.2857
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L619015",
+      "name": "North Manitou Island",
+      "coordinates": {
+        "latitude": 45.11346,
+        "longitude": -86.0202
+      },
+      "occurrence": {
+        "rate": 0.0625,
+        "lift": 38.29,
+        "detection_count": 2,
+        "total_checklists": 32,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "summer": 0.0,
+        "fall": 0.1176
+      },
+      "monthly": {
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.3333,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L1666832",
+      "name": "North Manitou Island--Village and Campground",
+      "coordinates": {
+        "latitude": 45.1217932,
+        "longitude": -85.9773549
+      },
+      "occurrence": {
+        "rate": 0.0149,
+        "lift": 9.14,
+        "detection_count": 1,
+        "total_checklists": 67,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0714,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0769,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L2185066",
+      "name": "Sleeping Bear Dunes NL--North Bar Lake",
+      "coordinates": {
+        "latitude": 44.8419947,
+        "longitude": -86.0641394
+      },
+      "occurrence": {
+        "rate": 0.0087,
+        "lift": 5.31,
+        "detection_count": 3,
+        "total_checklists": 346,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0231
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0238,
+        "10": 0.0645,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L771853",
+      "name": "Sleeping Bear Dunes NL--Sleeping Bear Point",
+      "coordinates": {
+        "latitude": 44.9095902,
+        "longitude": -86.0396411
+      },
+      "occurrence": {
+        "rate": 0.0069,
+        "lift": 4.23,
+        "detection_count": 15,
+        "total_checklists": 2175,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.007,
+        "summer": 0.0026,
+        "fall": 0.0137,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0129,
+        "6": 0.0048,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.046,
+        "10": 0.0061,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L619011",
+      "name": "Leelanau SP--North",
+      "coordinates": {
+        "latitude": 45.21025,
+        "longitude": -85.54933
+      },
+      "occurrence": {
+        "rate": 0.0018,
+        "lift": 1.08,
+        "detection_count": 1,
+        "total_checklists": 566,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0056,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0189,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L490116",
+      "name": "Little Glen Park",
+      "coordinates": {
+        "latitude": 44.8838502,
+        "longitude": -86.0364246
+      },
+      "occurrence": {
+        "rate": 0.0005,
+        "lift": 0.31,
+        "detection_count": 1,
+        "total_checklists": 2004,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0017,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0056,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.939873Z",
+    "data_version": "Dec-2025"
+  }
+}

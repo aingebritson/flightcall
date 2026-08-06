@@ -1,0 +1,62 @@
+{
+  "species": {
+    "common_name": "Kentucky Warbler",
+    "code": "kenwar",
+    "scientific_name": "Geothlypis formosa"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0,
+    "total_detections": 1,
+    "total_checklists_with_species": 1,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 1,
+    "highest_occurrence_rate": 0.0025
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L9083325",
+      "name": "Tucker Lake",
+      "coordinates": {
+        "latitude": 44.9034317,
+        "longitude": -85.9548532
+      },
+      "occurrence": {
+        "rate": 0.0025,
+        "lift": 56.11,
+        "detection_count": 1,
+        "total_checklists": 404,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0051,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0122,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.950614Z",
+    "data_version": "Dec-2025"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "species": {
+    "common_name": "Acadian Flycatcher",
+    "code": "acafly",
+    "scientific_name": "Empidonax virescens"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0,
+    "total_detections": 1,
+    "total_checklists_with_species": 1,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 1,
+    "highest_occurrence_rate": 0.008
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L7385048",
+      "name": "Palmer Woods Forest Reserve (south trailhead)",
+      "coordinates": {
+        "latitude": 44.8925498,
+        "longitude": -85.9143814
+      },
+      "occurrence": {
+        "rate": 0.008,
+        "lift": 181.34,
+        "detection_count": 1,
+        "total_checklists": 125,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0154,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0357,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.950820Z",
+    "data_version": "Dec-2025"
+  }
+}

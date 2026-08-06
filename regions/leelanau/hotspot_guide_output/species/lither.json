@@ -1,0 +1,65 @@
+{
+  "species": {
+    "common_name": "Little Blue Heron",
+    "code": "lither",
+    "scientific_name": "Egretta caerulea"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0021,
+    "total_detections": 48,
+    "total_checklists_with_species": 48,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 48,
+    "highest_occurrence_rate": 0.0777
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L11031864",
+      "name": "Popp Rd. ponds",
+      "coordinates": {
+        "latitude": 44.9450173,
+        "longitude": -85.7400584
+      },
+      "occurrence": {
+        "rate": 0.0777,
+        "lift": 36.68,
+        "detection_count": 48,
+        "total_checklists": 618,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.1253,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.2124,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.952816Z",
+    "data_version": "Dec-2025"
+  }
+}

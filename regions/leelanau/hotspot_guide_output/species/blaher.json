@@ -1,0 +1,145 @@
+{
+  "species": {
+    "common_name": "Black-crowned Night Heron",
+    "code": "blaher",
+    "scientific_name": "Nycticorax nycticorax"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0001,
+    "total_detections": 3,
+    "total_checklists_with_species": 3,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 3,
+    "highest_occurrence_rate": 0.0031
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L860255",
+      "name": "Leelanau SP--South",
+      "coordinates": {
+        "latitude": 45.1823998,
+        "longitude": -85.5710335
+      },
+      "occurrence": {
+        "rate": 0.0031,
+        "lift": 23.76,
+        "detection_count": 1,
+        "total_checklists": 318,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0081,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0104,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L2334420",
+      "name": "South Port Oneida Rd.",
+      "coordinates": {
+        "latitude": 44.9530579,
+        "longitude": -85.9400067
+      },
+      "occurrence": {
+        "rate": 0.0012,
+        "lift": 9.0,
+        "detection_count": 1,
+        "total_checklists": 840,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0031,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0091,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L490116",
+      "name": "Little Glen Park",
+      "coordinates": {
+        "latitude": 44.8838502,
+        "longitude": -86.0364246
+      },
+      "occurrence": {
+        "rate": 0.0005,
+        "lift": 3.77,
+        "detection_count": 1,
+        "total_checklists": 2004,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0011,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0026,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.919023Z",
+    "data_version": "Dec-2025"
+  }
+}

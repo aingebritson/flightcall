@@ -1,0 +1,181 @@
+{
+  "species": {
+    "common_name": "American Golden-Plover",
+    "code": "ameplo",
+    "scientific_name": "Pluvialis dominica"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0009,
+    "total_detections": 20,
+    "total_checklists_with_species": 20,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 4
+  },
+  "summary": {
+    "total_hotspots_detected": 4,
+    "total_detections": 20,
+    "highest_occurrence_rate": 0.0058
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L2185066",
+      "name": "Sleeping Bear Dunes NL--North Bar Lake",
+      "coordinates": {
+        "latitude": 44.8419947,
+        "longitude": -86.0641394
+      },
+      "occurrence": {
+        "rate": 0.0058,
+        "lift": 6.55,
+        "detection_count": 2,
+        "total_checklists": 346,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0154
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0476,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L771853",
+      "name": "Sleeping Bear Dunes NL--Sleeping Bear Point",
+      "coordinates": {
+        "latitude": 44.9095902,
+        "longitude": -86.0396411
+      },
+      "occurrence": {
+        "rate": 0.0055,
+        "lift": 6.25,
+        "detection_count": 12,
+        "total_checklists": 2175,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0183,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.069,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L490116",
+      "name": "Little Glen Park",
+      "coordinates": {
+        "latitude": 44.8838502,
+        "longitude": -86.0364246
+      },
+      "occurrence": {
+        "rate": 0.002,
+        "lift": 2.26,
+        "detection_count": 4,
+        "total_checklists": 2004,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0068,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0168,
+        "10": 0.0085,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L1371379",
+      "name": "Sleeping Bear Dunes NL--Glen Haven",
+      "coordinates": {
+        "latitude": 44.9041498,
+        "longitude": -86.0257612
+      },
+      "occurrence": {
+        "rate": 0.0017,
+        "lift": 1.94,
+        "detection_count": 2,
+        "total_checklists": 1171,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0084,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.027,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.937983Z",
+    "data_version": "Dec-2025"
+  }
+}

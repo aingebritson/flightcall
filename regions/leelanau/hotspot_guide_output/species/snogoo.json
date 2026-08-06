@@ -1,0 +1,143 @@
+{
+  "species": {
+    "common_name": "Snow Goose",
+    "code": "snogoo",
+    "scientific_name": "Anser caerulescens"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0015,
+    "total_detections": 35,
+    "total_checklists_with_species": 35,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 35,
+    "highest_occurrence_rate": 0.0518
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L11031864",
+      "name": "Popp Rd. ponds",
+      "coordinates": {
+        "latitude": 44.9450173,
+        "longitude": -85.7400584
+      },
+      "occurrence": {
+        "rate": 0.0518,
+        "lift": 33.54,
+        "detection_count": 32,
+        "total_checklists": 618,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0836,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.2264,
+        "4": 0.0885,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L2894035",
+      "name": "Veronica Valley Park",
+      "coordinates": {
+        "latitude": 44.9198654,
+        "longitude": -85.6962332
+      },
+      "occurrence": {
+        "rate": 0.0127,
+        "lift": 8.25,
+        "detection_count": 2,
+        "total_checklists": 157,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0417,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.1053,
+        "10": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L771853",
+      "name": "Sleeping Bear Dunes NL--Sleeping Bear Point",
+      "coordinates": {
+        "latitude": 44.9095902,
+        "longitude": -86.0396411
+      },
+      "occurrence": {
+        "rate": 0.0005,
+        "lift": 0.3,
+        "detection_count": 1,
+        "total_checklists": 2175,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0015,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0057,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.938298Z",
+    "data_version": "Dec-2025"
+  }
+}

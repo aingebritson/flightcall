@@ -1,0 +1,63 @@
+{
+  "species": {
+    "common_name": "Helmeted Guineafowl",
+    "code": "helgui",
+    "scientific_name": "Numida meleagris"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0,
+    "total_detections": 1,
+    "total_checklists_with_species": 1,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 1,
+    "highest_occurrence_rate": 0.0088
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L9676996",
+      "name": "Sleeping Bear Dunes NL--Kettles Trail",
+      "coordinates": {
+        "latitude": 44.8213982,
+        "longitude": -85.9202551
+      },
+      "occurrence": {
+        "rate": 0.0088,
+        "lift": 198.84,
+        "detection_count": 1,
+        "total_checklists": 114,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.027,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0625,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.952629Z",
+    "data_version": "Dec-2025"
+  }
+}

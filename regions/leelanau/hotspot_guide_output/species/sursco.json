@@ -1,0 +1,212 @@
+{
+  "species": {
+    "common_name": "Surf Scoter",
+    "code": "sursco",
+    "scientific_name": "Melanitta perspicillata"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0035,
+    "total_detections": 79,
+    "total_checklists_with_species": 79,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 5
+  },
+  "summary": {
+    "total_hotspots_detected": 5,
+    "total_detections": 79,
+    "highest_occurrence_rate": 0.0478
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1371379",
+      "name": "Sleeping Bear Dunes NL--Glen Haven",
+      "coordinates": {
+        "latitude": 44.9041498,
+        "longitude": -86.0257612
+      },
+      "occurrence": {
+        "rate": 0.0478,
+        "lift": 13.72,
+        "detection_count": 56,
+        "total_checklists": 1171,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0322,
+        "summer": 0.0,
+        "fall": 0.0084,
+        "winter": 0.1379
+      },
+      "monthly": {
+        "1": 0.0246,
+        "2": 0.2846,
+        "3": 0.0603,
+        "4": 0.0275,
+        "5": 0.0099,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.027,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L350754",
+      "name": "Sleeping Bear Dunes NL (Leelanau Co.)",
+      "coordinates": {
+        "latitude": 44.9575636,
+        "longitude": -85.92324
+      },
+      "occurrence": {
+        "rate": 0.0326,
+        "lift": 9.36,
+        "detection_count": 3,
+        "total_checklists": 92,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 3.7,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.0455,
+        "summer": 0.0,
+        "fall": 0.0323
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.1667,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L3157668",
+      "name": "Peterson Park",
+      "coordinates": {
+        "latitude": 45.1536031,
+        "longitude": -85.6472951
+      },
+      "occurrence": {
+        "rate": 0.0179,
+        "lift": 5.12,
+        "detection_count": 3,
+        "total_checklists": 168,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.7,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0698,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.2308,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L1667058",
+      "name": "North Manitou Island--Dimmick's Point",
+      "coordinates": {
+        "latitude": 45.0593874,
+        "longitude": -85.9631048
+      },
+      "occurrence": {
+        "rate": 0.01,
+        "lift": 2.87,
+        "detection_count": 1,
+        "total_checklists": 100,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.0,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0244,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0357,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L771853",
+      "name": "Sleeping Bear Dunes NL--Sleeping Bear Point",
+      "coordinates": {
+        "latitude": 44.9095902,
+        "longitude": -86.0396411
+      },
+      "occurrence": {
+        "rate": 0.0074,
+        "lift": 2.11,
+        "detection_count": 16,
+        "total_checklists": 2175,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.6,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0228,
+        "winter": 0.0053
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0152,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0854,
+        "11": 0.0125,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.935256Z",
+    "data_version": "Dec-2025"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "species": {
+    "common_name": "Northern Saw-whet Owl",
+    "code": "norowl",
+    "scientific_name": "Aegolius acadicus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0002,
+    "total_detections": 5,
+    "total_checklists_with_species": 5,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 4
+  },
+  "summary": {
+    "total_hotspots_detected": 4,
+    "total_detections": 5,
+    "highest_occurrence_rate": 0.0152
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L19657677",
+      "name": "Cedar River Preserve--Schomberg Rd. access",
+      "coordinates": {
+        "latitude": 44.8511515,
+        "longitude": -85.78839
+      },
+      "occurrence": {
+        "rate": 0.0152,
+        "lift": 68.69,
+        "detection_count": 1,
+        "total_checklists": 66,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.1,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.3333,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L3773766",
+      "name": "Sleeping Bears Dunes NL--D.H. Day CG",
+      "coordinates": {
+        "latitude": 44.899371,
+        "longitude": -86.0208678
+      },
+      "occurrence": {
+        "rate": 0.0123,
+        "lift": 55.63,
+        "detection_count": 2,
+        "total_checklists": 163,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0526
+      },
+      "monthly": {
+        "3": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0909,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L1667058",
+      "name": "North Manitou Island--Dimmick's Point",
+      "coordinates": {
+        "latitude": 45.0593874,
+        "longitude": -85.9631048
+      },
+      "occurrence": {
+        "rate": 0.01,
+        "lift": 45.34,
+        "detection_count": 1,
+        "total_checklists": 100,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0244,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0769,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L569413",
+      "name": "Kehl Lake Natural Area",
+      "coordinates": {
+        "latitude": 45.1692249,
+        "longitude": -85.6009841
+      },
+      "occurrence": {
+        "rate": 0.0038,
+        "lift": 17.24,
+        "detection_count": 1,
+        "total_checklists": 263,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0147,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.1,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.936655Z",
+    "data_version": "Dec-2025"
+  }
+}

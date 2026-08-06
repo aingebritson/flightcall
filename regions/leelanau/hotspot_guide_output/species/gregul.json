@@ -1,0 +1,216 @@
+{
+  "species": {
+    "common_name": "Great Black-backed Gull",
+    "code": "gregul",
+    "scientific_name": "Larus marinus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0014,
+    "total_detections": 32,
+    "total_checklists_with_species": 32,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 5
+  },
+  "summary": {
+    "total_hotspots_detected": 5,
+    "total_detections": 32,
+    "highest_occurrence_rate": 0.1
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1667058",
+      "name": "North Manitou Island--Dimmick's Point",
+      "coordinates": {
+        "latitude": 45.0593874,
+        "longitude": -85.9631048
+      },
+      "occurrence": {
+        "rate": 0.1,
+        "lift": 70.84,
+        "detection_count": 10,
+        "total_checklists": 100,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.1463,
+        "summer": 0.093,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0769,
+        "5": 0.1786,
+        "6": 0.1364,
+        "7": 0.0476,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L619011",
+      "name": "Leelanau SP--North",
+      "coordinates": {
+        "latitude": 45.21025,
+        "longitude": -85.54933
+      },
+      "occurrence": {
+        "rate": 0.0088,
+        "lift": 6.26,
+        "detection_count": 5,
+        "total_checklists": 566,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0289,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0472,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L771853",
+      "name": "Sleeping Bear Dunes NL--Sleeping Bear Point",
+      "coordinates": {
+        "latitude": 44.9095902,
+        "longitude": -86.0396411
+      },
+      "occurrence": {
+        "rate": 0.0046,
+        "lift": 3.26,
+        "detection_count": 10,
+        "total_checklists": 2175,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0105,
+        "summer": 0.0026,
+        "fall": 0.003,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0244,
+        "5": 0.0064,
+        "6": 0.0024,
+        "7": 0.0029,
+        "8": 0.0,
+        "9": 0.0115,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L1371379",
+      "name": "Sleeping Bear Dunes NL--Glen Haven",
+      "coordinates": {
+        "latitude": 44.9041498,
+        "longitude": -86.0257612
+      },
+      "occurrence": {
+        "rate": 0.0043,
+        "lift": 3.02,
+        "detection_count": 5,
+        "total_checklists": 1171,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0023,
+        "summer": 0.0,
+        "fall": 0.0126,
+        "winter": 0.0034
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0077,
+        "3": 0.0,
+        "4": 0.0046,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.027,
+        "11": 0.0154,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L2705544",
+      "name": "Leland harbor",
+      "coordinates": {
+        "latitude": 45.0241068,
+        "longitude": -85.7619274
+      },
+      "occurrence": {
+        "rate": 0.003,
+        "lift": 2.13,
+        "detection_count": 2,
+        "total_checklists": 666,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.009,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0303,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.947744Z",
+    "data_version": "Dec-2025"
+  }
+}

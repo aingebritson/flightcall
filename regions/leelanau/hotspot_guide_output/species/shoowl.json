@@ -1,0 +1,135 @@
+{
+  "species": {
+    "common_name": "Short-eared Owl",
+    "code": "shoowl",
+    "scientific_name": "Asio flammeus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0003,
+    "total_detections": 6,
+    "total_checklists_with_species": 6,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 6,
+    "highest_occurrence_rate": 0.0312
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L619015",
+      "name": "North Manitou Island",
+      "coordinates": {
+        "latitude": 45.11346,
+        "longitude": -86.0202
+      },
+      "occurrence": {
+        "rate": 0.0312,
+        "lift": 118.06,
+        "detection_count": 1,
+        "total_checklists": 32,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "summer": 0.0,
+        "fall": 0.0588
+      },
+      "monthly": {
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1371379",
+      "name": "Sleeping Bear Dunes NL--Glen Haven",
+      "coordinates": {
+        "latitude": 44.9041498,
+        "longitude": -86.0257612
+      },
+      "occurrence": {
+        "rate": 0.0034,
+        "lift": 12.91,
+        "detection_count": 4,
+        "total_checklists": 1171,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0092,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0183,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L771853",
+      "name": "Sleeping Bear Dunes NL--Sleeping Bear Point",
+      "coordinates": {
+        "latitude": 44.9095902,
+        "longitude": -86.0396411
+      },
+      "occurrence": {
+        "rate": 0.0005,
+        "lift": 1.74,
+        "detection_count": 1,
+        "total_checklists": 2175,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0018,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0061,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.894499Z",
+    "data_version": "Dec-2025"
+  }
+}

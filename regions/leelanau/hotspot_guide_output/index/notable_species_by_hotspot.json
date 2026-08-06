@@ -1,0 +1,4980 @@
+{
+  "generated_at": "2026-08-06T15:51:00.070299Z",
+  "description": "Top 10 notable species per hotspot (lift > 2.0, detections > 5)",
+  "thresholds": {
+    "min_lift": 2.0,
+    "min_detections": 5
+  },
+  "hotspots": {
+    "L860256": {
+      "name": "South Manitou Island",
+      "notable_species": [
+        {
+          "common_name": "Common Tern",
+          "code": "comter",
+          "occurrence_rate": 0.0455,
+          "lift": 18.73,
+          "detection_count": 6
+        },
+        {
+          "common_name": "American Woodcock",
+          "code": "amewoo",
+          "occurrence_rate": 0.0606,
+          "lift": 10.33,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Broad-winged Hawk",
+          "code": "brohaw",
+          "occurrence_rate": 0.1061,
+          "lift": 9.73,
+          "detection_count": 14
+        },
+        {
+          "common_name": "Veery",
+          "code": "veeryv",
+          "occurrence_rate": 0.2045,
+          "lift": 8.43,
+          "detection_count": 27
+        },
+        {
+          "common_name": "Blackpoll Warbler",
+          "code": "blawa3",
+          "occurrence_rate": 0.053,
+          "lift": 6.83,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Double-crested Cormorant",
+          "code": "doucor",
+          "occurrence_rate": 0.7424,
+          "lift": 6.04,
+          "detection_count": 98
+        },
+        {
+          "common_name": "Bay-breasted Warbler",
+          "code": "baywar",
+          "occurrence_rate": 0.0455,
+          "lift": 5.05,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Black-throated Blue Warbler",
+          "code": "blwarb",
+          "occurrence_rate": 0.1591,
+          "lift": 4.79,
+          "detection_count": 21
+        },
+        {
+          "common_name": "Merlin",
+          "code": "merlin",
+          "occurrence_rate": 0.1667,
+          "lift": 4.57,
+          "detection_count": 22
+        },
+        {
+          "common_name": "Wilson's Warbler",
+          "code": "wilwar",
+          "occurrence_rate": 0.053,
+          "lift": 4.12,
+          "detection_count": 7
+        }
+      ]
+    },
+    "L1186586": {
+      "name": "Sleeping Bear Dunes NL--Pyramid Point Trail",
+      "notable_species": [
+        {
+          "common_name": "Wood Thrush",
+          "code": "woothr",
+          "occurrence_rate": 0.2524,
+          "lift": 5.72,
+          "detection_count": 80
+        },
+        {
+          "common_name": "Black-throated Blue Warbler",
+          "code": "blwarb",
+          "occurrence_rate": 0.1672,
+          "lift": 5.03,
+          "detection_count": 53
+        },
+        {
+          "common_name": "Bank Swallow",
+          "code": "banswa",
+          "occurrence_rate": 0.0757,
+          "lift": 5.03,
+          "detection_count": 24
+        },
+        {
+          "common_name": "Osprey",
+          "code": "osprey",
+          "occurrence_rate": 0.0189,
+          "lift": 4.71,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Barred Owl",
+          "code": "barowl",
+          "occurrence_rate": 0.0347,
+          "lift": 4.12,
+          "detection_count": 11
+        },
+        {
+          "common_name": "Indigo Bunting",
+          "code": "indbun",
+          "occurrence_rate": 0.5205,
+          "lift": 3.82,
+          "detection_count": 165
+        },
+        {
+          "common_name": "Ovenbird",
+          "code": "ovenbi",
+          "occurrence_rate": 0.4322,
+          "lift": 3.68,
+          "detection_count": 137
+        },
+        {
+          "common_name": "Black-throated Green Warbler",
+          "code": "blacwa",
+          "occurrence_rate": 0.3722,
+          "lift": 3.66,
+          "detection_count": 118
+        },
+        {
+          "common_name": "Scarlet Tanager",
+          "code": "scatan",
+          "occurrence_rate": 0.265,
+          "lift": 3.56,
+          "detection_count": 84
+        },
+        {
+          "common_name": "Northern Parula",
+          "code": "norpar",
+          "occurrence_rate": 0.0379,
+          "lift": 2.96,
+          "detection_count": 12
+        }
+      ]
+    },
+    "L883028": {
+      "name": "Harbor West Yacht Club (Greilickville)",
+      "notable_species": [
+        {
+          "common_name": "Purple Martin",
+          "code": "purmar",
+          "occurrence_rate": 0.0515,
+          "lift": 32.41,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Redhead",
+          "code": "redhea",
+          "occurrence_rate": 0.5221,
+          "lift": 15.51,
+          "detection_count": 71
+        },
+        {
+          "common_name": "Greater Scaup",
+          "code": "gresca",
+          "occurrence_rate": 0.3088,
+          "lift": 13.59,
+          "detection_count": 42
+        },
+        {
+          "common_name": "Mute Swan",
+          "code": "mutswa",
+          "occurrence_rate": 0.3235,
+          "lift": 12.6,
+          "detection_count": 44
+        },
+        {
+          "common_name": "Common Goldeneye",
+          "code": "comgol",
+          "occurrence_rate": 0.4706,
+          "lift": 8.02,
+          "detection_count": 64
+        },
+        {
+          "common_name": "American Black Duck",
+          "code": "ameduc",
+          "occurrence_rate": 0.1103,
+          "lift": 7.84,
+          "detection_count": 15
+        },
+        {
+          "common_name": "Lesser Scaup",
+          "code": "lessca",
+          "occurrence_rate": 0.0882,
+          "lift": 7.41,
+          "detection_count": 12
+        },
+        {
+          "common_name": "House Sparrow",
+          "code": "houspa",
+          "occurrence_rate": 0.0809,
+          "lift": 4.49,
+          "detection_count": 11
+        },
+        {
+          "common_name": "Hooded Merganser",
+          "code": "hoomer",
+          "occurrence_rate": 0.2132,
+          "lift": 4.26,
+          "detection_count": 29
+        },
+        {
+          "common_name": "Bufflehead",
+          "code": "buffle",
+          "occurrence_rate": 0.3235,
+          "lift": 3.72,
+          "detection_count": 44
+        }
+      ]
+    },
+    "L490116": {
+      "name": "Little Glen Park",
+      "notable_species": [
+        {
+          "common_name": "Western Cattle-Egret",
+          "code": "wesegr",
+          "occurrence_rate": 0.003,
+          "lift": 11.31,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Sedge Wren",
+          "code": "sedwre",
+          "occurrence_rate": 0.0808,
+          "lift": 9.96,
+          "detection_count": 162
+        },
+        {
+          "common_name": "Least Bittern",
+          "code": "leabit",
+          "occurrence_rate": 0.0494,
+          "lift": 9.33,
+          "detection_count": 99
+        },
+        {
+          "common_name": "Common Gallinule",
+          "code": "comgal",
+          "occurrence_rate": 0.0105,
+          "lift": 9.14,
+          "detection_count": 21
+        },
+        {
+          "common_name": "Great Egret",
+          "code": "greegr",
+          "occurrence_rate": 0.0614,
+          "lift": 8.0,
+          "detection_count": 123
+        },
+        {
+          "common_name": "Marsh Wren",
+          "code": "marwre",
+          "occurrence_rate": 0.0479,
+          "lift": 6.92,
+          "detection_count": 96
+        },
+        {
+          "common_name": "Stilt Sandpiper",
+          "code": "stisan",
+          "occurrence_rate": 0.0095,
+          "lift": 6.32,
+          "detection_count": 19
+        },
+        {
+          "common_name": "Trumpeter Swan",
+          "code": "truswa",
+          "occurrence_rate": 0.4406,
+          "lift": 6.12,
+          "detection_count": 883
+        },
+        {
+          "common_name": "Ruddy Duck",
+          "code": "rudduc",
+          "occurrence_rate": 0.016,
+          "lift": 5.93,
+          "detection_count": 32
+        },
+        {
+          "common_name": "Ring-necked Duck",
+          "code": "rinduc",
+          "occurrence_rate": 0.2819,
+          "lift": 5.62,
+          "detection_count": 565
+        }
+      ]
+    },
+    "L10876613": {
+      "name": "Glen Lake",
+      "notable_species": [
+        {
+          "common_name": "Common Goldeneye",
+          "code": "comgol",
+          "occurrence_rate": 0.5714,
+          "lift": 9.74,
+          "detection_count": 48
+        },
+        {
+          "common_name": "Bonaparte's Gull",
+          "code": "bongul",
+          "occurrence_rate": 0.1786,
+          "lift": 9.12,
+          "detection_count": 15
+        },
+        {
+          "common_name": "Greater Scaup",
+          "code": "gresca",
+          "occurrence_rate": 0.1429,
+          "lift": 6.29,
+          "detection_count": 12
+        },
+        {
+          "common_name": "Redhead",
+          "code": "redhea",
+          "occurrence_rate": 0.1786,
+          "lift": 5.31,
+          "detection_count": 15
+        },
+        {
+          "common_name": "Bufflehead",
+          "code": "buffle",
+          "occurrence_rate": 0.4524,
+          "lift": 5.19,
+          "detection_count": 38
+        },
+        {
+          "common_name": "Common Merganser",
+          "code": "commer",
+          "occurrence_rate": 0.4881,
+          "lift": 2.94,
+          "detection_count": 41
+        },
+        {
+          "common_name": "Mute Swan",
+          "code": "mutswa",
+          "occurrence_rate": 0.0714,
+          "lift": 2.78,
+          "detection_count": 6
+        },
+        {
+          "common_name": "American Herring Gull",
+          "code": "amegul",
+          "occurrence_rate": 0.369,
+          "lift": 2.16,
+          "detection_count": 31
+        }
+      ]
+    },
+    "L2154245": {
+      "name": "Suttons Bay Sewage Ponds",
+      "notable_species": [
+        {
+          "common_name": "Cackling Goose",
+          "code": "cacgoo",
+          "occurrence_rate": 0.0244,
+          "lift": 46.07,
+          "detection_count": 10
+        },
+        {
+          "common_name": "Stilt Sandpiper",
+          "code": "stisan",
+          "occurrence_rate": 0.022,
+          "lift": 14.64,
+          "detection_count": 9
+        },
+        {
+          "common_name": "Northern Pintail",
+          "code": "norpin",
+          "occurrence_rate": 0.0317,
+          "lift": 9.58,
+          "detection_count": 13
+        },
+        {
+          "common_name": "Solitary Sandpiper",
+          "code": "solsan",
+          "occurrence_rate": 0.139,
+          "lift": 8.93,
+          "detection_count": 57
+        },
+        {
+          "common_name": "Rusty Blackbird",
+          "code": "rusbla",
+          "occurrence_rate": 0.1024,
+          "lift": 8.29,
+          "detection_count": 42
+        },
+        {
+          "common_name": "Hooded Merganser",
+          "code": "hoomer",
+          "occurrence_rate": 0.3707,
+          "lift": 7.41,
+          "detection_count": 152
+        },
+        {
+          "common_name": "Redhead",
+          "code": "redhea",
+          "occurrence_rate": 0.2415,
+          "lift": 7.17,
+          "detection_count": 99
+        },
+        {
+          "common_name": "Wilson's Snipe",
+          "code": "wilsni",
+          "occurrence_rate": 0.0659,
+          "lift": 6.0,
+          "detection_count": 27
+        },
+        {
+          "common_name": "Ruddy Duck",
+          "code": "rudduc",
+          "occurrence_rate": 0.0146,
+          "lift": 5.44,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Pectoral Sandpiper",
+          "code": "pecsan",
+          "occurrence_rate": 0.0122,
+          "lift": 5.32,
+          "detection_count": 5
+        }
+      ]
+    },
+    "L263739": {
+      "name": "Good Harbor Bay Trail",
+      "notable_species": [
+        {
+          "common_name": "Prairie Warbler",
+          "code": "prawar",
+          "occurrence_rate": 0.0996,
+          "lift": 15.35,
+          "detection_count": 46
+        },
+        {
+          "common_name": "Hermit Thrush",
+          "code": "herthr",
+          "occurrence_rate": 0.303,
+          "lift": 8.78,
+          "detection_count": 140
+        },
+        {
+          "common_name": "Blue-headed Vireo",
+          "code": "bluvir",
+          "occurrence_rate": 0.1082,
+          "lift": 5.68,
+          "detection_count": 50
+        },
+        {
+          "common_name": "Pine Warbler",
+          "code": "pinwar",
+          "occurrence_rate": 0.4481,
+          "lift": 4.16,
+          "detection_count": 207
+        },
+        {
+          "common_name": "Caspian Tern",
+          "code": "caster",
+          "occurrence_rate": 0.1494,
+          "lift": 3.39,
+          "detection_count": 69
+        },
+        {
+          "common_name": "Eastern Wood-Pewee",
+          "code": "easpew",
+          "occurrence_rate": 0.3377,
+          "lift": 2.7,
+          "detection_count": 156
+        },
+        {
+          "common_name": "Brown Creeper",
+          "code": "brocre",
+          "occurrence_rate": 0.1342,
+          "lift": 2.68,
+          "detection_count": 62
+        },
+        {
+          "common_name": "Yellow-rumped Warbler",
+          "code": "yelwar",
+          "occurrence_rate": 0.2511,
+          "lift": 2.55,
+          "detection_count": 116
+        },
+        {
+          "common_name": "Blackburnian Warbler",
+          "code": "blawa2",
+          "occurrence_rate": 0.0671,
+          "lift": 2.43,
+          "detection_count": 31
+        },
+        {
+          "common_name": "Barred Owl",
+          "code": "barowl",
+          "occurrence_rate": 0.0195,
+          "lift": 2.31,
+          "detection_count": 9
+        }
+      ]
+    },
+    "L883097": {
+      "name": "Suttons Bay Boardwalk",
+      "notable_species": [
+        {
+          "common_name": "Mute Swan",
+          "code": "mutswa",
+          "occurrence_rate": 0.245,
+          "lift": 9.54,
+          "detection_count": 98
+        },
+        {
+          "common_name": "Redhead",
+          "code": "redhea",
+          "occurrence_rate": 0.27,
+          "lift": 8.02,
+          "detection_count": 108
+        },
+        {
+          "common_name": "Greater Scaup",
+          "code": "gresca",
+          "occurrence_rate": 0.1525,
+          "lift": 6.71,
+          "detection_count": 61
+        },
+        {
+          "common_name": "Bufflehead",
+          "code": "buffle",
+          "occurrence_rate": 0.4125,
+          "lift": 4.74,
+          "detection_count": 165
+        },
+        {
+          "common_name": "Common Goldeneye",
+          "code": "comgol",
+          "occurrence_rate": 0.26,
+          "lift": 4.43,
+          "detection_count": 104
+        },
+        {
+          "common_name": "American Tree Sparrow",
+          "code": "amespa",
+          "occurrence_rate": 0.0925,
+          "lift": 3.39,
+          "detection_count": 37
+        },
+        {
+          "common_name": "Red-breasted Merganser",
+          "code": "redmer",
+          "occurrence_rate": 0.1775,
+          "lift": 3.09,
+          "detection_count": 71
+        },
+        {
+          "common_name": "Barn Swallow",
+          "code": "barswa",
+          "occurrence_rate": 0.23,
+          "lift": 3.0,
+          "detection_count": 92
+        },
+        {
+          "common_name": "Northern Rough-winged Swallow",
+          "code": "norswa",
+          "occurrence_rate": 0.045,
+          "lift": 2.94,
+          "detection_count": 18
+        },
+        {
+          "common_name": "House Sparrow",
+          "code": "houspa",
+          "occurrence_rate": 0.0525,
+          "lift": 2.92,
+          "detection_count": 21
+        }
+      ]
+    },
+    "L883111": {
+      "name": "Omena Beach & Bay",
+      "notable_species": [
+        {
+          "common_name": "Double-crested Cormorant",
+          "code": "doucor",
+          "occurrence_rate": 0.3483,
+          "lift": 2.84,
+          "detection_count": 31
+        }
+      ]
+    },
+    "L619011": {
+      "name": "Leelanau SP--North",
+      "notable_species": [
+        {
+          "common_name": "Northern Parula",
+          "code": "norpar",
+          "occurrence_rate": 0.106,
+          "lift": 8.29,
+          "detection_count": 60
+        },
+        {
+          "common_name": "Cape May Warbler",
+          "code": "capwar",
+          "occurrence_rate": 0.1078,
+          "lift": 7.78,
+          "detection_count": 61
+        },
+        {
+          "common_name": "Bay-breasted Warbler",
+          "code": "baywar",
+          "occurrence_rate": 0.0601,
+          "lift": 6.67,
+          "detection_count": 34
+        },
+        {
+          "common_name": "Blackpoll Warbler",
+          "code": "blawa3",
+          "occurrence_rate": 0.0512,
+          "lift": 6.6,
+          "detection_count": 29
+        },
+        {
+          "common_name": "Great Black-backed Gull",
+          "code": "gregul",
+          "occurrence_rate": 0.0088,
+          "lift": 6.26,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Golden-winged Warbler",
+          "code": "golwar",
+          "occurrence_rate": 0.0124,
+          "lift": 5.29,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Tennessee Warbler",
+          "code": "tenwar",
+          "occurrence_rate": 0.0954,
+          "lift": 5.09,
+          "detection_count": 54
+        },
+        {
+          "common_name": "Philadelphia Vireo",
+          "code": "phivir",
+          "occurrence_rate": 0.0088,
+          "lift": 4.77,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Magnolia Warbler",
+          "code": "magwar",
+          "occurrence_rate": 0.1113,
+          "lift": 4.28,
+          "detection_count": 63
+        },
+        {
+          "common_name": "Palm Warbler",
+          "code": "palwar",
+          "occurrence_rate": 0.1555,
+          "lift": 4.17,
+          "detection_count": 88
+        }
+      ]
+    },
+    "L860255": {
+      "name": "Leelanau SP--South",
+      "notable_species": [
+        {
+          "common_name": "Virginia Rail",
+          "code": "virrai",
+          "occurrence_rate": 0.1352,
+          "lift": 12.61,
+          "detection_count": 43
+        },
+        {
+          "common_name": "Common Tern",
+          "code": "comter",
+          "occurrence_rate": 0.0157,
+          "lift": 6.48,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Black-throated Blue Warbler",
+          "code": "blwarb",
+          "occurrence_rate": 0.1855,
+          "lift": 5.59,
+          "detection_count": 59
+        },
+        {
+          "common_name": "Swamp Sparrow",
+          "code": "swaspa",
+          "occurrence_rate": 0.2704,
+          "lift": 4.96,
+          "detection_count": 86
+        },
+        {
+          "common_name": "Broad-winged Hawk",
+          "code": "brohaw",
+          "occurrence_rate": 0.0472,
+          "lift": 4.33,
+          "detection_count": 15
+        },
+        {
+          "common_name": "Sora",
+          "code": "soraso",
+          "occurrence_rate": 0.0849,
+          "lift": 4.25,
+          "detection_count": 27
+        },
+        {
+          "common_name": "Alder Flycatcher",
+          "code": "aldfly",
+          "occurrence_rate": 0.0503,
+          "lift": 4.16,
+          "detection_count": 16
+        },
+        {
+          "common_name": "American Bittern",
+          "code": "amebit",
+          "occurrence_rate": 0.022,
+          "lift": 3.87,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Marsh Wren",
+          "code": "marwre",
+          "occurrence_rate": 0.0252,
+          "lift": 3.63,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Wood Thrush",
+          "code": "woothr",
+          "occurrence_rate": 0.1415,
+          "lift": 3.21,
+          "detection_count": 45
+        }
+      ]
+    },
+    "L619015": {
+      "name": "North Manitou Island",
+      "notable_species": [
+        {
+          "common_name": "American Woodcock",
+          "code": "amewoo",
+          "occurrence_rate": 0.1562,
+          "lift": 26.63,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Swainson's Thrush",
+          "code": "swathr",
+          "occurrence_rate": 0.1562,
+          "lift": 11.69,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Sanderling",
+          "code": "sander",
+          "occurrence_rate": 0.1562,
+          "lift": 11.43,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Veery",
+          "code": "veeryv",
+          "occurrence_rate": 0.2188,
+          "lift": 9.02,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Chimney Swift",
+          "code": "chiswi",
+          "occurrence_rate": 0.2188,
+          "lift": 8.31,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Palm Warbler",
+          "code": "palwar",
+          "occurrence_rate": 0.1875,
+          "lift": 5.02,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Caspian Tern",
+          "code": "caster",
+          "occurrence_rate": 0.2188,
+          "lift": 4.97,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Spotted Sandpiper",
+          "code": "sposan",
+          "occurrence_rate": 0.1875,
+          "lift": 4.63,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Barn Swallow",
+          "code": "barswa",
+          "occurrence_rate": 0.3438,
+          "lift": 4.48,
+          "detection_count": 11
+        },
+        {
+          "common_name": "Double-crested Cormorant",
+          "code": "doucor",
+          "occurrence_rate": 0.5312,
+          "lift": 4.33,
+          "detection_count": 17
+        }
+      ]
+    },
+    "L883118": {
+      "name": "Northport (town)",
+      "notable_species": [
+        {
+          "common_name": "House Sparrow",
+          "code": "houspa",
+          "occurrence_rate": 0.1696,
+          "lift": 9.42,
+          "detection_count": 39
+        },
+        {
+          "common_name": "Chimney Swift",
+          "code": "chiswi",
+          "occurrence_rate": 0.1913,
+          "lift": 7.26,
+          "detection_count": 44
+        },
+        {
+          "common_name": "Barn Swallow",
+          "code": "barswa",
+          "occurrence_rate": 0.3043,
+          "lift": 3.97,
+          "detection_count": 70
+        },
+        {
+          "common_name": "Redhead",
+          "code": "redhea",
+          "occurrence_rate": 0.113,
+          "lift": 3.36,
+          "detection_count": 26
+        },
+        {
+          "common_name": "House Finch",
+          "code": "houfin",
+          "occurrence_rate": 0.1609,
+          "lift": 3.33,
+          "detection_count": 37
+        },
+        {
+          "common_name": "Mute Swan",
+          "code": "mutswa",
+          "occurrence_rate": 0.0826,
+          "lift": 3.22,
+          "detection_count": 19
+        },
+        {
+          "common_name": "Greater Scaup",
+          "code": "gresca",
+          "occurrence_rate": 0.0652,
+          "lift": 2.87,
+          "detection_count": 15
+        },
+        {
+          "common_name": "American Black Duck",
+          "code": "ameduc",
+          "occurrence_rate": 0.0391,
+          "lift": 2.78,
+          "detection_count": 9
+        },
+        {
+          "common_name": "Common Goldeneye",
+          "code": "comgol",
+          "occurrence_rate": 0.1435,
+          "lift": 2.45,
+          "detection_count": 33
+        },
+        {
+          "common_name": "Double-crested Cormorant",
+          "code": "doucor",
+          "occurrence_rate": 0.3,
+          "lift": 2.44,
+          "detection_count": 69
+        }
+      ]
+    },
+    "L2705544": {
+      "name": "Leland harbor",
+      "notable_species": [
+        {
+          "common_name": "Glaucous Gull",
+          "code": "glagul",
+          "occurrence_rate": 0.0315,
+          "lift": 19.85,
+          "detection_count": 21
+        },
+        {
+          "common_name": "House Sparrow",
+          "code": "houspa",
+          "occurrence_rate": 0.1982,
+          "lift": 11.01,
+          "detection_count": 132
+        },
+        {
+          "common_name": "Wood Duck",
+          "code": "wooduc",
+          "occurrence_rate": 0.5661,
+          "lift": 4.09,
+          "detection_count": 377
+        },
+        {
+          "common_name": "Double-crested Cormorant",
+          "code": "doucor",
+          "occurrence_rate": 0.2613,
+          "lift": 2.13,
+          "detection_count": 174
+        },
+        {
+          "common_name": "Belted Kingfisher",
+          "code": "belkin",
+          "occurrence_rate": 0.3048,
+          "lift": 2.03,
+          "detection_count": 203
+        }
+      ]
+    },
+    "L350754": {
+      "name": "Sleeping Bear Dunes NL (Leelanau Co.)",
+      "notable_species": [
+        {
+          "common_name": "Wild Turkey",
+          "code": "wiltur",
+          "occurrence_rate": 0.1957,
+          "lift": 5.66,
+          "detection_count": 18
+        },
+        {
+          "common_name": "Bobolink",
+          "code": "boboli",
+          "occurrence_rate": 0.0761,
+          "lift": 5.23,
+          "detection_count": 7
+        },
+        {
+          "common_name": "American Kestrel",
+          "code": "amekes",
+          "occurrence_rate": 0.1413,
+          "lift": 4.27,
+          "detection_count": 13
+        },
+        {
+          "common_name": "Northern Rough-winged Swallow",
+          "code": "norswa",
+          "occurrence_rate": 0.0652,
+          "lift": 4.26,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Mute Swan",
+          "code": "mutswa",
+          "occurrence_rate": 0.1087,
+          "lift": 4.23,
+          "detection_count": 10
+        },
+        {
+          "common_name": "Savannah Sparrow",
+          "code": "savspa",
+          "occurrence_rate": 0.0978,
+          "lift": 4.12,
+          "detection_count": 9
+        },
+        {
+          "common_name": "Vesper Sparrow",
+          "code": "vesspa",
+          "occurrence_rate": 0.1413,
+          "lift": 4.06,
+          "detection_count": 13
+        },
+        {
+          "common_name": "Caspian Tern",
+          "code": "caster",
+          "occurrence_rate": 0.1739,
+          "lift": 3.95,
+          "detection_count": 16
+        },
+        {
+          "common_name": "American Black Duck",
+          "code": "ameduc",
+          "occurrence_rate": 0.0543,
+          "lift": 3.86,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Bank Swallow",
+          "code": "banswa",
+          "occurrence_rate": 0.0543,
+          "lift": 3.61,
+          "detection_count": 5
+        }
+      ]
+    },
+    "L1811921": {
+      "name": "Sleeping Bear Dunes NL--Pierce Stocking Scenic Dr.",
+      "notable_species": [
+        {
+          "common_name": "Hooded Warbler",
+          "code": "hoowar",
+          "occurrence_rate": 0.0207,
+          "lift": 6.09,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Wood Thrush",
+          "code": "woothr",
+          "occurrence_rate": 0.2119,
+          "lift": 4.8,
+          "detection_count": 82
+        },
+        {
+          "common_name": "Northern Parula",
+          "code": "norpar",
+          "occurrence_rate": 0.0594,
+          "lift": 4.65,
+          "detection_count": 23
+        },
+        {
+          "common_name": "Swainson's Thrush",
+          "code": "swathr",
+          "occurrence_rate": 0.0594,
+          "lift": 4.45,
+          "detection_count": 23
+        },
+        {
+          "common_name": "Prairie Warbler",
+          "code": "prawar",
+          "occurrence_rate": 0.0258,
+          "lift": 3.98,
+          "detection_count": 10
+        },
+        {
+          "common_name": "Black-throated Blue Warbler",
+          "code": "blwarb",
+          "occurrence_rate": 0.1292,
+          "lift": 3.89,
+          "detection_count": 50
+        },
+        {
+          "common_name": "Veery",
+          "code": "veeryv",
+          "occurrence_rate": 0.0904,
+          "lift": 3.73,
+          "detection_count": 35
+        },
+        {
+          "common_name": "Yellow-billed Cuckoo",
+          "code": "yelcuc",
+          "occurrence_rate": 0.0129,
+          "lift": 2.96,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Clay-colored Sparrow",
+          "code": "claspa",
+          "occurrence_rate": 0.0181,
+          "lift": 2.87,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Field Sparrow",
+          "code": "fiespa",
+          "occurrence_rate": 0.1189,
+          "lift": 2.85,
+          "detection_count": 46
+        }
+      ]
+    },
+    "L569413": {
+      "name": "Kehl Lake Natural Area",
+      "notable_species": [
+        {
+          "common_name": "Dickcissel",
+          "code": "dickci",
+          "occurrence_rate": 0.0228,
+          "lift": 5.56,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Brown Creeper",
+          "code": "brocre",
+          "occurrence_rate": 0.1939,
+          "lift": 3.87,
+          "detection_count": 51
+        },
+        {
+          "common_name": "Swainson's Thrush",
+          "code": "swathr",
+          "occurrence_rate": 0.0418,
+          "lift": 3.13,
+          "detection_count": 11
+        },
+        {
+          "common_name": "Red-breasted Nuthatch",
+          "code": "rednut",
+          "occurrence_rate": 0.3574,
+          "lift": 2.92,
+          "detection_count": 94
+        },
+        {
+          "common_name": "Winter Wren",
+          "code": "winwre",
+          "occurrence_rate": 0.1293,
+          "lift": 2.59,
+          "detection_count": 34
+        },
+        {
+          "common_name": "Great Blue Heron",
+          "code": "greher",
+          "occurrence_rate": 0.1863,
+          "lift": 2.46,
+          "detection_count": 49
+        },
+        {
+          "common_name": "Blackpoll Warbler",
+          "code": "blawa3",
+          "occurrence_rate": 0.019,
+          "lift": 2.45,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Pine Warbler",
+          "code": "pinwar",
+          "occurrence_rate": 0.2548,
+          "lift": 2.36,
+          "detection_count": 67
+        },
+        {
+          "common_name": "Double-crested Cormorant",
+          "code": "doucor",
+          "occurrence_rate": 0.2776,
+          "lift": 2.26,
+          "detection_count": 73
+        },
+        {
+          "common_name": "Common Loon",
+          "code": "comloo",
+          "occurrence_rate": 0.2091,
+          "lift": 2.22,
+          "detection_count": 55
+        }
+      ]
+    },
+    "L2334420": {
+      "name": "South Port Oneida Rd.",
+      "notable_species": [
+        {
+          "common_name": "Bohemian Waxwing",
+          "code": "bohwax",
+          "occurrence_rate": 0.0476,
+          "lift": 15.2,
+          "detection_count": 40
+        },
+        {
+          "common_name": "Golden Eagle",
+          "code": "goleag",
+          "occurrence_rate": 0.006,
+          "lift": 10.38,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Rough-legged Hawk",
+          "code": "rouhaw",
+          "occurrence_rate": 0.1452,
+          "lift": 9.25,
+          "detection_count": 122
+        },
+        {
+          "common_name": "Northern Shrike",
+          "code": "norshr",
+          "occurrence_rate": 0.0405,
+          "lift": 9.08,
+          "detection_count": 34
+        },
+        {
+          "common_name": "Pine Grosbeak",
+          "code": "pingro",
+          "occurrence_rate": 0.0214,
+          "lift": 8.83,
+          "detection_count": 18
+        },
+        {
+          "common_name": "Northern Harrier",
+          "code": "norhar",
+          "occurrence_rate": 0.1143,
+          "lift": 7.95,
+          "detection_count": 96
+        },
+        {
+          "common_name": "Short-billed Dowitcher",
+          "code": "shodow",
+          "occurrence_rate": 0.0071,
+          "lift": 6.0,
+          "detection_count": 6
+        },
+        {
+          "common_name": "American Bittern",
+          "code": "amebit",
+          "occurrence_rate": 0.0333,
+          "lift": 5.86,
+          "detection_count": 28
+        },
+        {
+          "common_name": "Northern Mockingbird",
+          "code": "normoc",
+          "occurrence_rate": 0.0167,
+          "lift": 5.25,
+          "detection_count": 14
+        },
+        {
+          "common_name": "Bobolink",
+          "code": "boboli",
+          "occurrence_rate": 0.0762,
+          "lift": 5.23,
+          "detection_count": 64
+        }
+      ]
+    },
+    "L19657677": {
+      "name": "Cedar River Preserve--Schomberg Rd. access",
+      "notable_species": [
+        {
+          "common_name": "Alder Flycatcher",
+          "code": "aldfly",
+          "occurrence_rate": 0.1515,
+          "lift": 12.53,
+          "detection_count": 10
+        },
+        {
+          "common_name": "Red-shouldered Hawk",
+          "code": "redhaw",
+          "occurrence_rate": 0.1515,
+          "lift": 4.56,
+          "detection_count": 10
+        },
+        {
+          "common_name": "Swamp Sparrow",
+          "code": "swaspa",
+          "occurrence_rate": 0.1667,
+          "lift": 3.06,
+          "detection_count": 11
+        },
+        {
+          "common_name": "American Kestrel",
+          "code": "amekes",
+          "occurrence_rate": 0.0758,
+          "lift": 2.29,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Eastern Kingbird",
+          "code": "easkin",
+          "occurrence_rate": 0.3182,
+          "lift": 2.23,
+          "detection_count": 21
+        },
+        {
+          "common_name": "Hermit Thrush",
+          "code": "herthr",
+          "occurrence_rate": 0.0758,
+          "lift": 2.2,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Green Heron",
+          "code": "grhero",
+          "occurrence_rate": 0.1667,
+          "lift": 2.11,
+          "detection_count": 11
+        }
+      ]
+    },
+    "L2185066": {
+      "name": "Sleeping Bear Dunes NL--North Bar Lake",
+      "notable_species": [
+        {
+          "common_name": "Spotted Sandpiper",
+          "code": "sposan",
+          "occurrence_rate": 0.2543,
+          "lift": 6.28,
+          "detection_count": 88
+        },
+        {
+          "common_name": "Canada Warbler",
+          "code": "canwar",
+          "occurrence_rate": 0.0462,
+          "lift": 4.31,
+          "detection_count": 16
+        },
+        {
+          "common_name": "Red-headed Woodpecker",
+          "code": "rewood",
+          "occurrence_rate": 0.0549,
+          "lift": 3.69,
+          "detection_count": 19
+        },
+        {
+          "common_name": "Nashville Warbler",
+          "code": "naswar",
+          "occurrence_rate": 0.2139,
+          "lift": 3.62,
+          "detection_count": 74
+        },
+        {
+          "common_name": "Blue-gray Gnatcatcher",
+          "code": "blugna",
+          "occurrence_rate": 0.0202,
+          "lift": 3.47,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Bald Eagle",
+          "code": "baleag",
+          "occurrence_rate": 0.4335,
+          "lift": 3.15,
+          "detection_count": 150
+        },
+        {
+          "common_name": "Wilson's Warbler",
+          "code": "wilwar",
+          "occurrence_rate": 0.0405,
+          "lift": 3.14,
+          "detection_count": 14
+        },
+        {
+          "common_name": "Tennessee Warbler",
+          "code": "tenwar",
+          "occurrence_rate": 0.0578,
+          "lift": 3.08,
+          "detection_count": 20
+        },
+        {
+          "common_name": "Ruffed Grouse",
+          "code": "rufgro",
+          "occurrence_rate": 0.1416,
+          "lift": 2.9,
+          "detection_count": 49
+        },
+        {
+          "common_name": "Palm Warbler",
+          "code": "palwar",
+          "occurrence_rate": 0.1069,
+          "lift": 2.87,
+          "detection_count": 37
+        }
+      ]
+    },
+    "L3773795": {
+      "name": "Sleeping Bear Dunes NL--Dune Crossing Trail",
+      "notable_species": [
+        {
+          "common_name": "Clay-colored Sparrow",
+          "code": "claspa",
+          "occurrence_rate": 0.1791,
+          "lift": 28.39,
+          "detection_count": 24
+        },
+        {
+          "common_name": "Prairie Warbler",
+          "code": "prawar",
+          "occurrence_rate": 0.0746,
+          "lift": 11.51,
+          "detection_count": 10
+        },
+        {
+          "common_name": "Horned Lark",
+          "code": "horlar",
+          "occurrence_rate": 0.0821,
+          "lift": 10.0,
+          "detection_count": 11
+        },
+        {
+          "common_name": "Vesper Sparrow",
+          "code": "vesspa",
+          "occurrence_rate": 0.2313,
+          "lift": 6.65,
+          "detection_count": 31
+        },
+        {
+          "common_name": "Field Sparrow",
+          "code": "fiespa",
+          "occurrence_rate": 0.2537,
+          "lift": 6.08,
+          "detection_count": 34
+        },
+        {
+          "common_name": "Eastern Towhee",
+          "code": "eastow",
+          "occurrence_rate": 0.2463,
+          "lift": 3.59,
+          "detection_count": 33
+        },
+        {
+          "common_name": "Sanderling",
+          "code": "sander",
+          "occurrence_rate": 0.0448,
+          "lift": 3.27,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Piping Plover",
+          "code": "pipplo",
+          "occurrence_rate": 0.1567,
+          "lift": 2.75,
+          "detection_count": 21
+        },
+        {
+          "common_name": "Northern House Wren",
+          "code": "norwre",
+          "occurrence_rate": 0.2164,
+          "lift": 2.66,
+          "detection_count": 29
+        },
+        {
+          "common_name": "Bank Swallow",
+          "code": "banswa",
+          "occurrence_rate": 0.0373,
+          "lift": 2.48,
+          "detection_count": 5
+        }
+      ]
+    },
+    "L3773766": {
+      "name": "Sleeping Bears Dunes NL--D.H. Day CG",
+      "notable_species": [
+        {
+          "common_name": "Eastern Whip-poor-will",
+          "code": "easwil",
+          "occurrence_rate": 0.1104,
+          "lift": 39.73,
+          "detection_count": 18
+        },
+        {
+          "common_name": "Prairie Warbler",
+          "code": "prawar",
+          "occurrence_rate": 0.1166,
+          "lift": 17.97,
+          "detection_count": 19
+        },
+        {
+          "common_name": "Barred Owl",
+          "code": "barowl",
+          "occurrence_rate": 0.0491,
+          "lift": 5.82,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Blackpoll Warbler",
+          "code": "blawa3",
+          "occurrence_rate": 0.0368,
+          "lift": 4.74,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Pine Warbler",
+          "code": "pinwar",
+          "occurrence_rate": 0.4724,
+          "lift": 4.38,
+          "detection_count": 77
+        },
+        {
+          "common_name": "Blackburnian Warbler",
+          "code": "blawa2",
+          "occurrence_rate": 0.0675,
+          "lift": 2.44,
+          "detection_count": 11
+        }
+      ]
+    },
+    "L771853": {
+      "name": "Sleeping Bear Dunes NL--Sleeping Bear Point",
+      "notable_species": [
+        {
+          "common_name": "Franklin's Gull",
+          "code": "fragul",
+          "occurrence_rate": 0.0023,
+          "lift": 10.42,
+          "detection_count": 5
+        },
+        {
+          "common_name": "American Avocet",
+          "code": "ameavo",
+          "occurrence_rate": 0.0023,
+          "lift": 8.69,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Piping Plover",
+          "code": "pipplo",
+          "occurrence_rate": 0.44,
+          "lift": 7.71,
+          "detection_count": 957
+        },
+        {
+          "common_name": "Sanderling",
+          "code": "sander",
+          "occurrence_rate": 0.0901,
+          "lift": 6.59,
+          "detection_count": 196
+        },
+        {
+          "common_name": "American Golden-Plover",
+          "code": "ameplo",
+          "occurrence_rate": 0.0055,
+          "lift": 6.25,
+          "detection_count": 12
+        },
+        {
+          "common_name": "Baird's Sandpiper",
+          "code": "baisan",
+          "occurrence_rate": 0.0184,
+          "lift": 6.22,
+          "detection_count": 40
+        },
+        {
+          "common_name": "Semipalmated Plover",
+          "code": "semplo",
+          "occurrence_rate": 0.0805,
+          "lift": 6.06,
+          "detection_count": 175
+        },
+        {
+          "common_name": "Dunlin",
+          "code": "dunlin",
+          "occurrence_rate": 0.0253,
+          "lift": 5.73,
+          "detection_count": 55
+        },
+        {
+          "common_name": "Semipalmated Sandpiper",
+          "code": "semsan",
+          "occurrence_rate": 0.0483,
+          "lift": 5.44,
+          "detection_count": 105
+        },
+        {
+          "common_name": "Lesser Black-backed Gull",
+          "code": "lesgul",
+          "occurrence_rate": 0.0064,
+          "lift": 5.4,
+          "detection_count": 14
+        }
+      ]
+    },
+    "L1371379": {
+      "name": "Sleeping Bear Dunes NL--Glen Haven",
+      "notable_species": [
+        {
+          "common_name": "Western Grebe",
+          "code": "wesgre",
+          "occurrence_rate": 0.0991,
+          "lift": 16.88,
+          "detection_count": 116
+        },
+        {
+          "common_name": "Surf Scoter",
+          "code": "sursco",
+          "occurrence_rate": 0.0478,
+          "lift": 13.72,
+          "detection_count": 56
+        },
+        {
+          "common_name": "Black Scoter",
+          "code": "blasco",
+          "occurrence_rate": 0.0231,
+          "lift": 12.75,
+          "detection_count": 27
+        },
+        {
+          "common_name": "White-winged Scoter",
+          "code": "whisco",
+          "occurrence_rate": 0.3809,
+          "lift": 10.65,
+          "detection_count": 446
+        },
+        {
+          "common_name": "Red-necked Grebe",
+          "code": "redgre",
+          "occurrence_rate": 0.3091,
+          "lift": 10.2,
+          "detection_count": 362
+        },
+        {
+          "common_name": "Long-tailed Duck",
+          "code": "londuc",
+          "occurrence_rate": 0.2912,
+          "lift": 9.32,
+          "detection_count": 341
+        },
+        {
+          "common_name": "Red-throated Loon",
+          "code": "redloo",
+          "occurrence_rate": 0.0068,
+          "lift": 7.74,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Horned Grebe",
+          "code": "horgre",
+          "occurrence_rate": 0.2895,
+          "lift": 7.28,
+          "detection_count": 339
+        },
+        {
+          "common_name": "Northern Mockingbird",
+          "code": "normoc",
+          "occurrence_rate": 0.0179,
+          "lift": 5.65,
+          "detection_count": 21
+        },
+        {
+          "common_name": "Greater Scaup",
+          "code": "gresca",
+          "occurrence_rate": 0.1076,
+          "lift": 4.74,
+          "detection_count": 126
+        }
+      ]
+    },
+    "L4213656": {
+      "name": "S. Manitou Blvd. terminus",
+      "notable_species": [
+        {
+          "common_name": "Red-necked Grebe",
+          "code": "redgre",
+          "occurrence_rate": 0.3412,
+          "lift": 11.26,
+          "detection_count": 58
+        },
+        {
+          "common_name": "Horned Grebe",
+          "code": "horgre",
+          "occurrence_rate": 0.3824,
+          "lift": 9.61,
+          "detection_count": 65
+        },
+        {
+          "common_name": "Long-tailed Duck",
+          "code": "londuc",
+          "occurrence_rate": 0.2765,
+          "lift": 8.85,
+          "detection_count": 47
+        },
+        {
+          "common_name": "White-winged Scoter",
+          "code": "whisco",
+          "occurrence_rate": 0.2529,
+          "lift": 7.07,
+          "detection_count": 43
+        },
+        {
+          "common_name": "House Finch",
+          "code": "houfin",
+          "occurrence_rate": 0.2176,
+          "lift": 4.51,
+          "detection_count": 37
+        },
+        {
+          "common_name": "Bonaparte's Gull",
+          "code": "bongul",
+          "occurrence_rate": 0.0882,
+          "lift": 4.5,
+          "detection_count": 15
+        },
+        {
+          "common_name": "Red-breasted Merganser",
+          "code": "redmer",
+          "occurrence_rate": 0.1824,
+          "lift": 3.17,
+          "detection_count": 31
+        },
+        {
+          "common_name": "Common Loon",
+          "code": "comloo",
+          "occurrence_rate": 0.2882,
+          "lift": 3.06,
+          "detection_count": 49
+        },
+        {
+          "common_name": "Pine Siskin",
+          "code": "pinsis",
+          "occurrence_rate": 0.0588,
+          "lift": 2.92,
+          "detection_count": 10
+        },
+        {
+          "common_name": "Greater Scaup",
+          "code": "gresca",
+          "occurrence_rate": 0.0588,
+          "lift": 2.59,
+          "detection_count": 10
+        }
+      ]
+    },
+    "L14926093": {
+      "name": "Leland south beach",
+      "notable_species": [
+        {
+          "common_name": "Merlin",
+          "code": "merlin",
+          "occurrence_rate": 0.1475,
+          "lift": 4.05,
+          "detection_count": 59
+        },
+        {
+          "common_name": "Wood Duck",
+          "code": "wooduc",
+          "occurrence_rate": 0.52,
+          "lift": 3.75,
+          "detection_count": 208
+        },
+        {
+          "common_name": "House Sparrow",
+          "code": "houspa",
+          "occurrence_rate": 0.0525,
+          "lift": 2.92,
+          "detection_count": 21
+        },
+        {
+          "common_name": "Belted Kingfisher",
+          "code": "belkin",
+          "occurrence_rate": 0.375,
+          "lift": 2.5,
+          "detection_count": 150
+        },
+        {
+          "common_name": "Mallard",
+          "code": "mallar",
+          "occurrence_rate": 0.5775,
+          "lift": 2.28,
+          "detection_count": 231
+        }
+      ]
+    },
+    "L585267": {
+      "name": "Narada Lake",
+      "notable_species": [
+        {
+          "common_name": "American Coot",
+          "code": "amecoo",
+          "occurrence_rate": 0.0244,
+          "lift": 6.74,
+          "detection_count": 22
+        },
+        {
+          "common_name": "Common Loon",
+          "code": "comloo",
+          "occurrence_rate": 0.5388,
+          "lift": 5.73,
+          "detection_count": 486
+        },
+        {
+          "common_name": "Yellow-throated Vireo",
+          "code": "yelvir",
+          "occurrence_rate": 0.0953,
+          "lift": 4.72,
+          "detection_count": 86
+        },
+        {
+          "common_name": "Trumpeter Swan",
+          "code": "truswa",
+          "occurrence_rate": 0.3215,
+          "lift": 4.47,
+          "detection_count": 290
+        },
+        {
+          "common_name": "Least Flycatcher",
+          "code": "leafly",
+          "occurrence_rate": 0.1907,
+          "lift": 4.25,
+          "detection_count": 172
+        },
+        {
+          "common_name": "Pied-billed Grebe",
+          "code": "piegre",
+          "occurrence_rate": 0.1774,
+          "lift": 4.07,
+          "detection_count": 160
+        },
+        {
+          "common_name": "Eastern Phoebe",
+          "code": "easpho",
+          "occurrence_rate": 0.4401,
+          "lift": 3.9,
+          "detection_count": 397
+        },
+        {
+          "common_name": "Virginia Rail",
+          "code": "virrai",
+          "occurrence_rate": 0.0399,
+          "lift": 3.72,
+          "detection_count": 36
+        },
+        {
+          "common_name": "Willow Flycatcher",
+          "code": "wilfly",
+          "occurrence_rate": 0.01,
+          "lift": 3.59,
+          "detection_count": 9
+        },
+        {
+          "common_name": "Marsh Wren",
+          "code": "marwre",
+          "occurrence_rate": 0.0233,
+          "lift": 3.36,
+          "detection_count": 21
+        }
+      ]
+    },
+    "L1539955": {
+      "name": "Lighthouse West Natural Area",
+      "notable_species": [
+        {
+          "common_name": "Golden-winged Warbler",
+          "code": "golwar",
+          "occurrence_rate": 0.0214,
+          "lift": 9.14,
+          "detection_count": 10
+        },
+        {
+          "common_name": "Cape May Warbler",
+          "code": "capwar",
+          "occurrence_rate": 0.1068,
+          "lift": 7.71,
+          "detection_count": 50
+        },
+        {
+          "common_name": "Magnolia Warbler",
+          "code": "magwar",
+          "occurrence_rate": 0.1902,
+          "lift": 7.32,
+          "detection_count": 89
+        },
+        {
+          "common_name": "Chestnut-sided Warbler",
+          "code": "chewar",
+          "occurrence_rate": 0.3803,
+          "lift": 7.02,
+          "detection_count": 178
+        },
+        {
+          "common_name": "Northern Parula",
+          "code": "norpar",
+          "occurrence_rate": 0.0897,
+          "lift": 7.01,
+          "detection_count": 42
+        },
+        {
+          "common_name": "Bay-breasted Warbler",
+          "code": "baywar",
+          "occurrence_rate": 0.0577,
+          "lift": 6.41,
+          "detection_count": 27
+        },
+        {
+          "common_name": "Nashville Warbler",
+          "code": "naswar",
+          "occurrence_rate": 0.3526,
+          "lift": 5.96,
+          "detection_count": 165
+        },
+        {
+          "common_name": "Palm Warbler",
+          "code": "palwar",
+          "occurrence_rate": 0.2137,
+          "lift": 5.73,
+          "detection_count": 100
+        },
+        {
+          "common_name": "Orange-crowned Warbler",
+          "code": "orawar",
+          "occurrence_rate": 0.0214,
+          "lift": 5.7,
+          "detection_count": 10
+        },
+        {
+          "common_name": "White-throated Sparrow",
+          "code": "whspar",
+          "occurrence_rate": 0.3996,
+          "lift": 5.63,
+          "detection_count": 187
+        }
+      ]
+    },
+    "L883108": {
+      "name": "Graham-Greene Park",
+      "notable_species": [
+        {
+          "common_name": "Double-crested Cormorant",
+          "code": "doucor",
+          "occurrence_rate": 0.3182,
+          "lift": 2.59,
+          "detection_count": 7
+        },
+        {
+          "common_name": "White-breasted Nuthatch",
+          "code": "whinut",
+          "occurrence_rate": 0.2273,
+          "lift": 2.22,
+          "detection_count": 5
+        }
+      ]
+    },
+    "L883122": {
+      "name": "Woolsey Memorial Airport",
+      "notable_species": [
+        {
+          "common_name": "Indigo Bunting",
+          "code": "indbun",
+          "occurrence_rate": 0.3333,
+          "lift": 2.45,
+          "detection_count": 8
+        }
+      ]
+    },
+    "L883142": {
+      "name": "N. Howell Rd. fields",
+      "notable_species": [
+        {
+          "common_name": "Snowy Owl",
+          "code": "snoowl",
+          "occurrence_rate": 0.1159,
+          "lift": 57.13,
+          "detection_count": 16
+        },
+        {
+          "common_name": "Savannah Sparrow",
+          "code": "savspa",
+          "occurrence_rate": 0.1522,
+          "lift": 6.41,
+          "detection_count": 21
+        },
+        {
+          "common_name": "Bobolink",
+          "code": "boboli",
+          "occurrence_rate": 0.0797,
+          "lift": 5.48,
+          "detection_count": 11
+        },
+        {
+          "common_name": "Snow Bunting",
+          "code": "snobun",
+          "occurrence_rate": 0.0435,
+          "lift": 5.24,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Vesper Sparrow",
+          "code": "vesspa",
+          "occurrence_rate": 0.1522,
+          "lift": 4.37,
+          "detection_count": 21
+        },
+        {
+          "common_name": "American Pipit",
+          "code": "amepip",
+          "occurrence_rate": 0.0362,
+          "lift": 4.03,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Grasshopper Sparrow",
+          "code": "graspa",
+          "occurrence_rate": 0.0797,
+          "lift": 3.42,
+          "detection_count": 11
+        },
+        {
+          "common_name": "Eastern Meadowlark",
+          "code": "easmea",
+          "occurrence_rate": 0.2971,
+          "lift": 3.19,
+          "detection_count": 41
+        },
+        {
+          "common_name": "Red-tailed Hawk",
+          "code": "rehawk",
+          "occurrence_rate": 0.2174,
+          "lift": 2.95,
+          "detection_count": 30
+        },
+        {
+          "common_name": "American Tree Sparrow",
+          "code": "amespa",
+          "occurrence_rate": 0.0797,
+          "lift": 2.92,
+          "detection_count": 11
+        }
+      ]
+    },
+    "L6355333": {
+      "name": "Chippewa Run Natural Area",
+      "notable_species": [
+        {
+          "common_name": "Lincoln's Sparrow",
+          "code": "linspa",
+          "occurrence_rate": 0.0884,
+          "lift": 13.01,
+          "detection_count": 73
+        },
+        {
+          "common_name": "Gray-cheeked Thrush",
+          "code": "grathr",
+          "occurrence_rate": 0.0339,
+          "lift": 10.67,
+          "detection_count": 28
+        },
+        {
+          "common_name": "Wilson's Warbler",
+          "code": "wilwar",
+          "occurrence_rate": 0.1162,
+          "lift": 9.02,
+          "detection_count": 96
+        },
+        {
+          "common_name": "Eastern Screech-Owl",
+          "code": "easowl",
+          "occurrence_rate": 0.0097,
+          "lift": 7.32,
+          "detection_count": 8
+        },
+        {
+          "common_name": "House Finch",
+          "code": "houfin",
+          "occurrence_rate": 0.2942,
+          "lift": 6.09,
+          "detection_count": 243
+        },
+        {
+          "common_name": "Northern House Wren",
+          "code": "norwre",
+          "occurrence_rate": 0.4806,
+          "lift": 5.91,
+          "detection_count": 397
+        },
+        {
+          "common_name": "Solitary Sandpiper",
+          "code": "solsan",
+          "occurrence_rate": 0.0908,
+          "lift": 5.83,
+          "detection_count": 75
+        },
+        {
+          "common_name": "Swainson's Thrush",
+          "code": "swathr",
+          "occurrence_rate": 0.0714,
+          "lift": 5.34,
+          "detection_count": 59
+        },
+        {
+          "common_name": "Eastern Bluebird",
+          "code": "easblu",
+          "occurrence_rate": 0.4952,
+          "lift": 4.98,
+          "detection_count": 409
+        },
+        {
+          "common_name": "Red-shouldered Hawk",
+          "code": "redhaw",
+          "occurrence_rate": 0.1429,
+          "lift": 4.3,
+          "detection_count": 118
+        }
+      ]
+    },
+    "L1371382": {
+      "name": "Lake Leelanau Boat Launch",
+      "notable_species": [
+        {
+          "common_name": "Northern Pintail",
+          "code": "norpin",
+          "occurrence_rate": 0.0355,
+          "lift": 10.73,
+          "detection_count": 12
+        },
+        {
+          "common_name": "White-winged Crossbill",
+          "code": "whicro",
+          "occurrence_rate": 0.0148,
+          "lift": 9.06,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Mute Swan",
+          "code": "mutswa",
+          "occurrence_rate": 0.1834,
+          "lift": 7.14,
+          "detection_count": 62
+        },
+        {
+          "common_name": "American Black Duck",
+          "code": "ameduc",
+          "occurrence_rate": 0.0947,
+          "lift": 6.73,
+          "detection_count": 32
+        },
+        {
+          "common_name": "Common Goldeneye",
+          "code": "comgol",
+          "occurrence_rate": 0.3935,
+          "lift": 6.71,
+          "detection_count": 133
+        },
+        {
+          "common_name": "Redhead",
+          "code": "redhea",
+          "occurrence_rate": 0.2189,
+          "lift": 6.5,
+          "detection_count": 74
+        },
+        {
+          "common_name": "Bohemian Waxwing",
+          "code": "bohwax",
+          "occurrence_rate": 0.0178,
+          "lift": 5.67,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Greater Scaup",
+          "code": "gresca",
+          "occurrence_rate": 0.1272,
+          "lift": 5.6,
+          "detection_count": 43
+        },
+        {
+          "common_name": "Hooded Merganser",
+          "code": "hoomer",
+          "occurrence_rate": 0.2781,
+          "lift": 5.56,
+          "detection_count": 94
+        },
+        {
+          "common_name": "Dark-eyed Junco",
+          "code": "darjun",
+          "occurrence_rate": 0.2604,
+          "lift": 4.73,
+          "detection_count": 88
+        }
+      ]
+    },
+    "L4662866": {
+      "name": "Sleeping Bear Dunes NL--Treat Farm Trail",
+      "notable_species": [
+        {
+          "common_name": "Wood Thrush",
+          "code": "woothr",
+          "occurrence_rate": 0.3636,
+          "lift": 8.24,
+          "detection_count": 88
+        },
+        {
+          "common_name": "Black-billed Cuckoo",
+          "code": "blacuc",
+          "occurrence_rate": 0.062,
+          "lift": 7.76,
+          "detection_count": 15
+        },
+        {
+          "common_name": "Carolina Wren",
+          "code": "carwre",
+          "occurrence_rate": 0.0207,
+          "lift": 7.21,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Eastern Towhee",
+          "code": "eastow",
+          "occurrence_rate": 0.4091,
+          "lift": 5.97,
+          "detection_count": 99
+        },
+        {
+          "common_name": "Black-throated Blue Warbler",
+          "code": "blwarb",
+          "occurrence_rate": 0.1736,
+          "lift": 5.22,
+          "detection_count": 42
+        },
+        {
+          "common_name": "Field Sparrow",
+          "code": "fiespa",
+          "occurrence_rate": 0.1983,
+          "lift": 4.75,
+          "detection_count": 48
+        },
+        {
+          "common_name": "Swainson's Thrush",
+          "code": "swathr",
+          "occurrence_rate": 0.062,
+          "lift": 4.64,
+          "detection_count": 15
+        },
+        {
+          "common_name": "Indigo Bunting",
+          "code": "indbun",
+          "occurrence_rate": 0.5,
+          "lift": 3.67,
+          "detection_count": 121
+        },
+        {
+          "common_name": "Ovenbird",
+          "code": "ovenbi",
+          "occurrence_rate": 0.4298,
+          "lift": 3.66,
+          "detection_count": 104
+        },
+        {
+          "common_name": "Scarlet Tanager",
+          "code": "scatan",
+          "occurrence_rate": 0.2727,
+          "lift": 3.66,
+          "detection_count": 66
+        }
+      ]
+    },
+    "L1570466": {
+      "name": "Sleeping Bear Dunes NL--Norconk Rd. fields",
+      "notable_species": [
+        {
+          "common_name": "Henslow's Sparrow",
+          "code": "henspa",
+          "occurrence_rate": 0.0813,
+          "lift": 61.43,
+          "detection_count": 30
+        },
+        {
+          "common_name": "Orchard Oriole",
+          "code": "orcori",
+          "occurrence_rate": 0.0569,
+          "lift": 40.31,
+          "detection_count": 21
+        },
+        {
+          "common_name": "Upland Sandpiper",
+          "code": "uplsan",
+          "occurrence_rate": 0.1951,
+          "lift": 29.49,
+          "detection_count": 72
+        },
+        {
+          "common_name": "Grasshopper Sparrow",
+          "code": "graspa",
+          "occurrence_rate": 0.3523,
+          "lift": 15.1,
+          "detection_count": 130
+        },
+        {
+          "common_name": "Yellow-billed Cuckoo",
+          "code": "yelcuc",
+          "occurrence_rate": 0.0515,
+          "lift": 11.79,
+          "detection_count": 19
+        },
+        {
+          "common_name": "Western Meadowlark",
+          "code": "wesmea",
+          "occurrence_rate": 0.0136,
+          "lift": 9.6,
+          "detection_count": 5
+        },
+        {
+          "common_name": "American Kestrel",
+          "code": "amekes",
+          "occurrence_rate": 0.2927,
+          "lift": 8.85,
+          "detection_count": 108
+        },
+        {
+          "common_name": "Eastern Meadowlark",
+          "code": "easmea",
+          "occurrence_rate": 0.7859,
+          "lift": 8.43,
+          "detection_count": 290
+        },
+        {
+          "common_name": "Black-billed Cuckoo",
+          "code": "blacuc",
+          "occurrence_rate": 0.0596,
+          "lift": 7.47,
+          "detection_count": 22
+        },
+        {
+          "common_name": "Dickcissel",
+          "code": "dickci",
+          "occurrence_rate": 0.0244,
+          "lift": 5.94,
+          "detection_count": 9
+        }
+      ]
+    },
+    "L11031864": {
+      "name": "Popp Rd. ponds",
+      "notable_species": [
+        {
+          "common_name": "Little Blue Heron",
+          "code": "lither",
+          "occurrence_rate": 0.0777,
+          "lift": 36.68,
+          "detection_count": 48
+        },
+        {
+          "common_name": "Snow Goose",
+          "code": "snogoo",
+          "occurrence_rate": 0.0518,
+          "lift": 33.54,
+          "detection_count": 32
+        },
+        {
+          "common_name": "Northern Pintail",
+          "code": "norpin",
+          "occurrence_rate": 0.0615,
+          "lift": 18.58,
+          "detection_count": 38
+        },
+        {
+          "common_name": "American Black Duck",
+          "code": "ameduc",
+          "occurrence_rate": 0.2605,
+          "lift": 18.51,
+          "detection_count": 161
+        },
+        {
+          "common_name": "American Wigeon",
+          "code": "amewig",
+          "occurrence_rate": 0.2638,
+          "lift": 15.65,
+          "detection_count": 163
+        },
+        {
+          "common_name": "Greater Yellowlegs",
+          "code": "greyel",
+          "occurrence_rate": 0.1812,
+          "lift": 13.0,
+          "detection_count": 112
+        },
+        {
+          "common_name": "Gadwall",
+          "code": "gadwal",
+          "occurrence_rate": 0.1262,
+          "lift": 12.95,
+          "detection_count": 78
+        },
+        {
+          "common_name": "Short-billed Dowitcher",
+          "code": "shodow",
+          "occurrence_rate": 0.0146,
+          "lift": 12.23,
+          "detection_count": 9
+        },
+        {
+          "common_name": "Lesser Yellowlegs",
+          "code": "lesyel",
+          "occurrence_rate": 0.1392,
+          "lift": 10.99,
+          "detection_count": 86
+        },
+        {
+          "common_name": "Wilson's Snipe",
+          "code": "wilsni",
+          "occurrence_rate": 0.1197,
+          "lift": 10.9,
+          "detection_count": 74
+        }
+      ]
+    },
+    "L1632215": {
+      "name": "Sleeping Bear Dunes NL--Empire Bluff Trail",
+      "notable_species": [
+        {
+          "common_name": "Mourning Warbler",
+          "code": "mouwar",
+          "occurrence_rate": 0.0833,
+          "lift": 7.68,
+          "detection_count": 24
+        },
+        {
+          "common_name": "Ovenbird",
+          "code": "ovenbi",
+          "occurrence_rate": 0.3958,
+          "lift": 3.37,
+          "detection_count": 114
+        },
+        {
+          "common_name": "Black-throated Blue Warbler",
+          "code": "blwarb",
+          "occurrence_rate": 0.1111,
+          "lift": 3.34,
+          "detection_count": 32
+        },
+        {
+          "common_name": "Indigo Bunting",
+          "code": "indbun",
+          "occurrence_rate": 0.3924,
+          "lift": 2.88,
+          "detection_count": 113
+        },
+        {
+          "common_name": "Winter Wren",
+          "code": "winwre",
+          "occurrence_rate": 0.1424,
+          "lift": 2.86,
+          "detection_count": 41
+        },
+        {
+          "common_name": "Eastern Wood-Pewee",
+          "code": "easpew",
+          "occurrence_rate": 0.3368,
+          "lift": 2.69,
+          "detection_count": 97
+        },
+        {
+          "common_name": "Barred Owl",
+          "code": "barowl",
+          "occurrence_rate": 0.0208,
+          "lift": 2.47,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Chestnut-sided Warbler",
+          "code": "chewar",
+          "occurrence_rate": 0.1319,
+          "lift": 2.44,
+          "detection_count": 38
+        },
+        {
+          "common_name": "Rose-breasted Grosbeak",
+          "code": "rosgro",
+          "occurrence_rate": 0.2951,
+          "lift": 2.37,
+          "detection_count": 85
+        },
+        {
+          "common_name": "Scarlet Tanager",
+          "code": "scatan",
+          "occurrence_rate": 0.1736,
+          "lift": 2.33,
+          "detection_count": 50
+        }
+      ]
+    },
+    "L1666832": {
+      "name": "North Manitou Island--Village and Campground",
+      "notable_species": [
+        {
+          "common_name": "Barn Swallow",
+          "code": "barswa",
+          "occurrence_rate": 0.5224,
+          "lift": 6.81,
+          "detection_count": 35
+        },
+        {
+          "common_name": "Least Sandpiper",
+          "code": "leasan",
+          "occurrence_rate": 0.0746,
+          "lift": 6.09,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Spotted Sandpiper",
+          "code": "sposan",
+          "occurrence_rate": 0.2239,
+          "lift": 5.53,
+          "detection_count": 15
+        },
+        {
+          "common_name": "Piping Plover",
+          "code": "pipplo",
+          "occurrence_rate": 0.2985,
+          "lift": 5.23,
+          "detection_count": 20
+        },
+        {
+          "common_name": "Ruby-throated Hummingbird",
+          "code": "rubhum",
+          "occurrence_rate": 0.1791,
+          "lift": 3.49,
+          "detection_count": 12
+        },
+        {
+          "common_name": "Chimney Swift",
+          "code": "chiswi",
+          "occurrence_rate": 0.0896,
+          "lift": 3.4,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Field Sparrow",
+          "code": "fiespa",
+          "occurrence_rate": 0.1343,
+          "lift": 3.22,
+          "detection_count": 9
+        },
+        {
+          "common_name": "Common Merganser",
+          "code": "commer",
+          "occurrence_rate": 0.5075,
+          "lift": 3.06,
+          "detection_count": 34
+        },
+        {
+          "common_name": "Killdeer",
+          "code": "killde",
+          "occurrence_rate": 0.3881,
+          "lift": 2.94,
+          "detection_count": 26
+        },
+        {
+          "common_name": "Double-crested Cormorant",
+          "code": "doucor",
+          "occurrence_rate": 0.3433,
+          "lift": 2.8,
+          "detection_count": 23
+        }
+      ]
+    },
+    "L1667058": {
+      "name": "North Manitou Island--Dimmick's Point",
+      "notable_species": [
+        {
+          "common_name": "Black-bellied Plover",
+          "code": "blaplo",
+          "occurrence_rate": 0.14,
+          "lift": 85.77,
+          "detection_count": 14
+        },
+        {
+          "common_name": "Great Black-backed Gull",
+          "code": "gregul",
+          "occurrence_rate": 0.1,
+          "lift": 70.84,
+          "detection_count": 10
+        },
+        {
+          "common_name": "Ruddy Turnstone",
+          "code": "rudtur",
+          "occurrence_rate": 0.1,
+          "lift": 48.23,
+          "detection_count": 10
+        },
+        {
+          "common_name": "Dunlin",
+          "code": "dunlin",
+          "occurrence_rate": 0.17,
+          "lift": 38.54,
+          "detection_count": 17
+        },
+        {
+          "common_name": "Lapland Longspur",
+          "code": "laplon",
+          "occurrence_rate": 0.08,
+          "lift": 37.01,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Common Tern",
+          "code": "comter",
+          "occurrence_rate": 0.08,
+          "lift": 32.97,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Semipalmated Sandpiper",
+          "code": "semsan",
+          "occurrence_rate": 0.27,
+          "lift": 30.45,
+          "detection_count": 27
+        },
+        {
+          "common_name": "Least Sandpiper",
+          "code": "leasan",
+          "occurrence_rate": 0.35,
+          "lift": 28.54,
+          "detection_count": 35
+        },
+        {
+          "common_name": "Sanderling",
+          "code": "sander",
+          "occurrence_rate": 0.32,
+          "lift": 23.4,
+          "detection_count": 32
+        },
+        {
+          "common_name": "American Pipit",
+          "code": "amepip",
+          "occurrence_rate": 0.14,
+          "lift": 15.56,
+          "detection_count": 14
+        }
+      ]
+    },
+    "L1797191": {
+      "name": "Charter Sanctuary (restricted access)",
+      "notable_species": [
+        {
+          "common_name": "Savannah Sparrow",
+          "code": "savspa",
+          "occurrence_rate": 0.2414,
+          "lift": 10.17,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Eastern Warbling Vireo",
+          "code": "easvir",
+          "occurrence_rate": 0.3448,
+          "lift": 7.85,
+          "detection_count": 10
+        },
+        {
+          "common_name": "Eastern Meadowlark",
+          "code": "easmea",
+          "occurrence_rate": 0.6207,
+          "lift": 6.66,
+          "detection_count": 18
+        },
+        {
+          "common_name": "American Kestrel",
+          "code": "amekes",
+          "occurrence_rate": 0.2069,
+          "lift": 6.25,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Ruby-throated Hummingbird",
+          "code": "rubhum",
+          "occurrence_rate": 0.3103,
+          "lift": 6.05,
+          "detection_count": 9
+        },
+        {
+          "common_name": "Baltimore Oriole",
+          "code": "balori",
+          "occurrence_rate": 0.4483,
+          "lift": 6.04,
+          "detection_count": 13
+        },
+        {
+          "common_name": "Eastern Bluebird",
+          "code": "easblu",
+          "occurrence_rate": 0.5862,
+          "lift": 5.89,
+          "detection_count": 17
+        },
+        {
+          "common_name": "Eastern Phoebe",
+          "code": "easpho",
+          "occurrence_rate": 0.5862,
+          "lift": 5.19,
+          "detection_count": 17
+        },
+        {
+          "common_name": "Tree Swallow",
+          "code": "treswa",
+          "occurrence_rate": 0.5517,
+          "lift": 5.1,
+          "detection_count": 16
+        },
+        {
+          "common_name": "Vesper Sparrow",
+          "code": "vesspa",
+          "occurrence_rate": 0.1724,
+          "lift": 4.95,
+          "detection_count": 5
+        }
+      ]
+    },
+    "L9083325": {
+      "name": "Tucker Lake",
+      "notable_species": [
+        {
+          "common_name": "Ruddy Duck",
+          "code": "rudduc",
+          "occurrence_rate": 0.0173,
+          "lift": 6.44,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Fox Sparrow",
+          "code": "foxspa",
+          "occurrence_rate": 0.0297,
+          "lift": 5.96,
+          "detection_count": 12
+        },
+        {
+          "common_name": "Yellow-throated Vireo",
+          "code": "yelvir",
+          "occurrence_rate": 0.1139,
+          "lift": 5.64,
+          "detection_count": 46
+        },
+        {
+          "common_name": "Ring-necked Duck",
+          "code": "rinduc",
+          "occurrence_rate": 0.2797,
+          "lift": 5.57,
+          "detection_count": 113
+        },
+        {
+          "common_name": "Least Flycatcher",
+          "code": "leafly",
+          "occurrence_rate": 0.2401,
+          "lift": 5.36,
+          "detection_count": 97
+        },
+        {
+          "common_name": "Pied-billed Grebe",
+          "code": "piegre",
+          "occurrence_rate": 0.2327,
+          "lift": 5.34,
+          "detection_count": 94
+        },
+        {
+          "common_name": "Swamp Sparrow",
+          "code": "swaspa",
+          "occurrence_rate": 0.2797,
+          "lift": 5.13,
+          "detection_count": 113
+        },
+        {
+          "common_name": "Red-shouldered Hawk",
+          "code": "redhaw",
+          "occurrence_rate": 0.1238,
+          "lift": 3.73,
+          "detection_count": 50
+        },
+        {
+          "common_name": "Eastern Warbling Vireo",
+          "code": "easvir",
+          "occurrence_rate": 0.1361,
+          "lift": 3.1,
+          "detection_count": 55
+        },
+        {
+          "common_name": "Yellow-bellied Sapsucker",
+          "code": "yelsap",
+          "occurrence_rate": 0.1832,
+          "lift": 2.92,
+          "detection_count": 74
+        }
+      ]
+    },
+    "L2190835": {
+      "name": "Teichner Preserve",
+      "notable_species": [
+        {
+          "common_name": "Northern Waterthrush",
+          "code": "norwat",
+          "occurrence_rate": 0.2741,
+          "lift": 14.22,
+          "detection_count": 108
+        },
+        {
+          "common_name": "Canada Warbler",
+          "code": "canwar",
+          "occurrence_rate": 0.099,
+          "lift": 9.23,
+          "detection_count": 39
+        },
+        {
+          "common_name": "Winter Wren",
+          "code": "winwre",
+          "occurrence_rate": 0.4543,
+          "lift": 9.11,
+          "detection_count": 179
+        },
+        {
+          "common_name": "Ruffed Grouse",
+          "code": "rufgro",
+          "occurrence_rate": 0.2919,
+          "lift": 5.98,
+          "detection_count": 115
+        },
+        {
+          "common_name": "Pine Grosbeak",
+          "code": "pingro",
+          "occurrence_rate": 0.0127,
+          "lift": 5.23,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Purple Finch",
+          "code": "purfin",
+          "occurrence_rate": 0.1853,
+          "lift": 4.79,
+          "detection_count": 73
+        },
+        {
+          "common_name": "American Woodcock",
+          "code": "amewoo",
+          "occurrence_rate": 0.0228,
+          "lift": 3.89,
+          "detection_count": 9
+        },
+        {
+          "common_name": "Yellow-bellied Sapsucker",
+          "code": "yelsap",
+          "occurrence_rate": 0.203,
+          "lift": 3.23,
+          "detection_count": 80
+        },
+        {
+          "common_name": "Nashville Warbler",
+          "code": "naswar",
+          "occurrence_rate": 0.1878,
+          "lift": 3.18,
+          "detection_count": 74
+        },
+        {
+          "common_name": "Pine Siskin",
+          "code": "pinsis",
+          "occurrence_rate": 0.0635,
+          "lift": 3.15,
+          "detection_count": 25
+        }
+      ]
+    },
+    "L2190847": {
+      "name": "Houdek Dunes Natural Area",
+      "notable_species": [
+        {
+          "common_name": "Hermit Thrush",
+          "code": "herthr",
+          "occurrence_rate": 0.3613,
+          "lift": 10.47,
+          "detection_count": 69
+        },
+        {
+          "common_name": "Bay-breasted Warbler",
+          "code": "baywar",
+          "occurrence_rate": 0.0419,
+          "lift": 4.65,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Swainson's Thrush",
+          "code": "swathr",
+          "occurrence_rate": 0.0576,
+          "lift": 4.31,
+          "detection_count": 11
+        },
+        {
+          "common_name": "Cape May Warbler",
+          "code": "capwar",
+          "occurrence_rate": 0.0524,
+          "lift": 3.78,
+          "detection_count": 10
+        },
+        {
+          "common_name": "Ovenbird",
+          "code": "ovenbi",
+          "occurrence_rate": 0.4398,
+          "lift": 3.75,
+          "detection_count": 84
+        },
+        {
+          "common_name": "Eastern Wood-Pewee",
+          "code": "easpew",
+          "occurrence_rate": 0.4346,
+          "lift": 3.47,
+          "detection_count": 83
+        },
+        {
+          "common_name": "Tennessee Warbler",
+          "code": "tenwar",
+          "occurrence_rate": 0.0628,
+          "lift": 3.35,
+          "detection_count": 12
+        },
+        {
+          "common_name": "Black-throated Green Warbler",
+          "code": "blacwa",
+          "occurrence_rate": 0.3351,
+          "lift": 3.29,
+          "detection_count": 64
+        },
+        {
+          "common_name": "Yellow-bellied Sapsucker",
+          "code": "yelsap",
+          "occurrence_rate": 0.2042,
+          "lift": 3.25,
+          "detection_count": 39
+        },
+        {
+          "common_name": "Veery",
+          "code": "veeryv",
+          "occurrence_rate": 0.0785,
+          "lift": 3.24,
+          "detection_count": 15
+        }
+      ]
+    },
+    "L11559041": {
+      "name": "Sleeping Bear Dunes NL--Day Farm Rd. fields",
+      "notable_species": [
+        {
+          "common_name": "Clay-colored Sparrow",
+          "code": "claspa",
+          "occurrence_rate": 0.213,
+          "lift": 33.77,
+          "detection_count": 36
+        },
+        {
+          "common_name": "Grasshopper Sparrow",
+          "code": "graspa",
+          "occurrence_rate": 0.3905,
+          "lift": 16.73,
+          "detection_count": 66
+        },
+        {
+          "common_name": "Field Sparrow",
+          "code": "fiespa",
+          "occurrence_rate": 0.5562,
+          "lift": 13.33,
+          "detection_count": 94
+        },
+        {
+          "common_name": "Prairie Warbler",
+          "code": "prawar",
+          "occurrence_rate": 0.0533,
+          "lift": 8.21,
+          "detection_count": 9
+        },
+        {
+          "common_name": "Vesper Sparrow",
+          "code": "vesspa",
+          "occurrence_rate": 0.213,
+          "lift": 6.12,
+          "detection_count": 36
+        },
+        {
+          "common_name": "Wild Turkey",
+          "code": "wiltur",
+          "occurrence_rate": 0.1834,
+          "lift": 5.31,
+          "detection_count": 31
+        },
+        {
+          "common_name": "Alder Flycatcher",
+          "code": "aldfly",
+          "occurrence_rate": 0.0592,
+          "lift": 4.9,
+          "detection_count": 10
+        },
+        {
+          "common_name": "Eastern Meadowlark",
+          "code": "easmea",
+          "occurrence_rate": 0.426,
+          "lift": 4.57,
+          "detection_count": 72
+        },
+        {
+          "common_name": "Black-billed Cuckoo",
+          "code": "blacuc",
+          "occurrence_rate": 0.0296,
+          "lift": 3.71,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Eastern Towhee",
+          "code": "eastow",
+          "occurrence_rate": 0.2485,
+          "lift": 3.63,
+          "detection_count": 42
+        }
+      ]
+    },
+    "L2230548": {
+      "name": "Clay Cliffs Natural Area",
+      "notable_species": [
+        {
+          "common_name": "Wood Thrush",
+          "code": "woothr",
+          "occurrence_rate": 0.1946,
+          "lift": 4.41,
+          "detection_count": 100
+        },
+        {
+          "common_name": "Winter Wren",
+          "code": "winwre",
+          "occurrence_rate": 0.214,
+          "lift": 4.29,
+          "detection_count": 110
+        },
+        {
+          "common_name": "Tufted Titmouse",
+          "code": "tuftit",
+          "occurrence_rate": 0.3268,
+          "lift": 3.15,
+          "detection_count": 168
+        },
+        {
+          "common_name": "White-breasted Nuthatch",
+          "code": "whinut",
+          "occurrence_rate": 0.2899,
+          "lift": 2.83,
+          "detection_count": 149
+        },
+        {
+          "common_name": "Eastern Wood-Pewee",
+          "code": "easpew",
+          "occurrence_rate": 0.3482,
+          "lift": 2.78,
+          "detection_count": 179
+        },
+        {
+          "common_name": "Chestnut-sided Warbler",
+          "code": "chewar",
+          "occurrence_rate": 0.1381,
+          "lift": 2.55,
+          "detection_count": 71
+        },
+        {
+          "common_name": "Hairy Woodpecker",
+          "code": "haiwoo",
+          "occurrence_rate": 0.3249,
+          "lift": 2.35,
+          "detection_count": 167
+        },
+        {
+          "common_name": "Black-and-white Warbler",
+          "code": "blawar",
+          "occurrence_rate": 0.1848,
+          "lift": 2.35,
+          "detection_count": 95
+        },
+        {
+          "common_name": "Ovenbird",
+          "code": "ovenbi",
+          "occurrence_rate": 0.2704,
+          "lift": 2.31,
+          "detection_count": 139
+        },
+        {
+          "common_name": "White-throated Sparrow",
+          "code": "whspar",
+          "occurrence_rate": 0.1615,
+          "lift": 2.27,
+          "detection_count": 83
+        }
+      ]
+    },
+    "L11736832": {
+      "name": "Sleeping Bear Dunes NL--Shell Lake",
+      "notable_species": [
+        {
+          "common_name": "Yellow-throated Vireo",
+          "code": "yelvir",
+          "occurrence_rate": 0.1801,
+          "lift": 8.91,
+          "detection_count": 29
+        },
+        {
+          "common_name": "Blackburnian Warbler",
+          "code": "blawa2",
+          "occurrence_rate": 0.1677,
+          "lift": 6.07,
+          "detection_count": 27
+        },
+        {
+          "common_name": "Veery",
+          "code": "veeryv",
+          "occurrence_rate": 0.1429,
+          "lift": 5.89,
+          "detection_count": 23
+        },
+        {
+          "common_name": "Trumpeter Swan",
+          "code": "truswa",
+          "occurrence_rate": 0.4161,
+          "lift": 5.78,
+          "detection_count": 67
+        },
+        {
+          "common_name": "Barred Owl",
+          "code": "barowl",
+          "occurrence_rate": 0.0435,
+          "lift": 5.16,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Least Flycatcher",
+          "code": "leafly",
+          "occurrence_rate": 0.2112,
+          "lift": 4.71,
+          "detection_count": 34
+        },
+        {
+          "common_name": "Brown Creeper",
+          "code": "brocre",
+          "occurrence_rate": 0.205,
+          "lift": 4.09,
+          "detection_count": 33
+        },
+        {
+          "common_name": "Common Loon",
+          "code": "comloo",
+          "occurrence_rate": 0.3292,
+          "lift": 3.5,
+          "detection_count": 53
+        },
+        {
+          "common_name": "Yellow-bellied Sapsucker",
+          "code": "yelsap",
+          "occurrence_rate": 0.2112,
+          "lift": 3.36,
+          "detection_count": 34
+        },
+        {
+          "common_name": "Pine Warbler",
+          "code": "pinwar",
+          "occurrence_rate": 0.3168,
+          "lift": 2.94,
+          "detection_count": 51
+        }
+      ]
+    },
+    "L2336948": {
+      "name": "Crystal River",
+      "notable_species": [
+        {
+          "common_name": "Blue-headed Vireo",
+          "code": "bluvir",
+          "occurrence_rate": 0.1095,
+          "lift": 5.75,
+          "detection_count": 15
+        },
+        {
+          "common_name": "Green Heron",
+          "code": "grhero",
+          "occurrence_rate": 0.3358,
+          "lift": 4.25,
+          "detection_count": 46
+        },
+        {
+          "common_name": "Winter Wren",
+          "code": "winwre",
+          "occurrence_rate": 0.2044,
+          "lift": 4.1,
+          "detection_count": 28
+        },
+        {
+          "common_name": "Northern Waterthrush",
+          "code": "norwat",
+          "occurrence_rate": 0.073,
+          "lift": 3.79,
+          "detection_count": 10
+        },
+        {
+          "common_name": "Blackburnian Warbler",
+          "code": "blawa2",
+          "occurrence_rate": 0.0949,
+          "lift": 3.44,
+          "detection_count": 13
+        },
+        {
+          "common_name": "Black-throated Green Warbler",
+          "code": "blacwa",
+          "occurrence_rate": 0.3358,
+          "lift": 3.3,
+          "detection_count": 46
+        },
+        {
+          "common_name": "Lesser Scaup",
+          "code": "lessca",
+          "occurrence_rate": 0.0365,
+          "lift": 3.06,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Great Blue Heron",
+          "code": "greher",
+          "occurrence_rate": 0.2117,
+          "lift": 2.79,
+          "detection_count": 29
+        },
+        {
+          "common_name": "Brown Creeper",
+          "code": "brocre",
+          "occurrence_rate": 0.1314,
+          "lift": 2.62,
+          "detection_count": 18
+        },
+        {
+          "common_name": "American Black Duck",
+          "code": "ameduc",
+          "occurrence_rate": 0.0365,
+          "lift": 2.59,
+          "detection_count": 5
+        }
+      ]
+    },
+    "L10924912": {
+      "name": "Swanson Preserve",
+      "notable_species": [
+        {
+          "common_name": "Winter Wren",
+          "code": "winwre",
+          "occurrence_rate": 0.1039,
+          "lift": 2.08,
+          "detection_count": 8
+        }
+      ]
+    },
+    "L2364293": {
+      "name": "Sleeping Bears Dunes NL--Sleeping Bear Heritage Trail",
+      "notable_species": [
+        {
+          "common_name": "Blue-gray Gnatcatcher",
+          "code": "blugna",
+          "occurrence_rate": 0.0413,
+          "lift": 7.1,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Clay-colored Sparrow",
+          "code": "claspa",
+          "occurrence_rate": 0.0413,
+          "lift": 6.55,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Field Sparrow",
+          "code": "fiespa",
+          "occurrence_rate": 0.2314,
+          "lift": 5.54,
+          "detection_count": 28
+        },
+        {
+          "common_name": "Magnolia Warbler",
+          "code": "magwar",
+          "occurrence_rate": 0.1405,
+          "lift": 5.41,
+          "detection_count": 17
+        },
+        {
+          "common_name": "Eastern Towhee",
+          "code": "eastow",
+          "occurrence_rate": 0.3471,
+          "lift": 5.07,
+          "detection_count": 42
+        },
+        {
+          "common_name": "Canada Warbler",
+          "code": "canwar",
+          "occurrence_rate": 0.0496,
+          "lift": 4.63,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Chestnut-sided Warbler",
+          "code": "chewar",
+          "occurrence_rate": 0.2149,
+          "lift": 3.97,
+          "detection_count": 26
+        },
+        {
+          "common_name": "Blackburnian Warbler",
+          "code": "blawa2",
+          "occurrence_rate": 0.1074,
+          "lift": 3.89,
+          "detection_count": 13
+        },
+        {
+          "common_name": "Bank Swallow",
+          "code": "banswa",
+          "occurrence_rate": 0.0496,
+          "lift": 3.3,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Black-throated Green Warbler",
+          "code": "blacwa",
+          "occurrence_rate": 0.3306,
+          "lift": 3.25,
+          "detection_count": 40
+        }
+      ]
+    },
+    "L2894035": {
+      "name": "Veronica Valley Park",
+      "notable_species": [
+        {
+          "common_name": "White-winged Crossbill",
+          "code": "whicro",
+          "occurrence_rate": 0.0318,
+          "lift": 19.51,
+          "detection_count": 5
+        },
+        {
+          "common_name": "American Woodcock",
+          "code": "amewoo",
+          "occurrence_rate": 0.0573,
+          "lift": 9.77,
+          "detection_count": 9
+        },
+        {
+          "common_name": "Purple Finch",
+          "code": "purfin",
+          "occurrence_rate": 0.1529,
+          "lift": 3.95,
+          "detection_count": 24
+        },
+        {
+          "common_name": "American Tree Sparrow",
+          "code": "amespa",
+          "occurrence_rate": 0.0955,
+          "lift": 3.5,
+          "detection_count": 15
+        },
+        {
+          "common_name": "Northern Cardinal",
+          "code": "norcar",
+          "occurrence_rate": 0.5796,
+          "lift": 2.57,
+          "detection_count": 91
+        },
+        {
+          "common_name": "American Kestrel",
+          "code": "amekes",
+          "occurrence_rate": 0.0828,
+          "lift": 2.5,
+          "detection_count": 13
+        },
+        {
+          "common_name": "Mourning Dove",
+          "code": "moudov",
+          "occurrence_rate": 0.5032,
+          "lift": 2.16,
+          "detection_count": 79
+        },
+        {
+          "common_name": "American Goldfinch",
+          "code": "amegol",
+          "occurrence_rate": 0.6369,
+          "lift": 2.01,
+          "detection_count": 100
+        }
+      ]
+    },
+    "L11770310": {
+      "name": "Bodus Rd. fields",
+      "notable_species": [
+        {
+          "common_name": "Western Meadowlark",
+          "code": "wesmea",
+          "occurrence_rate": 0.0511,
+          "lift": 36.22,
+          "detection_count": 25
+        },
+        {
+          "common_name": "Dickcissel",
+          "code": "dickci",
+          "occurrence_rate": 0.1247,
+          "lift": 30.41,
+          "detection_count": 61
+        },
+        {
+          "common_name": "Bobolink",
+          "code": "boboli",
+          "occurrence_rate": 0.3476,
+          "lift": 23.88,
+          "detection_count": 170
+        },
+        {
+          "common_name": "Upland Sandpiper",
+          "code": "uplsan",
+          "occurrence_rate": 0.1166,
+          "lift": 17.62,
+          "detection_count": 57
+        },
+        {
+          "common_name": "Savannah Sparrow",
+          "code": "savspa",
+          "occurrence_rate": 0.3824,
+          "lift": 16.11,
+          "detection_count": 187
+        },
+        {
+          "common_name": "Grasshopper Sparrow",
+          "code": "graspa",
+          "occurrence_rate": 0.1963,
+          "lift": 8.41,
+          "detection_count": 96
+        },
+        {
+          "common_name": "Eastern Meadowlark",
+          "code": "easmea",
+          "occurrence_rate": 0.6769,
+          "lift": 7.26,
+          "detection_count": 331
+        },
+        {
+          "common_name": "Rough-legged Hawk",
+          "code": "rouhaw",
+          "occurrence_rate": 0.1084,
+          "lift": 6.9,
+          "detection_count": 53
+        },
+        {
+          "common_name": "Clay-colored Sparrow",
+          "code": "claspa",
+          "occurrence_rate": 0.0429,
+          "lift": 6.81,
+          "detection_count": 21
+        },
+        {
+          "common_name": "Pine Grosbeak",
+          "code": "pingro",
+          "occurrence_rate": 0.0164,
+          "lift": 6.74,
+          "detection_count": 8
+        }
+      ]
+    },
+    "L7798679": {
+      "name": "Krumwiede Forest Reserve",
+      "notable_species": [
+        {
+          "common_name": "Blackburnian Warbler",
+          "code": "blawa2",
+          "occurrence_rate": 0.2353,
+          "lift": 8.52,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Veery",
+          "code": "veeryv",
+          "occurrence_rate": 0.2059,
+          "lift": 8.49,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Ruffed Grouse",
+          "code": "rufgro",
+          "occurrence_rate": 0.3529,
+          "lift": 7.23,
+          "detection_count": 12
+        },
+        {
+          "common_name": "Wood Thrush",
+          "code": "woothr",
+          "occurrence_rate": 0.2647,
+          "lift": 6.0,
+          "detection_count": 9
+        },
+        {
+          "common_name": "Chestnut-sided Warbler",
+          "code": "chewar",
+          "occurrence_rate": 0.3235,
+          "lift": 5.97,
+          "detection_count": 11
+        },
+        {
+          "common_name": "Hermit Thrush",
+          "code": "herthr",
+          "occurrence_rate": 0.2059,
+          "lift": 5.97,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Eastern Towhee",
+          "code": "eastow",
+          "occurrence_rate": 0.2941,
+          "lift": 4.29,
+          "detection_count": 10
+        },
+        {
+          "common_name": "Eastern Wood-Pewee",
+          "code": "easpew",
+          "occurrence_rate": 0.4118,
+          "lift": 3.29,
+          "detection_count": 14
+        },
+        {
+          "common_name": "Indigo Bunting",
+          "code": "indbun",
+          "occurrence_rate": 0.4412,
+          "lift": 3.24,
+          "detection_count": 15
+        },
+        {
+          "common_name": "Ovenbird",
+          "code": "ovenbi",
+          "occurrence_rate": 0.3529,
+          "lift": 3.01,
+          "detection_count": 12
+        }
+      ]
+    },
+    "L6312538": {
+      "name": "School Lake boat launch",
+      "notable_species": [
+        {
+          "common_name": "Trumpeter Swan",
+          "code": "truswa",
+          "occurrence_rate": 0.4643,
+          "lift": 6.45,
+          "detection_count": 130
+        },
+        {
+          "common_name": "Common Loon",
+          "code": "comloo",
+          "occurrence_rate": 0.4214,
+          "lift": 4.48,
+          "detection_count": 118
+        },
+        {
+          "common_name": "Great Blue Heron",
+          "code": "greher",
+          "occurrence_rate": 0.2893,
+          "lift": 3.82,
+          "detection_count": 81
+        },
+        {
+          "common_name": "Lesser Scaup",
+          "code": "lessca",
+          "occurrence_rate": 0.0393,
+          "lift": 3.3,
+          "detection_count": 11
+        },
+        {
+          "common_name": "Bufflehead",
+          "code": "buffle",
+          "occurrence_rate": 0.2214,
+          "lift": 2.54,
+          "detection_count": 62
+        },
+        {
+          "common_name": "Yellow-throated Vireo",
+          "code": "yelvir",
+          "occurrence_rate": 0.0429,
+          "lift": 2.12,
+          "detection_count": 12
+        }
+      ]
+    },
+    "L4500294": {
+      "name": "Sleeping Bear Dunes NL--Alligator Hill Trail",
+      "notable_species": [
+        {
+          "common_name": "Hooded Warbler",
+          "code": "hoowar",
+          "occurrence_rate": 0.0932,
+          "lift": 27.44,
+          "detection_count": 33
+        },
+        {
+          "common_name": "Mourning Warbler",
+          "code": "mouwar",
+          "occurrence_rate": 0.1921,
+          "lift": 17.7,
+          "detection_count": 68
+        },
+        {
+          "common_name": "Black-throated Blue Warbler",
+          "code": "blwarb",
+          "occurrence_rate": 0.3305,
+          "lift": 9.95,
+          "detection_count": 117
+        },
+        {
+          "common_name": "Chestnut-sided Warbler",
+          "code": "chewar",
+          "occurrence_rate": 0.4576,
+          "lift": 8.45,
+          "detection_count": 162
+        },
+        {
+          "common_name": "Eastern Towhee",
+          "code": "eastow",
+          "occurrence_rate": 0.4802,
+          "lift": 7.01,
+          "detection_count": 170
+        },
+        {
+          "common_name": "Veery",
+          "code": "veeryv",
+          "occurrence_rate": 0.1554,
+          "lift": 6.4,
+          "detection_count": 55
+        },
+        {
+          "common_name": "Wood Thrush",
+          "code": "woothr",
+          "occurrence_rate": 0.2316,
+          "lift": 5.25,
+          "detection_count": 82
+        },
+        {
+          "common_name": "Black-throated Green Warbler",
+          "code": "blacwa",
+          "occurrence_rate": 0.4972,
+          "lift": 4.89,
+          "detection_count": 176
+        },
+        {
+          "common_name": "Scarlet Tanager",
+          "code": "scatan",
+          "occurrence_rate": 0.3079,
+          "lift": 4.14,
+          "detection_count": 109
+        },
+        {
+          "common_name": "Winter Wren",
+          "code": "winwre",
+          "occurrence_rate": 0.1949,
+          "lift": 3.91,
+          "detection_count": 69
+        }
+      ]
+    },
+    "L3798654": {
+      "name": "Sleeping Bear Dunes NL--Bay View Trail",
+      "notable_species": [
+        {
+          "common_name": "American Woodcock",
+          "code": "amewoo",
+          "occurrence_rate": 0.0476,
+          "lift": 8.12,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Golden-crowned Kinglet",
+          "code": "golkin",
+          "occurrence_rate": 0.2063,
+          "lift": 3.61,
+          "detection_count": 26
+        },
+        {
+          "common_name": "Blackburnian Warbler",
+          "code": "blawa2",
+          "occurrence_rate": 0.0873,
+          "lift": 3.16,
+          "detection_count": 11
+        },
+        {
+          "common_name": "Brown Creeper",
+          "code": "brocre",
+          "occurrence_rate": 0.1508,
+          "lift": 3.01,
+          "detection_count": 19
+        },
+        {
+          "common_name": "Hermit Thrush",
+          "code": "herthr",
+          "occurrence_rate": 0.1032,
+          "lift": 2.99,
+          "detection_count": 13
+        },
+        {
+          "common_name": "Grasshopper Sparrow",
+          "code": "graspa",
+          "occurrence_rate": 0.0635,
+          "lift": 2.72,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Black-throated Green Warbler",
+          "code": "blacwa",
+          "occurrence_rate": 0.2381,
+          "lift": 2.34,
+          "detection_count": 30
+        },
+        {
+          "common_name": "Indigo Bunting",
+          "code": "indbun",
+          "occurrence_rate": 0.3175,
+          "lift": 2.33,
+          "detection_count": 40
+        },
+        {
+          "common_name": "Pine Warbler",
+          "code": "pinwar",
+          "occurrence_rate": 0.246,
+          "lift": 2.28,
+          "detection_count": 31
+        },
+        {
+          "common_name": "Field Sparrow",
+          "code": "fiespa",
+          "occurrence_rate": 0.0952,
+          "lift": 2.28,
+          "detection_count": 12
+        }
+      ]
+    },
+    "L3773820": {
+      "name": "Sleeping Bear Dunes NL--Heritage Trail",
+      "notable_species": [
+        {
+          "common_name": "Mourning Warbler",
+          "code": "mouwar",
+          "occurrence_rate": 0.1106,
+          "lift": 10.19,
+          "detection_count": 23
+        },
+        {
+          "common_name": "Chestnut-sided Warbler",
+          "code": "chewar",
+          "occurrence_rate": 0.3654,
+          "lift": 6.74,
+          "detection_count": 76
+        },
+        {
+          "common_name": "Canada Warbler",
+          "code": "canwar",
+          "occurrence_rate": 0.0721,
+          "lift": 6.73,
+          "detection_count": 15
+        },
+        {
+          "common_name": "Barred Owl",
+          "code": "barowl",
+          "occurrence_rate": 0.0529,
+          "lift": 6.28,
+          "detection_count": 11
+        },
+        {
+          "common_name": "Black-throated Blue Warbler",
+          "code": "blwarb",
+          "occurrence_rate": 0.2067,
+          "lift": 6.22,
+          "detection_count": 43
+        },
+        {
+          "common_name": "Winter Wren",
+          "code": "winwre",
+          "occurrence_rate": 0.2933,
+          "lift": 5.88,
+          "detection_count": 61
+        },
+        {
+          "common_name": "Olive-sided Flycatcher",
+          "code": "olifly",
+          "occurrence_rate": 0.024,
+          "lift": 5.24,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Prairie Warbler",
+          "code": "prawar",
+          "occurrence_rate": 0.0337,
+          "lift": 5.19,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Blackburnian Warbler",
+          "code": "blawa2",
+          "occurrence_rate": 0.1346,
+          "lift": 4.87,
+          "detection_count": 28
+        },
+        {
+          "common_name": "Black-throated Green Warbler",
+          "code": "blacwa",
+          "occurrence_rate": 0.4904,
+          "lift": 4.82,
+          "detection_count": 102
+        }
+      ]
+    },
+    "L4730469": {
+      "name": "Hatlem Creek Preserve",
+      "notable_species": [
+        {
+          "common_name": "Red-shouldered Hawk",
+          "code": "redhaw",
+          "occurrence_rate": 0.5217,
+          "lift": 15.71,
+          "detection_count": 24
+        },
+        {
+          "common_name": "Winter Wren",
+          "code": "winwre",
+          "occurrence_rate": 0.3913,
+          "lift": 7.85,
+          "detection_count": 18
+        },
+        {
+          "common_name": "Brown Creeper",
+          "code": "brocre",
+          "occurrence_rate": 0.3261,
+          "lift": 6.5,
+          "detection_count": 15
+        },
+        {
+          "common_name": "Yellow-bellied Sapsucker",
+          "code": "yelsap",
+          "occurrence_rate": 0.2826,
+          "lift": 4.5,
+          "detection_count": 13
+        },
+        {
+          "common_name": "Swamp Sparrow",
+          "code": "swaspa",
+          "occurrence_rate": 0.1957,
+          "lift": 3.59,
+          "detection_count": 9
+        },
+        {
+          "common_name": "Ovenbird",
+          "code": "ovenbi",
+          "occurrence_rate": 0.3478,
+          "lift": 2.97,
+          "detection_count": 16
+        },
+        {
+          "common_name": "White-breasted Nuthatch",
+          "code": "whinut",
+          "occurrence_rate": 0.3043,
+          "lift": 2.97,
+          "detection_count": 14
+        },
+        {
+          "common_name": "Tufted Titmouse",
+          "code": "tuftit",
+          "occurrence_rate": 0.3043,
+          "lift": 2.93,
+          "detection_count": 14
+        },
+        {
+          "common_name": "Great Crested Flycatcher",
+          "code": "grefly",
+          "occurrence_rate": 0.2609,
+          "lift": 2.55,
+          "detection_count": 12
+        },
+        {
+          "common_name": "Golden-crowned Kinglet",
+          "code": "golkin",
+          "occurrence_rate": 0.1304,
+          "lift": 2.28,
+          "detection_count": 6
+        }
+      ]
+    },
+    "L5641764": {
+      "name": "Whaleback Natural Area",
+      "notable_species": [
+        {
+          "common_name": "Blackburnian Warbler",
+          "code": "blawa2",
+          "occurrence_rate": 0.17,
+          "lift": 6.16,
+          "detection_count": 119
+        },
+        {
+          "common_name": "Tufted Titmouse",
+          "code": "tuftit",
+          "occurrence_rate": 0.37,
+          "lift": 3.57,
+          "detection_count": 259
+        },
+        {
+          "common_name": "Eastern Wood-Pewee",
+          "code": "easpew",
+          "occurrence_rate": 0.3486,
+          "lift": 2.78,
+          "detection_count": 244
+        },
+        {
+          "common_name": "Pine Warbler",
+          "code": "pinwar",
+          "occurrence_rate": 0.2857,
+          "lift": 2.65,
+          "detection_count": 200
+        },
+        {
+          "common_name": "Black-throated Green Warbler",
+          "code": "blacwa",
+          "occurrence_rate": 0.2643,
+          "lift": 2.6,
+          "detection_count": 185
+        },
+        {
+          "common_name": "Carolina Wren",
+          "code": "carwre",
+          "occurrence_rate": 0.0071,
+          "lift": 2.49,
+          "detection_count": 5
+        },
+        {
+          "common_name": "White-breasted Nuthatch",
+          "code": "whinut",
+          "occurrence_rate": 0.2329,
+          "lift": 2.27,
+          "detection_count": 163
+        }
+      ]
+    },
+    "L7393785": {
+      "name": "DeYoung Natural Area",
+      "notable_species": [
+        {
+          "common_name": "American Woodcock",
+          "code": "amewoo",
+          "occurrence_rate": 0.0255,
+          "lift": 4.35,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Barred Owl",
+          "code": "barowl",
+          "occurrence_rate": 0.034,
+          "lift": 4.04,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Mute Swan",
+          "code": "mutswa",
+          "occurrence_rate": 0.0936,
+          "lift": 3.65,
+          "detection_count": 22
+        },
+        {
+          "common_name": "Barn Swallow",
+          "code": "barswa",
+          "occurrence_rate": 0.2723,
+          "lift": 3.55,
+          "detection_count": 64
+        },
+        {
+          "common_name": "Tree Swallow",
+          "code": "treswa",
+          "occurrence_rate": 0.3447,
+          "lift": 3.18,
+          "detection_count": 81
+        },
+        {
+          "common_name": "Redhead",
+          "code": "redhea",
+          "occurrence_rate": 0.0979,
+          "lift": 2.91,
+          "detection_count": 23
+        },
+        {
+          "common_name": "Northern Cardinal",
+          "code": "norcar",
+          "occurrence_rate": 0.6383,
+          "lift": 2.83,
+          "detection_count": 150
+        },
+        {
+          "common_name": "Brown-headed Cowbird",
+          "code": "brocow",
+          "occurrence_rate": 0.1489,
+          "lift": 2.73,
+          "detection_count": 35
+        },
+        {
+          "common_name": "Ring-necked Duck",
+          "code": "rinduc",
+          "occurrence_rate": 0.1319,
+          "lift": 2.63,
+          "detection_count": 31
+        },
+        {
+          "common_name": "Tufted Titmouse",
+          "code": "tuftit",
+          "occurrence_rate": 0.2723,
+          "lift": 2.62,
+          "detection_count": 64
+        }
+      ]
+    },
+    "L3157668": {
+      "name": "Peterson Park",
+      "notable_species": [
+        {
+          "common_name": "House Finch",
+          "code": "houfin",
+          "occurrence_rate": 0.2262,
+          "lift": 4.68,
+          "detection_count": 38
+        },
+        {
+          "common_name": "Red-headed Woodpecker",
+          "code": "rewood",
+          "occurrence_rate": 0.0655,
+          "lift": 4.4,
+          "detection_count": 11
+        },
+        {
+          "common_name": "Dark-eyed Junco",
+          "code": "darjun",
+          "occurrence_rate": 0.2024,
+          "lift": 3.68,
+          "detection_count": 34
+        },
+        {
+          "common_name": "Rose-breasted Grosbeak",
+          "code": "rosgro",
+          "occurrence_rate": 0.3095,
+          "lift": 2.49,
+          "detection_count": 52
+        },
+        {
+          "common_name": "Northern Rough-winged Swallow",
+          "code": "norswa",
+          "occurrence_rate": 0.0357,
+          "lift": 2.33,
+          "detection_count": 6
+        }
+      ]
+    },
+    "L6017963": {
+      "name": "Kelderhouse Cemetery",
+      "notable_species": [
+        {
+          "common_name": "Northern Mockingbird",
+          "code": "normoc",
+          "occurrence_rate": 0.1383,
+          "lift": 43.54,
+          "detection_count": 13
+        },
+        {
+          "common_name": "Grasshopper Sparrow",
+          "code": "graspa",
+          "occurrence_rate": 0.1489,
+          "lift": 6.38,
+          "detection_count": 14
+        },
+        {
+          "common_name": "Rough-legged Hawk",
+          "code": "rouhaw",
+          "occurrence_rate": 0.0851,
+          "lift": 5.42,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Northern Harrier",
+          "code": "norhar",
+          "occurrence_rate": 0.0745,
+          "lift": 5.18,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Eastern Meadowlark",
+          "code": "easmea",
+          "occurrence_rate": 0.4574,
+          "lift": 4.91,
+          "detection_count": 43
+        },
+        {
+          "common_name": "Chimney Swift",
+          "code": "chiswi",
+          "occurrence_rate": 0.1277,
+          "lift": 4.85,
+          "detection_count": 12
+        },
+        {
+          "common_name": "Vesper Sparrow",
+          "code": "vesspa",
+          "occurrence_rate": 0.1277,
+          "lift": 3.67,
+          "detection_count": 12
+        },
+        {
+          "common_name": "Sandhill Crane",
+          "code": "sancra",
+          "occurrence_rate": 0.4468,
+          "lift": 3.67,
+          "detection_count": 42
+        },
+        {
+          "common_name": "Eastern Bluebird",
+          "code": "easblu",
+          "occurrence_rate": 0.3085,
+          "lift": 3.1,
+          "detection_count": 29
+        },
+        {
+          "common_name": "Eastern Kingbird",
+          "code": "easkin",
+          "occurrence_rate": 0.3936,
+          "lift": 2.76,
+          "detection_count": 37
+        }
+      ]
+    },
+    "L8893899": {
+      "name": "Fulton Park",
+      "notable_species": [
+        {
+          "common_name": "Red-bellied Woodpecker",
+          "code": "redwoo",
+          "occurrence_rate": 0.5333,
+          "lift": 3.66,
+          "detection_count": 32
+        },
+        {
+          "common_name": "White-breasted Nuthatch",
+          "code": "whinut",
+          "occurrence_rate": 0.3667,
+          "lift": 3.58,
+          "detection_count": 22
+        },
+        {
+          "common_name": "Northern Cardinal",
+          "code": "norcar",
+          "occurrence_rate": 0.75,
+          "lift": 3.32,
+          "detection_count": 45
+        },
+        {
+          "common_name": "Hairy Woodpecker",
+          "code": "haiwoo",
+          "occurrence_rate": 0.4333,
+          "lift": 3.13,
+          "detection_count": 26
+        },
+        {
+          "common_name": "Downy Woodpecker",
+          "code": "dowwoo",
+          "occurrence_rate": 0.35,
+          "lift": 2.81,
+          "detection_count": 21
+        },
+        {
+          "common_name": "Brown-headed Cowbird",
+          "code": "brocow",
+          "occurrence_rate": 0.15,
+          "lift": 2.75,
+          "detection_count": 9
+        },
+        {
+          "common_name": "Baltimore Oriole",
+          "code": "balori",
+          "occurrence_rate": 0.2,
+          "lift": 2.7,
+          "detection_count": 12
+        },
+        {
+          "common_name": "Eastern Warbling Vireo",
+          "code": "easvir",
+          "occurrence_rate": 0.1,
+          "lift": 2.28,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Gray Catbird",
+          "code": "gracat",
+          "occurrence_rate": 0.3667,
+          "lift": 2.25,
+          "detection_count": 22
+        },
+        {
+          "common_name": "Tufted Titmouse",
+          "code": "tuftit",
+          "occurrence_rate": 0.2167,
+          "lift": 2.09,
+          "detection_count": 13
+        }
+      ]
+    },
+    "L6194116": {
+      "name": "Leo Creek Preserve",
+      "notable_species": [
+        {
+          "common_name": "Northern Cardinal",
+          "code": "norcar",
+          "occurrence_rate": 0.6449,
+          "lift": 2.86,
+          "detection_count": 69
+        },
+        {
+          "common_name": "White-breasted Nuthatch",
+          "code": "whinut",
+          "occurrence_rate": 0.2056,
+          "lift": 2.01,
+          "detection_count": 22
+        }
+      ]
+    },
+    "L6312545": {
+      "name": "Lime Lake DNR boat launch",
+      "notable_species": [
+        {
+          "common_name": "Common Merganser",
+          "code": "commer",
+          "occurrence_rate": 0.5455,
+          "lift": 3.29,
+          "detection_count": 6
+        }
+      ]
+    },
+    "L7385048": {
+      "name": "Palmer Woods Forest Reserve (south trailhead)",
+      "notable_species": [
+        {
+          "common_name": "Hooded Warbler",
+          "code": "hoowar",
+          "occurrence_rate": 0.168,
+          "lift": 49.46,
+          "detection_count": 21
+        },
+        {
+          "common_name": "Veery",
+          "code": "veeryv",
+          "occurrence_rate": 0.536,
+          "lift": 22.09,
+          "detection_count": 67
+        },
+        {
+          "common_name": "Mourning Warbler",
+          "code": "mouwar",
+          "occurrence_rate": 0.208,
+          "lift": 19.17,
+          "detection_count": 26
+        },
+        {
+          "common_name": "Black-throated Blue Warbler",
+          "code": "blwarb",
+          "occurrence_rate": 0.568,
+          "lift": 17.1,
+          "detection_count": 71
+        },
+        {
+          "common_name": "Chestnut-sided Warbler",
+          "code": "chewar",
+          "occurrence_rate": 0.56,
+          "lift": 10.34,
+          "detection_count": 70
+        },
+        {
+          "common_name": "Eastern Towhee",
+          "code": "eastow",
+          "occurrence_rate": 0.6,
+          "lift": 8.76,
+          "detection_count": 75
+        },
+        {
+          "common_name": "Wood Thrush",
+          "code": "woothr",
+          "occurrence_rate": 0.376,
+          "lift": 8.52,
+          "detection_count": 47
+        },
+        {
+          "common_name": "Yellow-throated Vireo",
+          "code": "yelvir",
+          "occurrence_rate": 0.168,
+          "lift": 8.31,
+          "detection_count": 21
+        },
+        {
+          "common_name": "Scarlet Tanager",
+          "code": "scatan",
+          "occurrence_rate": 0.552,
+          "lift": 7.42,
+          "detection_count": 69
+        },
+        {
+          "common_name": "Yellow-bellied Sapsucker",
+          "code": "yelsap",
+          "occurrence_rate": 0.464,
+          "lift": 7.39,
+          "detection_count": 58
+        }
+      ]
+    },
+    "L5667799": {
+      "name": "Leelanau Trail south of Fouch Rd.",
+      "notable_species": [
+        {
+          "common_name": "Northern Waterthrush",
+          "code": "norwat",
+          "occurrence_rate": 0.2063,
+          "lift": 10.7,
+          "detection_count": 13
+        },
+        {
+          "common_name": "Cooper's Hawk",
+          "code": "coohaw",
+          "occurrence_rate": 0.1111,
+          "lift": 10.41,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Rusty Blackbird",
+          "code": "rusbla",
+          "occurrence_rate": 0.0952,
+          "lift": 7.71,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Sharp-shinned Hawk",
+          "code": "shahaw",
+          "occurrence_rate": 0.0952,
+          "lift": 7.1,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Winter Wren",
+          "code": "winwre",
+          "occurrence_rate": 0.3333,
+          "lift": 6.69,
+          "detection_count": 21
+        },
+        {
+          "common_name": "Tufted Titmouse",
+          "code": "tuftit",
+          "occurrence_rate": 0.619,
+          "lift": 5.97,
+          "detection_count": 39
+        },
+        {
+          "common_name": "House Finch",
+          "code": "houfin",
+          "occurrence_rate": 0.2698,
+          "lift": 5.59,
+          "detection_count": 17
+        },
+        {
+          "common_name": "Red-bellied Woodpecker",
+          "code": "redwoo",
+          "occurrence_rate": 0.7778,
+          "lift": 5.34,
+          "detection_count": 49
+        },
+        {
+          "common_name": "Yellow-bellied Sapsucker",
+          "code": "yelsap",
+          "occurrence_rate": 0.3333,
+          "lift": 5.31,
+          "detection_count": 21
+        },
+        {
+          "common_name": "Downy Woodpecker",
+          "code": "dowwoo",
+          "occurrence_rate": 0.5397,
+          "lift": 4.33,
+          "detection_count": 34
+        }
+      ]
+    },
+    "L7860580": {
+      "name": "Saving Birds Thru Habitat Center",
+      "notable_species": [
+        {
+          "common_name": "American Kestrel",
+          "code": "amekes",
+          "occurrence_rate": 0.1552,
+          "lift": 4.69,
+          "detection_count": 9
+        },
+        {
+          "common_name": "Eastern Bluebird",
+          "code": "easblu",
+          "occurrence_rate": 0.4655,
+          "lift": 4.68,
+          "detection_count": 27
+        },
+        {
+          "common_name": "Red-tailed Hawk",
+          "code": "rehawk",
+          "occurrence_rate": 0.2586,
+          "lift": 3.51,
+          "detection_count": 15
+        }
+      ]
+    },
+    "L9676996": {
+      "name": "Sleeping Bear Dunes NL--Kettles Trail",
+      "notable_species": [
+        {
+          "common_name": "Hermit Thrush",
+          "code": "herthr",
+          "occurrence_rate": 0.2368,
+          "lift": 6.87,
+          "detection_count": 27
+        },
+        {
+          "common_name": "Eastern Towhee",
+          "code": "eastow",
+          "occurrence_rate": 0.386,
+          "lift": 5.63,
+          "detection_count": 44
+        },
+        {
+          "common_name": "Black-billed Cuckoo",
+          "code": "blacuc",
+          "occurrence_rate": 0.0439,
+          "lift": 5.49,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Field Sparrow",
+          "code": "fiespa",
+          "occurrence_rate": 0.2018,
+          "lift": 4.83,
+          "detection_count": 23
+        },
+        {
+          "common_name": "Brown Creeper",
+          "code": "brocre",
+          "occurrence_rate": 0.2281,
+          "lift": 4.55,
+          "detection_count": 26
+        },
+        {
+          "common_name": "Yellow-throated Vireo",
+          "code": "yelvir",
+          "occurrence_rate": 0.0877,
+          "lift": 4.34,
+          "detection_count": 10
+        },
+        {
+          "common_name": "Scarlet Tanager",
+          "code": "scatan",
+          "occurrence_rate": 0.2982,
+          "lift": 4.01,
+          "detection_count": 34
+        },
+        {
+          "common_name": "Red-shouldered Hawk",
+          "code": "redhaw",
+          "occurrence_rate": 0.1316,
+          "lift": 3.96,
+          "detection_count": 15
+        },
+        {
+          "common_name": "Least Flycatcher",
+          "code": "leafly",
+          "occurrence_rate": 0.1754,
+          "lift": 3.91,
+          "detection_count": 20
+        },
+        {
+          "common_name": "Wood Thrush",
+          "code": "woothr",
+          "occurrence_rate": 0.1667,
+          "lift": 3.78,
+          "detection_count": 19
+        }
+      ]
+    },
+    "L11320402": {
+      "name": "Provemont Pond RA",
+      "notable_species": [
+        {
+          "common_name": "Broad-winged Hawk",
+          "code": "brohaw",
+          "occurrence_rate": 0.0506,
+          "lift": 4.65,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Blue-headed Vireo",
+          "code": "bluvir",
+          "occurrence_rate": 0.0506,
+          "lift": 2.66,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Hooded Merganser",
+          "code": "hoomer",
+          "occurrence_rate": 0.1266,
+          "lift": 2.53,
+          "detection_count": 20
+        },
+        {
+          "common_name": "Ovenbird",
+          "code": "ovenbi",
+          "occurrence_rate": 0.2658,
+          "lift": 2.27,
+          "detection_count": 42
+        },
+        {
+          "common_name": "Brown Creeper",
+          "code": "brocre",
+          "occurrence_rate": 0.1013,
+          "lift": 2.02,
+          "detection_count": 16
+        }
+      ]
+    },
+    "L11400562": {
+      "name": "Sleeping Bear Dunes NL--Philip A. Hart VC",
+      "notable_species": [
+        {
+          "common_name": "House Finch",
+          "code": "houfin",
+          "occurrence_rate": 0.2131,
+          "lift": 4.41,
+          "detection_count": 13
+        },
+        {
+          "common_name": "Pied-billed Grebe",
+          "code": "piegre",
+          "occurrence_rate": 0.1475,
+          "lift": 3.39,
+          "detection_count": 9
+        },
+        {
+          "common_name": "Eastern Warbling Vireo",
+          "code": "easvir",
+          "occurrence_rate": 0.1475,
+          "lift": 3.36,
+          "detection_count": 9
+        },
+        {
+          "common_name": "Baltimore Oriole",
+          "code": "balori",
+          "occurrence_rate": 0.2295,
+          "lift": 3.09,
+          "detection_count": 14
+        }
+      ]
+    },
+    "L12340032": {
+      "name": "Lake Leelanau DNR boat ramp (west)",
+      "notable_species": [
+        {
+          "common_name": "Eastern Warbling Vireo",
+          "code": "easvir",
+          "occurrence_rate": 0.1707,
+          "lift": 3.89,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Yellow-bellied Sapsucker",
+          "code": "yelsap",
+          "occurrence_rate": 0.2195,
+          "lift": 3.49,
+          "detection_count": 9
+        },
+        {
+          "common_name": "Common Goldeneye",
+          "code": "comgol",
+          "occurrence_rate": 0.1951,
+          "lift": 3.33,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Purple Finch",
+          "code": "purfin",
+          "occurrence_rate": 0.122,
+          "lift": 3.15,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Red-bellied Woodpecker",
+          "code": "redwoo",
+          "occurrence_rate": 0.439,
+          "lift": 3.02,
+          "detection_count": 18
+        },
+        {
+          "common_name": "Ruffed Grouse",
+          "code": "rufgro",
+          "occurrence_rate": 0.122,
+          "lift": 2.5,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Northern Cardinal",
+          "code": "norcar",
+          "occurrence_rate": 0.5122,
+          "lift": 2.27,
+          "detection_count": 21
+        },
+        {
+          "common_name": "European Starling",
+          "code": "eursta",
+          "occurrence_rate": 0.3659,
+          "lift": 2.09,
+          "detection_count": 15
+        }
+      ]
+    },
+    "L15931262": {
+      "name": "Sleeping Bear Dunes NL--Shauger Hill Rd.",
+      "notable_species": [
+        {
+          "common_name": "Hooded Warbler",
+          "code": "hoowar",
+          "occurrence_rate": 0.2,
+          "lift": 58.88,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Wood Thrush",
+          "code": "woothr",
+          "occurrence_rate": 0.48,
+          "lift": 10.88,
+          "detection_count": 12
+        },
+        {
+          "common_name": "Veery",
+          "code": "veeryv",
+          "occurrence_rate": 0.24,
+          "lift": 9.89,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Black-throated Blue Warbler",
+          "code": "blwarb",
+          "occurrence_rate": 0.32,
+          "lift": 9.63,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Winter Wren",
+          "code": "winwre",
+          "occurrence_rate": 0.32,
+          "lift": 6.42,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Ovenbird",
+          "code": "ovenbi",
+          "occurrence_rate": 0.64,
+          "lift": 5.46,
+          "detection_count": 16
+        },
+        {
+          "common_name": "Brown Creeper",
+          "code": "brocre",
+          "occurrence_rate": 0.24,
+          "lift": 4.78,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Scarlet Tanager",
+          "code": "scatan",
+          "occurrence_rate": 0.32,
+          "lift": 4.3,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Eastern Wood-Pewee",
+          "code": "easpew",
+          "occurrence_rate": 0.52,
+          "lift": 4.15,
+          "detection_count": 13
+        },
+        {
+          "common_name": "Black-throated Green Warbler",
+          "code": "blacwa",
+          "occurrence_rate": 0.4,
+          "lift": 3.93,
+          "detection_count": 10
+        }
+      ]
+    },
+    "L18365289": {
+      "name": "Empire Beach",
+      "notable_species": [
+        {
+          "common_name": "Red-breasted Merganser",
+          "code": "redmer",
+          "occurrence_rate": 0.2071,
+          "lift": 3.6,
+          "detection_count": 29
+        },
+        {
+          "common_name": "Palm Warbler",
+          "code": "palwar",
+          "occurrence_rate": 0.1071,
+          "lift": 2.87,
+          "detection_count": 15
+        },
+        {
+          "common_name": "Northern Rough-winged Swallow",
+          "code": "norswa",
+          "occurrence_rate": 0.0429,
+          "lift": 2.8,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Bufflehead",
+          "code": "buffle",
+          "occurrence_rate": 0.2214,
+          "lift": 2.54,
+          "detection_count": 31
+        },
+        {
+          "common_name": "Eastern Warbling Vireo",
+          "code": "easvir",
+          "occurrence_rate": 0.1071,
+          "lift": 2.44,
+          "detection_count": 15
+        },
+        {
+          "common_name": "Common Goldeneye",
+          "code": "comgol",
+          "occurrence_rate": 0.1357,
+          "lift": 2.31,
+          "detection_count": 19
+        },
+        {
+          "common_name": "Horned Grebe",
+          "code": "horgre",
+          "occurrence_rate": 0.0857,
+          "lift": 2.15,
+          "detection_count": 12
+        },
+        {
+          "common_name": "White-crowned Sparrow",
+          "code": "whispa",
+          "occurrence_rate": 0.0643,
+          "lift": 2.02,
+          "detection_count": 9
+        }
+      ]
+    },
+    "L19092879": {
+      "name": "Leland north beach",
+      "notable_species": [
+        {
+          "common_name": "American Herring Gull",
+          "code": "amegul",
+          "occurrence_rate": 0.6154,
+          "lift": 3.6,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Double-crested Cormorant",
+          "code": "doucor",
+          "occurrence_rate": 0.3846,
+          "lift": 3.13,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Ring-billed Gull",
+          "code": "ringul",
+          "occurrence_rate": 0.9231,
+          "lift": 2.9,
+          "detection_count": 12
+        },
+        {
+          "common_name": "Northern Cardinal",
+          "code": "norcar",
+          "occurrence_rate": 0.6154,
+          "lift": 2.73,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Common Grackle",
+          "code": "comgra",
+          "occurrence_rate": 0.6154,
+          "lift": 2.23,
+          "detection_count": 8
+        }
+      ]
+    },
+    "L22374798": {
+      "name": "Discovery Pier",
+      "notable_species": [
+        {
+          "common_name": "Redhead",
+          "code": "redhea",
+          "occurrence_rate": 0.7059,
+          "lift": 20.97,
+          "detection_count": 12
+        },
+        {
+          "common_name": "Greater Scaup",
+          "code": "gresca",
+          "occurrence_rate": 0.3529,
+          "lift": 15.53,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Mute Swan",
+          "code": "mutswa",
+          "occurrence_rate": 0.3529,
+          "lift": 13.75,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Common Goldeneye",
+          "code": "comgol",
+          "occurrence_rate": 0.6471,
+          "lift": 11.03,
+          "detection_count": 11
+        },
+        {
+          "common_name": "Common Merganser",
+          "code": "commer",
+          "occurrence_rate": 0.7647,
+          "lift": 4.61,
+          "detection_count": 13
+        },
+        {
+          "common_name": "Canada Goose",
+          "code": "cangoo",
+          "occurrence_rate": 0.6471,
+          "lift": 3.66,
+          "detection_count": 11
+        },
+        {
+          "common_name": "Mallard",
+          "code": "mallar",
+          "occurrence_rate": 0.8235,
+          "lift": 3.24,
+          "detection_count": 14
+        },
+        {
+          "common_name": "Bald Eagle",
+          "code": "baleag",
+          "occurrence_rate": 0.2941,
+          "lift": 2.14,
+          "detection_count": 5
+        }
+      ]
+    },
+    "L27275541": {
+      "name": "Pats Preserve at Lime Lake",
+      "notable_species": [
+        {
+          "common_name": "Northern Waterthrush",
+          "code": "norwat",
+          "occurrence_rate": 0.3636,
+          "lift": 18.86,
+          "detection_count": 12
+        },
+        {
+          "common_name": "Winter Wren",
+          "code": "winwre",
+          "occurrence_rate": 0.4848,
+          "lift": 9.73,
+          "detection_count": 16
+        },
+        {
+          "common_name": "Brown Creeper",
+          "code": "brocre",
+          "occurrence_rate": 0.3939,
+          "lift": 7.85,
+          "detection_count": 13
+        },
+        {
+          "common_name": "Black-throated Green Warbler",
+          "code": "blacwa",
+          "occurrence_rate": 0.5758,
+          "lift": 5.66,
+          "detection_count": 19
+        },
+        {
+          "common_name": "Wood Thrush",
+          "code": "woothr",
+          "occurrence_rate": 0.2424,
+          "lift": 5.5,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Red-shouldered Hawk",
+          "code": "redhaw",
+          "occurrence_rate": 0.1515,
+          "lift": 4.56,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Red-breasted Nuthatch",
+          "code": "rednut",
+          "occurrence_rate": 0.4848,
+          "lift": 3.97,
+          "detection_count": 16
+        },
+        {
+          "common_name": "Nashville Warbler",
+          "code": "naswar",
+          "occurrence_rate": 0.2121,
+          "lift": 3.59,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Red-bellied Woodpecker",
+          "code": "redwoo",
+          "occurrence_rate": 0.4848,
+          "lift": 3.33,
+          "detection_count": 16
+        },
+        {
+          "common_name": "Great Crested Flycatcher",
+          "code": "grefly",
+          "occurrence_rate": 0.3333,
+          "lift": 3.26,
+          "detection_count": 11
+        }
+      ]
+    },
+    "L29791469": {
+      "name": "Stites Natural Area",
+      "notable_species": [
+        {
+          "common_name": "White-breasted Nuthatch",
+          "code": "whinut",
+          "occurrence_rate": 0.3158,
+          "lift": 3.08,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Hairy Woodpecker",
+          "code": "haiwoo",
+          "occurrence_rate": 0.4211,
+          "lift": 3.04,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Eastern Wood-Pewee",
+          "code": "easpew",
+          "occurrence_rate": 0.3684,
+          "lift": 2.94,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Red-bellied Woodpecker",
+          "code": "redwoo",
+          "occurrence_rate": 0.4211,
+          "lift": 2.89,
+          "detection_count": 8
+        },
+        {
+          "common_name": "Ovenbird",
+          "code": "ovenbi",
+          "occurrence_rate": 0.3158,
+          "lift": 2.69,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Pileated Woodpecker",
+          "code": "pilwoo",
+          "occurrence_rate": 0.3684,
+          "lift": 2.59,
+          "detection_count": 7
+        },
+        {
+          "common_name": "Rose-breasted Grosbeak",
+          "code": "rosgro",
+          "occurrence_rate": 0.3158,
+          "lift": 2.54,
+          "detection_count": 6
+        },
+        {
+          "common_name": "Pine Warbler",
+          "code": "pinwar",
+          "occurrence_rate": 0.2632,
+          "lift": 2.44,
+          "detection_count": 5
+        },
+        {
+          "common_name": "Black-capped Chickadee",
+          "code": "blachi",
+          "occurrence_rate": 0.9474,
+          "lift": 2.01,
+          "detection_count": 18
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "species": {
+    "common_name": "Western Kingbird",
+    "code": "weskin",
+    "scientific_name": "Tyrannus verticalis"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0001,
+    "total_detections": 3,
+    "total_checklists_with_species": 3,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 3,
+    "highest_occurrence_rate": 0.0625
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L619015",
+      "name": "North Manitou Island",
+      "coordinates": {
+        "latitude": 45.11346,
+        "longitude": -86.0202
+      },
+      "occurrence": {
+        "rate": 0.0625,
+        "lift": 472.25,
+        "detection_count": 2,
+        "total_checklists": 32,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "summer": 0.0,
+        "fall": 0.1176
+      },
+      "monthly": {
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.3333,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1539955",
+      "name": "Lighthouse West Natural Area",
+      "coordinates": {
+        "latitude": 45.2052708,
+        "longitude": -85.5470861
+      },
+      "occurrence": {
+        "rate": 0.0021,
+        "lift": 16.15,
+        "detection_count": 1,
+        "total_checklists": 468,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0039,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0047,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.951968Z",
+    "data_version": "Dec-2025"
+  }
+}

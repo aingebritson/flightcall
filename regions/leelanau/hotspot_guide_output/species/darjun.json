@@ -1,0 +1,2581 @@
+{
+  "species": {
+    "common_name": "Dark-eyed Junco",
+    "code": "darjun",
+    "scientific_name": "Junco hyemalis"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.055,
+    "total_detections": 1245,
+    "total_checklists_with_species": 1247,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 71
+  },
+  "summary": {
+    "total_hotspots_detected": 69,
+    "total_detections": 1245,
+    "highest_occurrence_rate": 0.2604
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1371382",
+      "name": "Lake Leelanau Boat Launch",
+      "coordinates": {
+        "latitude": 44.9798478,
+        "longitude": -85.7099043
+      },
+      "occurrence": {
+        "rate": 0.2604,
+        "lift": 4.73,
+        "detection_count": 88,
+        "total_checklists": 338,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.6,
+        "max_count": 18
+      },
+      "seasonal": {
+        "spring": 0.3333,
+        "summer": 0.0,
+        "fall": 0.0882,
+        "winter": 0.2963
+      },
+      "monthly": {
+        "1": 0.1774,
+        "2": 0.371,
+        "3": 0.3971,
+        "4": 0.2903,
+        "5": 0.0833,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.4286,
+        "12": 0.3684
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L3157668",
+      "name": "Peterson Park",
+      "coordinates": {
+        "latitude": 45.1536031,
+        "longitude": -85.6472951
+      },
+      "occurrence": {
+        "rate": 0.2024,
+        "lift": 3.68,
+        "detection_count": 34,
+        "total_checklists": 168,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 7.1,
+        "max_count": 45
+      },
+      "seasonal": {
+        "spring": 0.2564,
+        "summer": 0.0,
+        "fall": 0.2093,
+        "winter": 0.4688
+      },
+      "monthly": {
+        "1": 0.5333,
+        "2": 0.6,
+        "3": 0.1667,
+        "4": 0.7,
+        "5": 0.087,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.6154,
+        "11": 0.125,
+        "12": 0.3333
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L619015",
+      "name": "North Manitou Island",
+      "coordinates": {
+        "latitude": 45.11346,
+        "longitude": -86.0202
+      },
+      "occurrence": {
+        "rate": 0.125,
+        "lift": 2.27,
+        "detection_count": 4,
+        "total_checklists": 32,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 11.0,
+        "max_count": 35
+      },
+      "seasonal": {
+        "summer": 0.0,
+        "fall": 0.2353
+      },
+      "monthly": {
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.25
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L2334420",
+      "name": "South Port Oneida Rd.",
+      "coordinates": {
+        "latitude": 44.9530579,
+        "longitude": -85.9400067
+      },
+      "occurrence": {
+        "rate": 0.1226,
+        "lift": 2.23,
+        "detection_count": 103,
+        "total_checklists": 840,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.0,
+        "max_count": 39
+      },
+      "seasonal": {
+        "spring": 0.1963,
+        "summer": 0.0103,
+        "fall": 0.1394,
+        "winter": 0.0903
+      },
+      "monthly": {
+        "1": 0.1026,
+        "2": 0.037,
+        "3": 0.2095,
+        "4": 0.2727,
+        "5": 0.1081,
+        "6": 0.0174,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.125,
+        "10": 0.4516,
+        "11": 0.1111,
+        "12": 0.1
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L1667058",
+      "name": "North Manitou Island--Dimmick's Point",
+      "coordinates": {
+        "latitude": 45.0593874,
+        "longitude": -85.9631048
+      },
+      "occurrence": {
+        "rate": 0.12,
+        "lift": 2.18,
+        "detection_count": 12,
+        "total_checklists": 100,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.5,
+        "max_count": 13
+      },
+      "seasonal": {
+        "spring": 0.2927,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.6154,
+        "5": 0.1429,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L4500294",
+      "name": "Sleeping Bear Dunes NL--Alligator Hill Trail",
+      "coordinates": {
+        "latitude": 44.8894753,
+        "longitude": -86.0211039
+      },
+      "occurrence": {
+        "rate": 0.1186,
+        "lift": 2.16,
+        "detection_count": 42,
+        "total_checklists": 354,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 7.5,
+        "max_count": 40
+      },
+      "seasonal": {
+        "spring": 0.1792,
+        "summer": 0.0062,
+        "fall": 0.2651
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0625,
+        "4": 0.8462,
+        "5": 0.0909,
+        "6": 0.0125,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.2143,
+        "10": 0.5758,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L4213656",
+      "name": "S. Manitou Blvd. terminus",
+      "coordinates": {
+        "latitude": 44.9008149,
+        "longitude": -85.9905267
+      },
+      "occurrence": {
+        "rate": 0.1118,
+        "lift": 2.03,
+        "detection_count": 19,
+        "total_checklists": 170,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.9,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.1163,
+        "summer": 0.0,
+        "fall": 0.075,
+        "winter": 0.1429
+      },
+      "monthly": {
+        "1": 0.1471,
+        "2": 0.1875,
+        "3": 0.08,
+        "4": 0.1538,
+        "5": 0.2,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.1538,
+        "11": 0.0526,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L5667799",
+      "name": "Leelanau Trail south of Fouch Rd.",
+      "coordinates": {
+        "latitude": 44.8223645,
+        "longitude": -85.6726527
+      },
+      "occurrence": {
+        "rate": 0.1111,
+        "lift": 2.02,
+        "detection_count": 7,
+        "total_checklists": 63,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.2174,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.4545,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "12": 0.6667
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L8893899",
+      "name": "Fulton Park",
+      "coordinates": {
+        "latitude": 44.7803672,
+        "longitude": -85.6448679
+      },
+      "occurrence": {
+        "rate": 0.1,
+        "lift": 1.82,
+        "detection_count": 6,
+        "total_checklists": 60,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.7,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.2273,
+        "summer": 0.0,
+        "fall": 0.0556,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.5714,
+        "5": 0.0714,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.2,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L4662866",
+      "name": "Sleeping Bear Dunes NL--Treat Farm Trail",
+      "coordinates": {
+        "latitude": 44.790729,
+        "longitude": -86.0674953
+      },
+      "occurrence": {
+        "rate": 0.0992,
+        "lift": 1.8,
+        "detection_count": 24,
+        "total_checklists": 242,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.8,
+        "max_count": 20
+      },
+      "seasonal": {
+        "spring": 0.1753,
+        "summer": 0.0,
+        "fall": 0.1522,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.6,
+        "5": 0.0317,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.5556,
+        "11": 0.4,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L11031864",
+      "name": "Popp Rd. ponds",
+      "coordinates": {
+        "latitude": 44.9450173,
+        "longitude": -85.7400584
+      },
+      "occurrence": {
+        "rate": 0.0987,
+        "lift": 1.79,
+        "detection_count": 61,
+        "total_checklists": 618,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.3,
+        "max_count": 30
+      },
+      "seasonal": {
+        "spring": 0.0888,
+        "summer": 0.0,
+        "fall": 0.0932,
+        "winter": 0.5161
+      },
+      "monthly": {
+        "1": 0.6154,
+        "2": 0.5,
+        "3": 0.1132,
+        "4": 0.1195,
+        "5": 0.0096,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.1818,
+        "11": 0.35,
+        "12": 0.4286
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L2894035",
+      "name": "Veronica Valley Park",
+      "coordinates": {
+        "latitude": 44.9198654,
+        "longitude": -85.6962332
+      },
+      "occurrence": {
+        "rate": 0.0892,
+        "lift": 1.62,
+        "detection_count": 14,
+        "total_checklists": 157,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 6.7,
+        "max_count": 40
+      },
+      "seasonal": {
+        "spring": 0.1163,
+        "summer": 0.0,
+        "fall": 0.0833,
+        "winter": 0.1613
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.25,
+        "4": 0.1111,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0526,
+        "10": 0.25,
+        "12": 0.2
+      }
+    },
+    {
+      "rank": 13,
+      "locality_id": "L3798654",
+      "name": "Sleeping Bear Dunes NL--Bay View Trail",
+      "coordinates": {
+        "latitude": 44.9340657,
+        "longitude": -85.9495841
+      },
+      "occurrence": {
+        "rate": 0.0873,
+        "lift": 1.59,
+        "detection_count": 11,
+        "total_checklists": 126,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.8,
+        "max_count": 11
+      },
+      "seasonal": {
+        "spring": 0.1224,
+        "summer": 0.0,
+        "fall": 0.1562
+      },
+      "monthly": {
+        "3": 0.0667,
+        "4": 0.5,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.25,
+        "11": 0.4
+      }
+    },
+    {
+      "rank": 14,
+      "locality_id": "L4730469",
+      "name": "Hatlem Creek Preserve",
+      "coordinates": {
+        "latitude": 44.8334282,
+        "longitude": -85.9642142
+      },
+      "occurrence": {
+        "rate": 0.087,
+        "lift": 1.58,
+        "detection_count": 4,
+        "total_checklists": 46,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 15.2,
+        "max_count": 20
+      },
+      "seasonal": {
+        "spring": 0.1481,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.3,
+        "5": 0.1,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 15,
+      "locality_id": "L7860580",
+      "name": "Saving Birds Thru Habitat Center",
+      "coordinates": {
+        "latitude": 45.0559156,
+        "longitude": -85.6174079
+      },
+      "occurrence": {
+        "rate": 0.0862,
+        "lift": 1.57,
+        "detection_count": 5,
+        "total_checklists": 58,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.2
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.4444,
+        "11": 0.2
+      }
+    },
+    {
+      "rank": 16,
+      "locality_id": "L3773820",
+      "name": "Sleeping Bear Dunes NL--Heritage Trail",
+      "coordinates": {
+        "latitude": 44.8937925,
+        "longitude": -86.0070813
+      },
+      "occurrence": {
+        "rate": 0.0817,
+        "lift": 1.49,
+        "detection_count": 17,
+        "total_checklists": 208,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.1,
+        "max_count": 14
+      },
+      "seasonal": {
+        "spring": 0.1702,
+        "summer": 0.0,
+        "fall": 0.1579
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.5,
+        "4": 0.4,
+        "5": 0.0312,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.8182,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 17,
+      "locality_id": "L7385048",
+      "name": "Palmer Woods Forest Reserve (south trailhead)",
+      "coordinates": {
+        "latitude": 44.8925498,
+        "longitude": -85.9143814
+      },
+      "occurrence": {
+        "rate": 0.08,
+        "lift": 1.45,
+        "detection_count": 10,
+        "total_checklists": 125,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.4,
+        "max_count": 21
+      },
+      "seasonal": {
+        "spring": 0.2917,
+        "summer": 0.0,
+        "fall": 0.1,
+        "winter": 0.0
+      },
+      "monthly": {
+        "4": 0.75,
+        "5": 0.0625,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0909,
+        "10": 0.1667,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 18,
+      "locality_id": "L19092879",
+      "name": "Leland north beach",
+      "coordinates": {
+        "latitude": 45.0275304,
+        "longitude": -85.7595979
+      },
+      "occurrence": {
+        "rate": 0.0769,
+        "lift": 1.4,
+        "detection_count": 1,
+        "total_checklists": 13,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "7": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 19,
+      "locality_id": "L1539955",
+      "name": "Lighthouse West Natural Area",
+      "coordinates": {
+        "latitude": 45.2052708,
+        "longitude": -85.5470861
+      },
+      "occurrence": {
+        "rate": 0.0726,
+        "lift": 1.32,
+        "detection_count": 34,
+        "total_checklists": 468,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.6,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.102,
+        "summer": 0.0,
+        "fall": 0.0762,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.125,
+        "4": 0.2188,
+        "5": 0.0837,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0323,
+        "10": 0.3,
+        "11": 0.0769,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 20,
+      "locality_id": "L883142",
+      "name": "N. Howell Rd. fields",
+      "coordinates": {
+        "latitude": 45.1627951,
+        "longitude": -85.5846119
+      },
+      "occurrence": {
+        "rate": 0.0725,
+        "lift": 1.32,
+        "detection_count": 10,
+        "total_checklists": 138,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.3,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.1087,
+        "winter": 0.1923
+      },
+      "monthly": {
+        "1": 0.2,
+        "2": 0.2,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.4167,
+        "11": 0.0,
+        "12": 0.1667
+      }
+    },
+    {
+      "rank": 21,
+      "locality_id": "L11320402",
+      "name": "Provemont Pond RA",
+      "coordinates": {
+        "latitude": 44.9817458,
+        "longitude": -85.7308339
+      },
+      "occurrence": {
+        "rate": 0.0696,
+        "lift": 1.27,
+        "detection_count": 11,
+        "total_checklists": 158,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.6,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0857,
+        "summer": 0.0,
+        "fall": 0.1667,
+        "winter": 0.1154
+      },
+      "monthly": {
+        "1": 0.375,
+        "2": 0.0,
+        "3": 0.1667,
+        "4": 0.1,
+        "5": 0.0526,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.1429,
+        "11": 0.3636,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 22,
+      "locality_id": "L1797191",
+      "name": "Charter Sanctuary (restricted access)",
+      "coordinates": {
+        "latitude": 45.0572598,
+        "longitude": -85.6149755
+      },
+      "occurrence": {
+        "rate": 0.069,
+        "lift": 1.25,
+        "detection_count": 2,
+        "total_checklists": 29,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.4
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      }
+    },
+    {
+      "rank": 23,
+      "locality_id": "L1570466",
+      "name": "Sleeping Bear Dunes NL--Norconk Rd. fields",
+      "coordinates": {
+        "latitude": 44.7893731,
+        "longitude": -86.0551219
+      },
+      "occurrence": {
+        "rate": 0.0678,
+        "lift": 1.23,
+        "detection_count": 25,
+        "total_checklists": 369,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.9,
+        "max_count": 30
+      },
+      "seasonal": {
+        "spring": 0.1234,
+        "summer": 0.0,
+        "fall": 0.2,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.15,
+        "4": 0.3659,
+        "5": 0.0108,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.1667,
+        "10": 0.5,
+        "11": 0.1111,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 24,
+      "locality_id": "L3773795",
+      "name": "Sleeping Bear Dunes NL--Dune Crossing Trail",
+      "coordinates": {
+        "latitude": 44.89209,
+        "longitude": -86.0562086
+      },
+      "occurrence": {
+        "rate": 0.0672,
+        "lift": 1.22,
+        "detection_count": 9,
+        "total_checklists": 134,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.0,
+        "max_count": 16
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.2571
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.1176,
+        "9": 0.0,
+        "10": 0.5833
+      }
+    },
+    {
+      "rank": 25,
+      "locality_id": "L11400562",
+      "name": "Sleeping Bear Dunes NL--Philip A. Hart VC",
+      "coordinates": {
+        "latitude": 44.8119398,
+        "longitude": -86.0557625
+      },
+      "occurrence": {
+        "rate": 0.0656,
+        "lift": 1.19,
+        "detection_count": 4,
+        "total_checklists": 61,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 4.0,
+        "max_count": 12
+      },
+      "seasonal": {
+        "spring": 0.1212,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "3": 0.25,
+        "4": 0.2857,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 26,
+      "locality_id": "L11736832",
+      "name": "Sleeping Bear Dunes NL--Shell Lake",
+      "coordinates": {
+        "latitude": 44.9482452,
+        "longitude": -85.8988009
+      },
+      "occurrence": {
+        "rate": 0.0621,
+        "lift": 1.13,
+        "detection_count": 10,
+        "total_checklists": 161,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.1,
+        "max_count": 12
+      },
+      "seasonal": {
+        "spring": 0.0784,
+        "summer": 0.0,
+        "fall": 0.1364,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.25,
+        "4": 0.0952,
+        "5": 0.0385,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0714,
+        "10": 0.3,
+        "11": 0.6667,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 27,
+      "locality_id": "L771853",
+      "name": "Sleeping Bear Dunes NL--Sleeping Bear Point",
+      "coordinates": {
+        "latitude": 44.9095902,
+        "longitude": -86.0396411
+      },
+      "occurrence": {
+        "rate": 0.0607,
+        "lift": 1.1,
+        "detection_count": 132,
+        "total_checklists": 2175,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.0,
+        "max_count": 40
+      },
+      "seasonal": {
+        "spring": 0.0984,
+        "summer": 0.0,
+        "fall": 0.102,
+        "winter": 0.0481
+      },
+      "monthly": {
+        "1": 0.0563,
+        "2": 0.0606,
+        "3": 0.117,
+        "4": 0.1463,
+        "5": 0.0675,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0172,
+        "10": 0.3537,
+        "11": 0.075,
+        "12": 0.02
+      }
+    },
+    {
+      "rank": 28,
+      "locality_id": "L6355333",
+      "name": "Chippewa Run Natural Area",
+      "coordinates": {
+        "latitude": 44.8186863,
+        "longitude": -86.0518835
+      },
+      "occurrence": {
+        "rate": 0.0605,
+        "lift": 1.1,
+        "detection_count": 50,
+        "total_checklists": 826,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 6.3,
+        "max_count": 40
+      },
+      "seasonal": {
+        "spring": 0.0925,
+        "summer": 0.0065,
+        "fall": 0.058,
+        "winter": 0.0667
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0769,
+        "3": 0.1304,
+        "4": 0.413,
+        "5": 0.0189,
+        "6": 0.0122,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0628,
+        "10": 0.2759,
+        "11": 0.1,
+        "12": 0.125
+      }
+    },
+    {
+      "rank": 29,
+      "locality_id": "L619011",
+      "name": "Leelanau SP--North",
+      "coordinates": {
+        "latitude": 45.21025,
+        "longitude": -85.54933
+      },
+      "occurrence": {
+        "rate": 0.0583,
+        "lift": 1.06,
+        "detection_count": 33,
+        "total_checklists": 566,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.4,
+        "max_count": 60
+      },
+      "seasonal": {
+        "spring": 0.0728,
+        "summer": 0.0058,
+        "fall": 0.095,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.2963,
+        "5": 0.0409,
+        "6": 0.0094,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0625,
+        "10": 0.3023,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 30,
+      "locality_id": "L883118",
+      "name": "Northport (town)",
+      "coordinates": {
+        "latitude": 45.1314378,
+        "longitude": -85.6159401
+      },
+      "occurrence": {
+        "rate": 0.0565,
+        "lift": 1.03,
+        "detection_count": 13,
+        "total_checklists": 230,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.4,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.0294,
+        "summer": 0.0,
+        "fall": 0.0635,
+        "winter": 0.1818
+      },
+      "monthly": {
+        "1": 0.087,
+        "2": 0.1667,
+        "3": 0.0,
+        "4": 0.1,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.5,
+        "12": 0.4444
+      }
+    },
+    {
+      "rank": 31,
+      "locality_id": "L2190835",
+      "name": "Teichner Preserve",
+      "coordinates": {
+        "latitude": 44.9035317,
+        "longitude": -85.8286393
+      },
+      "occurrence": {
+        "rate": 0.0533,
+        "lift": 0.97,
+        "detection_count": 21,
+        "total_checklists": 394,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.8,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.097,
+        "summer": 0.0,
+        "fall": 0.0612,
+        "winter": 0.0435
+      },
+      "monthly": {
+        "1": 0.05,
+        "2": 0.0,
+        "3": 0.25,
+        "4": 0.1923,
+        "5": 0.0297,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.2857,
+        "11": 0.1,
+        "12": 0.05
+      }
+    },
+    {
+      "rank": 32,
+      "locality_id": "L2154245",
+      "name": "Suttons Bay Sewage Ponds",
+      "coordinates": {
+        "latitude": 44.9571269,
+        "longitude": -85.6494677
+      },
+      "occurrence": {
+        "rate": 0.0488,
+        "lift": 0.89,
+        "detection_count": 20,
+        "total_checklists": 410,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.8,
+        "max_count": 20
+      },
+      "seasonal": {
+        "spring": 0.073,
+        "summer": 0.0,
+        "fall": 0.0321,
+        "winter": 0.25
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0714,
+        "4": 0.0938,
+        "5": 0.0508,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0926,
+        "11": 0.1333,
+        "12": 0.375
+      }
+    },
+    {
+      "rank": 33,
+      "locality_id": "L1632215",
+      "name": "Sleeping Bear Dunes NL--Empire Bluff Trail",
+      "coordinates": {
+        "latitude": 44.7988727,
+        "longitude": -86.0589519
+      },
+      "occurrence": {
+        "rate": 0.0486,
+        "lift": 0.88,
+        "detection_count": 14,
+        "total_checklists": 288,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 8.1,
+        "max_count": 30
+      },
+      "seasonal": {
+        "spring": 0.1212,
+        "summer": 0.0,
+        "fall": 0.06,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "4": 0.2963,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.1429,
+        "11": 0.3333
+      }
+    },
+    {
+      "rank": 34,
+      "locality_id": "L263739",
+      "name": "Good Harbor Bay Trail",
+      "coordinates": {
+        "latitude": 44.9368361,
+        "longitude": -85.8574031
+      },
+      "occurrence": {
+        "rate": 0.0476,
+        "lift": 0.87,
+        "detection_count": 22,
+        "total_checklists": 462,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.3,
+        "max_count": 11
+      },
+      "seasonal": {
+        "spring": 0.0654,
+        "summer": 0.0183,
+        "fall": 0.0811,
+        "winter": 0.0769
+      },
+      "monthly": {
+        "1": 0.125,
+        "3": 0.0,
+        "4": 0.125,
+        "5": 0.0526,
+        "6": 0.0357,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.1111,
+        "10": 0.2105,
+        "11": 0.1111,
+        "12": 0.0625
+      }
+    },
+    {
+      "rank": 35,
+      "locality_id": "L860255",
+      "name": "Leelanau SP--South",
+      "coordinates": {
+        "latitude": 45.1823998,
+        "longitude": -85.5710335
+      },
+      "occurrence": {
+        "rate": 0.0472,
+        "lift": 0.86,
+        "detection_count": 15,
+        "total_checklists": 318,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 7.1,
+        "max_count": 60
+      },
+      "seasonal": {
+        "spring": 0.0323,
+        "summer": 0.0,
+        "fall": 0.1236,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0909,
+        "4": 0.1176,
+        "5": 0.0104,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0294,
+        "9": 0.1143,
+        "10": 0.375,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 36,
+      "locality_id": "L2190847",
+      "name": "Houdek Dunes Natural Area",
+      "coordinates": {
+        "latitude": 45.0682678,
+        "longitude": -85.6922275
+      },
+      "occurrence": {
+        "rate": 0.0471,
+        "lift": 0.86,
+        "detection_count": 9,
+        "total_checklists": 191,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.6,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.0588,
+        "summer": 0.0,
+        "fall": 0.0847,
+        "winter": 0.1
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.2308,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.625,
+        "11": 0.0,
+        "12": 0.1429
+      }
+    },
+    {
+      "rank": 37,
+      "locality_id": "L7393785",
+      "name": "DeYoung Natural Area",
+      "coordinates": {
+        "latitude": 44.8096127,
+        "longitude": -85.6534883
+      },
+      "occurrence": {
+        "rate": 0.0468,
+        "lift": 0.85,
+        "detection_count": 11,
+        "total_checklists": 235,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.6,
+        "max_count": 12
+      },
+      "seasonal": {
+        "spring": 0.0571,
+        "summer": 0.0,
+        "fall": 0.06,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.1194,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.25,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 38,
+      "locality_id": "L569413",
+      "name": "Kehl Lake Natural Area",
+      "coordinates": {
+        "latitude": 45.1692249,
+        "longitude": -85.6009841
+      },
+      "occurrence": {
+        "rate": 0.0456,
+        "lift": 0.83,
+        "detection_count": 12,
+        "total_checklists": 263,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 6.5,
+        "max_count": 20
+      },
+      "seasonal": {
+        "spring": 0.0441,
+        "summer": 0.0,
+        "fall": 0.0737,
+        "winter": 0.0952
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.3,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.2609,
+        "11": 0.2,
+        "12": 0.2
+      }
+    },
+    {
+      "rank": 39,
+      "locality_id": "L860256",
+      "name": "South Manitou Island",
+      "coordinates": {
+        "latitude": 45.009307,
+        "longitude": -86.0944977
+      },
+      "occurrence": {
+        "rate": 0.0455,
+        "lift": 0.83,
+        "detection_count": 6,
+        "total_checklists": 132,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 87.3,
+        "max_count": 450
+      },
+      "seasonal": {
+        "spring": 0.1364,
+        "summer": 0.0,
+        "fall": 0.0789
+      },
+      "monthly": {
+        "4": 1.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.1538
+      }
+    },
+    {
+      "rank": 40,
+      "locality_id": "L1666832",
+      "name": "North Manitou Island--Village and Campground",
+      "coordinates": {
+        "latitude": 45.1217932,
+        "longitude": -85.9773549
+      },
+      "occurrence": {
+        "rate": 0.0448,
+        "lift": 0.81,
+        "detection_count": 3,
+        "total_checklists": 67,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 8.3,
+        "max_count": 15
+      },
+      "seasonal": {
+        "spring": 0.0714,
+        "summer": 0.0,
+        "fall": 0.0606
+      },
+      "monthly": {
+        "5": 0.0769,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0357,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 41,
+      "locality_id": "L9083325",
+      "name": "Tucker Lake",
+      "coordinates": {
+        "latitude": 44.9034317,
+        "longitude": -85.9548532
+      },
+      "occurrence": {
+        "rate": 0.0446,
+        "lift": 0.81,
+        "detection_count": 18,
+        "total_checklists": 404,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.3,
+        "max_count": 40
+      },
+      "seasonal": {
+        "spring": 0.0556,
+        "summer": 0.0,
+        "fall": 0.0625
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.1146,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.1786,
+        "11": 0.2222
+      }
+    },
+    {
+      "rank": 42,
+      "locality_id": "L1811921",
+      "name": "Sleeping Bear Dunes NL--Pierce Stocking Scenic Dr.",
+      "coordinates": {
+        "latitude": 44.8606605,
+        "longitude": -86.0504296
+      },
+      "occurrence": {
+        "rate": 0.0439,
+        "lift": 0.8,
+        "detection_count": 17,
+        "total_checklists": 387,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.1,
+        "max_count": 12
+      },
+      "seasonal": {
+        "spring": 0.0494,
+        "summer": 0.0,
+        "fall": 0.1102,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.3333,
+        "5": 0.027,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0465,
+        "9": 0.0345,
+        "10": 0.2439,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 43,
+      "locality_id": "L9676996",
+      "name": "Sleeping Bear Dunes NL--Kettles Trail",
+      "coordinates": {
+        "latitude": 44.8213982,
+        "longitude": -85.9202551
+      },
+      "occurrence": {
+        "rate": 0.0439,
+        "lift": 0.8,
+        "detection_count": 5,
+        "total_checklists": 114,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.1351,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.3,
+        "11": 0.4
+      }
+    },
+    {
+      "rank": 44,
+      "locality_id": "L2185066",
+      "name": "Sleeping Bear Dunes NL--North Bar Lake",
+      "coordinates": {
+        "latitude": 44.8419947,
+        "longitude": -86.0641394
+      },
+      "occurrence": {
+        "rate": 0.0434,
+        "lift": 0.79,
+        "detection_count": 15,
+        "total_checklists": 346,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 9.1,
+        "max_count": 70
+      },
+      "seasonal": {
+        "spring": 0.0446,
+        "summer": 0.0351,
+        "fall": 0.0462
+      },
+      "monthly": {
+        "3": 0.1333,
+        "4": 0.0571,
+        "5": 0.028,
+        "6": 0.0333,
+        "7": 0.037,
+        "8": 0.0,
+        "9": 0.0238,
+        "10": 0.0968,
+        "11": 0.1176
+      }
+    },
+    {
+      "rank": 45,
+      "locality_id": "L585267",
+      "name": "Narada Lake",
+      "coordinates": {
+        "latitude": 44.9332857,
+        "longitude": -85.9073564
+      },
+      "occurrence": {
+        "rate": 0.0421,
+        "lift": 0.77,
+        "detection_count": 38,
+        "total_checklists": 902,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 18
+      },
+      "seasonal": {
+        "spring": 0.0767,
+        "summer": 0.0,
+        "fall": 0.0462,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.14,
+        "5": 0.0333,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.1639,
+        "11": 0.1429,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 46,
+      "locality_id": "L15931262",
+      "name": "Sleeping Bear Dunes NL--Shauger Hill Rd.",
+      "coordinates": {
+        "latitude": 44.8518612,
+        "longitude": -86.0437321
+      },
+      "occurrence": {
+        "rate": 0.04,
+        "lift": 0.73,
+        "detection_count": 1,
+        "total_checklists": 25,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      }
+    },
+    {
+      "rank": 47,
+      "locality_id": "L490116",
+      "name": "Little Glen Park",
+      "coordinates": {
+        "latitude": 44.8838502,
+        "longitude": -86.0364246
+      },
+      "occurrence": {
+        "rate": 0.0369,
+        "lift": 0.67,
+        "detection_count": 74,
+        "total_checklists": 2004,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.2,
+        "max_count": 56
+      },
+      "seasonal": {
+        "spring": 0.0564,
+        "summer": 0.0,
+        "fall": 0.0305,
+        "winter": 0.0435
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0347,
+        "4": 0.101,
+        "5": 0.0158,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0112,
+        "10": 0.1111,
+        "11": 0.0517,
+        "12": 0.1111
+      }
+    },
+    {
+      "rank": 48,
+      "locality_id": "L2230548",
+      "name": "Clay Cliffs Natural Area",
+      "coordinates": {
+        "latitude": 45.050894,
+        "longitude": -85.7357845
+      },
+      "occurrence": {
+        "rate": 0.035,
+        "lift": 0.64,
+        "detection_count": 18,
+        "total_checklists": 514,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.6,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0495,
+        "summer": 0.0,
+        "fall": 0.0635,
+        "winter": 0.0714
+      },
+      "monthly": {
+        "1": 0.25,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.1579,
+        "5": 0.0286,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.2083,
+        "11": 0.2222,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 49,
+      "locality_id": "L350754",
+      "name": "Sleeping Bear Dunes NL (Leelanau Co.)",
+      "coordinates": {
+        "latitude": 44.9575636,
+        "longitude": -85.92324
+      },
+      "occurrence": {
+        "rate": 0.0326,
+        "lift": 0.59,
+        "detection_count": 3,
+        "total_checklists": 92,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 5.3,
+        "max_count": 12
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0968
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.125,
+        "10": 0.2
+      }
+    },
+    {
+      "rank": 50,
+      "locality_id": "L6017963",
+      "name": "Kelderhouse Cemetery",
+      "coordinates": {
+        "latitude": 44.9378128,
+        "longitude": -85.9365177
+      },
+      "occurrence": {
+        "rate": 0.0319,
+        "lift": 0.58,
+        "detection_count": 3,
+        "total_checklists": 94,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.3,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0714,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.1538,
+        "4": 0.0,
+        "5": 0.0588,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 51,
+      "locality_id": "L1371379",
+      "name": "Sleeping Bear Dunes NL--Glen Haven",
+      "coordinates": {
+        "latitude": 44.9041498,
+        "longitude": -86.0257612
+      },
+      "occurrence": {
+        "rate": 0.0316,
+        "lift": 0.57,
+        "detection_count": 37,
+        "total_checklists": 1171,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 8.4,
+        "max_count": 75
+      },
+      "seasonal": {
+        "spring": 0.0506,
+        "summer": 0.0096,
+        "fall": 0.0462,
+        "winter": 0.0069
+      },
+      "monthly": {
+        "1": 0.0082,
+        "2": 0.0077,
+        "3": 0.0172,
+        "4": 0.0826,
+        "5": 0.0198,
+        "6": 0.0133,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0811,
+        "11": 0.0769,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 52,
+      "locality_id": "L1186586",
+      "name": "Sleeping Bear Dunes NL--Pyramid Point Trail",
+      "coordinates": {
+        "latitude": 44.9648587,
+        "longitude": -85.9267759
+      },
+      "occurrence": {
+        "rate": 0.0315,
+        "lift": 0.57,
+        "detection_count": 10,
+        "total_checklists": 317,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.7,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0562,
+        "summer": 0.0071,
+        "fall": 0.0366,
+        "winter": 0.2
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.12,
+        "5": 0.0339,
+        "6": 0.013,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.15,
+        "11": 0.0,
+        "12": 0.25
+      }
+    },
+    {
+      "rank": 53,
+      "locality_id": "L19657677",
+      "name": "Cedar River Preserve--Schomberg Rd. access",
+      "coordinates": {
+        "latitude": 44.8511515,
+        "longitude": -85.78839
+      },
+      "occurrence": {
+        "rate": 0.0303,
+        "lift": 0.55,
+        "detection_count": 2,
+        "total_checklists": 66,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 6.5,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.1429,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.5
+      }
+    },
+    {
+      "rank": 54,
+      "locality_id": "L27275541",
+      "name": "Pats Preserve at Lime Lake",
+      "coordinates": {
+        "latitude": 44.8828316,
+        "longitude": -85.8541417
+      },
+      "occurrence": {
+        "rate": 0.0303,
+        "lift": 0.55,
+        "detection_count": 1,
+        "total_checklists": 33,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 5.0,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0769,
+        "summer": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      }
+    },
+    {
+      "rank": 55,
+      "locality_id": "L5641764",
+      "name": "Whaleback Natural Area",
+      "coordinates": {
+        "latitude": 45.006291,
+        "longitude": -85.7696092
+      },
+      "occurrence": {
+        "rate": 0.03,
+        "lift": 0.55,
+        "detection_count": 21,
+        "total_checklists": 700,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.0769,
+        "summer": 0.0,
+        "fall": 0.0476,
+        "winter": 0.0541
+      },
+      "monthly": {
+        "1": 0.125,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.2381,
+        "5": 0.0395,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.1509,
+        "11": 0.1304,
+        "12": 0.0476
+      }
+    },
+    {
+      "rank": 56,
+      "locality_id": "L11770310",
+      "name": "Bodus Rd. fields",
+      "coordinates": {
+        "latitude": 44.9065613,
+        "longitude": -85.7666738
+      },
+      "occurrence": {
+        "rate": 0.0286,
+        "lift": 0.52,
+        "detection_count": 14,
+        "total_checklists": 489,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.1,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.0214,
+        "summer": 0.0,
+        "fall": 0.1404,
+        "winter": 0.0508
+      },
+      "monthly": {
+        "1": 0.0625,
+        "2": 0.0,
+        "3": 0.0417,
+        "4": 0.0392,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.1333,
+        "11": 0.4286,
+        "12": 0.0526
+      }
+    },
+    {
+      "rank": 57,
+      "locality_id": "L14926093",
+      "name": "Leland south beach",
+      "coordinates": {
+        "latitude": 45.0191073,
+        "longitude": -85.766176
+      },
+      "occurrence": {
+        "rate": 0.0275,
+        "lift": 0.5,
+        "detection_count": 11,
+        "total_checklists": 400,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.9,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.0392,
+        "summer": 0.0,
+        "fall": 0.0413,
+        "winter": 0.0851
+      },
+      "monthly": {
+        "1": 0.1538,
+        "2": 0.1111,
+        "3": 0.0,
+        "4": 0.1818,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.1,
+        "11": 0.2,
+        "12": 0.04
+      }
+    },
+    {
+      "rank": 58,
+      "locality_id": "L12340032",
+      "name": "Lake Leelanau DNR boat ramp (west)",
+      "coordinates": {
+        "latitude": 44.9142494,
+        "longitude": -85.7248592
+      },
+      "occurrence": {
+        "rate": 0.0244,
+        "lift": 0.44,
+        "detection_count": 1,
+        "total_checklists": 41,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "fall": 0.0,
+        "winter": 0.0667
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "5": 0.0,
+        "9": 0.0,
+        "12": 0.0909
+      }
+    },
+    {
+      "rank": 59,
+      "locality_id": "L883111",
+      "name": "Omena Beach & Bay",
+      "coordinates": {
+        "latitude": 45.0558036,
+        "longitude": -85.5866933
+      },
+      "occurrence": {
+        "rate": 0.0225,
+        "lift": 0.41,
+        "detection_count": 2,
+        "total_checklists": 89,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 5.0,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0571
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.1818,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 60,
+      "locality_id": "L6194116",
+      "name": "Leo Creek Preserve",
+      "coordinates": {
+        "latitude": 44.9681379,
+        "longitude": -85.6509268
+      },
+      "occurrence": {
+        "rate": 0.0187,
+        "lift": 0.34,
+        "detection_count": 2,
+        "total_checklists": 107,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.5,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0556,
+        "summer": 0.0,
+        "fall": 0.0182,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "4": 0.1667,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.3333,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 61,
+      "locality_id": "L2705544",
+      "name": "Leland harbor",
+      "coordinates": {
+        "latitude": 45.0241068,
+        "longitude": -85.7619274
+      },
+      "occurrence": {
+        "rate": 0.0165,
+        "lift": 0.3,
+        "detection_count": 11,
+        "total_checklists": 666,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.6,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.013,
+        "summer": 0.0,
+        "fall": 0.0135,
+        "winter": 0.0864
+      },
+      "monthly": {
+        "1": 0.1667,
+        "2": 0.0,
+        "3": 0.0278,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0263,
+        "11": 0.08,
+        "12": 0.0816
+      }
+    },
+    {
+      "rank": 62,
+      "locality_id": "L2364293",
+      "name": "Sleeping Bears Dunes NL--Sleeping Bear Heritage Trail",
+      "coordinates": {
+        "latitude": 44.8996213,
+        "longitude": -86.0438919
+      },
+      "occurrence": {
+        "rate": 0.0165,
+        "lift": 0.3,
+        "detection_count": 2,
+        "total_checklists": 121,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.087,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "3": 0.1667,
+        "4": 0.0,
+        "5": 0.0833,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 63,
+      "locality_id": "L18365289",
+      "name": "Empire Beach",
+      "coordinates": {
+        "latitude": 44.8119852,
+        "longitude": -86.0682262
+      },
+      "occurrence": {
+        "rate": 0.0143,
+        "lift": 0.26,
+        "detection_count": 2,
+        "total_checklists": 140,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0286,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0588,
+        "5": 0.027,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 64,
+      "locality_id": "L10924912",
+      "name": "Swanson Preserve",
+      "coordinates": {
+        "latitude": 44.9209104,
+        "longitude": -85.8239427
+      },
+      "occurrence": {
+        "rate": 0.013,
+        "lift": 0.24,
+        "detection_count": 1,
+        "total_checklists": 77,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.125,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.3333,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 65,
+      "locality_id": "L3773766",
+      "name": "Sleeping Bears Dunes NL--D.H. Day CG",
+      "coordinates": {
+        "latitude": 44.899371,
+        "longitude": -86.0208678
+      },
+      "occurrence": {
+        "rate": 0.0123,
+        "lift": 0.22,
+        "detection_count": 2,
+        "total_checklists": 163,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0303,
+        "summer": 0.0,
+        "fall": 0.0263
+      },
+      "monthly": {
+        "3": 0.0,
+        "5": 0.0357,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.3333
+      }
+    },
+    {
+      "rank": 66,
+      "locality_id": "L11559041",
+      "name": "Sleeping Bear Dunes NL--Day Farm Rd. fields",
+      "coordinates": {
+        "latitude": 44.8886968,
+        "longitude": -86.0277934
+      },
+      "occurrence": {
+        "rate": 0.0118,
+        "lift": 0.22,
+        "detection_count": 2,
+        "total_checklists": 169,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 12.5,
+        "max_count": 23
+      },
+      "seasonal": {
+        "spring": 0.023,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0833,
+        "5": 0.0154,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 67,
+      "locality_id": "L2336948",
+      "name": "Crystal River",
+      "coordinates": {
+        "latitude": 44.9034899,
+        "longitude": -85.9661722
+      },
+      "occurrence": {
+        "rate": 0.0073,
+        "lift": 0.13,
+        "detection_count": 1,
+        "total_checklists": 137,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 17.0,
+        "max_count": 17
+      },
+      "seasonal": {
+        "spring": 0.0182,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.125,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 68,
+      "locality_id": "L6312538",
+      "name": "School Lake boat launch",
+      "coordinates": {
+        "latitude": 44.917313,
+        "longitude": -85.877333
+      },
+      "occurrence": {
+        "rate": 0.0071,
+        "lift": 0.13,
+        "detection_count": 2,
+        "total_checklists": 280,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0097,
+        "summer": 0.0,
+        "fall": 0.0105,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0667,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0625,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 69,
+      "locality_id": "L883097",
+      "name": "Suttons Bay Boardwalk",
+      "coordinates": {
+        "latitude": 44.9757584,
+        "longitude": -85.6488991
+      },
+      "occurrence": {
+        "rate": 0.0025,
+        "lift": 0.05,
+        "detection_count": 1,
+        "total_checklists": 400,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0067,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0222,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.903700Z",
+    "data_version": "Dec-2025"
+  }
+}

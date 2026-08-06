@@ -1,0 +1,101 @@
+{
+  "species": {
+    "common_name": "American Avocet",
+    "code": "ameavo",
+    "scientific_name": "Recurvirostra americana"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0003,
+    "total_detections": 6,
+    "total_checklists_with_species": 6,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 6,
+    "highest_occurrence_rate": 0.0083
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L2364293",
+      "name": "Sleeping Bears Dunes NL--Sleeping Bear Heritage Trail",
+      "coordinates": {
+        "latitude": 44.8996213,
+        "longitude": -86.0438919
+      },
+      "occurrence": {
+        "rate": 0.0083,
+        "lift": 31.22,
+        "detection_count": 1,
+        "total_checklists": 121,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0152,
+        "fall": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.037,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L771853",
+      "name": "Sleeping Bear Dunes NL--Sleeping Bear Point",
+      "coordinates": {
+        "latitude": 44.9095902,
+        "longitude": -86.0396411
+      },
+      "occurrence": {
+        "rate": 0.0023,
+        "lift": 8.69,
+        "detection_count": 5,
+        "total_checklists": 2175,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.8,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0052,
+        "fall": 0.0015,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0115,
+        "8": 0.0042,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.950919Z",
+    "data_version": "Dec-2025"
+  }
+}

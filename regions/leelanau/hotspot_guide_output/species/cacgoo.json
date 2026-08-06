@@ -1,0 +1,137 @@
+{
+  "species": {
+    "common_name": "Cackling Goose",
+    "code": "cacgoo",
+    "scientific_name": "Branta hutchinsii"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0005,
+    "total_detections": 12,
+    "total_checklists_with_species": 12,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 12,
+    "highest_occurrence_rate": 0.0244
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L2154245",
+      "name": "Suttons Bay Sewage Ponds",
+      "coordinates": {
+        "latitude": 44.9571269,
+        "longitude": -85.6494677
+      },
+      "occurrence": {
+        "rate": 0.0244,
+        "lift": 46.07,
+        "detection_count": 10,
+        "total_checklists": 410,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.073,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0714,
+        "4": 0.1406,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L10876613",
+      "name": "Glen Lake",
+      "coordinates": {
+        "latitude": 44.8608777,
+        "longitude": -85.996065
+      },
+      "occurrence": {
+        "rate": 0.0119,
+        "lift": 22.49,
+        "detection_count": 1,
+        "total_checklists": 84,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0625,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.1667,
+        "4": 0.0,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L883028",
+      "name": "Harbor West Yacht Club (Greilickville)",
+      "coordinates": {
+        "latitude": 44.7927162,
+        "longitude": -85.6357884
+      },
+      "occurrence": {
+        "rate": 0.0074,
+        "lift": 13.89,
+        "detection_count": 1,
+        "total_checklists": 136,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0123
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "11": 0.0,
+        "12": 0.0588
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.845523Z",
+    "data_version": "Dec-2025"
+  }
+}

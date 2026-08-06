@@ -1,0 +1,97 @@
+{
+  "species": {
+    "common_name": "White-rumped Sandpiper",
+    "code": "whisan",
+    "scientific_name": "Calidris fuscicollis"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0002,
+    "total_detections": 4,
+    "total_checklists_with_species": 4,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 4,
+    "highest_occurrence_rate": 0.02
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1667058",
+      "name": "North Manitou Island--Dimmick's Point",
+      "coordinates": {
+        "latitude": 45.0593874,
+        "longitude": -85.9631048
+      },
+      "occurrence": {
+        "rate": 0.02,
+        "lift": 113.34,
+        "detection_count": 2,
+        "total_checklists": 100,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0465,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0909,
+        "7": 0.0,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L771853",
+      "name": "Sleeping Bear Dunes NL--Sleeping Bear Point",
+      "coordinates": {
+        "latitude": 44.9095902,
+        "longitude": -86.0396411
+      },
+      "occurrence": {
+        "rate": 0.0009,
+        "lift": 5.21,
+        "detection_count": 2,
+        "total_checklists": 2175,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0026,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0048,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.948683Z",
+    "data_version": "Dec-2025"
+  }
+}

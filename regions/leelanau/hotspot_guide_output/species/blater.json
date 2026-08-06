@@ -1,0 +1,57 @@
+{
+  "species": {
+    "common_name": "Black Tern",
+    "code": "blater",
+    "scientific_name": "Chlidonias niger"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0,
+    "total_detections": 1,
+    "total_checklists_with_species": 1,
+    "total_checklists_countywide": 22668,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 1,
+    "highest_occurrence_rate": 0.01
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1667058",
+      "name": "North Manitou Island--Dimmick's Point",
+      "coordinates": {
+        "latitude": 45.0593874,
+        "longitude": -85.9631048
+      },
+      "occurrence": {
+        "rate": 0.01,
+        "lift": 226.68,
+        "detection_count": 1,
+        "total_checklists": 100,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0233,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0455,
+        "7": 0.0,
+        "8": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-06T15:50:59.951364Z",
+    "data_version": "Dec-2025"
+  }
+}
