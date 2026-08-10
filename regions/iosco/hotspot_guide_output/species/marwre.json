@@ -1,0 +1,510 @@
+{
+  "species": {
+    "common_name": "Marsh Wren",
+    "code": "marwre",
+    "scientific_name": "Cistothorus palustris"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.046,
+    "total_detections": 1433,
+    "total_checklists_with_species": 1433,
+    "total_checklists_countywide": 31180,
+    "hotspots_detected": 13
+  },
+  "summary": {
+    "total_hotspots_detected": 13,
+    "total_detections": 1433,
+    "highest_occurrence_rate": 0.2197
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L232598",
+      "name": "Tuttle Marsh Wildlife Area",
+      "coordinates": {
+        "latitude": 44.36827,
+        "longitude": -83.4477604
+      },
+      "occurrence": {
+        "rate": 0.2197,
+        "lift": 4.78,
+        "detection_count": 1174,
+        "total_checklists": 5343,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.6,
+        "max_count": 22
+      },
+      "seasonal": {
+        "spring": 0.2273,
+        "summer": 0.4792,
+        "fall": 0.07,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0028,
+        "5": 0.2704,
+        "6": 0.4427,
+        "7": 0.5263,
+        "8": 0.1407,
+        "9": 0.055,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L11890304",
+      "name": "Huron-Manistee NF--Round Lake CG",
+      "coordinates": {
+        "latitude": 44.340451,
+        "longitude": -83.663644
+      },
+      "occurrence": {
+        "rate": 0.0417,
+        "lift": 0.91,
+        "detection_count": 1,
+        "total_checklists": 24,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0625,
+        "summer": 0.0
+      },
+      "monthly": {
+        "5": 0.0625,
+        "6": 0.0,
+        "7": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L2239748",
+      "name": "Tawas Lake",
+      "coordinates": {
+        "latitude": 44.3084338,
+        "longitude": -83.491416
+      },
+      "occurrence": {
+        "rate": 0.0389,
+        "lift": 0.85,
+        "detection_count": 16,
+        "total_checklists": 411,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.6,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.0271,
+        "summer": 0.2917,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0435,
+        "6": 0.3684,
+        "7": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L1778657",
+      "name": "Clark's Marsh",
+      "coordinates": {
+        "latitude": 44.4394036,
+        "longitude": -83.3883068
+      },
+      "occurrence": {
+        "rate": 0.0238,
+        "lift": 0.52,
+        "detection_count": 12,
+        "total_checklists": 504,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.9,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0218,
+        "summer": 0.0833,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0233,
+        "6": 0.1,
+        "7": 0.0769,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L1466510",
+      "name": "Frinks Pond Sanctuary",
+      "coordinates": {
+        "latitude": 44.3348559,
+        "longitude": -83.3373253
+      },
+      "occurrence": {
+        "rate": 0.0192,
+        "lift": 0.42,
+        "detection_count": 1,
+        "total_checklists": 52,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.05,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0588,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L19018966",
+      "name": "Eagle Run",
+      "coordinates": {
+        "latitude": 44.4258209,
+        "longitude": -83.3660935
+      },
+      "occurrence": {
+        "rate": 0.0192,
+        "lift": 0.42,
+        "detection_count": 1,
+        "total_checklists": 52,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.1667,
+        "fall": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L232597",
+      "name": "Tawas Point SP",
+      "coordinates": {
+        "latitude": 44.2569829,
+        "longitude": -83.4456809
+      },
+      "occurrence": {
+        "rate": 0.0139,
+        "lift": 0.3,
+        "detection_count": 219,
+        "total_checklists": 15706,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.0154,
+        "summer": 0.0199,
+        "fall": 0.0085,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0171,
+        "6": 0.0187,
+        "7": 0.0219,
+        "8": 0.0109,
+        "9": 0.0128,
+        "10": 0.0058,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L1851024",
+      "name": "Westgate Scenic Overlook",
+      "coordinates": {
+        "latitude": 44.4567963,
+        "longitude": -83.7673806
+      },
+      "occurrence": {
+        "rate": 0.0102,
+        "lift": 0.22,
+        "detection_count": 1,
+        "total_checklists": 98,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0556,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.2,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L7433709",
+      "name": "Loon Lake Nature Park",
+      "coordinates": {
+        "latitude": 44.4129381,
+        "longitude": -83.8078871
+      },
+      "occurrence": {
+        "rate": 0.01,
+        "lift": 0.22,
+        "detection_count": 2,
+        "total_checklists": 200,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0097,
+        "summer": 0.0204,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0172,
+        "6": 0.0385,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L2117652",
+      "name": "Au Sable Twp. Shoreline Park",
+      "coordinates": {
+        "latitude": 44.4038244,
+        "longitude": -83.3244168
+      },
+      "occurrence": {
+        "rate": 0.0029,
+        "lift": 0.06,
+        "detection_count": 2,
+        "total_checklists": 693,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0048,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0054,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L1208455",
+      "name": "Iargo Springs Interpretive Site",
+      "coordinates": {
+        "latitude": 44.44131,
+        "longitude": -83.67534
+      },
+      "occurrence": {
+        "rate": 0.0024,
+        "lift": 0.05,
+        "detection_count": 1,
+        "total_checklists": 421,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0227,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0625,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L1197476",
+      "name": "Oscoda-Wurtsmith Airport",
+      "coordinates": {
+        "latitude": 44.4508623,
+        "longitude": -83.3790995
+      },
+      "occurrence": {
+        "rate": 0.0017,
+        "lift": 0.04,
+        "detection_count": 2,
+        "total_checklists": 1160,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0047,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.012,
+        "7": 0.0029,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 13,
+      "locality_id": "L1788688",
+      "name": "Tawas Bay--Jerry's Marina",
+      "coordinates": {
+        "latitude": 44.2653077,
+        "longitude": -83.4391785
+      },
+      "occurrence": {
+        "rate": 0.0015,
+        "lift": 0.03,
+        "detection_count": 1,
+        "total_checklists": 676,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0303,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0667,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T22:29:51.512196Z",
+    "data_version": "Dec-2025"
+  }
+}

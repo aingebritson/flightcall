@@ -1,0 +1,929 @@
+{
+  "species": {
+    "common_name": "Blue-headed Vireo",
+    "code": "bluvir",
+    "scientific_name": "Vireo solitarius"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0749,
+    "total_detections": 2335,
+    "total_checklists_with_species": 2336,
+    "total_checklists_countywide": 31180,
+    "hotspots_detected": 26
+  },
+  "summary": {
+    "total_hotspots_detected": 25,
+    "total_detections": 2335,
+    "highest_occurrence_rate": 0.1852
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L7692392",
+      "name": "Corsair Hiking/X Country Ski Trail--Wright's Lake trailhead",
+      "coordinates": {
+        "latitude": 44.3746021,
+        "longitude": -83.5959578
+      },
+      "occurrence": {
+        "rate": 0.1852,
+        "lift": 2.47,
+        "detection_count": 5,
+        "total_checklists": 27,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.1667,
+        "summer": 0.2857,
+        "fall": 0.1818
+      },
+      "monthly": {
+        "5": 0.25,
+        "7": 0.4,
+        "9": 0.0,
+        "10": 0.5
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L2280932",
+      "name": "Lumberman's Monument",
+      "coordinates": {
+        "latitude": 44.4349596,
+        "longitude": -83.6237562
+      },
+      "occurrence": {
+        "rate": 0.1594,
+        "lift": 2.13,
+        "detection_count": 62,
+        "total_checklists": 389,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.217,
+        "summer": 0.0964,
+        "fall": 0.0612,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.1429,
+        "5": 0.2356,
+        "6": 0.0625,
+        "7": 0.2105,
+        "8": 0.1053,
+        "9": 0.1111,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L232597",
+      "name": "Tawas Point SP",
+      "coordinates": {
+        "latitude": 44.2569829,
+        "longitude": -83.4456809
+      },
+      "occurrence": {
+        "rate": 0.1307,
+        "lift": 1.74,
+        "detection_count": 2052,
+        "total_checklists": 15706,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.4,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.1647,
+        "summer": 0.0085,
+        "fall": 0.0578,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0355,
+        "5": 0.1806,
+        "6": 0.0124,
+        "7": 0.0024,
+        "8": 0.0128,
+        "9": 0.0935,
+        "10": 0.096,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L1778657",
+      "name": "Clark's Marsh",
+      "coordinates": {
+        "latitude": 44.4394036,
+        "longitude": -83.3883068
+      },
+      "occurrence": {
+        "rate": 0.1012,
+        "lift": 1.35,
+        "detection_count": 51,
+        "total_checklists": 504,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.1189,
+        "summer": 0.0556,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.1266,
+        "6": 0.2,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L3656565",
+      "name": "Sand Lake",
+      "coordinates": {
+        "latitude": 44.321791,
+        "longitude": -83.6890626
+      },
+      "occurrence": {
+        "rate": 0.0909,
+        "lift": 1.21,
+        "detection_count": 2,
+        "total_checklists": 22,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0667
+      },
+      "monthly": {
+        "5": 0.0714,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L19018966",
+      "name": "Eagle Run",
+      "coordinates": {
+        "latitude": 44.4258209,
+        "longitude": -83.3660935
+      },
+      "occurrence": {
+        "rate": 0.0769,
+        "lift": 1.03,
+        "detection_count": 4,
+        "total_checklists": 52,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.1379,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.2353,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L1775845",
+      "name": "Au Sable River--Lower Landing",
+      "coordinates": {
+        "latitude": 44.4708005,
+        "longitude": -83.5384875
+      },
+      "occurrence": {
+        "rate": 0.0526,
+        "lift": 0.7,
+        "detection_count": 1,
+        "total_checklists": 19,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "summer": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "6": 0.0,
+        "7": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L4261669",
+      "name": "Loud Dam",
+      "coordinates": {
+        "latitude": 44.4640484,
+        "longitude": -83.7213564
+      },
+      "occurrence": {
+        "rate": 0.0455,
+        "lift": 0.61,
+        "detection_count": 1,
+        "total_checklists": 22,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.1429,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "5": 0.2,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L11890304",
+      "name": "Huron-Manistee NF--Round Lake CG",
+      "coordinates": {
+        "latitude": 44.340451,
+        "longitude": -83.663644
+      },
+      "occurrence": {
+        "rate": 0.0417,
+        "lift": 0.56,
+        "detection_count": 1,
+        "total_checklists": 24,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.1667
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.3333,
+        "7": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L2138178",
+      "name": "Kokosing Rd. pine barrens",
+      "coordinates": {
+        "latitude": 44.4247391,
+        "longitude": -83.5969877
+      },
+      "occurrence": {
+        "rate": 0.0375,
+        "lift": 0.5,
+        "detection_count": 3,
+        "total_checklists": 80,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0488,
+        "summer": 0.04,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0833,
+        "6": 0.0,
+        "7": 0.0714,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L1208455",
+      "name": "Iargo Springs Interpretive Site",
+      "coordinates": {
+        "latitude": 44.44131,
+        "longitude": -83.67534
+      },
+      "occurrence": {
+        "rate": 0.0356,
+        "lift": 0.48,
+        "detection_count": 15,
+        "total_checklists": 421,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0645,
+        "summer": 0.0227,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0909,
+        "5": 0.087,
+        "6": 0.0,
+        "7": 0.0625,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L1197476",
+      "name": "Oscoda-Wurtsmith Airport",
+      "coordinates": {
+        "latitude": 44.4508623,
+        "longitude": -83.3790995
+      },
+      "occurrence": {
+        "rate": 0.0276,
+        "lift": 0.37,
+        "detection_count": 32,
+        "total_checklists": 1160,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.04,
+        "summer": 0.0142,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0424,
+        "6": 0.0602,
+        "7": 0.0029,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 13,
+      "locality_id": "L9171253",
+      "name": "Van Etten Lake",
+      "coordinates": {
+        "latitude": 44.4673349,
+        "longitude": -83.3563786
+      },
+      "occurrence": {
+        "rate": 0.0204,
+        "lift": 0.27,
+        "detection_count": 2,
+        "total_checklists": 98,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0294,
+        "summer": 0.0,
+        "fall": 0.04,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0769,
+        "5": 0.0,
+        "7": 0.0,
+        "8": 0.0667,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 14,
+      "locality_id": "L1466510",
+      "name": "Frinks Pond Sanctuary",
+      "coordinates": {
+        "latitude": 44.3348559,
+        "longitude": -83.3373253
+      },
+      "occurrence": {
+        "rate": 0.0192,
+        "lift": 0.26,
+        "detection_count": 1,
+        "total_checklists": 52,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0556,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0909,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 15,
+      "locality_id": "L12237947",
+      "name": "Kobs/Curtis Rd. Kirtland\u2019s Warbler Mgt. area",
+      "coordinates": {
+        "latitude": 44.3649595,
+        "longitude": -83.5638373
+      },
+      "occurrence": {
+        "rate": 0.0185,
+        "lift": 0.25,
+        "detection_count": 23,
+        "total_checklists": 1241,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0112,
+        "summer": 0.05,
+        "fall": 0.0462,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.25,
+        "5": 0.0093,
+        "6": 0.0986,
+        "7": 0.0183,
+        "8": 0.0556,
+        "9": 0.0476,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 16,
+      "locality_id": "L2641435",
+      "name": "Five Channels Dam",
+      "coordinates": {
+        "latitude": 44.4544916,
+        "longitude": -83.6771107
+      },
+      "occurrence": {
+        "rate": 0.0175,
+        "lift": 0.23,
+        "detection_count": 1,
+        "total_checklists": 57,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0455,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "5": 0.0667,
+        "6": 0.0,
+        "8": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 17,
+      "locality_id": "L7433709",
+      "name": "Loon Lake Nature Park",
+      "coordinates": {
+        "latitude": 44.4129381,
+        "longitude": -83.8078871
+      },
+      "occurrence": {
+        "rate": 0.015,
+        "lift": 0.2,
+        "detection_count": 3,
+        "total_checklists": 200,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0291,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0517,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 18,
+      "locality_id": "L1782942",
+      "name": "Cooke Dam",
+      "coordinates": {
+        "latitude": 44.4718762,
+        "longitude": -83.5719781
+      },
+      "occurrence": {
+        "rate": 0.0147,
+        "lift": 0.2,
+        "detection_count": 5,
+        "total_checklists": 339,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0338,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0909,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 19,
+      "locality_id": "L5195284",
+      "name": "Riverbank Park",
+      "coordinates": {
+        "latitude": 44.4202968,
+        "longitude": -83.3397813
+      },
+      "occurrence": {
+        "rate": 0.0114,
+        "lift": 0.15,
+        "detection_count": 2,
+        "total_checklists": 176,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0278,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0488,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 20,
+      "locality_id": "L232598",
+      "name": "Tuttle Marsh Wildlife Area",
+      "coordinates": {
+        "latitude": 44.36827,
+        "longitude": -83.4477604
+      },
+      "occurrence": {
+        "rate": 0.0112,
+        "lift": 0.15,
+        "detection_count": 60,
+        "total_checklists": 5343,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0121,
+        "summer": 0.0115,
+        "fall": 0.0113,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0144,
+        "6": 0.0127,
+        "7": 0.0099,
+        "8": 0.003,
+        "9": 0.0236,
+        "10": 0.006,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 21,
+      "locality_id": "L1851024",
+      "name": "Westgate Scenic Overlook",
+      "coordinates": {
+        "latitude": 44.4567963,
+        "longitude": -83.7673806
+      },
+      "occurrence": {
+        "rate": 0.0102,
+        "lift": 0.14,
+        "detection_count": 1,
+        "total_checklists": 98,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0333,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.1111,
+        "6": 0.0,
+        "7": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 22,
+      "locality_id": "L1843221",
+      "name": "Tawas Bay",
+      "coordinates": {
+        "latitude": 44.2725264,
+        "longitude": -83.5034173
+      },
+      "occurrence": {
+        "rate": 0.0089,
+        "lift": 0.12,
+        "detection_count": 5,
+        "total_checklists": 563,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0163,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0216,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 23,
+      "locality_id": "L2172798",
+      "name": "Foote Dam Pond",
+      "coordinates": {
+        "latitude": 44.4417468,
+        "longitude": -83.462431
+      },
+      "occurrence": {
+        "rate": 0.0064,
+        "lift": 0.09,
+        "detection_count": 1,
+        "total_checklists": 157,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0096,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0125,
+        "6": 0.0,
+        "7": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 24,
+      "locality_id": "L1788688",
+      "name": "Tawas Bay--Jerry's Marina",
+      "coordinates": {
+        "latitude": 44.2653077,
+        "longitude": -83.4391785
+      },
+      "occurrence": {
+        "rate": 0.0015,
+        "lift": 0.02,
+        "detection_count": 1,
+        "total_checklists": 676,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0025,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0033,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 25,
+      "locality_id": "L2117652",
+      "name": "Au Sable Twp. Shoreline Park",
+      "coordinates": {
+        "latitude": 44.4038244,
+        "longitude": -83.3244168
+      },
+      "occurrence": {
+        "rate": 0.0014,
+        "lift": 0.02,
+        "detection_count": 1,
+        "total_checklists": 693,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0024,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0027,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T22:29:51.521211Z",
+    "data_version": "Dec-2025"
+  }
+}

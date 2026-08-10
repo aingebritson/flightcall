@@ -1,0 +1,183 @@
+{
+  "species": {
+    "common_name": "Red-throated Loon",
+    "code": "redloo",
+    "scientific_name": "Gavia stellata"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0035,
+    "total_detections": 108,
+    "total_checklists_with_species": 108,
+    "total_checklists_countywide": 31180,
+    "hotspots_detected": 4
+  },
+  "summary": {
+    "total_hotspots_detected": 4,
+    "total_detections": 108,
+    "highest_occurrence_rate": 0.012
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L367106",
+      "name": "Au Sable River Breakwall",
+      "coordinates": {
+        "latitude": 44.4063163,
+        "longitude": -83.3185959
+      },
+      "occurrence": {
+        "rate": 0.012,
+        "lift": 3.47,
+        "detection_count": 16,
+        "total_checklists": 1332,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0346,
+        "winter": 0.0066
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0145,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0141,
+        "11": 0.0489,
+        "12": 0.0075
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L232597",
+      "name": "Tawas Point SP",
+      "coordinates": {
+        "latitude": 44.2569829,
+        "longitude": -83.4456809
+      },
+      "occurrence": {
+        "rate": 0.0056,
+        "lift": 1.62,
+        "detection_count": 88,
+        "total_checklists": 15706,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 15
+      },
+      "seasonal": {
+        "spring": 0.0067,
+        "summer": 0.0009,
+        "fall": 0.004,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0049,
+        "4": 0.0223,
+        "5": 0.0057,
+        "6": 0.0016,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0013,
+        "10": 0.0038,
+        "11": 0.0151,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L1778657",
+      "name": "Clark's Marsh",
+      "coordinates": {
+        "latitude": 44.4394036,
+        "longitude": -83.3883068
+      },
+      "occurrence": {
+        "rate": 0.004,
+        "lift": 1.15,
+        "detection_count": 2,
+        "total_checklists": 504,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0049,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0052,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L1788688",
+      "name": "Tawas Bay--Jerry's Marina",
+      "coordinates": {
+        "latitude": 44.2653077,
+        "longitude": -83.4391785
+      },
+      "occurrence": {
+        "rate": 0.003,
+        "lift": 0.85,
+        "detection_count": 2,
+        "total_checklists": 676,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0025,
+        "summer": 0.0,
+        "fall": 0.0057,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0123,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0109,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T22:29:51.543909Z",
+    "data_version": "Dec-2025"
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "species": {
+    "common_name": "White-winged Scoter",
+    "code": "whisco",
+    "scientific_name": "Melanitta deglandi"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0215,
+    "total_detections": 671,
+    "total_checklists_with_species": 671,
+    "total_checklists_countywide": 31180,
+    "hotspots_detected": 9
+  },
+  "summary": {
+    "total_hotspots_detected": 9,
+    "total_detections": 671,
+    "highest_occurrence_rate": 0.0976
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1788688",
+      "name": "Tawas Bay--Jerry's Marina",
+      "coordinates": {
+        "latitude": 44.2653077,
+        "longitude": -83.4391785
+      },
+      "occurrence": {
+        "rate": 0.0976,
+        "lift": 4.54,
+        "detection_count": 66,
+        "total_checklists": 676,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.3,
+        "max_count": 24
+      },
+      "seasonal": {
+        "spring": 0.0199,
+        "summer": 0.0,
+        "fall": 0.3046,
+        "winter": 0.0746
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.037,
+        "5": 0.0165,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.2931,
+        "11": 0.3913,
+        "12": 0.102
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L367106",
+      "name": "Au Sable River Breakwall",
+      "coordinates": {
+        "latitude": 44.4063163,
+        "longitude": -83.3185959
+      },
+      "occurrence": {
+        "rate": 0.0518,
+        "lift": 2.41,
+        "detection_count": 69,
+        "total_checklists": 1332,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.1,
+        "max_count": 12
+      },
+      "seasonal": {
+        "spring": 0.0466,
+        "summer": 0.0,
+        "fall": 0.049,
+        "winter": 0.0594
+      },
+      "monthly": {
+        "1": 0.03,
+        "2": 0.1087,
+        "3": 0.1022,
+        "4": 0.0263,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0986,
+        "11": 0.0444,
+        "12": 0.056
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L2322487",
+      "name": "Gateway Park",
+      "coordinates": {
+        "latitude": 44.259631,
+        "longitude": -83.5261452
+      },
+      "occurrence": {
+        "rate": 0.0375,
+        "lift": 1.74,
+        "detection_count": 34,
+        "total_checklists": 906,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 20
+      },
+      "seasonal": {
+        "spring": 0.0062,
+        "summer": 0.0,
+        "fall": 0.0506,
+        "winter": 0.0694
+      },
+      "monthly": {
+        "1": 0.1562,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0256,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.1075,
+        "11": 0.0175,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L1843221",
+      "name": "Tawas Bay",
+      "coordinates": {
+        "latitude": 44.2725264,
+        "longitude": -83.5034173
+      },
+      "occurrence": {
+        "rate": 0.032,
+        "lift": 1.49,
+        "detection_count": 18,
+        "total_checklists": 563,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.6,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.1145,
+        "winter": 0.033
+      },
+      "monthly": {
+        "1": 0.08,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.1,
+        "11": 0.1667,
+        "12": 0.0189
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L232597",
+      "name": "Tawas Point SP",
+      "coordinates": {
+        "latitude": 44.2569829,
+        "longitude": -83.4456809
+      },
+      "occurrence": {
+        "rate": 0.0305,
+        "lift": 1.42,
+        "detection_count": 479,
+        "total_checklists": 15706,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 6.1,
+        "max_count": 114
+      },
+      "seasonal": {
+        "spring": 0.0249,
+        "summer": 0.0019,
+        "fall": 0.0694,
+        "winter": 0.0404
+      },
+      "monthly": {
+        "1": 0.007,
+        "2": 0.02,
+        "3": 0.0318,
+        "4": 0.0552,
+        "5": 0.0224,
+        "6": 0.0031,
+        "7": 0.0,
+        "8": 0.0018,
+        "9": 0.009,
+        "10": 0.1593,
+        "11": 0.1633,
+        "12": 0.0852
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L2117652",
+      "name": "Au Sable Twp. Shoreline Park",
+      "coordinates": {
+        "latitude": 44.4038244,
+        "longitude": -83.3244168
+      },
+      "occurrence": {
+        "rate": 0.0029,
+        "lift": 0.13,
+        "detection_count": 2,
+        "total_checklists": 693,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0024,
+        "summer": 0.0,
+        "fall": 0.0114,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.1667,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0667,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L1782942",
+      "name": "Cooke Dam",
+      "coordinates": {
+        "latitude": 44.4718762,
+        "longitude": -83.5719781
+      },
+      "occurrence": {
+        "rate": 0.0029,
+        "lift": 0.14,
+        "detection_count": 1,
+        "total_checklists": 339,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0068,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0213,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L1197476",
+      "name": "Oscoda-Wurtsmith Airport",
+      "coordinates": {
+        "latitude": 44.4508623,
+        "longitude": -83.3790995
+      },
+      "occurrence": {
+        "rate": 0.0009,
+        "lift": 0.04,
+        "detection_count": 1,
+        "total_checklists": 1160,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0015,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0016,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L232598",
+      "name": "Tuttle Marsh Wildlife Area",
+      "coordinates": {
+        "latitude": 44.36827,
+        "longitude": -83.4477604
+      },
+      "occurrence": {
+        "rate": 0.0002,
+        "lift": 0.01,
+        "detection_count": 1,
+        "total_checklists": 5343,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0003,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0053,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T22:29:51.484569Z",
+    "data_version": "Dec-2025"
+  }
+}

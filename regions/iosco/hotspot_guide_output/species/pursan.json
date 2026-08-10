@@ -1,0 +1,105 @@
+{
+  "species": {
+    "common_name": "Purple Sandpiper",
+    "code": "pursan",
+    "scientific_name": "Calidris maritima"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0039,
+    "total_detections": 121,
+    "total_checklists_with_species": 121,
+    "total_checklists_countywide": 31180,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 121,
+    "highest_occurrence_rate": 0.0901
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L367106",
+      "name": "Au Sable River Breakwall",
+      "coordinates": {
+        "latitude": 44.4063163,
+        "longitude": -83.3185959
+      },
+      "occurrence": {
+        "rate": 0.0901,
+        "lift": 23.21,
+        "detection_count": 120,
+        "total_checklists": 1332,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.1527,
+        "winter": 0.1106
+      },
+      "monthly": {
+        "1": 0.005,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.2356,
+        "12": 0.2463
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L2117652",
+      "name": "Au Sable Twp. Shoreline Park",
+      "coordinates": {
+        "latitude": 44.4038244,
+        "longitude": -83.3244168
+      },
+      "occurrence": {
+        "rate": 0.0014,
+        "lift": 0.37,
+        "detection_count": 1,
+        "total_checklists": 693,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0455
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0909
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T22:29:51.546398Z",
+    "data_version": "Dec-2025"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "species": {
+    "common_name": "Northern Saw-whet Owl",
+    "code": "norowl",
+    "scientific_name": "Aegolius acadicus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.001,
+    "total_detections": 32,
+    "total_checklists_with_species": 32,
+    "total_checklists_countywide": 31180,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 32,
+    "highest_occurrence_rate": 0.0177
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1782942",
+      "name": "Cooke Dam",
+      "coordinates": {
+        "latitude": 44.4718762,
+        "longitude": -83.5719781
+      },
+      "occurrence": {
+        "rate": 0.0177,
+        "lift": 17.25,
+        "detection_count": 6,
+        "total_checklists": 339,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0338,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0083
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0238,
+        "3": 0.0426,
+        "4": 0.0435,
+        "5": 0.0182,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L232598",
+      "name": "Tuttle Marsh Wildlife Area",
+      "coordinates": {
+        "latitude": 44.36827,
+        "longitude": -83.4477604
+      },
+      "occurrence": {
+        "rate": 0.0041,
+        "lift": 4.01,
+        "detection_count": 22,
+        "total_checklists": 5343,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 0.9,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0059,
+        "summer": 0.0014,
+        "fall": 0.001,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0028,
+        "5": 0.0067,
+        "6": 0.0025,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.006,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L232597",
+      "name": "Tawas Point SP",
+      "coordinates": {
+        "latitude": 44.2569829,
+        "longitude": -83.4456809
+      },
+      "occurrence": {
+        "rate": 0.0003,
+        "lift": 0.25,
+        "detection_count": 4,
+        "total_checklists": 15706,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0003,
+        "summer": 0.0,
+        "fall": 0.0004,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0003,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0019,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T22:29:51.547650Z",
+    "data_version": "Dec-2025"
+  }
+}

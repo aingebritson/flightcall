@@ -1,0 +1,423 @@
+{
+  "species": {
+    "common_name": "Snowy Owl",
+    "code": "snoowl",
+    "scientific_name": "Bubo scandiacus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0085,
+    "total_detections": 265,
+    "total_checklists_with_species": 265,
+    "total_checklists_countywide": 31180,
+    "hotspots_detected": 10
+  },
+  "summary": {
+    "total_hotspots_detected": 10,
+    "total_detections": 265,
+    "highest_occurrence_rate": 0.036
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L367106",
+      "name": "Au Sable River Breakwall",
+      "coordinates": {
+        "latitude": 44.4063163,
+        "longitude": -83.3185959
+      },
+      "occurrence": {
+        "rate": 0.036,
+        "lift": 4.24,
+        "detection_count": 48,
+        "total_checklists": 1332,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.4,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0117,
+        "summer": 0.0,
+        "fall": 0.0375,
+        "winter": 0.0512
+      },
+      "monthly": {
+        "1": 0.035,
+        "2": 0.0072,
+        "3": 0.0146,
+        "4": 0.0263,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0141,
+        "11": 0.0533,
+        "12": 0.0858
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1843221",
+      "name": "Tawas Bay",
+      "coordinates": {
+        "latitude": 44.2725264,
+        "longitude": -83.5034173
+      },
+      "occurrence": {
+        "rate": 0.0355,
+        "lift": 4.18,
+        "detection_count": 20,
+        "total_checklists": 563,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0326,
+        "summer": 0.0,
+        "fall": 0.0305,
+        "winter": 0.0659
+      },
+      "monthly": {
+        "1": 0.08,
+        "2": 0.0,
+        "3": 0.0588,
+        "4": 0.1905,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.1429,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0303,
+        "12": 0.0755
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L1197476",
+      "name": "Oscoda-Wurtsmith Airport",
+      "coordinates": {
+        "latitude": 44.4508623,
+        "longitude": -83.3790995
+      },
+      "occurrence": {
+        "rate": 0.0302,
+        "lift": 3.55,
+        "detection_count": 35,
+        "total_checklists": 1160,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0508,
+        "summer": 0.0,
+        "fall": 0.0175,
+        "winter": 0.0345
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0588,
+        "5": 0.0522,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.3333,
+        "12": 0.0833
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L2322487",
+      "name": "Gateway Park",
+      "coordinates": {
+        "latitude": 44.259631,
+        "longitude": -83.5261452
+      },
+      "occurrence": {
+        "rate": 0.0166,
+        "lift": 1.95,
+        "detection_count": 15,
+        "total_checklists": 906,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0093,
+        "summer": 0.0,
+        "fall": 0.0042,
+        "winter": 0.0382
+      },
+      "monthly": {
+        "1": 0.0156,
+        "2": 0.02,
+        "3": 0.0306,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0088,
+        "12": 0.0727
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L232597",
+      "name": "Tawas Point SP",
+      "coordinates": {
+        "latitude": 44.2569829,
+        "longitude": -83.4456809
+      },
+      "occurrence": {
+        "rate": 0.0085,
+        "lift": 1.0,
+        "detection_count": 133,
+        "total_checklists": 15706,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.3,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.0058,
+        "summer": 0.0,
+        "fall": 0.0031,
+        "winter": 0.0745
+      },
+      "monthly": {
+        "1": 0.0348,
+        "2": 0.035,
+        "3": 0.0489,
+        "4": 0.0197,
+        "5": 0.0031,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0013,
+        "10": 0.0,
+        "11": 0.0151,
+        "12": 0.1377
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L1778657",
+      "name": "Clark's Marsh",
+      "coordinates": {
+        "latitude": 44.4394036,
+        "longitude": -83.3883068
+      },
+      "occurrence": {
+        "rate": 0.0079,
+        "lift": 0.93,
+        "detection_count": 4,
+        "total_checklists": 504,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0097,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0103,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L2117652",
+      "name": "Au Sable Twp. Shoreline Park",
+      "coordinates": {
+        "latitude": 44.4038244,
+        "longitude": -83.3244168
+      },
+      "occurrence": {
+        "rate": 0.0043,
+        "lift": 0.51,
+        "detection_count": 3,
+        "total_checklists": 693,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0227,
+        "winter": 0.0455
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.1429,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.1429,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L1788688",
+      "name": "Tawas Bay--Jerry's Marina",
+      "coordinates": {
+        "latitude": 44.2653077,
+        "longitude": -83.4391785
+      },
+      "occurrence": {
+        "rate": 0.003,
+        "lift": 0.35,
+        "detection_count": 2,
+        "total_checklists": 676,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0115,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0217,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L1782942",
+      "name": "Cooke Dam",
+      "coordinates": {
+        "latitude": 44.4718762,
+        "longitude": -83.5719781
+      },
+      "occurrence": {
+        "rate": 0.0029,
+        "lift": 0.35,
+        "detection_count": 1,
+        "total_checklists": 339,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0083
+      },
+      "monthly": {
+        "1": 0.0159,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L232598",
+      "name": "Tuttle Marsh Wildlife Area",
+      "coordinates": {
+        "latitude": 44.36827,
+        "longitude": -83.4477604
+      },
+      "occurrence": {
+        "rate": 0.0007,
+        "lift": 0.09,
+        "detection_count": 4,
+        "total_checklists": 5343,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0014,
+        "fall": 0.0021,
+        "winter": 0.0036
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0139,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0025,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0225,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T22:29:51.548549Z",
+    "data_version": "Dec-2025"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "species": {
+    "common_name": "Western Meadowlark",
+    "code": "wesmea",
+    "scientific_name": "Sturnella neglecta"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0009,
+    "total_detections": 28,
+    "total_checklists_with_species": 28,
+    "total_checklists_countywide": 31180,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 28,
+    "highest_occurrence_rate": 0.0017
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L232597",
+      "name": "Tawas Point SP",
+      "coordinates": {
+        "latitude": 44.2569829,
+        "longitude": -83.4456809
+      },
+      "occurrence": {
+        "rate": 0.0017,
+        "lift": 1.91,
+        "detection_count": 27,
+        "total_checklists": 15706,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0022,
+        "summer": 0.0009,
+        "fall": 0.0004,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0024,
+        "4": 0.0302,
+        "5": 0.0001,
+        "6": 0.0,
+        "7": 0.0024,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0025,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L232598",
+      "name": "Tuttle Marsh Wildlife Area",
+      "coordinates": {
+        "latitude": 44.36827,
+        "longitude": -83.4477604
+      },
+      "occurrence": {
+        "rate": 0.0002,
+        "lift": 0.21,
+        "detection_count": 1,
+        "total_checklists": 5343,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0003,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0004,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T22:29:51.528318Z",
+    "data_version": "Dec-2025"
+  }
+}

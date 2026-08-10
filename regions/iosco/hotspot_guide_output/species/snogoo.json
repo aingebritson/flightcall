@@ -1,0 +1,223 @@
+{
+  "species": {
+    "common_name": "Snow Goose",
+    "code": "snogoo",
+    "scientific_name": "Anser caerulescens"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0014,
+    "total_detections": 45,
+    "total_checklists_with_species": 45,
+    "total_checklists_countywide": 31180,
+    "hotspots_detected": 5
+  },
+  "summary": {
+    "total_hotspots_detected": 5,
+    "total_detections": 45,
+    "highest_occurrence_rate": 0.0365
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L2239748",
+      "name": "Tawas Lake",
+      "coordinates": {
+        "latitude": 44.3084338,
+        "longitude": -83.491416
+      },
+      "occurrence": {
+        "rate": 0.0365,
+        "lift": 25.29,
+        "detection_count": 15,
+        "total_checklists": 411,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0271,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.1364
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.4,
+        "3": 0.0938,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1208455",
+      "name": "Iargo Springs Interpretive Site",
+      "coordinates": {
+        "latitude": 44.44131,
+        "longitude": -83.67534
+      },
+      "occurrence": {
+        "rate": 0.0214,
+        "lift": 14.81,
+        "detection_count": 9,
+        "total_checklists": 421,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0138,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0472
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.1176,
+        "3": 0.0526,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L2322487",
+      "name": "Gateway Park",
+      "coordinates": {
+        "latitude": 44.259631,
+        "longitude": -83.5261452
+      },
+      "occurrence": {
+        "rate": 0.0077,
+        "lift": 5.35,
+        "detection_count": 7,
+        "total_checklists": 906,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.4,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0062,
+        "summer": 0.0,
+        "fall": 0.0127,
+        "winter": 0.0069
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.04,
+        "3": 0.0204,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0588,
+        "10": 0.0215,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L232598",
+      "name": "Tuttle Marsh Wildlife Area",
+      "coordinates": {
+        "latitude": 44.36827,
+        "longitude": -83.4477604
+      },
+      "occurrence": {
+        "rate": 0.0007,
+        "lift": 0.52,
+        "detection_count": 4,
+        "total_checklists": 5343,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 25.2,
+        "max_count": 98
+      },
+      "seasonal": {
+        "spring": 0.0009,
+        "summer": 0.0,
+        "fall": 0.001,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0011,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.006,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L232597",
+      "name": "Tawas Point SP",
+      "coordinates": {
+        "latitude": 44.2569829,
+        "longitude": -83.4456809
+      },
+      "occurrence": {
+        "rate": 0.0006,
+        "lift": 0.44,
+        "detection_count": 10,
+        "total_checklists": 15706,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.1,
+        "max_count": 20
+      },
+      "seasonal": {
+        "spring": 0.0002,
+        "summer": 0.0,
+        "fall": 0.0027,
+        "winter": 0.0025
+      },
+      "monthly": {
+        "1": 0.0035,
+        "2": 0.0,
+        "3": 0.0024,
+        "4": 0.0013,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0051,
+        "10": 0.0019,
+        "11": 0.0025,
+        "12": 0.0033
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T22:29:51.486576Z",
+    "data_version": "Dec-2025"
+  }
+}

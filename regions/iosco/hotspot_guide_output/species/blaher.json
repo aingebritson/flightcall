@@ -1,0 +1,144 @@
+{
+  "species": {
+    "common_name": "Black-crowned Night Heron",
+    "code": "blaher",
+    "scientific_name": "Nycticorax nycticorax"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0067,
+    "total_detections": 210,
+    "total_checklists_with_species": 210,
+    "total_checklists_countywide": 31180,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 210,
+    "highest_occurrence_rate": 0.0251
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L232598",
+      "name": "Tuttle Marsh Wildlife Area",
+      "coordinates": {
+        "latitude": 44.36827,
+        "longitude": -83.4477604
+      },
+      "occurrence": {
+        "rate": 0.0251,
+        "lift": 3.72,
+        "detection_count": 134,
+        "total_checklists": 5343,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.6,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.0112,
+        "summer": 0.0244,
+        "fall": 0.0814,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0133,
+        "6": 0.0153,
+        "7": 0.0362,
+        "8": 0.1108,
+        "9": 0.0969,
+        "10": 0.0301,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L232597",
+      "name": "Tawas Point SP",
+      "coordinates": {
+        "latitude": 44.2569829,
+        "longitude": -83.4456809
+      },
+      "occurrence": {
+        "rate": 0.0046,
+        "lift": 0.69,
+        "detection_count": 73,
+        "total_checklists": 15706,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0045,
+        "summer": 0.0114,
+        "fall": 0.004,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0066,
+        "5": 0.0045,
+        "6": 0.0109,
+        "7": 0.0122,
+        "8": 0.0146,
+        "9": 0.0,
+        "10": 0.0019,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L1788688",
+      "name": "Tawas Bay--Jerry's Marina",
+      "coordinates": {
+        "latitude": 44.2653077,
+        "longitude": -83.4391785
+      },
+      "occurrence": {
+        "rate": 0.0044,
+        "lift": 0.66,
+        "detection_count": 3,
+        "total_checklists": 676,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0075,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0099,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T22:29:51.506322Z",
+    "data_version": "Dec-2025"
+  }
+}

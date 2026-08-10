@@ -1,0 +1,100 @@
+{
+  "species": {
+    "common_name": "Ross's Goose",
+    "code": "rosgoo",
+    "scientific_name": "Anser rossii"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0005,
+    "total_detections": 16,
+    "total_checklists_with_species": 16,
+    "total_checklists_countywide": 31180,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 16,
+    "highest_occurrence_rate": 0.0333
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1208455",
+      "name": "Iargo Springs Interpretive Site",
+      "coordinates": {
+        "latitude": 44.44131,
+        "longitude": -83.67534
+      },
+      "occurrence": {
+        "rate": 0.0333,
+        "lift": 64.8,
+        "detection_count": 14,
+        "total_checklists": 421,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0553,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0157
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0392,
+        "3": 0.2105,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L9171253",
+      "name": "Van Etten Lake",
+      "coordinates": {
+        "latitude": 44.4673349,
+        "longitude": -83.3563786
+      },
+      "occurrence": {
+        "rate": 0.0204,
+        "lift": 39.77,
+        "detection_count": 2,
+        "total_checklists": 98,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0588,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.125,
+        "4": 0.0,
+        "5": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T22:29:51.552904Z",
+    "data_version": "Dec-2025"
+  }
+}

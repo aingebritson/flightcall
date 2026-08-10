@@ -1,0 +1,64 @@
+{
+  "species": {
+    "common_name": "Eurasian Wigeon",
+    "code": "eurwig",
+    "scientific_name": "Mareca penelope"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0002,
+    "total_detections": 7,
+    "total_checklists_with_species": 7,
+    "total_checklists_countywide": 31180,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 7,
+    "highest_occurrence_rate": 0.017
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L2239748",
+      "name": "Tawas Lake",
+      "coordinates": {
+        "latitude": 44.3084338,
+        "longitude": -83.491416
+      },
+      "occurrence": {
+        "rate": 0.017,
+        "lift": 75.86,
+        "detection_count": 7,
+        "total_checklists": 411,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0211,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0729,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T22:29:51.554926Z",
+    "data_version": "Dec-2025"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "species": {
+    "common_name": "Southern Lapwing",
+    "code": "soulap",
+    "scientific_name": "Vanellus chilensis"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0061,
+    "total_detections": 190,
+    "total_checklists_with_species": 190,
+    "total_checklists_countywide": 31180,
+    "hotspots_detected": 4
+  },
+  "summary": {
+    "total_hotspots_detected": 4,
+    "total_detections": 190,
+    "highest_occurrence_rate": 0.2857
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L21118531",
+      "name": "Cedar Lake",
+      "coordinates": {
+        "latitude": 44.507529,
+        "longitude": -83.333956
+      },
+      "occurrence": {
+        "rate": 0.2857,
+        "lift": 46.89,
+        "detection_count": 4,
+        "total_checklists": 14,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "fall": 0.4
+      },
+      "monthly": {
+        "5": 0.0,
+        "9": 0.0,
+        "11": 0.8
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L20417926",
+      "name": "Ken Ratliff Memorial Park",
+      "coordinates": {
+        "latitude": 44.4627892,
+        "longitude": -83.3567621
+      },
+      "occurrence": {
+        "rate": 0.1803,
+        "lift": 29.59,
+        "detection_count": 11,
+        "total_checklists": 61,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "fall": 0.0,
+        "winter": 0.3571
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "10": 0.0,
+        "12": 0.5
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L1197476",
+      "name": "Oscoda-Wurtsmith Airport",
+      "coordinates": {
+        "latitude": 44.4508623,
+        "longitude": -83.3790995
+      },
+      "occurrence": {
+        "rate": 0.1466,
+        "lift": 24.05,
+        "detection_count": 170,
+        "total_checklists": 1160,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.3844,
+        "fall": 0.1228,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0241,
+        "7": 0.4721,
+        "8": 0.1591,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L9171253",
+      "name": "Van Etten Lake",
+      "coordinates": {
+        "latitude": 44.4673349,
+        "longitude": -83.3563786
+      },
+      "occurrence": {
+        "rate": 0.051,
+        "lift": 8.37,
+        "detection_count": 5,
+        "total_checklists": 98,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.1429,
+        "fall": 0.0,
+        "winter": 0.1111
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "7": 0.1579,
+        "8": 0.0,
+        "11": 0.0,
+        "12": 0.1429
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T22:29:51.554399Z",
+    "data_version": "Dec-2025"
+  }
+}
