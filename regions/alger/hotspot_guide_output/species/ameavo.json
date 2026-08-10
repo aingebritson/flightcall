@@ -1,0 +1,105 @@
+{
+  "species": {
+    "common_name": "American Avocet",
+    "code": "ameavo",
+    "scientific_name": "Recurvirostra americana"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0021,
+    "total_detections": 22,
+    "total_checklists_with_species": 22,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 22,
+    "highest_occurrence_rate": 0.0068
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L470630",
+      "name": "Au Train--Beach",
+      "coordinates": {
+        "latitude": 46.4340712,
+        "longitude": -86.8383408
+      },
+      "occurrence": {
+        "rate": 0.0068,
+        "lift": 3.18,
+        "detection_count": 21,
+        "total_checklists": 3103,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 12.3,
+        "max_count": 40
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0027,
+        "fall": 0.012,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0057,
+        "8": 0.0154,
+        "9": 0.0,
+        "10": 0.0276,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L4752823",
+      "name": "Anna River mouth",
+      "coordinates": {
+        "latitude": 46.4108364,
+        "longitude": -86.6405224
+      },
+      "occurrence": {
+        "rate": 0.0018,
+        "lift": 0.84,
+        "detection_count": 1,
+        "total_checklists": 563,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0119,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0263,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.971081Z",
+    "data_version": "Dec-2025"
+  }
+}

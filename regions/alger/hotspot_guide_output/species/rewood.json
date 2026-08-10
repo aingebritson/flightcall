@@ -1,0 +1,175 @@
+{
+  "species": {
+    "common_name": "Red-headed Woodpecker",
+    "code": "rewood",
+    "scientific_name": "Melanerpes erythrocephalus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0009,
+    "total_detections": 8,
+    "total_checklists_with_species": 9,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 5
+  },
+  "summary": {
+    "total_hotspots_detected": 4,
+    "total_detections": 8,
+    "highest_occurrence_rate": 0.0157
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L5654384",
+      "name": "Sand Point Rd.",
+      "coordinates": {
+        "latitude": 46.4429435,
+        "longitude": -86.6073704
+      },
+      "occurrence": {
+        "rate": 0.0157,
+        "lift": 18.11,
+        "detection_count": 2,
+        "total_checklists": 127,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0488,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.1,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L3082826",
+      "name": "Pictured Rocks NL--Miners Castle",
+      "coordinates": {
+        "latitude": 46.4954325,
+        "longitude": -86.5511613
+      },
+      "occurrence": {
+        "rate": 0.0094,
+        "lift": 10.85,
+        "detection_count": 3,
+        "total_checklists": 318,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0455,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.0536,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L1015191",
+      "name": "Munising (town)",
+      "coordinates": {
+        "latitude": 46.4120616,
+        "longitude": -86.6501999
+      },
+      "occurrence": {
+        "rate": 0.0075,
+        "lift": 8.65,
+        "detection_count": 2,
+        "total_checklists": 266,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0177,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0435,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L295591",
+      "name": "Au Train--Songbird Trail",
+      "coordinates": {
+        "latitude": 46.3933292,
+        "longitude": -86.8332666
+      },
+      "occurrence": {
+        "rate": 0.0056,
+        "lift": 6.46,
+        "detection_count": 1,
+        "total_checklists": 178,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0154,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0278,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.982526Z",
+    "data_version": "Dec-2025"
+  }
+}

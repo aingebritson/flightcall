@@ -1,0 +1,53 @@
+{
+  "species": {
+    "common_name": "Boreal Chickadee",
+    "code": "borchi",
+    "scientific_name": "Poecile hudsonicus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0001,
+    "total_detections": 1,
+    "total_checklists_with_species": 1,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 1,
+    "highest_occurrence_rate": 0.0833
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L3446971",
+      "name": "Kingston Plains",
+      "coordinates": {
+        "latitude": 46.5647618,
+        "longitude": -86.1935806
+      },
+      "occurrence": {
+        "rate": 0.0833,
+        "lift": 862.42,
+        "detection_count": 1,
+        "total_checklists": 12,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "summer": 0.125
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.2
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.869756Z",
+    "data_version": "Dec-2025"
+  }
+}

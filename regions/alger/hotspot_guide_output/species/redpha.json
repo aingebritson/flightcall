@@ -1,0 +1,98 @@
+{
+  "species": {
+    "common_name": "Red-necked Phalarope",
+    "code": "redpha",
+    "scientific_name": "Phalaropus lobatus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0007,
+    "total_detections": 7,
+    "total_checklists_with_species": 7,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 7,
+    "highest_occurrence_rate": 0.0113
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L471581",
+      "name": "Chatham Sewage Lagoon",
+      "coordinates": {
+        "latitude": 46.3451798,
+        "longitude": -86.9211674
+      },
+      "occurrence": {
+        "rate": 0.0113,
+        "lift": 16.67,
+        "detection_count": 6,
+        "total_checklists": 532,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.3,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0219
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.023,
+        "9": 0.0513,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1796301",
+      "name": "MSU Upper Peninsula Research Center",
+      "coordinates": {
+        "latitude": 46.3409529,
+        "longitude": -86.9261429
+      },
+      "occurrence": {
+        "rate": 0.0039,
+        "lift": 5.78,
+        "detection_count": 1,
+        "total_checklists": 256,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0103,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0323,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.973246Z",
+    "data_version": "Dec-2025"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "species": {
+    "common_name": "Blue-gray Gnatcatcher",
+    "code": "blugna",
+    "scientific_name": "Polioptila caerulea"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0006,
+    "total_detections": 6,
+    "total_checklists_with_species": 6,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 4
+  },
+  "summary": {
+    "total_hotspots_detected": 4,
+    "total_detections": 6,
+    "highest_occurrence_rate": 0.1579
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L3762634",
+      "name": "Pictured Rocks NL--Beaver Basin Overlook",
+      "coordinates": {
+        "latitude": 46.5508111,
+        "longitude": -86.3040662
+      },
+      "occurrence": {
+        "rate": 0.1579,
+        "lift": 272.34,
+        "detection_count": 3,
+        "total_checklists": 19,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 1.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L295963",
+      "name": "Pictured Rocks NL",
+      "coordinates": {
+        "latitude": 46.5803962,
+        "longitude": -86.282854
+      },
+      "occurrence": {
+        "rate": 0.0075,
+        "lift": 12.87,
+        "detection_count": 1,
+        "total_checklists": 134,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0172
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.04,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L1223261",
+      "name": "Pictured Rocks NL--Sand Point Marsh Trail",
+      "coordinates": {
+        "latitude": 46.4466103,
+        "longitude": -86.5980148
+      },
+      "occurrence": {
+        "rate": 0.0017,
+        "lift": 2.92,
+        "detection_count": 1,
+        "total_checklists": 590,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0074,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0091,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L470630",
+      "name": "Au Train--Beach",
+      "coordinates": {
+        "latitude": 46.4340712,
+        "longitude": -86.8383408
+      },
+      "occurrence": {
+        "rate": 0.0003,
+        "lift": 0.56,
+        "detection_count": 1,
+        "total_checklists": 3103,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0014,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0018,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.972436Z",
+    "data_version": "Dec-2025"
+  }
+}

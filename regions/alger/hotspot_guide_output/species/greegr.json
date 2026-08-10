@@ -1,0 +1,406 @@
+{
+  "species": {
+    "common_name": "Great Egret",
+    "code": "greegr",
+    "scientific_name": "Ardea alba"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0031,
+    "total_detections": 32,
+    "total_checklists_with_species": 32,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 11
+  },
+  "summary": {
+    "total_hotspots_detected": 11,
+    "total_detections": 32,
+    "highest_occurrence_rate": 0.0851
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L10299776",
+      "name": "Au Train River Basin",
+      "coordinates": {
+        "latitude": 46.2466367,
+        "longitude": -86.8573901
+      },
+      "occurrence": {
+        "rate": 0.0851,
+        "lift": 27.52,
+        "detection_count": 4,
+        "total_checklists": 47,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 6.0,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.4444
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.5714
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L4827352",
+      "name": "Hiawatha NF--Hovey Lake area",
+      "coordinates": {
+        "latitude": 46.290135,
+        "longitude": -86.7015724
+      },
+      "occurrence": {
+        "rate": 0.08,
+        "lift": 25.87,
+        "detection_count": 2,
+        "total_checklists": 25,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": null,
+        "max_count": null
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.2,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.5,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L2999301",
+      "name": "Forest Lake State Forest CG",
+      "coordinates": {
+        "latitude": 46.3055677,
+        "longitude": -86.8682742
+      },
+      "occurrence": {
+        "rate": 0.0244,
+        "lift": 7.89,
+        "detection_count": 2,
+        "total_checklists": 82,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0308
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.1538,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L1223261",
+      "name": "Pictured Rocks NL--Sand Point Marsh Trail",
+      "coordinates": {
+        "latitude": 46.4466103,
+        "longitude": -86.5980148
+      },
+      "occurrence": {
+        "rate": 0.0237,
+        "lift": 7.67,
+        "detection_count": 14,
+        "total_checklists": 590,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0628,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.1122,
+        "9": 0.0405,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L2966851",
+      "name": "Pictured Rocks NL--Grand Sable VC",
+      "coordinates": {
+        "latitude": 46.6571708,
+        "longitude": -86.0208347
+      },
+      "occurrence": {
+        "rate": 0.0204,
+        "lift": 6.6,
+        "detection_count": 1,
+        "total_checklists": 49,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0417,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0909,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L3770050",
+      "name": "Pictured Rocks NL--Chapel Falls Trail",
+      "coordinates": {
+        "latitude": 46.5251801,
+        "longitude": -86.4546776
+      },
+      "occurrence": {
+        "rate": 0.0099,
+        "lift": 3.19,
+        "detection_count": 2,
+        "total_checklists": 203,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0227,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.02,
+        "7": 0.0263,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L295963",
+      "name": "Pictured Rocks NL",
+      "coordinates": {
+        "latitude": 46.5803962,
+        "longitude": -86.282854
+      },
+      "occurrence": {
+        "rate": 0.0075,
+        "lift": 2.41,
+        "detection_count": 1,
+        "total_checklists": 134,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0192,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0476,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L5819644",
+      "name": "Seven Lakes Nature Reserve",
+      "coordinates": {
+        "latitude": 46.5174334,
+        "longitude": -86.0621309
+      },
+      "occurrence": {
+        "rate": 0.0068,
+        "lift": 2.22,
+        "detection_count": 1,
+        "total_checklists": 146,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0128
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.027,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L471581",
+      "name": "Chatham Sewage Lagoon",
+      "coordinates": {
+        "latitude": 46.3451798,
+        "longitude": -86.9211674
+      },
+      "occurrence": {
+        "rate": 0.0056,
+        "lift": 1.82,
+        "detection_count": 3,
+        "total_checklists": 532,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.3,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0109
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0345,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L728711",
+      "name": "Grand Marais",
+      "coordinates": {
+        "latitude": 46.6739411,
+        "longitude": -85.9899902
+      },
+      "occurrence": {
+        "rate": 0.0026,
+        "lift": 0.83,
+        "detection_count": 1,
+        "total_checklists": 391,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0079,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0154,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L2372672",
+      "name": "Au Train Lake",
+      "coordinates": {
+        "latitude": 46.3998697,
+        "longitude": -86.8395424
+      },
+      "occurrence": {
+        "rate": 0.0021,
+        "lift": 0.68,
+        "detection_count": 1,
+        "total_checklists": 473,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0035,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0256,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.953604Z",
+    "data_version": "Dec-2025"
+  }
+}

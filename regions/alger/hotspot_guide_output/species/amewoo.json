@@ -1,0 +1,321 @@
+{
+  "species": {
+    "common_name": "American Woodcock",
+    "code": "amewoo",
+    "scientific_name": "Scolopax minor"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0017,
+    "total_detections": 17,
+    "total_checklists_with_species": 18,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 10
+  },
+  "summary": {
+    "total_hotspots_detected": 9,
+    "total_detections": 17,
+    "highest_occurrence_rate": 0.0833
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L3446971",
+      "name": "Kingston Plains",
+      "coordinates": {
+        "latitude": 46.5647618,
+        "longitude": -86.1935806
+      },
+      "occurrence": {
+        "rate": 0.0833,
+        "lift": 47.91,
+        "detection_count": 1,
+        "total_checklists": 12,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": null,
+        "max_count": null
+      },
+      "seasonal": {
+        "summer": 0.125
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.2
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L4193858",
+      "name": "Laughing Whitefish Lake Preserve",
+      "coordinates": {
+        "latitude": 46.4247105,
+        "longitude": -87.0387983
+      },
+      "occurrence": {
+        "rate": 0.0625,
+        "lift": 35.93,
+        "detection_count": 2,
+        "total_checklists": 32,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "summer": 0.0833,
+        "fall": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "5": 0.3333,
+        "6": 0.1111,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L936059",
+      "name": "Shingleton Sewage Ponds",
+      "coordinates": {
+        "latitude": 46.3465129,
+        "longitude": -86.4881945
+      },
+      "occurrence": {
+        "rate": 0.0566,
+        "lift": 32.54,
+        "detection_count": 3,
+        "total_checklists": 53,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.7,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.1667,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.2308,
+        "7": 0.0,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L295963",
+      "name": "Pictured Rocks NL",
+      "coordinates": {
+        "latitude": 46.5803962,
+        "longitude": -86.282854
+      },
+      "occurrence": {
+        "rate": 0.0224,
+        "lift": 12.87,
+        "detection_count": 3,
+        "total_checklists": 134,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": null,
+        "max_count": null
+      },
+      "seasonal": {
+        "spring": 0.1429,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.1667,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L10299776",
+      "name": "Au Train River Basin",
+      "coordinates": {
+        "latitude": 46.2466367,
+        "longitude": -86.8573901
+      },
+      "occurrence": {
+        "rate": 0.0213,
+        "lift": 12.23,
+        "detection_count": 1,
+        "total_checklists": 47,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.1111,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.3333,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L2871379",
+      "name": "Pictured Rocks NL--Miners Beach",
+      "coordinates": {
+        "latitude": 46.4966566,
+        "longitude": -86.5421927
+      },
+      "occurrence": {
+        "rate": 0.0161,
+        "lift": 9.27,
+        "detection_count": 2,
+        "total_checklists": 124,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0169,
+        "fall": 0.0244
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0286,
+        "7": 0.0,
+        "8": 0.0476,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L5819644",
+      "name": "Seven Lakes Nature Reserve",
+      "coordinates": {
+        "latitude": 46.5174334,
+        "longitude": -86.0621309
+      },
+      "occurrence": {
+        "rate": 0.0068,
+        "lift": 3.94,
+        "detection_count": 1,
+        "total_checklists": 146,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.025,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.027,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L3767254",
+      "name": "Kingston Lake SF CG",
+      "coordinates": {
+        "latitude": 46.5852515,
+        "longitude": -86.226321
+      },
+      "occurrence": {
+        "rate": 0.0068,
+        "lift": 3.94,
+        "detection_count": 1,
+        "total_checklists": 146,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.05,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.25,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L1223261",
+      "name": "Pictured Rocks NL--Sand Point Marsh Trail",
+      "coordinates": {
+        "latitude": 46.4466103,
+        "longitude": -86.5980148
+      },
+      "occurrence": {
+        "rate": 0.0051,
+        "lift": 2.92,
+        "detection_count": 3,
+        "total_checklists": 590,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 0.7,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0074,
+        "summer": 0.0092,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0091,
+        "6": 0.0,
+        "7": 0.0235,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.863831Z",
+    "data_version": "Dec-2025"
+  }
+}

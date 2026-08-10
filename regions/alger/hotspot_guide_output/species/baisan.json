@@ -1,0 +1,317 @@
+{
+  "species": {
+    "common_name": "Baird's Sandpiper",
+    "code": "baisan",
+    "scientific_name": "Calidris bairdii"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0144,
+    "total_detections": 149,
+    "total_checklists_with_species": 149,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 8
+  },
+  "summary": {
+    "total_hotspots_detected": 8,
+    "total_detections": 149,
+    "highest_occurrence_rate": 0.0393
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L470630",
+      "name": "Au Train--Beach",
+      "coordinates": {
+        "latitude": 46.4340712,
+        "longitude": -86.8383408
+      },
+      "occurrence": {
+        "rate": 0.0393,
+        "lift": 2.73,
+        "detection_count": 122,
+        "total_checklists": 3103,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 9
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0094,
+        "fall": 0.0728,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0076,
+        "7": 0.0113,
+        "8": 0.1667,
+        "9": 0.0744,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L334600",
+      "name": "Grand Marias--East Bay",
+      "coordinates": {
+        "latitude": 46.6752387,
+        "longitude": -85.9477068
+      },
+      "occurrence": {
+        "rate": 0.037,
+        "lift": 2.57,
+        "detection_count": 2,
+        "total_checklists": 54,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0526,
+        "fall": 0.0769,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "5": 0.0,
+        "7": 0.0556,
+        "8": 0.1111,
+        "9": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L728711",
+      "name": "Grand Marais",
+      "coordinates": {
+        "latitude": 46.6739411,
+        "longitude": -85.9899902
+      },
+      "occurrence": {
+        "rate": 0.0332,
+        "lift": 2.31,
+        "detection_count": 13,
+        "total_checklists": 391,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.8,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0778,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.2,
+        "9": 0.0169,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L5819644",
+      "name": "Seven Lakes Nature Reserve",
+      "coordinates": {
+        "latitude": 46.5174334,
+        "longitude": -86.0621309
+      },
+      "occurrence": {
+        "rate": 0.0137,
+        "lift": 0.95,
+        "detection_count": 2,
+        "total_checklists": 146,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0256
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0541,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L1796301",
+      "name": "MSU Upper Peninsula Research Center",
+      "coordinates": {
+        "latitude": 46.3409529,
+        "longitude": -86.9261429
+      },
+      "occurrence": {
+        "rate": 0.0117,
+        "lift": 0.81,
+        "detection_count": 3,
+        "total_checklists": 256,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0309,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.1053,
+        "9": 0.0323,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L471581",
+      "name": "Chatham Sewage Lagoon",
+      "coordinates": {
+        "latitude": 46.3451798,
+        "longitude": -86.9211674
+      },
+      "occurrence": {
+        "rate": 0.0094,
+        "lift": 0.65,
+        "detection_count": 5,
+        "total_checklists": 532,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0182
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.046,
+        "9": 0.0128,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L2871379",
+      "name": "Pictured Rocks NL--Miners Beach",
+      "coordinates": {
+        "latitude": 46.4966566,
+        "longitude": -86.5421927
+      },
+      "occurrence": {
+        "rate": 0.0081,
+        "lift": 0.56,
+        "detection_count": 1,
+        "total_checklists": 124,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0244
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0476,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L1223261",
+      "name": "Pictured Rocks NL--Sand Point Marsh Trail",
+      "coordinates": {
+        "latitude": 46.4466103,
+        "longitude": -86.5980148
+      },
+      "occurrence": {
+        "rate": 0.0017,
+        "lift": 0.12,
+        "detection_count": 1,
+        "total_checklists": 590,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0045,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0102,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.962680Z",
+    "data_version": "Dec-2025"
+  }
+}

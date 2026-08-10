@@ -1,0 +1,59 @@
+{
+  "species": {
+    "common_name": "Spruce Grouse",
+    "code": "sprgro",
+    "scientific_name": "Canachites canadensis"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0002,
+    "total_detections": 2,
+    "total_checklists_with_species": 2,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 2,
+    "highest_occurrence_rate": 0.0137
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L3767254",
+      "name": "Kingston Lake SF CG",
+      "coordinates": {
+        "latitude": 46.5852515,
+        "longitude": -86.226321
+      },
+      "occurrence": {
+        "rate": 0.0137,
+        "lift": 70.88,
+        "detection_count": 2,
+        "total_checklists": 146,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.087
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.2857,
+        "9": 0.0,
+        "10": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.979044Z",
+    "data_version": "Dec-2025"
+  }
+}

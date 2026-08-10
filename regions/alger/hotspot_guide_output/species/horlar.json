@@ -1,0 +1,777 @@
+{
+  "species": {
+    "common_name": "Horned Lark",
+    "code": "horlar",
+    "scientific_name": "Eremophila alpestris"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0255,
+    "total_detections": 264,
+    "total_checklists_with_species": 264,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 21
+  },
+  "summary": {
+    "total_hotspots_detected": 21,
+    "total_detections": 264,
+    "highest_occurrence_rate": 0.1217
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1563475",
+      "name": "Pictured Rocks NL--Au Sable Point",
+      "coordinates": {
+        "latitude": 46.6731233,
+        "longitude": -86.1385355
+      },
+      "occurrence": {
+        "rate": 0.1217,
+        "lift": 4.77,
+        "detection_count": 14,
+        "total_checklists": 115,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.2,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.209
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.56
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L4702958",
+      "name": "Pictured Rocks NL--Log Slide Area",
+      "coordinates": {
+        "latitude": 46.6620061,
+        "longitude": -86.0536337
+      },
+      "occurrence": {
+        "rate": 0.0833,
+        "lift": 3.27,
+        "detection_count": 1,
+        "total_checklists": 12,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "summer": 0.0,
+        "fall": 0.2
+      },
+      "monthly": {
+        "6": 0.0,
+        "10": 0.3333
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L5819644",
+      "name": "Seven Lakes Nature Reserve",
+      "coordinates": {
+        "latitude": 46.5174334,
+        "longitude": -86.0621309
+      },
+      "occurrence": {
+        "rate": 0.0822,
+        "lift": 3.22,
+        "detection_count": 12,
+        "total_checklists": 146,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.7,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.1,
+        "summer": 0.0,
+        "fall": 0.1026
+      },
+      "monthly": {
+        "5": 0.1081,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.4444,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L35927112",
+      "name": "Pictured Rocks NL--Sand Point Beach",
+      "coordinates": {
+        "latitude": 46.4534701,
+        "longitude": -86.6049242
+      },
+      "occurrence": {
+        "rate": 0.0714,
+        "lift": 2.8,
+        "detection_count": 4,
+        "total_checklists": 56,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.8,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.1538
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.1111,
+        "10": 0.3333
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L470630",
+      "name": "Au Train--Beach",
+      "coordinates": {
+        "latitude": 46.4340712,
+        "longitude": -86.8383408
+      },
+      "occurrence": {
+        "rate": 0.049,
+        "lift": 1.92,
+        "detection_count": 152,
+        "total_checklists": 3103,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 6.3,
+        "max_count": 80
+      },
+      "seasonal": {
+        "spring": 0.015,
+        "summer": 0.0013,
+        "fall": 0.0886,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0069,
+        "5": 0.0176,
+        "6": 0.0,
+        "7": 0.0028,
+        "8": 0.0,
+        "9": 0.0897,
+        "10": 0.2005,
+        "11": 0.0361,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L728711",
+      "name": "Grand Marais",
+      "coordinates": {
+        "latitude": 46.6739411,
+        "longitude": -85.9899902
+      },
+      "occurrence": {
+        "rate": 0.0486,
+        "lift": 1.9,
+        "detection_count": 19,
+        "total_checklists": 391,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.8,
+        "max_count": 21
+      },
+      "seasonal": {
+        "spring": 0.0341,
+        "summer": 0.0,
+        "fall": 0.0958,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.0375,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.1186,
+        "10": 0.1707,
+        "11": 0.2857,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L471581",
+      "name": "Chatham Sewage Lagoon",
+      "coordinates": {
+        "latitude": 46.3451798,
+        "longitude": -86.9211674
+      },
+      "occurrence": {
+        "rate": 0.0395,
+        "lift": 1.55,
+        "detection_count": 21,
+        "total_checklists": 532,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 17.3,
+        "max_count": 50
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0766
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0897,
+        "10": 0.1687,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L5654384",
+      "name": "Sand Point Rd.",
+      "coordinates": {
+        "latitude": 46.4429435,
+        "longitude": -86.6073704
+      },
+      "occurrence": {
+        "rate": 0.0315,
+        "lift": 1.23,
+        "detection_count": 4,
+        "total_checklists": 127,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0976,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.1,
+        "10": 0.25,
+        "11": 0.2,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L1796301",
+      "name": "MSU Upper Peninsula Research Center",
+      "coordinates": {
+        "latitude": 46.3409529,
+        "longitude": -86.9261429
+      },
+      "occurrence": {
+        "rate": 0.0312,
+        "lift": 1.23,
+        "detection_count": 8,
+        "total_checklists": 256,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 8.0,
+        "max_count": 50
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0825,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0323,
+        "10": 0.2258,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L24560073",
+      "name": "Pictured Rocks NL--Twelvemile Beach CG",
+      "coordinates": {
+        "latitude": 46.638541,
+        "longitude": -86.217095
+      },
+      "occurrence": {
+        "rate": 0.027,
+        "lift": 1.06,
+        "detection_count": 1,
+        "total_checklists": 37,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.1667
+      },
+      "monthly": {
+        "5": 0.0,
+        "7": 0.0,
+        "10": 0.1667
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L3770050",
+      "name": "Pictured Rocks NL--Chapel Falls Trail",
+      "coordinates": {
+        "latitude": 46.5251801,
+        "longitude": -86.4546776
+      },
+      "occurrence": {
+        "rate": 0.0246,
+        "lift": 0.97,
+        "detection_count": 5,
+        "total_checklists": 203,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.6,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0568
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.1923
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L295963",
+      "name": "Pictured Rocks NL",
+      "coordinates": {
+        "latitude": 46.5803962,
+        "longitude": -86.282854
+      },
+      "occurrence": {
+        "rate": 0.0224,
+        "lift": 0.88,
+        "detection_count": 3,
+        "total_checklists": 134,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.3,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0517
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0526,
+        "10": 0.1429
+      }
+    },
+    {
+      "rank": 13,
+      "locality_id": "L2249884",
+      "name": "Twelvemile Beach",
+      "coordinates": {
+        "latitude": 46.648081,
+        "longitude": -86.1992884
+      },
+      "occurrence": {
+        "rate": 0.0187,
+        "lift": 0.73,
+        "detection_count": 2,
+        "total_checklists": 107,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 7.0,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.1176
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.3333,
+        "10": 0.3333
+      }
+    },
+    {
+      "rank": 14,
+      "locality_id": "L2999301",
+      "name": "Forest Lake State Forest CG",
+      "coordinates": {
+        "latitude": 46.3055677,
+        "longitude": -86.8682742
+      },
+      "occurrence": {
+        "rate": 0.0122,
+        "lift": 0.48,
+        "detection_count": 1,
+        "total_checklists": 82,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0154
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.1
+      }
+    },
+    {
+      "rank": 15,
+      "locality_id": "L1015191",
+      "name": "Munising (town)",
+      "coordinates": {
+        "latitude": 46.4120616,
+        "longitude": -86.6501999
+      },
+      "occurrence": {
+        "rate": 0.0113,
+        "lift": 0.44,
+        "detection_count": 3,
+        "total_checklists": 266,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 9.0,
+        "max_count": 15
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0265,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.04,
+        "10": 0.0435,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 16,
+      "locality_id": "L2372672",
+      "name": "Au Train Lake",
+      "coordinates": {
+        "latitude": 46.3998697,
+        "longitude": -86.8395424
+      },
+      "occurrence": {
+        "rate": 0.0085,
+        "lift": 0.33,
+        "detection_count": 4,
+        "total_checklists": 473,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.014,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0374,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 17,
+      "locality_id": "L4752823",
+      "name": "Anna River mouth",
+      "coordinates": {
+        "latitude": 46.4108364,
+        "longitude": -86.6405224
+      },
+      "occurrence": {
+        "rate": 0.0071,
+        "lift": 0.28,
+        "detection_count": 4,
+        "total_checklists": 563,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.8,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0153,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0488,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 18,
+      "locality_id": "L3082826",
+      "name": "Pictured Rocks NL--Miners Castle",
+      "coordinates": {
+        "latitude": 46.4954325,
+        "longitude": -86.5511613
+      },
+      "occurrence": {
+        "rate": 0.0063,
+        "lift": 0.25,
+        "detection_count": 2,
+        "total_checklists": 318,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0202,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0571,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 19,
+      "locality_id": "L295591",
+      "name": "Au Train--Songbird Trail",
+      "coordinates": {
+        "latitude": 46.3933292,
+        "longitude": -86.8332666
+      },
+      "occurrence": {
+        "rate": 0.0056,
+        "lift": 0.22,
+        "detection_count": 1,
+        "total_checklists": 178,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0149
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0625,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 20,
+      "locality_id": "L1223261",
+      "name": "Pictured Rocks NL--Sand Point Marsh Trail",
+      "coordinates": {
+        "latitude": 46.4466103,
+        "longitude": -86.5980148
+      },
+      "occurrence": {
+        "rate": 0.0034,
+        "lift": 0.13,
+        "detection_count": 2,
+        "total_checklists": 590,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.009,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0135,
+        "10": 0.0278,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 21,
+      "locality_id": "L5073647",
+      "name": "Bayshore Marina",
+      "coordinates": {
+        "latitude": 46.4128854,
+        "longitude": -86.6531235
+      },
+      "occurrence": {
+        "rate": 0.002,
+        "lift": 0.08,
+        "detection_count": 1,
+        "total_checklists": 491,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 12.0,
+        "max_count": 12
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0047,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0303,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.964245Z",
+    "data_version": "Dec-2025"
+  }
+}

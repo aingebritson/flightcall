@@ -1,0 +1,96 @@
+{
+  "species": {
+    "common_name": "Harris's Sparrow",
+    "code": "harspa",
+    "scientific_name": "Zonotrichia querula"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0012,
+    "total_detections": 12,
+    "total_checklists_with_species": 12,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 12,
+    "highest_occurrence_rate": 0.0522
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1563475",
+      "name": "Pictured Rocks NL--Au Sable Point",
+      "coordinates": {
+        "latitude": 46.6731233,
+        "longitude": -86.1385355
+      },
+      "occurrence": {
+        "rate": 0.0522,
+        "lift": 45.0,
+        "detection_count": 6,
+        "total_checklists": 115,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0896
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.24
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1796301",
+      "name": "MSU Upper Peninsula Research Center",
+      "coordinates": {
+        "latitude": 46.3409529,
+        "longitude": -86.9261429
+      },
+      "occurrence": {
+        "rate": 0.0234,
+        "lift": 20.21,
+        "detection_count": 6,
+        "total_checklists": 256,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.7,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0619,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.1935,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.979138Z",
+    "data_version": "Dec-2025"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "species": {
+    "common_name": "Upland Sandpiper",
+    "code": "uplsan",
+    "scientific_name": "Bartramia longicauda"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0067,
+    "total_detections": 69,
+    "total_checklists_with_species": 69,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 69,
+    "highest_occurrence_rate": 0.3778
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L2713031",
+      "name": "Limestone Grasslands",
+      "coordinates": {
+        "latitude": 46.2576974,
+        "longitude": -86.9017911
+      },
+      "occurrence": {
+        "rate": 0.3778,
+        "lift": 56.66,
+        "detection_count": 68,
+        "total_checklists": 180,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.9,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.35,
+        "summer": 0.4219,
+        "fall": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.4667,
+        "6": 0.5114,
+        "7": 0.225,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L9324269",
+      "name": "UPREC North Farm",
+      "coordinates": {
+        "latitude": 46.3523239,
+        "longitude": -86.9322232
+      },
+      "occurrence": {
+        "rate": 0.0385,
+        "lift": 5.77,
+        "detection_count": 1,
+        "total_checklists": 26,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.1111
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.1111
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.970961Z",
+    "data_version": "Dec-2025"
+  }
+}

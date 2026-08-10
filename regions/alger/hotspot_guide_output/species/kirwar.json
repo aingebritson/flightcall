@@ -1,0 +1,52 @@
+{
+  "species": {
+    "common_name": "Kirtland's Warbler",
+    "code": "kirwar",
+    "scientific_name": "Setophaga kirtlandii"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0002,
+    "total_detections": 2,
+    "total_checklists_with_species": 2,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 2,
+    "highest_occurrence_rate": 0.1333
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L2871672",
+      "name": "Hiawatha NF--Chamberlain Rd.",
+      "coordinates": {
+        "latitude": 46.3478385,
+        "longitude": -86.5833056
+      },
+      "occurrence": {
+        "rate": 0.1333,
+        "lift": 689.93,
+        "detection_count": 2,
+        "total_checklists": 15,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "summer": 0.0909
+      },
+      "monthly": {
+        "6": 0.2,
+        "7": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.968309Z",
+    "data_version": "Dec-2025"
+  }
+}

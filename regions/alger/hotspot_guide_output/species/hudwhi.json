@@ -1,0 +1,103 @@
+{
+  "species": {
+    "common_name": "Hudsonian Whimbrel",
+    "code": "hudwhi",
+    "scientific_name": "Numenius hudsonicus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0043,
+    "total_detections": 44,
+    "total_checklists_with_species": 44,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 44,
+    "highest_occurrence_rate": 0.0153
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L728711",
+      "name": "Grand Marais",
+      "coordinates": {
+        "latitude": 46.6739411,
+        "longitude": -85.9899902
+      },
+      "occurrence": {
+        "rate": 0.0153,
+        "lift": 3.61,
+        "detection_count": 6,
+        "total_checklists": 391,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 11.2,
+        "max_count": 62
+      },
+      "seasonal": {
+        "spring": 0.0114,
+        "summer": 0.0079,
+        "fall": 0.024,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.0125,
+        "6": 0.0154,
+        "7": 0.0,
+        "8": 0.05,
+        "9": 0.0169,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L470630",
+      "name": "Au Train--Beach",
+      "coordinates": {
+        "latitude": 46.4340712,
+        "longitude": -86.8383408
+      },
+      "occurrence": {
+        "rate": 0.0122,
+        "lift": 2.88,
+        "detection_count": 38,
+        "total_checklists": 3103,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.2,
+        "max_count": 15
+      },
+      "seasonal": {
+        "spring": 0.0109,
+        "summer": 0.0334,
+        "fall": 0.0032,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0141,
+        "6": 0.0633,
+        "7": 0.0,
+        "8": 0.0066,
+        "9": 0.0038,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.969786Z",
+    "data_version": "Dec-2025"
+  }
+}

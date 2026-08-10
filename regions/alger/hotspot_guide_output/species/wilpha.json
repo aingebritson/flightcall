@@ -1,0 +1,60 @@
+{
+  "species": {
+    "common_name": "Wilson's Phalarope",
+    "code": "wilpha",
+    "scientific_name": "Phalaropus tricolor"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0009,
+    "total_detections": 9,
+    "total_checklists_with_species": 9,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 9,
+    "highest_occurrence_rate": 0.0169
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L471581",
+      "name": "Chatham Sewage Lagoon",
+      "coordinates": {
+        "latitude": 46.3451798,
+        "longitude": -86.9211674
+      },
+      "occurrence": {
+        "rate": 0.0169,
+        "lift": 19.45,
+        "detection_count": 9,
+        "total_checklists": 532,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.4,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0455,
+        "summer": 0.0192,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.068,
+        "6": 0.0,
+        "7": 0.0333,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.976621Z",
+    "data_version": "Dec-2025"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "species": {
+    "common_name": "Orchard Oriole",
+    "code": "orcori",
+    "scientific_name": "Icterus spurius"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0002,
+    "total_detections": 2,
+    "total_checklists_with_species": 2,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 2,
+    "highest_occurrence_rate": 0.0079
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1223216",
+      "name": "Pictured Rocks NL--Log Slide",
+      "coordinates": {
+        "latitude": 46.6550921,
+        "longitude": -86.1166763
+      },
+      "occurrence": {
+        "rate": 0.0079,
+        "lift": 41.07,
+        "detection_count": 1,
+        "total_checklists": 126,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0227
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0455,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1223261",
+      "name": "Pictured Rocks NL--Sand Point Marsh Trail",
+      "coordinates": {
+        "latitude": 46.4466103,
+        "longitude": -86.5980148
+      },
+      "occurrence": {
+        "rate": 0.0017,
+        "lift": 8.77,
+        "detection_count": 1,
+        "total_checklists": 590,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0046,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0075,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.982074Z",
+    "data_version": "Dec-2025"
+  }
+}

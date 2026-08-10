@@ -1,0 +1,136 @@
+{
+  "species": {
+    "common_name": "Northern Mockingbird",
+    "code": "normoc",
+    "scientific_name": "Mimus polyglottos"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0018,
+    "total_detections": 19,
+    "total_checklists_with_species": 19,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 19,
+    "highest_occurrence_rate": 0.0307
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L728711",
+      "name": "Grand Marais",
+      "coordinates": {
+        "latitude": 46.6739411,
+        "longitude": -85.9899902
+      },
+      "occurrence": {
+        "rate": 0.0307,
+        "lift": 16.72,
+        "detection_count": 12,
+        "total_checklists": 391,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.4,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0341,
+        "summer": 0.0315,
+        "fall": 0.0299,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.0375,
+        "6": 0.0308,
+        "7": 0.0323,
+        "8": 0.0667,
+        "9": 0.0,
+        "10": 0.0244,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L2713031",
+      "name": "Limestone Grasslands",
+      "coordinates": {
+        "latitude": 46.2576974,
+        "longitude": -86.9017911
+      },
+      "occurrence": {
+        "rate": 0.0167,
+        "lift": 9.08,
+        "detection_count": 3,
+        "total_checklists": 180,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.05,
+        "summer": 0.0078,
+        "fall": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0667,
+        "6": 0.0114,
+        "7": 0.0,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L4752823",
+      "name": "Anna River mouth",
+      "coordinates": {
+        "latitude": 46.4108364,
+        "longitude": -86.6405224
+      },
+      "occurrence": {
+        "rate": 0.0071,
+        "lift": 3.87,
+        "detection_count": 4,
+        "total_checklists": 563,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0476,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.1053,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.970310Z",
+    "data_version": "Dec-2025"
+  }
+}

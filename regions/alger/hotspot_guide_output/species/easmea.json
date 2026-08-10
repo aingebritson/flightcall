@@ -1,0 +1,428 @@
+{
+  "species": {
+    "common_name": "Eastern Meadowlark",
+    "code": "easmea",
+    "scientific_name": "Sturnella magna"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0147,
+    "total_detections": 152,
+    "total_checklists_with_species": 152,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 12
+  },
+  "summary": {
+    "total_hotspots_detected": 12,
+    "total_detections": 152,
+    "highest_occurrence_rate": 0.4722
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L2713031",
+      "name": "Limestone Grasslands",
+      "coordinates": {
+        "latitude": 46.2576974,
+        "longitude": -86.9017911
+      },
+      "occurrence": {
+        "rate": 0.4722,
+        "lift": 32.15,
+        "detection_count": 85,
+        "total_checklists": 180,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.2,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.475,
+        "summer": 0.5,
+        "fall": 0.1667
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.7143,
+        "5": 0.4667,
+        "6": 0.5568,
+        "7": 0.375,
+        "8": 0.2
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1796301",
+      "name": "MSU Upper Peninsula Research Center",
+      "coordinates": {
+        "latitude": 46.3409529,
+        "longitude": -86.9261429
+      },
+      "occurrence": {
+        "rate": 0.0977,
+        "lift": 6.65,
+        "detection_count": 25,
+        "total_checklists": 256,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.3,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.1406,
+        "summer": 0.1124,
+        "fall": 0.0619,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.129,
+        "5": 0.1724,
+        "6": 0.125,
+        "7": 0.0909,
+        "8": 0.1579,
+        "9": 0.0968,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L9324269",
+      "name": "UPREC North Farm",
+      "coordinates": {
+        "latitude": 46.3523239,
+        "longitude": -86.9322232
+      },
+      "occurrence": {
+        "rate": 0.0769,
+        "lift": 5.24,
+        "detection_count": 2,
+        "total_checklists": 26,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0625,
+        "summer": 0.1111
+      },
+      "monthly": {
+        "4": 0.0909,
+        "5": 0.0,
+        "6": 0.1111
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L27629441",
+      "name": "Cameron crossing bridge",
+      "coordinates": {
+        "latitude": 46.4129974,
+        "longitude": -86.8423748
+      },
+      "occurrence": {
+        "rate": 0.0714,
+        "lift": 4.86,
+        "detection_count": 1,
+        "total_checklists": 14,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "fall": 0.0
+      },
+      "monthly": {
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L2966851",
+      "name": "Pictured Rocks NL--Grand Sable VC",
+      "coordinates": {
+        "latitude": 46.6571708,
+        "longitude": -86.0208347
+      },
+      "occurrence": {
+        "rate": 0.0612,
+        "lift": 4.17,
+        "detection_count": 3,
+        "total_checklists": 49,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.7,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.1875,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.1875,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L471581",
+      "name": "Chatham Sewage Lagoon",
+      "coordinates": {
+        "latitude": 46.3451798,
+        "longitude": -86.9211674
+      },
+      "occurrence": {
+        "rate": 0.047,
+        "lift": 3.2,
+        "detection_count": 25,
+        "total_checklists": 532,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.4,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.1169,
+        "summer": 0.0385,
+        "fall": 0.0109
+      },
+      "monthly": {
+        "4": 0.1,
+        "5": 0.1262,
+        "6": 0.0909,
+        "7": 0.0,
+        "8": 0.0345,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L4827352",
+      "name": "Hiawatha NF--Hovey Lake area",
+      "coordinates": {
+        "latitude": 46.290135,
+        "longitude": -86.7015724
+      },
+      "occurrence": {
+        "rate": 0.04,
+        "lift": 2.72,
+        "detection_count": 1,
+        "total_checklists": 25,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.1,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.1667,
+        "7": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L334600",
+      "name": "Grand Marias--East Bay",
+      "coordinates": {
+        "latitude": 46.6752387,
+        "longitude": -85.9477068
+      },
+      "occurrence": {
+        "rate": 0.037,
+        "lift": 2.52,
+        "detection_count": 2,
+        "total_checklists": 54,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.1053,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "5": 0.0,
+        "7": 0.1111,
+        "8": 0.0,
+        "9": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L728711",
+      "name": "Grand Marais",
+      "coordinates": {
+        "latitude": 46.6739411,
+        "longitude": -85.9899902
+      },
+      "occurrence": {
+        "rate": 0.0128,
+        "lift": 0.87,
+        "detection_count": 5,
+        "total_checklists": 391,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0455,
+        "summer": 0.0079,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.05,
+        "6": 0.0154,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L6228979",
+      "name": "Pictured Rocks NL--Hurricane River CG",
+      "coordinates": {
+        "latitude": 46.6659299,
+        "longitude": -86.1667809
+      },
+      "occurrence": {
+        "rate": 0.0122,
+        "lift": 0.83,
+        "detection_count": 1,
+        "total_checklists": 82,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0233,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0588,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L295963",
+      "name": "Pictured Rocks NL",
+      "coordinates": {
+        "latitude": 46.5803962,
+        "longitude": -86.282854
+      },
+      "occurrence": {
+        "rate": 0.0075,
+        "lift": 0.51,
+        "detection_count": 1,
+        "total_checklists": 134,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0192,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0476,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L470630",
+      "name": "Au Train--Beach",
+      "coordinates": {
+        "latitude": 46.4340712,
+        "longitude": -86.8383408
+      },
+      "occurrence": {
+        "rate": 0.0003,
+        "lift": 0.02,
+        "detection_count": 1,
+        "total_checklists": 3103,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0014,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0069,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.945735Z",
+    "data_version": "Dec-2025"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "species": {
+    "common_name": "Crested Caracara",
+    "code": "crecar",
+    "scientific_name": "Caracara plancus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0005,
+    "total_detections": 5,
+    "total_checklists_with_species": 5,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 5,
+    "highest_occurrence_rate": 0.0089
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L4752823",
+      "name": "Anna River mouth",
+      "coordinates": {
+        "latitude": 46.4108364,
+        "longitude": -86.6405224
+      },
+      "occurrence": {
+        "rate": 0.0089,
+        "lift": 18.38,
+        "detection_count": 5,
+        "total_checklists": 563,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.025,
+        "fall": 0.0077,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0319,
+        "8": 0.0152,
+        "9": 0.0,
+        "10": 0.0122,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.979830Z",
+    "data_version": "Dec-2025"
+  }
+}

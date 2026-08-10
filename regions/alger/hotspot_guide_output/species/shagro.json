@@ -1,0 +1,119 @@
+{
+  "species": {
+    "common_name": "Sharp-tailed Grouse",
+    "code": "shagro",
+    "scientific_name": "Tympanuchus phasianellus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0006,
+    "total_detections": 5,
+    "total_checklists_with_species": 6,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 4
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 5,
+    "highest_occurrence_rate": 0.25
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L3446971",
+      "name": "Kingston Plains",
+      "coordinates": {
+        "latitude": 46.5647618,
+        "longitude": -86.1935806
+      },
+      "occurrence": {
+        "rate": 0.25,
+        "lift": 431.21,
+        "detection_count": 3,
+        "total_checklists": 12,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 4.7,
+        "max_count": 14
+      },
+      "seasonal": {
+        "summer": 0.25
+      },
+      "monthly": {
+        "5": 0.25,
+        "6": 0.6667,
+        "7": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L295963",
+      "name": "Pictured Rocks NL",
+      "coordinates": {
+        "latitude": 46.5803962,
+        "longitude": -86.282854
+      },
+      "occurrence": {
+        "rate": 0.0075,
+        "lift": 12.87,
+        "detection_count": 1,
+        "total_checklists": 134,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.0,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0192,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0476,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L2713031",
+      "name": "Limestone Grasslands",
+      "coordinates": {
+        "latitude": 46.2576974,
+        "longitude": -86.9017911
+      },
+      "occurrence": {
+        "rate": 0.0056,
+        "lift": 9.58,
+        "detection_count": 1,
+        "total_checklists": 180,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 8.0,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.025,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.1429,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.950797Z",
+    "data_version": "Dec-2025"
+  }
+}

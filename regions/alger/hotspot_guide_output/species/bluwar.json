@@ -1,0 +1,57 @@
+{
+  "species": {
+    "common_name": "Blue-winged Warbler",
+    "code": "bluwar",
+    "scientific_name": "Vermivora cyanoptera"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0002,
+    "total_detections": 2,
+    "total_checklists_with_species": 2,
+    "total_checklists_countywide": 10349,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 2,
+    "highest_occurrence_rate": 0.0426
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L10299776",
+      "name": "Au Train River Basin",
+      "coordinates": {
+        "latitude": 46.2466367,
+        "longitude": -86.8573901
+      },
+      "occurrence": {
+        "rate": 0.0426,
+        "lift": 220.19,
+        "detection_count": 2,
+        "total_checklists": 47,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0741,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.1053,
+        "7": 0.0,
+        "8": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-10T23:48:34.983629Z",
+    "data_version": "Dec-2025"
+  }
+}
