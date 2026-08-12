@@ -1,0 +1,513 @@
+{
+  "species": {
+    "common_name": "Sora",
+    "code": "soraso",
+    "scientific_name": "Porzana carolina"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0132,
+    "total_detections": 247,
+    "total_checklists_with_species": 247,
+    "total_checklists_countywide": 18703,
+    "hotspots_detected": 14
+  },
+  "summary": {
+    "total_hotspots_detected": 14,
+    "total_detections": 247,
+    "highest_occurrence_rate": 0.2353
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L4623793",
+      "name": "Sand River Flooding",
+      "coordinates": {
+        "latitude": 46.484623,
+        "longitude": -87.1244301
+      },
+      "occurrence": {
+        "rate": 0.2353,
+        "lift": 17.82,
+        "detection_count": 8,
+        "total_checklists": 34,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 3.2,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.3333,
+        "summer": 0.1818,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.4286,
+        "6": 0.2857,
+        "7": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L16925397",
+      "name": "Republic",
+      "coordinates": {
+        "latitude": 46.4059821,
+        "longitude": -87.9799095
+      },
+      "occurrence": {
+        "rate": 0.2105,
+        "lift": 15.94,
+        "detection_count": 4,
+        "total_checklists": 19,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "summer": 0.5
+      },
+      "monthly": {
+        "4": 0.0,
+        "6": 0.5714,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L11305249",
+      "name": "Republic Wetlands Preserve",
+      "coordinates": {
+        "latitude": 46.3511405,
+        "longitude": -87.9388675
+      },
+      "occurrence": {
+        "rate": 0.2,
+        "lift": 15.14,
+        "detection_count": 3,
+        "total_checklists": 15,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.7,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.3333,
+        "summer": 0.1667
+      },
+      "monthly": {
+        "5": 0.5,
+        "6": 0.25
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L888959",
+      "name": "Presque Isle Park",
+      "coordinates": {
+        "latitude": 46.5857658,
+        "longitude": -87.3825073
+      },
+      "occurrence": {
+        "rate": 0.0496,
+        "lift": 3.76,
+        "detection_count": 197,
+        "total_checklists": 3970,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.106,
+        "summer": 0.0424,
+        "fall": 0.0176,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0112,
+        "5": 0.1773,
+        "6": 0.0417,
+        "7": 0.0438,
+        "8": 0.0238,
+        "9": 0.0303,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L4138186",
+      "name": "Negaunee",
+      "coordinates": {
+        "latitude": 46.5127467,
+        "longitude": -87.6086868
+      },
+      "occurrence": {
+        "rate": 0.0339,
+        "lift": 2.57,
+        "detection_count": 2,
+        "total_checklists": 59,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.1176,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.2857,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L24303555",
+      "name": "Jackson Mine Park",
+      "coordinates": {
+        "latitude": 46.4998502,
+        "longitude": -87.6139718
+      },
+      "occurrence": {
+        "rate": 0.0333,
+        "lift": 2.52,
+        "detection_count": 1,
+        "total_checklists": 30,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0588,
+        "summer": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0909,
+        "6": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L2167965",
+      "name": "Lake LeVasseur",
+      "coordinates": {
+        "latitude": 46.4797186,
+        "longitude": -87.2030354
+      },
+      "occurrence": {
+        "rate": 0.0286,
+        "lift": 2.16,
+        "detection_count": 2,
+        "total_checklists": 70,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.1176
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.2222,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L4127426",
+      "name": "Clowry Truck Trail",
+      "coordinates": {
+        "latitude": 46.5231619,
+        "longitude": -87.8962269
+      },
+      "occurrence": {
+        "rate": 0.0156,
+        "lift": 1.18,
+        "detection_count": 1,
+        "total_checklists": 64,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0294,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0526,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L2148478",
+      "name": "Gentz Rd.",
+      "coordinates": {
+        "latitude": 46.4594782,
+        "longitude": -87.3365731
+      },
+      "occurrence": {
+        "rate": 0.0101,
+        "lift": 0.76,
+        "detection_count": 1,
+        "total_checklists": 99,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0122,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0204,
+        "6": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L3582679",
+      "name": "Dead River marshes",
+      "coordinates": {
+        "latitude": 46.5767103,
+        "longitude": -87.4009609
+      },
+      "occurrence": {
+        "rate": 0.009,
+        "lift": 0.68,
+        "detection_count": 17,
+        "total_checklists": 1880,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.012,
+        "summer": 0.0476,
+        "fall": 0.0034,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0023,
+        "5": 0.036,
+        "6": 0.0698,
+        "7": 0.0244,
+        "8": 0.0,
+        "9": 0.0069,
+        "10": 0.0046,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L3499391",
+      "name": "Compeau Creek Gravel Pits",
+      "coordinates": {
+        "latitude": 46.5891871,
+        "longitude": -87.4532747
+      },
+      "occurrence": {
+        "rate": 0.007,
+        "lift": 0.53,
+        "detection_count": 1,
+        "total_checklists": 142,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0526,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.125,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L1164477",
+      "name": "Gwinn Sewage Ponds",
+      "coordinates": {
+        "latitude": 46.2675962,
+        "longitude": -87.4394989
+      },
+      "occurrence": {
+        "rate": 0.0069,
+        "lift": 0.52,
+        "detection_count": 4,
+        "total_checklists": 581,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0092,
+        "summer": 0.0,
+        "fall": 0.0053,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0135,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0147,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 13,
+      "locality_id": "L355347",
+      "name": "Harlow Lake",
+      "coordinates": {
+        "latitude": 46.622547,
+        "longitude": -87.484478
+      },
+      "occurrence": {
+        "rate": 0.0052,
+        "lift": 0.4,
+        "detection_count": 1,
+        "total_checklists": 191,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0161,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0714,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 14,
+      "locality_id": "L1324218",
+      "name": "Dead River mouth",
+      "coordinates": {
+        "latitude": 46.5770053,
+        "longitude": -87.3929787
+      },
+      "occurrence": {
+        "rate": 0.0038,
+        "lift": 0.29,
+        "detection_count": 5,
+        "total_checklists": 1315,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.4,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0065,
+        "summer": 0.0198,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.014,
+        "6": 0.0351,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:23.997501Z",
+    "data_version": "Dec-2025"
+  }
+}

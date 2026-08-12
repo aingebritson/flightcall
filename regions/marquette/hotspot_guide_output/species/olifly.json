@@ -1,0 +1,561 @@
+{
+  "species": {
+    "common_name": "Olive-sided Flycatcher",
+    "code": "olifly",
+    "scientific_name": "Contopus cooperi"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0068,
+    "total_detections": 126,
+    "total_checklists_with_species": 127,
+    "total_checklists_countywide": 18703,
+    "hotspots_detected": 16
+  },
+  "summary": {
+    "total_hotspots_detected": 15,
+    "total_detections": 126,
+    "highest_occurrence_rate": 0.0682
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L4508139",
+      "name": "Swanzy Plains",
+      "coordinates": {
+        "latitude": 46.3049629,
+        "longitude": -87.383709
+      },
+      "occurrence": {
+        "rate": 0.0682,
+        "lift": 10.04,
+        "detection_count": 12,
+        "total_checklists": 176,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0213,
+        "summer": 0.0932,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0227,
+        "6": 0.0899,
+        "7": 0.1034,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1110707",
+      "name": "Kate's Grade",
+      "coordinates": {
+        "latitude": 46.1851119,
+        "longitude": -87.5687599
+      },
+      "occurrence": {
+        "rate": 0.0561,
+        "lift": 8.26,
+        "detection_count": 6,
+        "total_checklists": 107,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 0.7,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0538
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0633,
+        "7": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L1649173",
+      "name": "McCormick Wilderness--White Deer Lake Trail",
+      "coordinates": {
+        "latitude": 46.6494141,
+        "longitude": -88.0409156
+      },
+      "occurrence": {
+        "rate": 0.0494,
+        "lift": 7.28,
+        "detection_count": 21,
+        "total_checklists": 425,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.3,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0141,
+        "summer": 0.1709,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0476,
+        "6": 0.1625,
+        "7": 0.1892,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L6086881",
+      "name": "Sands Plains",
+      "coordinates": {
+        "latitude": 46.3752046,
+        "longitude": -87.4239367
+      },
+      "occurrence": {
+        "rate": 0.0308,
+        "lift": 4.53,
+        "detection_count": 4,
+        "total_checklists": 130,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.087,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.1026,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L385151",
+      "name": "Peshekee Grade",
+      "coordinates": {
+        "latitude": 46.542198,
+        "longitude": -88.0017864
+      },
+      "occurrence": {
+        "rate": 0.0307,
+        "lift": 4.52,
+        "detection_count": 32,
+        "total_checklists": 1042,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.1396,
+        "fall": 0.0041,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.1824,
+        "7": 0.0541,
+        "8": 0.0185,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L2167965",
+      "name": "Lake LeVasseur",
+      "coordinates": {
+        "latitude": 46.4797186,
+        "longitude": -87.2030354
+      },
+      "occurrence": {
+        "rate": 0.0286,
+        "lift": 4.21,
+        "detection_count": 2,
+        "total_checklists": 70,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0263,
+        "summer": 0.0769,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0417,
+        "6": 0.1111,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L5937094",
+      "name": "County Rd. 438",
+      "coordinates": {
+        "latitude": 46.1872383,
+        "longitude": -87.5358629
+      },
+      "occurrence": {
+        "rate": 0.0227,
+        "lift": 3.35,
+        "detection_count": 1,
+        "total_checklists": 44,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "summer": 0.0263
+      },
+      "monthly": {
+        "2": 0.0,
+        "6": 0.0294,
+        "7": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L3594712",
+      "name": "Echo Lake Nature Preserve",
+      "coordinates": {
+        "latitude": 46.6428699,
+        "longitude": -87.5384054
+      },
+      "occurrence": {
+        "rate": 0.0164,
+        "lift": 2.41,
+        "detection_count": 1,
+        "total_checklists": 61,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.04,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0667,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L4942720",
+      "name": "Lake Independence",
+      "coordinates": {
+        "latitude": 46.8074033,
+        "longitude": -87.709136
+      },
+      "occurrence": {
+        "rate": 0.0159,
+        "lift": 2.34,
+        "detection_count": 1,
+        "total_checklists": 63,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0345
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "7": 0.0,
+        "8": 0.0909,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L11770493",
+      "name": "Old Ishpeming Landfill",
+      "coordinates": {
+        "latitude": 46.4942909,
+        "longitude": -87.6429226
+      },
+      "occurrence": {
+        "rate": 0.0137,
+        "lift": 2.02,
+        "detection_count": 1,
+        "total_checklists": 73,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0455,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.1667,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L888959",
+      "name": "Presque Isle Park",
+      "coordinates": {
+        "latitude": 46.5857658,
+        "longitude": -87.3825073
+      },
+      "occurrence": {
+        "rate": 0.0091,
+        "lift": 1.34,
+        "detection_count": 36,
+        "total_checklists": 3970,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0071,
+        "summer": 0.0094,
+        "fall": 0.0129,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0123,
+        "6": 0.0139,
+        "7": 0.0,
+        "8": 0.0506,
+        "9": 0.0069,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L7358519",
+      "name": "Chocolay Bayou Nature Preserve",
+      "coordinates": {
+        "latitude": 46.4992083,
+        "longitude": -87.355763
+      },
+      "occurrence": {
+        "rate": 0.007,
+        "lift": 1.03,
+        "detection_count": 2,
+        "total_checklists": 286,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0134,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0282,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 13,
+      "locality_id": "L1164477",
+      "name": "Gwinn Sewage Ponds",
+      "coordinates": {
+        "latitude": 46.2675962,
+        "longitude": -87.4394989
+      },
+      "occurrence": {
+        "rate": 0.0069,
+        "lift": 1.01,
+        "detection_count": 4,
+        "total_checklists": 581,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0123,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0179,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 14,
+      "locality_id": "L355347",
+      "name": "Harlow Lake",
+      "coordinates": {
+        "latitude": 46.622547,
+        "longitude": -87.484478
+      },
+      "occurrence": {
+        "rate": 0.0052,
+        "lift": 0.77,
+        "detection_count": 1,
+        "total_checklists": 191,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": null,
+        "max_count": null
+      },
+      "seasonal": {
+        "spring": 0.0161,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0714,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 15,
+      "locality_id": "L2749955",
+      "name": "Dead River--Granite Ave. access",
+      "coordinates": {
+        "latitude": 46.567657,
+        "longitude": -87.4289149
+      },
+      "occurrence": {
+        "rate": 0.0044,
+        "lift": 0.65,
+        "detection_count": 2,
+        "total_checklists": 455,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0078,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.1053,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:23.956867Z",
+    "data_version": "Dec-2025"
+  }
+}

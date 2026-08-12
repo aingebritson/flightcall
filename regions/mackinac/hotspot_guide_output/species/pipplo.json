@@ -1,0 +1,122 @@
+{
+  "species": {
+    "common_name": "Piping Plover",
+    "code": "pipplo",
+    "scientific_name": "Charadrius melodus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0035,
+    "total_detections": 31,
+    "total_checklists_with_species": 31,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 31,
+    "highest_occurrence_rate": 0.2887
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L4851032",
+      "name": "Pointe aux Chenes",
+      "coordinates": {
+        "latitude": 45.9239204,
+        "longitude": -84.9092392
+      },
+      "occurrence": {
+        "rate": 0.2887,
+        "lift": 81.77,
+        "detection_count": 28,
+        "total_checklists": 97,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.9,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.2917,
+        "summer": 0.4878,
+        "fall": 0.0333
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.3333,
+        "6": 0.1667,
+        "7": 0.5429,
+        "8": 0.0625,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L930948",
+      "name": "Sand Dunes Cross Country Ski Trail",
+      "coordinates": {
+        "latitude": 45.9327665,
+        "longitude": -84.8984814
+      },
+      "occurrence": {
+        "rate": 0.0526,
+        "lift": 14.91,
+        "detection_count": 1,
+        "total_checklists": 19,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 6.0,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L4801090",
+      "name": "Carl A. Gerstacker Nature Preserve",
+      "coordinates": {
+        "latitude": 45.9838274,
+        "longitude": -84.1289234
+      },
+      "occurrence": {
+        "rate": 0.0206,
+        "lift": 5.84,
+        "detection_count": 2,
+        "total_checklists": 97,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0625,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "5": 0.0645,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.905450Z",
+    "data_version": "Dec-2025"
+  }
+}

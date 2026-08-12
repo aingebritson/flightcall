@@ -1,0 +1,362 @@
+{
+  "species": {
+    "common_name": "Harlequin Duck",
+    "code": "harduc",
+    "scientific_name": "Histrionicus histrionicus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0032,
+    "total_detections": 60,
+    "total_checklists_with_species": 60,
+    "total_checklists_countywide": 18703,
+    "hotspots_detected": 9
+  },
+  "summary": {
+    "total_hotspots_detected": 9,
+    "total_detections": 60,
+    "highest_occurrence_rate": 0.0488
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L12783592",
+      "name": "Carp River mouth",
+      "coordinates": {
+        "latitude": 46.5185378,
+        "longitude": -87.384324
+      },
+      "occurrence": {
+        "rate": 0.0488,
+        "lift": 15.21,
+        "detection_count": 2,
+        "total_checklists": 41,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "fall": 0.0667,
+        "winter": 0.0769
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.1667,
+        "12": 0.1667
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L4657240",
+      "name": "Noquemanon South Trails",
+      "coordinates": {
+        "latitude": 46.5138342,
+        "longitude": -87.4123456
+      },
+      "occurrence": {
+        "rate": 0.037,
+        "lift": 11.55,
+        "detection_count": 2,
+        "total_checklists": 54,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.08,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.3333
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L3448942",
+      "name": "Harvey (town)",
+      "coordinates": {
+        "latitude": 46.4944926,
+        "longitude": -87.349205
+      },
+      "occurrence": {
+        "rate": 0.0333,
+        "lift": 10.39,
+        "detection_count": 1,
+        "total_checklists": 30,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "winter": 0.0667
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "5": 0.0,
+        "12": 0.2
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L12791363",
+      "name": "Mt. Marquette Loop/Cliff Power Rd.",
+      "coordinates": {
+        "latitude": 46.511344,
+        "longitude": -87.390651
+      },
+      "occurrence": {
+        "rate": 0.0227,
+        "lift": 7.08,
+        "detection_count": 1,
+        "total_checklists": 44,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.1
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L2070003",
+      "name": "Picnic Rocks",
+      "coordinates": {
+        "latitude": 46.5561749,
+        "longitude": -87.3789325
+      },
+      "occurrence": {
+        "rate": 0.0194,
+        "lift": 6.05,
+        "detection_count": 8,
+        "total_checklists": 412,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0324,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0376,
+        "4": 0.0263,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L888959",
+      "name": "Presque Isle Park",
+      "coordinates": {
+        "latitude": 46.5857658,
+        "longitude": -87.3825073
+      },
+      "occurrence": {
+        "rate": 0.0103,
+        "lift": 3.22,
+        "detection_count": 41,
+        "total_checklists": 3970,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0007,
+        "summer": 0.0,
+        "fall": 0.0117,
+        "winter": 0.0461
+      },
+      "monthly": {
+        "1": 0.0379,
+        "2": 0.0,
+        "3": 0.0068,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0155,
+        "11": 0.067,
+        "12": 0.1007
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L12816470",
+      "name": "McCarty's Cove/Point",
+      "coordinates": {
+        "latitude": 46.5463599,
+        "longitude": -87.3768823
+      },
+      "occurrence": {
+        "rate": 0.0062,
+        "lift": 1.94,
+        "detection_count": 1,
+        "total_checklists": 161,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0294
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0455
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L6317815",
+      "name": "Clark Lambros Beach Park",
+      "coordinates": {
+        "latitude": 46.5737819,
+        "longitude": -87.393322
+      },
+      "occurrence": {
+        "rate": 0.0035,
+        "lift": 1.08,
+        "detection_count": 1,
+        "total_checklists": 288,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0189
+      },
+      "monthly": {
+        "1": 0.0769,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L744251",
+      "name": "Marquette--Lower Harbor",
+      "coordinates": {
+        "latitude": 46.5379598,
+        "longitude": -87.385152
+      },
+      "occurrence": {
+        "rate": 0.0017,
+        "lift": 0.52,
+        "detection_count": 3,
+        "total_checklists": 1790,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0059,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0181,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:24.017410Z",
+    "data_version": "Dec-2025"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "species": {
+    "common_name": "Grasshopper Sparrow",
+    "code": "graspa",
+    "scientific_name": "Ammodramus savannarum"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0016,
+    "total_detections": 9,
+    "total_checklists_with_species": 9,
+    "total_checklists_countywide": 5674,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 9,
+    "highest_occurrence_rate": 0.1
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L12548991",
+      "name": "Cooks Farm Fields",
+      "coordinates": {
+        "latitude": 45.969284,
+        "longitude": -86.466414
+      },
+      "occurrence": {
+        "rate": 0.1,
+        "lift": 63.04,
+        "detection_count": 1,
+        "total_checklists": 10,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1565306",
+      "name": "Seney NWR--Driggs River Rd.",
+      "coordinates": {
+        "latitude": 46.3228736,
+        "longitude": -86.1134867
+      },
+      "occurrence": {
+        "rate": 0.014,
+        "lift": 8.82,
+        "detection_count": 4,
+        "total_checklists": 286,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0235,
+        "summer": 0.0194,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0513,
+        "6": 0.0351,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L248863",
+      "name": "Seney NWR",
+      "coordinates": {
+        "latitude": 46.2721054,
+        "longitude": -86.0042381
+      },
+      "occurrence": {
+        "rate": 0.0014,
+        "lift": 0.9,
+        "detection_count": 4,
+        "total_checklists": 2812,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 0.8,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0034,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0042,
+        "7": 0.0021,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:31.111202Z",
+    "data_version": "Dec-2025"
+  }
+}

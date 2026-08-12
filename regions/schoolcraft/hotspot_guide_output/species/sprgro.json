@@ -1,0 +1,137 @@
+{
+  "species": {
+    "common_name": "Spruce Grouse",
+    "code": "sprgro",
+    "scientific_name": "Canachites canadensis"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0039,
+    "total_detections": 22,
+    "total_checklists_with_species": 22,
+    "total_checklists_countywide": 5674,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 22,
+    "highest_occurrence_rate": 0.0071
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L248863",
+      "name": "Seney NWR",
+      "coordinates": {
+        "latitude": 46.2721054,
+        "longitude": -86.0042381
+      },
+      "occurrence": {
+        "rate": 0.0071,
+        "lift": 1.83,
+        "detection_count": 20,
+        "total_checklists": 2812,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0053,
+        "summer": 0.0093,
+        "fall": 0.0057,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0063,
+        "6": 0.0112,
+        "7": 0.0064,
+        "8": 0.0,
+        "9": 0.0154,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1565306",
+      "name": "Seney NWR--Driggs River Rd.",
+      "coordinates": {
+        "latitude": 46.3228736,
+        "longitude": -86.1134867
+      },
+      "occurrence": {
+        "rate": 0.0035,
+        "lift": 0.9,
+        "detection_count": 1,
+        "total_checklists": 286,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0097,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0175,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L1565285",
+      "name": "Seney NWR--Pine Ridge Nature Trail",
+      "coordinates": {
+        "latitude": 46.2910639,
+        "longitude": -85.9425617
+      },
+      "occurrence": {
+        "rate": 0.0012,
+        "lift": 0.31,
+        "detection_count": 1,
+        "total_checklists": 824,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": null,
+        "max_count": null
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0031,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0069,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:31.138567Z",
+    "data_version": "Dec-2025"
+  }
+}

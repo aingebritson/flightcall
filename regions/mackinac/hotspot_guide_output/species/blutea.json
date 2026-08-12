@@ -1,0 +1,749 @@
+{
+  "species": {
+    "common_name": "Blue-winged Teal",
+    "code": "blutea",
+    "scientific_name": "Spatula discors"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0329,
+    "total_detections": 289,
+    "total_checklists_with_species": 289,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 21
+  },
+  "summary": {
+    "total_hotspots_detected": 21,
+    "total_detections": 289,
+    "highest_occurrence_rate": 0.3636
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L10664869",
+      "name": "Engadine Loop",
+      "coordinates": {
+        "latitude": 46.1617958,
+        "longitude": -85.5713815
+      },
+      "occurrence": {
+        "rate": 0.3636,
+        "lift": 11.05,
+        "detection_count": 36,
+        "total_checklists": 99,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 3.5,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.5217,
+        "summer": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.8333,
+        "5": 0.4815,
+        "6": 0.0,
+        "7": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L26737135",
+      "name": "Round Lake",
+      "coordinates": {
+        "latitude": 45.9612756,
+        "longitude": -84.8710053
+      },
+      "occurrence": {
+        "rate": 0.1538,
+        "lift": 4.67,
+        "detection_count": 2,
+        "total_checklists": 13,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 24.0,
+        "max_count": 24
+      },
+      "seasonal": {
+        "fall": 0.1818
+      },
+      "monthly": {
+        "9": 0.6667,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L2194367",
+      "name": "Cedarville Wastewater",
+      "coordinates": {
+        "latitude": 46.0201244,
+        "longitude": -84.3785033
+      },
+      "occurrence": {
+        "rate": 0.1262,
+        "lift": 3.83,
+        "detection_count": 26,
+        "total_checklists": 206,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.2,
+        "max_count": 18
+      },
+      "seasonal": {
+        "spring": 0.0933,
+        "summer": 0.0649,
+        "fall": 0.2857,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.1346,
+        "6": 0.0588,
+        "7": 0.0769,
+        "8": 0.4444,
+        "9": 0.375,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L27317712",
+      "name": "Mertaugh Family Nature Preserve",
+      "coordinates": {
+        "latitude": 45.9952622,
+        "longitude": -84.4721174
+      },
+      "occurrence": {
+        "rate": 0.1,
+        "lift": 3.04,
+        "detection_count": 1,
+        "total_checklists": 10,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0
+      },
+      "monthly": {
+        "5": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L1542457",
+      "name": "Carp River Rd. Fishing Access",
+      "coordinates": {
+        "latitude": 46.0238982,
+        "longitude": -84.6939652
+      },
+      "occurrence": {
+        "rate": 0.0667,
+        "lift": 2.03,
+        "detection_count": 10,
+        "total_checklists": 150,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.6,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.1429,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.3333,
+        "5": 0.125,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L12132844",
+      "name": "Graham Point",
+      "coordinates": {
+        "latitude": 45.8493661,
+        "longitude": -84.705258
+      },
+      "occurrence": {
+        "rate": 0.054,
+        "lift": 1.64,
+        "detection_count": 49,
+        "total_checklists": 908,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 6.8,
+        "max_count": 36
+      },
+      "seasonal": {
+        "spring": 0.0729,
+        "fall": 0.0451,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.1613,
+        "5": 0.0517,
+        "6": 0.0,
+        "8": 0.0357,
+        "9": 0.1143,
+        "10": 0.0236,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L657101",
+      "name": "Pointe LaBarbe",
+      "coordinates": {
+        "latitude": 45.8421945,
+        "longitude": -84.7567749
+      },
+      "occurrence": {
+        "rate": 0.0492,
+        "lift": 1.49,
+        "detection_count": 134,
+        "total_checklists": 2726,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.3,
+        "max_count": 30
+      },
+      "seasonal": {
+        "spring": 0.0807,
+        "summer": 0.0234,
+        "fall": 0.0455,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.1081,
+        "5": 0.0795,
+        "6": 0.0318,
+        "7": 0.0082,
+        "8": 0.0947,
+        "9": 0.0856,
+        "10": 0.008,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L31730500",
+      "name": "Bush Bay Trail",
+      "coordinates": {
+        "latitude": 45.9911733,
+        "longitude": -84.2676688
+      },
+      "occurrence": {
+        "rate": 0.0465,
+        "lift": 1.41,
+        "detection_count": 2,
+        "total_checklists": 43,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0769,
+        "summer": 0.0,
+        "fall": 0.0769
+      },
+      "monthly": {
+        "5": 0.0833,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.1667,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L9084351",
+      "name": "Naubinway Marina",
+      "coordinates": {
+        "latitude": 46.0867664,
+        "longitude": -85.4448248
+      },
+      "occurrence": {
+        "rate": 0.0429,
+        "lift": 1.3,
+        "detection_count": 3,
+        "total_checklists": 70,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 4.7,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.0294,
+        "summer": 0.0,
+        "fall": 0.087
+      },
+      "monthly": {
+        "4": 0.0769,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.5,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L9491611",
+      "name": "Beavertail Point",
+      "coordinates": {
+        "latitude": 45.9672318,
+        "longitude": -84.1716363
+      },
+      "occurrence": {
+        "rate": 0.04,
+        "lift": 1.22,
+        "detection_count": 1,
+        "total_checklists": 25,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "5": 0.0,
+        "6": 0.25,
+        "10": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L3661335",
+      "name": "John Arthur Woollam Preserve",
+      "coordinates": {
+        "latitude": 45.9883748,
+        "longitude": -84.2426223
+      },
+      "occurrence": {
+        "rate": 0.0289,
+        "lift": 0.88,
+        "detection_count": 5,
+        "total_checklists": 173,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.8,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.0656,
+        "summer": 0.0,
+        "fall": 0.0417
+      },
+      "monthly": {
+        "3": 0.0,
+        "5": 0.0741,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0909
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L6212651",
+      "name": "Mackinac Bay Nature Preserve",
+      "coordinates": {
+        "latitude": 46.005979,
+        "longitude": -84.415868
+      },
+      "occurrence": {
+        "rate": 0.0259,
+        "lift": 0.79,
+        "detection_count": 3,
+        "total_checklists": 116,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.7,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.027,
+        "summer": 0.0392,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.037,
+        "6": 0.0526,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 13,
+      "locality_id": "L21220526",
+      "name": "Allenville fields",
+      "coordinates": {
+        "latitude": 45.9845641,
+        "longitude": -84.8118238
+      },
+      "occurrence": {
+        "rate": 0.0217,
+        "lift": 0.66,
+        "detection_count": 1,
+        "total_checklists": 46,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.05,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "4": 0.1667,
+        "5": 0.0,
+        "6": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 14,
+      "locality_id": "L4851032",
+      "name": "Pointe aux Chenes",
+      "coordinates": {
+        "latitude": 45.9239204,
+        "longitude": -84.9092392
+      },
+      "occurrence": {
+        "rate": 0.0206,
+        "lift": 0.63,
+        "detection_count": 2,
+        "total_checklists": 97,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0833,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0952,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 15,
+      "locality_id": "L9084416",
+      "name": "Hog Island SF CG",
+      "coordinates": {
+        "latitude": 46.0812182,
+        "longitude": -85.3071266
+      },
+      "occurrence": {
+        "rate": 0.0204,
+        "lift": 0.62,
+        "detection_count": 1,
+        "total_checklists": 49,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": null,
+        "max_count": null
+      },
+      "seasonal": {
+        "spring": 0.0833,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.1,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 16,
+      "locality_id": "L2194347",
+      "name": "Search Bay NF CG",
+      "coordinates": {
+        "latitude": 45.993435,
+        "longitude": -84.515785
+      },
+      "occurrence": {
+        "rate": 0.0192,
+        "lift": 0.58,
+        "detection_count": 1,
+        "total_checklists": 52,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 4.0,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0476,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0588,
+        "6": 0.0,
+        "7": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 17,
+      "locality_id": "L3694104",
+      "name": "Birge Nature Preserve--Woodland Trail and Northern Wetlands",
+      "coordinates": {
+        "latitude": 46.0064712,
+        "longitude": -84.473995
+      },
+      "occurrence": {
+        "rate": 0.0147,
+        "lift": 0.45,
+        "detection_count": 1,
+        "total_checklists": 68,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0294,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "5": 0.0,
+        "6": 0.0345,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 18,
+      "locality_id": "L4278270",
+      "name": "Pickford (Mackinac Co.)",
+      "coordinates": {
+        "latitude": 46.1540652,
+        "longitude": -84.3709135
+      },
+      "occurrence": {
+        "rate": 0.006,
+        "lift": 0.18,
+        "detection_count": 2,
+        "total_checklists": 336,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.0,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.0213,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0476,
+        "5": 0.0,
+        "6": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 19,
+      "locality_id": "L773674",
+      "name": "Mackinac Island",
+      "coordinates": {
+        "latitude": 45.8613249,
+        "longitude": -84.6221924
+      },
+      "occurrence": {
+        "rate": 0.0049,
+        "lift": 0.15,
+        "detection_count": 7,
+        "total_checklists": 1416,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.4,
+        "max_count": 20
+      },
+      "seasonal": {
+        "spring": 0.0036,
+        "summer": 0.0034,
+        "fall": 0.0079,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0179,
+        "5": 0.0,
+        "6": 0.0028,
+        "7": 0.0041,
+        "8": 0.0,
+        "9": 0.0142,
+        "10": 0.019,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 20,
+      "locality_id": "L7709064",
+      "name": "St. Ignace Boardwalk/Wawatam Lighthouse",
+      "coordinates": {
+        "latitude": 45.865572,
+        "longitude": -84.71682
+      },
+      "occurrence": {
+        "rate": 0.0049,
+        "lift": 0.15,
+        "detection_count": 1,
+        "total_checklists": 203,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0161,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0286,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 21,
+      "locality_id": "L5111263",
+      "name": "Bridge View Park",
+      "coordinates": {
+        "latitude": 45.8471371,
+        "longitude": -84.7259143
+      },
+      "occurrence": {
+        "rate": 0.0024,
+        "lift": 0.07,
+        "detection_count": 1,
+        "total_checklists": 410,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.006,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0192,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.836061Z",
+    "data_version": "Dec-2025"
+  }
+}

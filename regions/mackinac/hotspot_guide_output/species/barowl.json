@@ -1,0 +1,351 @@
+{
+  "species": {
+    "common_name": "Barred Owl",
+    "code": "barowl",
+    "scientific_name": "Strix varia"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0068,
+    "total_detections": 59,
+    "total_checklists_with_species": 60,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 10
+  },
+  "summary": {
+    "total_hotspots_detected": 9,
+    "total_detections": 59,
+    "highest_occurrence_rate": 0.04
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L9491611",
+      "name": "Beavertail Point",
+      "coordinates": {
+        "latitude": 45.9672318,
+        "longitude": -84.1716363
+      },
+      "occurrence": {
+        "rate": 0.04,
+        "lift": 5.85,
+        "detection_count": 1,
+        "total_checklists": 25,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "5": 0.0,
+        "6": 0.25,
+        "10": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L3813691",
+      "name": "Brevoort Lake CG",
+      "coordinates": {
+        "latitude": 46.0099735,
+        "longitude": -84.9705523
+      },
+      "occurrence": {
+        "rate": 0.026,
+        "lift": 3.8,
+        "detection_count": 2,
+        "total_checklists": 77,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0556
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0417,
+        "9": 0.0,
+        "10": 0.1667
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L3694104",
+      "name": "Birge Nature Preserve--Woodland Trail and Northern Wetlands",
+      "coordinates": {
+        "latitude": 46.0064712,
+        "longitude": -84.473995
+      },
+      "occurrence": {
+        "rate": 0.0147,
+        "lift": 2.15,
+        "detection_count": 1,
+        "total_checklists": 68,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0556,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "5": 0.0588,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L657101",
+      "name": "Pointe LaBarbe",
+      "coordinates": {
+        "latitude": 45.8421945,
+        "longitude": -84.7567749
+      },
+      "occurrence": {
+        "rate": 0.0121,
+        "lift": 1.77,
+        "detection_count": 33,
+        "total_checklists": 2726,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0192,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0018,
+        "10": 0.045,
+        "11": 0.0149,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L773674",
+      "name": "Mackinac Island",
+      "coordinates": {
+        "latitude": 45.8613249,
+        "longitude": -84.6221924
+      },
+      "occurrence": {
+        "rate": 0.012,
+        "lift": 1.76,
+        "detection_count": 17,
+        "total_checklists": 1416,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 0.9,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0255,
+        "summer": 0.0067,
+        "fall": 0.0119,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.1,
+        "4": 0.0,
+        "5": 0.0288,
+        "6": 0.0056,
+        "7": 0.0082,
+        "8": 0.004,
+        "9": 0.0213,
+        "10": 0.019,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L3640326",
+      "name": "Cedarville Bay",
+      "coordinates": {
+        "latitude": 45.9957989,
+        "longitude": -84.3620074
+      },
+      "occurrence": {
+        "rate": 0.0084,
+        "lift": 1.23,
+        "detection_count": 1,
+        "total_checklists": 119,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0182,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0417,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L3661335",
+      "name": "John Arthur Woollam Preserve",
+      "coordinates": {
+        "latitude": 45.9883748,
+        "longitude": -84.2426223
+      },
+      "occurrence": {
+        "rate": 0.0058,
+        "lift": 0.85,
+        "detection_count": 1,
+        "total_checklists": 173,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0164,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "5": 0.0185,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L2194367",
+      "name": "Cedarville Wastewater",
+      "coordinates": {
+        "latitude": 46.0201244,
+        "longitude": -84.3785033
+      },
+      "occurrence": {
+        "rate": 0.0049,
+        "lift": 0.71,
+        "detection_count": 1,
+        "total_checklists": 206,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0133,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0192,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L12132844",
+      "name": "Graham Point",
+      "coordinates": {
+        "latitude": 45.8493661,
+        "longitude": -84.705258
+      },
+      "occurrence": {
+        "rate": 0.0022,
+        "lift": 0.32,
+        "detection_count": 2,
+        "total_checklists": 908,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "fall": 0.0036,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0067,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.891094Z",
+    "data_version": "Dec-2025"
+  }
+}

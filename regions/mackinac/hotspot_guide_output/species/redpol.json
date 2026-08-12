@@ -1,0 +1,213 @@
+{
+  "species": {
+    "common_name": "Redpoll",
+    "code": "redpol",
+    "scientific_name": "Acanthis flammea"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0052,
+    "total_detections": 46,
+    "total_checklists_with_species": 46,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 5
+  },
+  "summary": {
+    "total_hotspots_detected": 5,
+    "total_detections": 46,
+    "highest_occurrence_rate": 0.08
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L9491611",
+      "name": "Beavertail Point",
+      "coordinates": {
+        "latitude": 45.9672318,
+        "longitude": -84.1716363
+      },
+      "occurrence": {
+        "rate": 0.08,
+        "lift": 15.27,
+        "detection_count": 2,
+        "total_checklists": 25,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.3333,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "10": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L12132844",
+      "name": "Graham Point",
+      "coordinates": {
+        "latitude": 45.8493661,
+        "longitude": -84.705258
+      },
+      "occurrence": {
+        "rate": 0.0264,
+        "lift": 5.05,
+        "detection_count": 24,
+        "total_checklists": 908,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 18.6,
+        "max_count": 80
+      },
+      "seasonal": {
+        "spring": 0.0638,
+        "fall": 0.0054,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.1452,
+        "4": 0.129,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0492,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L3640326",
+      "name": "Cedarville Bay",
+      "coordinates": {
+        "latitude": 45.9957989,
+        "longitude": -84.3620074
+      },
+      "occurrence": {
+        "rate": 0.0168,
+        "lift": 3.21,
+        "detection_count": 2,
+        "total_checklists": 119,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 21.0,
+        "max_count": 21
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.1667
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.25
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L657101",
+      "name": "Pointe LaBarbe",
+      "coordinates": {
+        "latitude": 45.8421945,
+        "longitude": -84.7567749
+      },
+      "occurrence": {
+        "rate": 0.0059,
+        "lift": 1.12,
+        "detection_count": 16,
+        "total_checklists": 2726,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 12.4,
+        "max_count": 38
+      },
+      "seasonal": {
+        "spring": 0.0034,
+        "summer": 0.0,
+        "fall": 0.0082,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.018,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0064,
+        "11": 0.0373,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L773674",
+      "name": "Mackinac Island",
+      "coordinates": {
+        "latitude": 45.8613249,
+        "longitude": -84.6221924
+      },
+      "occurrence": {
+        "rate": 0.0014,
+        "lift": 0.27,
+        "detection_count": 2,
+        "total_checklists": 1416,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 13.0,
+        "max_count": 25
+      },
+      "seasonal": {
+        "spring": 0.0036,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0256
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.1,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0909
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.906848Z",
+    "data_version": "Dec-2025"
+  }
+}

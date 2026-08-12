@@ -1,0 +1,1407 @@
+{
+  "species": {
+    "common_name": "American Crow",
+    "code": "amecro",
+    "scientific_name": "Corvus brachyrhynchos"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.6161,
+    "total_detections": 5386,
+    "total_checklists_with_species": 5410,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 48
+  },
+  "summary": {
+    "total_hotspots_detected": 41,
+    "total_detections": 5386,
+    "highest_occurrence_rate": 0.8634
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L12132844",
+      "name": "Graham Point",
+      "coordinates": {
+        "latitude": 45.8493661,
+        "longitude": -84.705258
+      },
+      "occurrence": {
+        "rate": 0.8634,
+        "lift": 1.4,
+        "detection_count": 784,
+        "total_checklists": 908,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 9.0,
+        "max_count": 380
+      },
+      "seasonal": {
+        "spring": 0.8815,
+        "fall": 0.8628,
+        "winter": 0.6818
+      },
+      "monthly": {
+        "1": 0.5714,
+        "2": 0.6,
+        "3": 0.9194,
+        "4": 0.9032,
+        "5": 0.8563,
+        "6": 0.3333,
+        "8": 0.8036,
+        "9": 0.9357,
+        "10": 0.8384,
+        "11": 0.8689,
+        "12": 0.8
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L5828955",
+      "name": "Lakeside Cemetery ",
+      "coordinates": {
+        "latitude": 45.849807,
+        "longitude": -84.713724
+      },
+      "occurrence": {
+        "rate": 0.8,
+        "lift": 1.3,
+        "detection_count": 8,
+        "total_checklists": 10,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 2.5,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.6,
+        "fall": 1.0
+      },
+      "monthly": {
+        "5": 0.6,
+        "9": 1.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L3619279",
+      "name": "William B. Derby Jr. Nature Preserve",
+      "coordinates": {
+        "latitude": 45.99242,
+        "longitude": -84.387993
+      },
+      "occurrence": {
+        "rate": 0.7368,
+        "lift": 1.2,
+        "detection_count": 28,
+        "total_checklists": 38,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.75,
+        "summer": 0.8235,
+        "fall": 0.625,
+        "winter": 0.6
+      },
+      "monthly": {
+        "5": 0.75,
+        "6": 0.7857,
+        "7": 1.0,
+        "8": 0.0,
+        "9": 1.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L831393",
+      "name": "Straits SP",
+      "coordinates": {
+        "latitude": 45.8533298,
+        "longitude": -84.720329
+      },
+      "occurrence": {
+        "rate": 0.7185,
+        "lift": 1.17,
+        "detection_count": 217,
+        "total_checklists": 302,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 24
+      },
+      "seasonal": {
+        "spring": 0.7215,
+        "summer": 0.7798,
+        "fall": 0.6822,
+        "winter": 0.2857
+      },
+      "monthly": {
+        "1": 0.6667,
+        "3": 0.6667,
+        "4": 0.6667,
+        "5": 0.7344,
+        "6": 0.7647,
+        "7": 0.7931,
+        "8": 0.6341,
+        "9": 0.8205,
+        "10": 0.7,
+        "11": 0.1429
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L21220526",
+      "name": "Allenville fields",
+      "coordinates": {
+        "latitude": 45.9845641,
+        "longitude": -84.8118238
+      },
+      "occurrence": {
+        "rate": 0.7174,
+        "lift": 1.16,
+        "detection_count": 33,
+        "total_checklists": 46,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 4.8,
+        "max_count": 25
+      },
+      "seasonal": {
+        "spring": 0.9,
+        "summer": 0.5,
+        "fall": 0.8,
+        "winter": 0.3333
+      },
+      "monthly": {
+        "4": 0.8333,
+        "5": 1.0,
+        "6": 0.5,
+        "9": 0.6667,
+        "10": 1.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L657101",
+      "name": "Pointe LaBarbe",
+      "coordinates": {
+        "latitude": 45.8421945,
+        "longitude": -84.7567749
+      },
+      "occurrence": {
+        "rate": 0.7117,
+        "lift": 1.16,
+        "detection_count": 1940,
+        "total_checklists": 2726,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 19.5,
+        "max_count": 1309
+      },
+      "seasonal": {
+        "spring": 0.6168,
+        "summer": 0.6023,
+        "fall": 0.7755,
+        "winter": 0.5
+      },
+      "monthly": {
+        "1": 0.3636,
+        "2": 0.7,
+        "3": 0.4839,
+        "4": 0.6847,
+        "5": 0.6093,
+        "6": 0.5909,
+        "7": 0.623,
+        "8": 0.7727,
+        "9": 0.836,
+        "10": 0.7685,
+        "11": 0.6679,
+        "12": 0.5238
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L4662993",
+      "name": "Cedar Campus",
+      "coordinates": {
+        "latitude": 45.9792498,
+        "longitude": -84.2224789
+      },
+      "occurrence": {
+        "rate": 0.6995,
+        "lift": 1.14,
+        "detection_count": 135,
+        "total_checklists": 193,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.6,
+        "max_count": 12
+      },
+      "seasonal": {
+        "spring": 0.6,
+        "summer": 0.7032,
+        "fall": 0.7667
+      },
+      "monthly": {
+        "5": 0.6,
+        "6": 0.6622,
+        "7": 0.7407,
+        "8": 0.8125,
+        "9": 0.8182,
+        "10": 0.3333
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L10664869",
+      "name": "Engadine Loop",
+      "coordinates": {
+        "latitude": 46.1617958,
+        "longitude": -85.5713815
+      },
+      "occurrence": {
+        "rate": 0.6566,
+        "lift": 1.07,
+        "detection_count": 65,
+        "total_checklists": 99,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 11.4,
+        "max_count": 92
+      },
+      "seasonal": {
+        "spring": 0.7101,
+        "summer": 0.5,
+        "winter": 0.5
+      },
+      "monthly": {
+        "2": 0.25,
+        "3": 1.0,
+        "4": 0.9167,
+        "5": 0.6481,
+        "6": 0.3333,
+        "7": 0.6154
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L773674",
+      "name": "Mackinac Island",
+      "coordinates": {
+        "latitude": 45.8613249,
+        "longitude": -84.6221924
+      },
+      "occurrence": {
+        "rate": 0.6229,
+        "lift": 1.01,
+        "detection_count": 882,
+        "total_checklists": 1416,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.1,
+        "max_count": 182
+      },
+      "seasonal": {
+        "spring": 0.6022,
+        "summer": 0.6399,
+        "fall": 0.6087,
+        "winter": 0.6923
+      },
+      "monthly": {
+        "1": 0.5333,
+        "2": 0.8462,
+        "3": 1.0,
+        "4": 0.5179,
+        "5": 0.6058,
+        "6": 0.6412,
+        "7": 0.6379,
+        "8": 0.5425,
+        "9": 0.695,
+        "10": 0.7143,
+        "11": 0.0769,
+        "12": 0.7273
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L9084351",
+      "name": "Naubinway Marina",
+      "coordinates": {
+        "latitude": 46.0867664,
+        "longitude": -85.4448248
+      },
+      "occurrence": {
+        "rate": 0.6,
+        "lift": 0.97,
+        "detection_count": 42,
+        "total_checklists": 70,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.3,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.5882,
+        "summer": 0.4167,
+        "fall": 0.6957
+      },
+      "monthly": {
+        "4": 0.5385,
+        "5": 0.6842,
+        "6": 0.375,
+        "7": 0.5,
+        "8": 0.7143,
+        "9": 1.0,
+        "10": 0.5556,
+        "11": 0.6667
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L27317712",
+      "name": "Mertaugh Family Nature Preserve",
+      "coordinates": {
+        "latitude": 45.9952622,
+        "longitude": -84.4721174
+      },
+      "occurrence": {
+        "rate": 0.6,
+        "lift": 0.97,
+        "detection_count": 6,
+        "total_checklists": 10,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.6667
+      },
+      "monthly": {
+        "5": 0.6
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L3661335",
+      "name": "John Arthur Woollam Preserve",
+      "coordinates": {
+        "latitude": 45.9883748,
+        "longitude": -84.2426223
+      },
+      "occurrence": {
+        "rate": 0.5896,
+        "lift": 0.96,
+        "detection_count": 102,
+        "total_checklists": 173,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.5082,
+        "summer": 0.7059,
+        "fall": 0.4583
+      },
+      "monthly": {
+        "3": 1.0,
+        "5": 0.4444,
+        "6": 0.6885,
+        "7": 0.75,
+        "8": 0.4545,
+        "9": 0.4545
+      }
+    },
+    {
+      "rank": 13,
+      "locality_id": "L9491611",
+      "name": "Beavertail Point",
+      "coordinates": {
+        "latitude": 45.9672318,
+        "longitude": -84.1716363
+      },
+      "occurrence": {
+        "rate": 0.52,
+        "lift": 0.84,
+        "detection_count": 13,
+        "total_checklists": 25,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 3.2,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.8333,
+        "fall": 0.2857,
+        "winter": 0.375
+      },
+      "monthly": {
+        "2": 0.0,
+        "5": 0.75,
+        "6": 0.75,
+        "10": 0.0,
+        "12": 0.75
+      }
+    },
+    {
+      "rank": 14,
+      "locality_id": "L2194367",
+      "name": "Cedarville Wastewater",
+      "coordinates": {
+        "latitude": 46.0201244,
+        "longitude": -84.3785033
+      },
+      "occurrence": {
+        "rate": 0.5194,
+        "lift": 0.84,
+        "detection_count": 107,
+        "total_checklists": 206,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.5,
+        "max_count": 64
+      },
+      "seasonal": {
+        "spring": 0.4533,
+        "summer": 0.5844,
+        "fall": 0.5102,
+        "winter": 0.6
+      },
+      "monthly": {
+        "3": 0.5,
+        "4": 0.6316,
+        "5": 0.3846,
+        "6": 0.5098,
+        "7": 0.7308,
+        "8": 0.6667,
+        "9": 0.625,
+        "10": 0.1667,
+        "11": 0.2222,
+        "12": 0.6
+      }
+    },
+    {
+      "rank": 15,
+      "locality_id": "L6686778",
+      "name": "Father Marquette National Memorial",
+      "coordinates": {
+        "latitude": 45.8519287,
+        "longitude": -84.726119
+      },
+      "occurrence": {
+        "rate": 0.5172,
+        "lift": 0.84,
+        "detection_count": 30,
+        "total_checklists": 58,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 13
+      },
+      "seasonal": {
+        "spring": 0.6316,
+        "summer": 0.3478,
+        "fall": 0.75
+      },
+      "monthly": {
+        "1": 0.0,
+        "5": 0.6111,
+        "6": 0.3125,
+        "7": 0.4286,
+        "9": 0.6667,
+        "10": 0.8571
+      }
+    },
+    {
+      "rank": 16,
+      "locality_id": "L6212651",
+      "name": "Mackinac Bay Nature Preserve",
+      "coordinates": {
+        "latitude": 46.005979,
+        "longitude": -84.415868
+      },
+      "occurrence": {
+        "rate": 0.5086,
+        "lift": 0.83,
+        "detection_count": 59,
+        "total_checklists": 116,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.3,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.5405,
+        "summer": 0.549,
+        "fall": 0.3913,
+        "winter": 0.4
+      },
+      "monthly": {
+        "3": 0.6667,
+        "4": 0.75,
+        "5": 0.4815,
+        "6": 0.5526,
+        "7": 0.5385,
+        "8": 0.2222,
+        "9": 0.5
+      }
+    },
+    {
+      "rank": 17,
+      "locality_id": "L4278270",
+      "name": "Pickford (Mackinac Co.)",
+      "coordinates": {
+        "latitude": 46.1540652,
+        "longitude": -84.3709135
+      },
+      "occurrence": {
+        "rate": 0.494,
+        "lift": 0.8,
+        "detection_count": 166,
+        "total_checklists": 336,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.4,
+        "max_count": 82
+      },
+      "seasonal": {
+        "spring": 0.7021,
+        "summer": 0.8667,
+        "fall": 0.3,
+        "winter": 0.3871
+      },
+      "monthly": {
+        "1": 0.2738,
+        "2": 0.4407,
+        "3": 0.6667,
+        "4": 0.7619,
+        "5": 0.6316,
+        "6": 0.8462,
+        "11": 0.4286,
+        "12": 0.6
+      }
+    },
+    {
+      "rank": 18,
+      "locality_id": "L2194347",
+      "name": "Search Bay NF CG",
+      "coordinates": {
+        "latitude": 45.993435,
+        "longitude": -84.515785
+      },
+      "occurrence": {
+        "rate": 0.4808,
+        "lift": 0.78,
+        "detection_count": 25,
+        "total_checklists": 52,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.6,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.4762,
+        "summer": 0.6,
+        "fall": 0.4
+      },
+      "monthly": {
+        "4": 0.5,
+        "5": 0.4706,
+        "6": 0.5,
+        "7": 1.0,
+        "9": 0.4167
+      }
+    },
+    {
+      "rank": 19,
+      "locality_id": "L15456882",
+      "name": "Big Knob SF CG",
+      "coordinates": {
+        "latitude": 46.0388854,
+        "longitude": -85.593785
+      },
+      "occurrence": {
+        "rate": 0.4706,
+        "lift": 0.76,
+        "detection_count": 8,
+        "total_checklists": 17,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 3.5,
+        "max_count": 13
+      },
+      "seasonal": {
+        "summer": 0.1429,
+        "fall": 0.6667
+      },
+      "monthly": {
+        "5": 0.75,
+        "7": 0.0,
+        "8": 0.75
+      }
+    },
+    {
+      "rank": 20,
+      "locality_id": "L5111263",
+      "name": "Bridge View Park",
+      "coordinates": {
+        "latitude": 45.8471371,
+        "longitude": -84.7259143
+      },
+      "occurrence": {
+        "rate": 0.4634,
+        "lift": 0.75,
+        "detection_count": 190,
+        "total_checklists": 410,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.7,
+        "max_count": 16
+      },
+      "seasonal": {
+        "spring": 0.4024,
+        "summer": 0.5878,
+        "fall": 0.4524,
+        "winter": 0.1379
+      },
+      "monthly": {
+        "1": 0.0526,
+        "3": 0.7778,
+        "4": 0.3684,
+        "5": 0.3519,
+        "6": 0.5604,
+        "7": 0.65,
+        "8": 0.6364,
+        "9": 0.5577,
+        "10": 0.3265,
+        "11": 0.1304,
+        "12": 0.25
+      }
+    },
+    {
+      "rank": 21,
+      "locality_id": "L1542457",
+      "name": "Carp River Rd. Fishing Access",
+      "coordinates": {
+        "latitude": 46.0238982,
+        "longitude": -84.6939652
+      },
+      "occurrence": {
+        "rate": 0.44,
+        "lift": 0.71,
+        "detection_count": 66,
+        "total_checklists": 150,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.7,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.4286,
+        "summer": 0.4828,
+        "fall": 0.4681
+      },
+      "monthly": {
+        "4": 0.6667,
+        "5": 0.4062,
+        "6": 0.5,
+        "7": 0.4545,
+        "8": 0.4,
+        "9": 0.5882,
+        "10": 0.4615,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 22,
+      "locality_id": "L3694203",
+      "name": "St. Ignace City Park Dock #3",
+      "coordinates": {
+        "latitude": 45.8540565,
+        "longitude": -84.7022496
+      },
+      "occurrence": {
+        "rate": 0.4266,
+        "lift": 0.69,
+        "detection_count": 61,
+        "total_checklists": 143,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.9,
+        "max_count": 30
+      },
+      "seasonal": {
+        "spring": 0.375,
+        "summer": 0.2941,
+        "fall": 0.4865,
+        "winter": 0.5152
+      },
+      "monthly": {
+        "1": 0.4375,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.3214,
+        "5": 0.2727,
+        "6": 0.2,
+        "7": 0.4286,
+        "8": 0.25,
+        "9": 0.8571,
+        "10": 0.4667,
+        "11": 0.4286,
+        "12": 0.5
+      }
+    },
+    {
+      "rank": 23,
+      "locality_id": "L4352602",
+      "name": "American Legion Memorial Park",
+      "coordinates": {
+        "latitude": 45.863576,
+        "longitude": -84.716939
+      },
+      "occurrence": {
+        "rate": 0.4217,
+        "lift": 0.68,
+        "detection_count": 70,
+        "total_checklists": 166,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.1,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.4237,
+        "summer": 0.4118,
+        "fall": 0.5111,
+        "winter": 0.3333
+      },
+      "monthly": {
+        "1": 0.32,
+        "2": 0.2857,
+        "3": 0.8182,
+        "4": 0.4074,
+        "5": 0.2381,
+        "6": 0.6667,
+        "7": 0.2727,
+        "8": 0.4286,
+        "9": 0.8333,
+        "10": 0.5,
+        "11": 0.4286,
+        "12": 0.5
+      }
+    },
+    {
+      "rank": 24,
+      "locality_id": "L7709064",
+      "name": "St. Ignace Boardwalk/Wawatam Lighthouse",
+      "coordinates": {
+        "latitude": 45.865572,
+        "longitude": -84.71682
+      },
+      "occurrence": {
+        "rate": 0.4138,
+        "lift": 0.67,
+        "detection_count": 84,
+        "total_checklists": 203,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.8,
+        "max_count": 19
+      },
+      "seasonal": {
+        "spring": 0.3929,
+        "summer": 0.2419,
+        "fall": 0.4416,
+        "winter": 0.6667
+      },
+      "monthly": {
+        "1": 0.8333,
+        "2": 0.5556,
+        "3": 0.5,
+        "4": 0.3,
+        "5": 0.4286,
+        "6": 0.3429,
+        "7": 0.1111,
+        "8": 0.2727,
+        "9": 0.2727,
+        "10": 0.875,
+        "11": 0.8333,
+        "12": 0.6667
+      }
+    },
+    {
+      "rank": 25,
+      "locality_id": "L4851032",
+      "name": "Pointe aux Chenes",
+      "coordinates": {
+        "latitude": 45.9239204,
+        "longitude": -84.9092392
+      },
+      "occurrence": {
+        "rate": 0.4124,
+        "lift": 0.67,
+        "detection_count": 40,
+        "total_checklists": 97,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.3333,
+        "summer": 0.4146,
+        "fall": 0.5
+      },
+      "monthly": {
+        "4": 1.0,
+        "5": 0.2381,
+        "6": 0.3333,
+        "7": 0.4286,
+        "8": 0.4375,
+        "9": 0.5,
+        "10": 0.6
+      }
+    },
+    {
+      "rank": 26,
+      "locality_id": "L3694104",
+      "name": "Birge Nature Preserve--Woodland Trail and Northern Wetlands",
+      "coordinates": {
+        "latitude": 46.0064712,
+        "longitude": -84.473995
+      },
+      "occurrence": {
+        "rate": 0.3824,
+        "lift": 0.62,
+        "detection_count": 26,
+        "total_checklists": 68,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.3889,
+        "summer": 0.4118,
+        "fall": 0.4444,
+        "winter": 0.1429
+      },
+      "monthly": {
+        "2": 0.0,
+        "5": 0.3529,
+        "6": 0.3448,
+        "7": 0.8,
+        "8": 0.0,
+        "9": 0.6667
+      }
+    },
+    {
+      "rank": 27,
+      "locality_id": "L12209097",
+      "name": "Bois Blanc Island--Twin Lakes",
+      "coordinates": {
+        "latitude": 45.7457574,
+        "longitude": -84.4299956
+      },
+      "occurrence": {
+        "rate": 0.375,
+        "lift": 0.61,
+        "detection_count": 6,
+        "total_checklists": 16,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 3.7,
+        "max_count": 14
+      },
+      "seasonal": {
+        "summer": 0.3333
+      },
+      "monthly": {
+        "6": 0.3077
+      }
+    },
+    {
+      "rank": 28,
+      "locality_id": "L3863124",
+      "name": "Gros Cap Roadside Park",
+      "coordinates": {
+        "latitude": 45.883494,
+        "longitude": -84.835843
+      },
+      "occurrence": {
+        "rate": 0.3725,
+        "lift": 0.6,
+        "detection_count": 19,
+        "total_checklists": 51,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.5556,
+        "summer": 0.2727,
+        "fall": 0.3684
+      },
+      "monthly": {
+        "5": 0.5556,
+        "6": 0.3158,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.8,
+        "10": 0.3
+      }
+    },
+    {
+      "rank": 29,
+      "locality_id": "L3640326",
+      "name": "Cedarville Bay",
+      "coordinates": {
+        "latitude": 45.9957989,
+        "longitude": -84.3620074
+      },
+      "occurrence": {
+        "rate": 0.3697,
+        "lift": 0.6,
+        "detection_count": 44,
+        "total_checklists": 119,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.5,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.5,
+        "summer": 0.2182,
+        "fall": 0.4,
+        "winter": 0.6667
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.5,
+        "4": 0.7778,
+        "5": 0.3333,
+        "6": 0.2258,
+        "7": 0.2083,
+        "9": 0.75,
+        "10": 0.4,
+        "11": 0.2222,
+        "12": 1.0
+      }
+    },
+    {
+      "rank": 30,
+      "locality_id": "L2194405",
+      "name": "Birge Nature Preserve--Loon Lake Trail",
+      "coordinates": {
+        "latitude": 46.00144,
+        "longitude": -84.47449
+      },
+      "occurrence": {
+        "rate": 0.3415,
+        "lift": 0.55,
+        "detection_count": 14,
+        "total_checklists": 41,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.1667,
+        "summer": 0.5238,
+        "fall": 0.2
+      },
+      "monthly": {
+        "2": 0.0,
+        "5": 0.1667,
+        "6": 0.5882,
+        "7": 0.25,
+        "9": 0.2857
+      }
+    },
+    {
+      "rank": 31,
+      "locality_id": "L2699232",
+      "name": "Brevoort Lake",
+      "coordinates": {
+        "latitude": 45.9944573,
+        "longitude": -84.8857355
+      },
+      "occurrence": {
+        "rate": 0.3214,
+        "lift": 0.52,
+        "detection_count": 9,
+        "total_checklists": 28,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 12
+      },
+      "seasonal": {
+        "spring": 0.0909,
+        "summer": 0.5455,
+        "fall": 0.3333
+      },
+      "monthly": {
+        "4": 0.0,
+        "6": 0.625,
+        "7": 0.3333,
+        "8": 0.3333,
+        "11": 0.3333
+      }
+    },
+    {
+      "rank": 32,
+      "locality_id": "L4570736",
+      "name": "Carp River CG",
+      "coordinates": {
+        "latitude": 46.032588,
+        "longitude": -84.720616
+      },
+      "occurrence": {
+        "rate": 0.3125,
+        "lift": 0.51,
+        "detection_count": 5,
+        "total_checklists": 16,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.6,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.2,
+        "summer": 0.1667,
+        "fall": 0.6
+      },
+      "monthly": {
+        "5": 0.25,
+        "6": 0.0,
+        "7": 0.3333,
+        "9": 0.5
+      }
+    },
+    {
+      "rank": 33,
+      "locality_id": "L26737135",
+      "name": "Round Lake",
+      "coordinates": {
+        "latitude": 45.9612756,
+        "longitude": -84.8710053
+      },
+      "occurrence": {
+        "rate": 0.3077,
+        "lift": 0.5,
+        "detection_count": 4,
+        "total_checklists": 13,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "fall": 0.3636
+      },
+      "monthly": {
+        "9": 0.0,
+        "10": 0.6667
+      }
+    },
+    {
+      "rank": 34,
+      "locality_id": "L9084416",
+      "name": "Hog Island SF CG",
+      "coordinates": {
+        "latitude": 46.0812182,
+        "longitude": -85.3071266
+      },
+      "occurrence": {
+        "rate": 0.3061,
+        "lift": 0.5,
+        "detection_count": 15,
+        "total_checklists": 49,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.5,
+        "max_count": 13
+      },
+      "seasonal": {
+        "spring": 0.5,
+        "summer": 0.1923,
+        "fall": 0.3636
+      },
+      "monthly": {
+        "5": 0.4,
+        "6": 0.2,
+        "7": 0.1818,
+        "8": 0.2857,
+        "9": 0.6667
+      }
+    },
+    {
+      "rank": 35,
+      "locality_id": "L3813691",
+      "name": "Brevoort Lake CG",
+      "coordinates": {
+        "latitude": 46.0099735,
+        "longitude": -84.9705523
+      },
+      "occurrence": {
+        "rate": 0.2857,
+        "lift": 0.46,
+        "detection_count": 22,
+        "total_checklists": 77,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.9,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.6,
+        "summer": 0.1935,
+        "fall": 0.2778
+      },
+      "monthly": {
+        "5": 0.6,
+        "6": 0.2778,
+        "7": 0.0769,
+        "8": 0.25,
+        "9": 0.5,
+        "10": 0.1667
+      }
+    },
+    {
+      "rank": 36,
+      "locality_id": "L31730500",
+      "name": "Bush Bay Trail",
+      "coordinates": {
+        "latitude": 45.9911733,
+        "longitude": -84.2676688
+      },
+      "occurrence": {
+        "rate": 0.2791,
+        "lift": 0.45,
+        "detection_count": 12,
+        "total_checklists": 43,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.4615,
+        "summer": 0.1875,
+        "fall": 0.1538
+      },
+      "monthly": {
+        "5": 0.4167,
+        "6": 0.2308,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 37,
+      "locality_id": "L930948",
+      "name": "Sand Dunes Cross Country Ski Trail",
+      "coordinates": {
+        "latitude": 45.9327665,
+        "longitude": -84.8984814
+      },
+      "occurrence": {
+        "rate": 0.2632,
+        "lift": 0.43,
+        "detection_count": 5,
+        "total_checklists": 19,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.125,
+        "fall": 0.1667
+      },
+      "monthly": {
+        "4": 0.25,
+        "5": 0.0
+      }
+    },
+    {
+      "rank": 38,
+      "locality_id": "L4801090",
+      "name": "Carl A. Gerstacker Nature Preserve",
+      "coordinates": {
+        "latitude": 45.9838274,
+        "longitude": -84.1289234
+      },
+      "occurrence": {
+        "rate": 0.2371,
+        "lift": 0.38,
+        "detection_count": 23,
+        "total_checklists": 97,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.3,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.1875,
+        "summer": 0.3333,
+        "fall": 0.125,
+        "winter": 0.4
+      },
+      "monthly": {
+        "5": 0.1935,
+        "6": 0.3125,
+        "7": 0.5,
+        "8": 0.1667,
+        "9": 0.1429,
+        "10": 0.0,
+        "12": 0.6667
+      }
+    },
+    {
+      "rank": 39,
+      "locality_id": "L20751872",
+      "name": "Naubinway Rest Area",
+      "coordinates": {
+        "latitude": 46.095318,
+        "longitude": -85.392017
+      },
+      "occurrence": {
+        "rate": 0.2121,
+        "lift": 0.34,
+        "detection_count": 7,
+        "total_checklists": 33,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.6,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.3,
+        "summer": 0.1579
+      },
+      "monthly": {
+        "5": 0.3333,
+        "6": 0.1875,
+        "7": 0.0,
+        "11": 0.3333
+      }
+    },
+    {
+      "rank": 40,
+      "locality_id": "L20538727",
+      "name": "Cut River Bridge Roadside Park",
+      "coordinates": {
+        "latitude": 46.0437942,
+        "longitude": -85.1225234
+      },
+      "occurrence": {
+        "rate": 0.1957,
+        "lift": 0.32,
+        "detection_count": 9,
+        "total_checklists": 46,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.25,
+        "summer": 0.1905,
+        "fall": 0.1667
+      },
+      "monthly": {
+        "4": 0.3333,
+        "5": 0.2222,
+        "6": 0.2667,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.2,
+        "10": 0.25
+      }
+    },
+    {
+      "rank": 41,
+      "locality_id": "L9671208",
+      "name": "Lake Michigan CG",
+      "coordinates": {
+        "latitude": 45.9859083,
+        "longitude": -84.9725015
+      },
+      "occurrence": {
+        "rate": 0.1515,
+        "lift": 0.25,
+        "detection_count": 5,
+        "total_checklists": 33,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0526,
+        "fall": 0.5714
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.125,
+        "8": 1.0,
+        "9": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.803056Z",
+    "data_version": "Dec-2025"
+  }
+}

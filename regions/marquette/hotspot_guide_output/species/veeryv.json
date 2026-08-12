@@ -1,0 +1,1507 @@
+{
+  "species": {
+    "common_name": "Veery",
+    "code": "veeryv",
+    "scientific_name": "Catharus fuscescens"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0325,
+    "total_detections": 591,
+    "total_checklists_with_species": 608,
+    "total_checklists_countywide": 18703,
+    "hotspots_detected": 50
+  },
+  "summary": {
+    "total_hotspots_detected": 43,
+    "total_detections": 591,
+    "highest_occurrence_rate": 0.7757
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1110707",
+      "name": "Kate's Grade",
+      "coordinates": {
+        "latitude": 46.1851119,
+        "longitude": -87.5687599
+      },
+      "occurrence": {
+        "rate": 0.7757,
+        "lift": 23.86,
+        "detection_count": 83,
+        "total_checklists": 107,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 6.1,
+        "max_count": 18
+      },
+      "seasonal": {
+        "spring": 0.3333,
+        "summer": 0.8602
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.6,
+        "6": 0.8734,
+        "7": 0.7857
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L24263017",
+      "name": "Vielmetti-Peters Reserve",
+      "coordinates": {
+        "latitude": 46.5518072,
+        "longitude": -87.489152
+      },
+      "occurrence": {
+        "rate": 0.5333,
+        "lift": 16.41,
+        "detection_count": 16,
+        "total_checklists": 30,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.2,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.2727,
+        "summer": 0.9286
+      },
+      "monthly": {
+        "5": 0.3,
+        "6": 1.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L5937094",
+      "name": "County Rd. 438",
+      "coordinates": {
+        "latitude": 46.1872383,
+        "longitude": -87.5358629
+      },
+      "occurrence": {
+        "rate": 0.3864,
+        "lift": 11.89,
+        "detection_count": 17,
+        "total_checklists": 44,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.1,
+        "max_count": 6
+      },
+      "seasonal": {
+        "summer": 0.4474
+      },
+      "monthly": {
+        "2": 0.0,
+        "6": 0.4706,
+        "7": 0.25
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L23371104",
+      "name": "County Road 478",
+      "coordinates": {
+        "latitude": 46.433735,
+        "longitude": -87.948205
+      },
+      "occurrence": {
+        "rate": 0.3617,
+        "lift": 11.13,
+        "detection_count": 17,
+        "total_checklists": 47,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.6,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 1.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0,
+        "6": 1.0,
+        "7": 1.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L16925397",
+      "name": "Republic",
+      "coordinates": {
+        "latitude": 46.4059821,
+        "longitude": -87.9799095
+      },
+      "occurrence": {
+        "rate": 0.3158,
+        "lift": 9.71,
+        "detection_count": 6,
+        "total_checklists": 19,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 2
+      },
+      "seasonal": {
+        "summer": 0.625
+      },
+      "monthly": {
+        "4": 0.0,
+        "6": 0.7143,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L3841406",
+      "name": "Yellow Dog River Falls Trail",
+      "coordinates": {
+        "latitude": 46.7273303,
+        "longitude": -87.7143288
+      },
+      "occurrence": {
+        "rate": 0.3143,
+        "lift": 9.67,
+        "detection_count": 11,
+        "total_checklists": 35,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.5789,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.8889,
+        "7": 0.3,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L4127426",
+      "name": "Clowry Truck Trail",
+      "coordinates": {
+        "latitude": 46.5231619,
+        "longitude": -87.8962269
+      },
+      "occurrence": {
+        "rate": 0.2812,
+        "lift": 8.65,
+        "detection_count": 18,
+        "total_checklists": 64,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.8,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.5294,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.5789,
+        "7": 0.4667,
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L4138186",
+      "name": "Negaunee",
+      "coordinates": {
+        "latitude": 46.5127467,
+        "longitude": -87.6086868
+      },
+      "occurrence": {
+        "rate": 0.2712,
+        "lift": 8.34,
+        "detection_count": 16,
+        "total_checklists": 59,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.7,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.2917,
+        "summer": 0.5294,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.3889,
+        "6": 0.6,
+        "7": 0.4286,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L24303555",
+      "name": "Jackson Mine Park",
+      "coordinates": {
+        "latitude": 46.4998502,
+        "longitude": -87.6139718
+      },
+      "occurrence": {
+        "rate": 0.2333,
+        "lift": 7.18,
+        "detection_count": 7,
+        "total_checklists": 30,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.4,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.2353,
+        "summer": 0.2222
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.3636,
+        "6": 0.2857
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L16758353",
+      "name": "Burns Landing Historical Park",
+      "coordinates": {
+        "latitude": 46.8273842,
+        "longitude": -87.7293974
+      },
+      "occurrence": {
+        "rate": 0.2059,
+        "lift": 6.33,
+        "detection_count": 7,
+        "total_checklists": 34,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.4,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.3077,
+        "summer": 0.2
+      },
+      "monthly": {
+        "5": 0.3636,
+        "6": 0.1818,
+        "7": 0.25
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L12791363",
+      "name": "Mt. Marquette Loop/Cliff Power Rd.",
+      "coordinates": {
+        "latitude": 46.511344,
+        "longitude": -87.390651
+      },
+      "occurrence": {
+        "rate": 0.2045,
+        "lift": 6.29,
+        "detection_count": 9,
+        "total_checklists": 44,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.9,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.1905,
+        "summer": 0.4167,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.25,
+        "6": 0.4,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L385151",
+      "name": "Peshekee Grade",
+      "coordinates": {
+        "latitude": 46.542198,
+        "longitude": -88.0017864
+      },
+      "occurrence": {
+        "rate": 0.1612,
+        "lift": 4.96,
+        "detection_count": 168,
+        "total_checklists": 1042,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.1,
+        "max_count": 15
+      },
+      "seasonal": {
+        "spring": 0.0516,
+        "summer": 0.6847,
+        "fall": 0.0204,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.2,
+        "6": 0.777,
+        "7": 0.5,
+        "8": 0.0556,
+        "9": 0.0,
+        "10": 0.0345,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 13,
+      "locality_id": "L1649173",
+      "name": "McCormick Wilderness--White Deer Lake Trail",
+      "coordinates": {
+        "latitude": 46.6494141,
+        "longitude": -88.0409156
+      },
+      "occurrence": {
+        "rate": 0.16,
+        "lift": 4.92,
+        "detection_count": 68,
+        "total_checklists": 425,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.1,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.0282,
+        "summer": 0.5641,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0952,
+        "6": 0.6,
+        "7": 0.4865,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 14,
+      "locality_id": "L11770493",
+      "name": "Old Ishpeming Landfill",
+      "coordinates": {
+        "latitude": 46.4942909,
+        "longitude": -87.6429226
+      },
+      "occurrence": {
+        "rate": 0.137,
+        "lift": 4.21,
+        "detection_count": 10,
+        "total_checklists": 73,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.4,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.0455,
+        "summer": 0.4091,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.1667,
+        "6": 0.0,
+        "7": 0.4737,
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 15,
+      "locality_id": "L11305249",
+      "name": "Republic Wetlands Preserve",
+      "coordinates": {
+        "latitude": 46.3511405,
+        "longitude": -87.9388675
+      },
+      "occurrence": {
+        "rate": 0.1333,
+        "lift": 4.1,
+        "detection_count": 2,
+        "total_checklists": 15,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.1667,
+        "summer": 0.1667
+      },
+      "monthly": {
+        "5": 0.25,
+        "6": 0.25
+      }
+    },
+    {
+      "rank": 16,
+      "locality_id": "L4564090",
+      "name": "Forestville",
+      "coordinates": {
+        "latitude": 46.5741433,
+        "longitude": -87.4703628
+      },
+      "occurrence": {
+        "rate": 0.0833,
+        "lift": 2.56,
+        "detection_count": 5,
+        "total_checklists": 60,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.4,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0385,
+        "summer": 0.3,
+        "fall": 0.0714,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.125,
+        "6": 0.25,
+        "7": 0.3333,
+        "8": 0.0,
+        "9": 0.2,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 17,
+      "locality_id": "L3594712",
+      "name": "Echo Lake Nature Preserve",
+      "coordinates": {
+        "latitude": 46.6428699,
+        "longitude": -87.5384054
+      },
+      "occurrence": {
+        "rate": 0.082,
+        "lift": 2.52,
+        "detection_count": 5,
+        "total_checklists": 61,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0667,
+        "summer": 0.08,
+        "fall": 0.1053
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0909,
+        "6": 0.0667,
+        "7": 0.1,
+        "8": 0.0,
+        "9": 0.5,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 18,
+      "locality_id": "L6377086",
+      "name": "Yellow Dog Plains",
+      "coordinates": {
+        "latitude": 46.7477179,
+        "longitude": -87.8985633
+      },
+      "occurrence": {
+        "rate": 0.0769,
+        "lift": 2.37,
+        "detection_count": 1,
+        "total_checklists": 13,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "fall": 0.0
+      },
+      "monthly": {
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 19,
+      "locality_id": "L4657240",
+      "name": "Noquemanon South Trails",
+      "coordinates": {
+        "latitude": 46.5138342,
+        "longitude": -87.4123456
+      },
+      "occurrence": {
+        "rate": 0.0741,
+        "lift": 2.28,
+        "detection_count": 4,
+        "total_checklists": 54,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.1333,
+        "summer": 0.2222,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.2857,
+        "6": 0.2,
+        "7": 0.25,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 20,
+      "locality_id": "L4942720",
+      "name": "Lake Independence",
+      "coordinates": {
+        "latitude": 46.8074033,
+        "longitude": -87.709136
+      },
+      "occurrence": {
+        "rate": 0.0635,
+        "lift": 1.95,
+        "detection_count": 4,
+        "total_checklists": 63,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0526,
+        "summer": 0.2143,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0769,
+        "7": 0.25,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 21,
+      "locality_id": "L3444399",
+      "name": "Wolf Lake Rd.",
+      "coordinates": {
+        "latitude": 46.527247,
+        "longitude": -87.8674078
+      },
+      "occurrence": {
+        "rate": 0.0612,
+        "lift": 1.88,
+        "detection_count": 3,
+        "total_checklists": 49,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.2727,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.1429,
+        "7": 0.5,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 22,
+      "locality_id": "L4623793",
+      "name": "Sand River Flooding",
+      "coordinates": {
+        "latitude": 46.484623,
+        "longitude": -87.1244301
+      },
+      "occurrence": {
+        "rate": 0.0588,
+        "lift": 1.81,
+        "detection_count": 2,
+        "total_checklists": 34,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.1111,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.1429,
+        "6": 0.0,
+        "7": 0.0
+      }
+    },
+    {
+      "rank": 23,
+      "locality_id": "L2520129",
+      "name": "Little Garlic Balds Preserve",
+      "coordinates": {
+        "latitude": 46.668731,
+        "longitude": -87.565829
+      },
+      "occurrence": {
+        "rate": 0.0526,
+        "lift": 1.62,
+        "detection_count": 1,
+        "total_checklists": 19,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "5": 0.0
+      }
+    },
+    {
+      "rank": 24,
+      "locality_id": "L12783592",
+      "name": "Carp River mouth",
+      "coordinates": {
+        "latitude": 46.5185378,
+        "longitude": -87.384324
+      },
+      "occurrence": {
+        "rate": 0.0488,
+        "lift": 1.5,
+        "detection_count": 2,
+        "total_checklists": 41,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.1,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.25,
+        "6": 0.3333,
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 25,
+      "locality_id": "L3839812",
+      "name": "Thomas Rock Trail",
+      "coordinates": {
+        "latitude": 46.7840904,
+        "longitude": -87.7288663
+      },
+      "occurrence": {
+        "rate": 0.0465,
+        "lift": 1.43,
+        "detection_count": 2,
+        "total_checklists": 43,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0769,
+        "summer": 0.0833,
+        "fall": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "4": 0.0,
+        "5": 0.2,
+        "6": 0.0,
+        "7": 0.3333,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 26,
+      "locality_id": "L11697170",
+      "name": "Greenwood Reservoir",
+      "coordinates": {
+        "latitude": 46.440773,
+        "longitude": -87.824136
+      },
+      "occurrence": {
+        "rate": 0.0417,
+        "lift": 1.28,
+        "detection_count": 1,
+        "total_checklists": 24,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "summer": 0.1,
+        "fall": 0.0
+      },
+      "monthly": {
+        "6": 0.2,
+        "7": 0.0,
+        "9": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 27,
+      "locality_id": "L3750716",
+      "name": "Van Riper SP",
+      "coordinates": {
+        "latitude": 46.5212676,
+        "longitude": -87.9890299
+      },
+      "occurrence": {
+        "rate": 0.0392,
+        "lift": 1.21,
+        "detection_count": 8,
+        "total_checklists": 204,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.087,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.1077,
+        "7": 0.037,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 28,
+      "locality_id": "L355347",
+      "name": "Harlow Lake",
+      "coordinates": {
+        "latitude": 46.622547,
+        "longitude": -87.484478
+      },
+      "occurrence": {
+        "rate": 0.0262,
+        "lift": 0.81,
+        "detection_count": 5,
+        "total_checklists": 191,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 0.8,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.2381,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.1875,
+        "7": 0.4,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 29,
+      "locality_id": "L15104172",
+      "name": "Beaver Grove RA",
+      "coordinates": {
+        "latitude": 46.4653467,
+        "longitude": -87.3205175
+      },
+      "occurrence": {
+        "rate": 0.0222,
+        "lift": 0.68,
+        "detection_count": 1,
+        "total_checklists": 45,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.1429
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.1667,
+        "10": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 30,
+      "locality_id": "L3321251",
+      "name": "Sugarloaf Mountain",
+      "coordinates": {
+        "latitude": 46.604556,
+        "longitude": -87.4552462
+      },
+      "occurrence": {
+        "rate": 0.0216,
+        "lift": 0.67,
+        "detection_count": 4,
+        "total_checklists": 185,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0556,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.1026,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 31,
+      "locality_id": "L2114693",
+      "name": "Chocolay River--Bayou St.",
+      "coordinates": {
+        "latitude": 46.5013759,
+        "longitude": -87.3561466
+      },
+      "occurrence": {
+        "rate": 0.0198,
+        "lift": 0.61,
+        "detection_count": 2,
+        "total_checklists": 101,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.013,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.125,
+        "6": 0.25,
+        "9": 0.0,
+        "10": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 32,
+      "locality_id": "L17999624",
+      "name": "Tourist Park North Trails",
+      "coordinates": {
+        "latitude": 46.572257,
+        "longitude": -87.414435
+      },
+      "occurrence": {
+        "rate": 0.0189,
+        "lift": 0.58,
+        "detection_count": 2,
+        "total_checklists": 106,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.5,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.0179,
+        "summer": 0.1429,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0909,
+        "6": 0.2,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 33,
+      "locality_id": "L18829104",
+      "name": "Bridgewood Ln.",
+      "coordinates": {
+        "latitude": 46.5599324,
+        "longitude": -87.5430098
+      },
+      "occurrence": {
+        "rate": 0.0172,
+        "lift": 0.53,
+        "detection_count": 1,
+        "total_checklists": 58,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 34,
+      "locality_id": "L888959",
+      "name": "Presque Isle Park",
+      "coordinates": {
+        "latitude": 46.5857658,
+        "longitude": -87.3825073
+      },
+      "occurrence": {
+        "rate": 0.0171,
+        "lift": 0.53,
+        "detection_count": 68,
+        "total_checklists": 3970,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.4,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.0335,
+        "summer": 0.0094,
+        "fall": 0.01,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0579,
+        "6": 0.0035,
+        "7": 0.0219,
+        "8": 0.0119,
+        "9": 0.0179,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 35,
+      "locality_id": "L4508139",
+      "name": "Swanzy Plains",
+      "coordinates": {
+        "latitude": 46.3049629,
+        "longitude": -87.383709
+      },
+      "occurrence": {
+        "rate": 0.017,
+        "lift": 0.52,
+        "detection_count": 3,
+        "total_checklists": 176,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 6.3,
+        "max_count": 9
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0254,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0337,
+        "7": 0.0,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 36,
+      "locality_id": "L3499391",
+      "name": "Compeau Creek Gravel Pits",
+      "coordinates": {
+        "latitude": 46.5891871,
+        "longitude": -87.4532747
+      },
+      "occurrence": {
+        "rate": 0.007,
+        "lift": 0.22,
+        "detection_count": 1,
+        "total_checklists": 142,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0526,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.125,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 37,
+      "locality_id": "L355353",
+      "name": "Marquette--Park Cemetery",
+      "coordinates": {
+        "latitude": 46.5493963,
+        "longitude": -87.4080681
+      },
+      "occurrence": {
+        "rate": 0.0055,
+        "lift": 0.17,
+        "detection_count": 1,
+        "total_checklists": 183,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": null,
+        "max_count": null
+      },
+      "seasonal": {
+        "spring": 0.0127,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.05,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 38,
+      "locality_id": "L3984326",
+      "name": "Island Beach Rd.",
+      "coordinates": {
+        "latitude": 46.5840184,
+        "longitude": -87.3983579
+      },
+      "occurrence": {
+        "rate": 0.0048,
+        "lift": 0.15,
+        "detection_count": 1,
+        "total_checklists": 207,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": null,
+        "max_count": null
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 39,
+      "locality_id": "L2749955",
+      "name": "Dead River--Granite Ave. access",
+      "coordinates": {
+        "latitude": 46.567657,
+        "longitude": -87.4289149
+      },
+      "occurrence": {
+        "rate": 0.0044,
+        "lift": 0.14,
+        "detection_count": 2,
+        "total_checklists": 455,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0039,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0526,
+        "8": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 40,
+      "locality_id": "L7358519",
+      "name": "Chocolay Bayou Nature Preserve",
+      "coordinates": {
+        "latitude": 46.4992083,
+        "longitude": -87.355763
+      },
+      "occurrence": {
+        "rate": 0.0035,
+        "lift": 0.11,
+        "detection_count": 1,
+        "total_checklists": 286,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0067,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0141,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 41,
+      "locality_id": "L1164477",
+      "name": "Gwinn Sewage Ponds",
+      "coordinates": {
+        "latitude": 46.2675962,
+        "longitude": -87.4394989
+      },
+      "occurrence": {
+        "rate": 0.0034,
+        "lift": 0.11,
+        "detection_count": 2,
+        "total_checklists": 581,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0061,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.009,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 42,
+      "locality_id": "L3582679",
+      "name": "Dead River marshes",
+      "coordinates": {
+        "latitude": 46.5767103,
+        "longitude": -87.4009609
+      },
+      "occurrence": {
+        "rate": 0.0016,
+        "lift": 0.05,
+        "detection_count": 3,
+        "total_checklists": 1880,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0011,
+        "summer": 0.0,
+        "fall": 0.0034,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0036,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0139,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 43,
+      "locality_id": "L2130407",
+      "name": "Founder's Landing",
+      "coordinates": {
+        "latitude": 46.5372407,
+        "longitude": -87.393558
+      },
+      "occurrence": {
+        "rate": 0.0013,
+        "lift": 0.04,
+        "detection_count": 1,
+        "total_checklists": 790,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.004,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0141,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:23.838341Z",
+    "data_version": "Dec-2025"
+  }
+}

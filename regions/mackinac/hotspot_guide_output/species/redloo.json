@@ -1,0 +1,103 @@
+{
+  "species": {
+    "common_name": "Red-throated Loon",
+    "code": "redloo",
+    "scientific_name": "Gavia stellata"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0191,
+    "total_detections": 168,
+    "total_checklists_with_species": 168,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 168,
+    "highest_occurrence_rate": 0.1145
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L12132844",
+      "name": "Graham Point",
+      "coordinates": {
+        "latitude": 45.8493661,
+        "longitude": -84.705258
+      },
+      "occurrence": {
+        "rate": 0.1145,
+        "lift": 5.99,
+        "detection_count": 104,
+        "total_checklists": 908,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.3,
+        "max_count": 13
+      },
+      "seasonal": {
+        "spring": 0.0821,
+        "fall": 0.139,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0161,
+        "4": 0.0645,
+        "5": 0.1149,
+        "6": 0.0,
+        "8": 0.0714,
+        "9": 0.2071,
+        "10": 0.138,
+        "11": 0.0492,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L657101",
+      "name": "Pointe LaBarbe",
+      "coordinates": {
+        "latitude": 45.8421945,
+        "longitude": -84.7567749
+      },
+      "occurrence": {
+        "rate": 0.0235,
+        "lift": 1.23,
+        "detection_count": 64,
+        "total_checklists": 2726,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 12
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0373,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0517,
+        "10": 0.0547,
+        "11": 0.0037,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.905083Z",
+    "data_version": "Dec-2025"
+  }
+}

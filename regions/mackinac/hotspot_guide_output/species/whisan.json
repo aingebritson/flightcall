@@ -1,0 +1,162 @@
+{
+  "species": {
+    "common_name": "White-rumped Sandpiper",
+    "code": "whisan",
+    "scientific_name": "Calidris fuscicollis"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0014,
+    "total_detections": 12,
+    "total_checklists_with_species": 12,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 4
+  },
+  "summary": {
+    "total_hotspots_detected": 4,
+    "total_detections": 12,
+    "highest_occurrence_rate": 0.1538
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L26737135",
+      "name": "Round Lake",
+      "coordinates": {
+        "latitude": 45.9612756,
+        "longitude": -84.8710053
+      },
+      "occurrence": {
+        "rate": 0.1538,
+        "lift": 112.58,
+        "detection_count": 2,
+        "total_checklists": 13,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "fall": 0.1818
+      },
+      "monthly": {
+        "9": 0.6667,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L20751872",
+      "name": "Naubinway Rest Area",
+      "coordinates": {
+        "latitude": 46.095318,
+        "longitude": -85.392017
+      },
+      "occurrence": {
+        "rate": 0.0303,
+        "lift": 22.17,
+        "detection_count": 1,
+        "total_checklists": 33,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": null,
+        "max_count": null
+      },
+      "seasonal": {
+        "spring": 0.1,
+        "summer": 0.0
+      },
+      "monthly": {
+        "5": 0.1111,
+        "6": 0.0,
+        "7": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L657101",
+      "name": "Pointe LaBarbe",
+      "coordinates": {
+        "latitude": 45.8421945,
+        "longitude": -84.7567749
+      },
+      "occurrence": {
+        "rate": 0.0029,
+        "lift": 2.15,
+        "detection_count": 8,
+        "total_checklists": 2726,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0084,
+        "summer": 0.0058,
+        "fall": 0.0006,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.011,
+        "6": 0.0091,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0016,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L773674",
+      "name": "Mackinac Island",
+      "coordinates": {
+        "latitude": 45.8613249,
+        "longitude": -84.6221924
+      },
+      "occurrence": {
+        "rate": 0.0007,
+        "lift": 0.52,
+        "detection_count": 1,
+        "total_checklists": 1416,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0017,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0028,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.835890Z",
+    "data_version": "Dec-2025"
+  }
+}

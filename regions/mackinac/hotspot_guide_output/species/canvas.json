@@ -1,0 +1,249 @@
+{
+  "species": {
+    "common_name": "Canvasback",
+    "code": "canvas",
+    "scientific_name": "Aythya valisineria"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0269,
+    "total_detections": 236,
+    "total_checklists_with_species": 236,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 6
+  },
+  "summary": {
+    "total_hotspots_detected": 6,
+    "total_detections": 236,
+    "highest_occurrence_rate": 0.0664
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L657101",
+      "name": "Pointe LaBarbe",
+      "coordinates": {
+        "latitude": 45.8421945,
+        "longitude": -84.7567749
+      },
+      "occurrence": {
+        "rate": 0.0664,
+        "lift": 2.47,
+        "detection_count": 181,
+        "total_checklists": 2726,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.3,
+        "max_count": 16
+      },
+      "seasonal": {
+        "spring": 0.2,
+        "summer": 0.0497,
+        "fall": 0.0257,
+        "winter": 0.0135
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.3063,
+        "5": 0.1876,
+        "6": 0.0773,
+        "7": 0.0,
+        "8": 0.0492,
+        "9": 0.0285,
+        "10": 0.0177,
+        "11": 0.0149,
+        "12": 0.0238
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L12132844",
+      "name": "Graham Point",
+      "coordinates": {
+        "latitude": 45.8493661,
+        "longitude": -84.705258
+      },
+      "occurrence": {
+        "rate": 0.0419,
+        "lift": 1.56,
+        "detection_count": 38,
+        "total_checklists": 908,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.1,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0669,
+        "fall": 0.0289,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0484,
+        "4": 0.172,
+        "5": 0.0172,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0143,
+        "10": 0.0337,
+        "11": 0.0656,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L5111263",
+      "name": "Bridge View Park",
+      "coordinates": {
+        "latitude": 45.8471371,
+        "longitude": -84.7259143
+      },
+      "occurrence": {
+        "rate": 0.0317,
+        "lift": 1.18,
+        "detection_count": 13,
+        "total_checklists": 410,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.1,
+        "max_count": 9
+      },
+      "seasonal": {
+        "spring": 0.0854,
+        "summer": 0.0,
+        "fall": 0.0238,
+        "winter": 0.069
+      },
+      "monthly": {
+        "1": 0.1053,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.1296,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0612,
+        "11": 0.0435,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L9671208",
+      "name": "Lake Michigan CG",
+      "coordinates": {
+        "latitude": 45.9859083,
+        "longitude": -84.9725015
+      },
+      "occurrence": {
+        "rate": 0.0303,
+        "lift": 1.13,
+        "detection_count": 1,
+        "total_checklists": 33,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 6.0,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.1429,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L1542457",
+      "name": "Carp River Rd. Fishing Access",
+      "coordinates": {
+        "latitude": 46.0238982,
+        "longitude": -84.6939652
+      },
+      "occurrence": {
+        "rate": 0.0067,
+        "lift": 0.25,
+        "detection_count": 1,
+        "total_checklists": 150,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0143,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.1667,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L773674",
+      "name": "Mackinac Island",
+      "coordinates": {
+        "latitude": 45.8613249,
+        "longitude": -84.6221924
+      },
+      "occurrence": {
+        "rate": 0.0014,
+        "lift": 0.05,
+        "detection_count": 2,
+        "total_checklists": 1416,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 0.5,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.004,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0142,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.877175Z",
+    "data_version": "Dec-2025"
+  }
+}

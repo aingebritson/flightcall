@@ -1,0 +1,467 @@
+{
+  "species": {
+    "common_name": "House Sparrow",
+    "code": "houspa",
+    "scientific_name": "Passer domesticus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0807,
+    "total_detections": 709,
+    "total_checklists_with_species": 709,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 12
+  },
+  "summary": {
+    "total_hotspots_detected": 12,
+    "total_detections": 709,
+    "highest_occurrence_rate": 0.3291
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L773674",
+      "name": "Mackinac Island",
+      "coordinates": {
+        "latitude": 45.8613249,
+        "longitude": -84.6221924
+      },
+      "occurrence": {
+        "rate": 0.3291,
+        "lift": 4.08,
+        "detection_count": 466,
+        "total_checklists": 1416,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.5,
+        "max_count": 60
+      },
+      "seasonal": {
+        "spring": 0.2628,
+        "summer": 0.3987,
+        "fall": 0.2628,
+        "winter": 0.5897
+      },
+      "monthly": {
+        "1": 0.6667,
+        "2": 0.3846,
+        "3": 0.4,
+        "4": 0.2143,
+        "5": 0.2692,
+        "6": 0.3418,
+        "7": 0.4815,
+        "8": 0.2955,
+        "9": 0.1844,
+        "10": 0.3143,
+        "11": 0.0769,
+        "12": 0.7273
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L10664869",
+      "name": "Engadine Loop",
+      "coordinates": {
+        "latitude": 46.1617958,
+        "longitude": -85.5713815
+      },
+      "occurrence": {
+        "rate": 0.1919,
+        "lift": 2.38,
+        "detection_count": 19,
+        "total_checklists": 99,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.5,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.1739,
+        "summer": 0.2727,
+        "winter": 0.1667
+      },
+      "monthly": {
+        "2": 0.25,
+        "3": 0.0,
+        "4": 0.4167,
+        "5": 0.1296,
+        "6": 0.2222,
+        "7": 0.3077
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L7709064",
+      "name": "St. Ignace Boardwalk/Wawatam Lighthouse",
+      "coordinates": {
+        "latitude": 45.865572,
+        "longitude": -84.71682
+      },
+      "occurrence": {
+        "rate": 0.1773,
+        "lift": 2.2,
+        "detection_count": 36,
+        "total_checklists": 203,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.7,
+        "max_count": 25
+      },
+      "seasonal": {
+        "spring": 0.25,
+        "summer": 0.2742,
+        "fall": 0.1169,
+        "winter": 0.0833
+      },
+      "monthly": {
+        "1": 0.0833,
+        "2": 0.0,
+        "3": 0.5,
+        "4": 0.2,
+        "5": 0.2143,
+        "6": 0.3429,
+        "7": 0.1852,
+        "8": 0.1818,
+        "9": 0.0455,
+        "10": 0.125,
+        "11": 0.0,
+        "12": 0.3333
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L12132844",
+      "name": "Graham Point",
+      "coordinates": {
+        "latitude": 45.8493661,
+        "longitude": -84.705258
+      },
+      "occurrence": {
+        "rate": 0.1211,
+        "lift": 1.5,
+        "detection_count": 110,
+        "total_checklists": 908,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.3,
+        "max_count": 47
+      },
+      "seasonal": {
+        "spring": 0.1672,
+        "fall": 0.083,
+        "winter": 0.4091
+      },
+      "monthly": {
+        "1": 0.2857,
+        "2": 0.6,
+        "3": 0.1774,
+        "4": 0.1613,
+        "5": 0.1667,
+        "6": 0.0,
+        "8": 0.0357,
+        "9": 0.0714,
+        "10": 0.101,
+        "11": 0.0656,
+        "12": 0.4
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L4278270",
+      "name": "Pickford (Mackinac Co.)",
+      "coordinates": {
+        "latitude": 46.1540652,
+        "longitude": -84.3709135
+      },
+      "occurrence": {
+        "rate": 0.1131,
+        "lift": 1.4,
+        "detection_count": 38,
+        "total_checklists": 336,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.9,
+        "max_count": 55
+      },
+      "seasonal": {
+        "spring": 0.2021,
+        "summer": 0.0667,
+        "fall": 0.2,
+        "winter": 0.0737
+      },
+      "monthly": {
+        "1": 0.0357,
+        "2": 0.0847,
+        "3": 0.3333,
+        "4": 0.0476,
+        "5": 0.3158,
+        "6": 0.0769,
+        "11": 0.2857,
+        "12": 0.2
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L9491611",
+      "name": "Beavertail Point",
+      "coordinates": {
+        "latitude": 45.9672318,
+        "longitude": -84.1716363
+      },
+      "occurrence": {
+        "rate": 0.08,
+        "lift": 0.99,
+        "detection_count": 2,
+        "total_checklists": 25,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.1667,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "5": 0.25,
+        "6": 0.25,
+        "10": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L3694203",
+      "name": "St. Ignace City Park Dock #3",
+      "coordinates": {
+        "latitude": 45.8540565,
+        "longitude": -84.7022496
+      },
+      "occurrence": {
+        "rate": 0.0559,
+        "lift": 0.69,
+        "detection_count": 8,
+        "total_checklists": 143,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.9,
+        "max_count": 12
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.2941,
+        "fall": 0.0811,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.2,
+        "7": 0.4286,
+        "8": 0.25,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.1429,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L2699232",
+      "name": "Brevoort Lake",
+      "coordinates": {
+        "latitude": 45.9944573,
+        "longitude": -84.8857355
+      },
+      "occurrence": {
+        "rate": 0.0357,
+        "lift": 0.44,
+        "detection_count": 1,
+        "total_checklists": 28,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": null,
+        "max_count": null
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0909,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.3333,
+        "8": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L5111263",
+      "name": "Bridge View Park",
+      "coordinates": {
+        "latitude": 45.8471371,
+        "longitude": -84.7259143
+      },
+      "occurrence": {
+        "rate": 0.0244,
+        "lift": 0.3,
+        "detection_count": 10,
+        "total_checklists": 410,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0244,
+        "summer": 0.0534,
+        "fall": 0.006,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.037,
+        "6": 0.033,
+        "7": 0.1,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0204,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L4851032",
+      "name": "Pointe aux Chenes",
+      "coordinates": {
+        "latitude": 45.9239204,
+        "longitude": -84.9092392
+      },
+      "occurrence": {
+        "rate": 0.0206,
+        "lift": 0.26,
+        "detection_count": 2,
+        "total_checklists": 97,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0488,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0571,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L831393",
+      "name": "Straits SP",
+      "coordinates": {
+        "latitude": 45.8533298,
+        "longitude": -84.720329
+      },
+      "occurrence": {
+        "rate": 0.0132,
+        "lift": 0.16,
+        "detection_count": 4,
+        "total_checklists": 302,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0253,
+        "summer": 0.0092,
+        "fall": 0.0093,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0312,
+        "6": 0.0,
+        "7": 0.0172,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.05,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L657101",
+      "name": "Pointe LaBarbe",
+      "coordinates": {
+        "latitude": 45.8421945,
+        "longitude": -84.7567749
+      },
+      "occurrence": {
+        "rate": 0.0048,
+        "lift": 0.06,
+        "detection_count": 13,
+        "total_checklists": 2726,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0017,
+        "summer": 0.0117,
+        "fall": 0.0047,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0022,
+        "6": 0.0091,
+        "7": 0.0164,
+        "8": 0.0076,
+        "9": 0.0036,
+        "10": 0.0064,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.812943Z",
+    "data_version": "Dec-2025"
+  }
+}

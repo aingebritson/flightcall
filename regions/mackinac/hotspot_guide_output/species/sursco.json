@@ -1,0 +1,295 @@
+{
+  "species": {
+    "common_name": "Surf Scoter",
+    "code": "sursco",
+    "scientific_name": "Melanitta perspicillata"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0153,
+    "total_detections": 134,
+    "total_checklists_with_species": 134,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 7
+  },
+  "summary": {
+    "total_hotspots_detected": 7,
+    "total_detections": 134,
+    "highest_occurrence_rate": 0.0738
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L12132844",
+      "name": "Graham Point",
+      "coordinates": {
+        "latitude": 45.8493661,
+        "longitude": -84.705258
+      },
+      "occurrence": {
+        "rate": 0.0738,
+        "lift": 4.84,
+        "detection_count": 67,
+        "total_checklists": 908,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.6,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.0152,
+        "fall": 0.1119,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0161,
+        "4": 0.0108,
+        "5": 0.0172,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0357,
+        "10": 0.1785,
+        "11": 0.0656,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L3694203",
+      "name": "St. Ignace City Park Dock #3",
+      "coordinates": {
+        "latitude": 45.8540565,
+        "longitude": -84.7022496
+      },
+      "occurrence": {
+        "rate": 0.042,
+        "lift": 2.75,
+        "detection_count": 6,
+        "total_checklists": 143,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.2,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0179,
+        "summer": 0.0,
+        "fall": 0.1351,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0455,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.3333,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L1542457",
+      "name": "Carp River Rd. Fishing Access",
+      "coordinates": {
+        "latitude": 46.0238982,
+        "longitude": -84.6939652
+      },
+      "occurrence": {
+        "rate": 0.04,
+        "lift": 2.62,
+        "detection_count": 6,
+        "total_checklists": 150,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.7,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.1277
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.4615,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L5111263",
+      "name": "Bridge View Park",
+      "coordinates": {
+        "latitude": 45.8471371,
+        "longitude": -84.7259143
+      },
+      "occurrence": {
+        "rate": 0.0366,
+        "lift": 2.4,
+        "detection_count": 15,
+        "total_checklists": 410,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.4,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.0244,
+        "summer": 0.0,
+        "fall": 0.0774,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.1053,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0227,
+        "9": 0.0,
+        "10": 0.2449,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L657101",
+      "name": "Pointe LaBarbe",
+      "coordinates": {
+        "latitude": 45.8421945,
+        "longitude": -84.7567749
+      },
+      "occurrence": {
+        "rate": 0.0139,
+        "lift": 0.91,
+        "detection_count": 38,
+        "total_checklists": 2726,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.3,
+        "max_count": 9
+      },
+      "seasonal": {
+        "spring": 0.0017,
+        "summer": 0.0,
+        "fall": 0.0216,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.009,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0089,
+        "10": 0.0482,
+        "11": 0.0075,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L2194367",
+      "name": "Cedarville Wastewater",
+      "coordinates": {
+        "latitude": 46.0201244,
+        "longitude": -84.3785033
+      },
+      "occurrence": {
+        "rate": 0.0049,
+        "lift": 0.32,
+        "detection_count": 1,
+        "total_checklists": 206,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0133,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0192,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L773674",
+      "name": "Mackinac Island",
+      "coordinates": {
+        "latitude": 45.8613249,
+        "longitude": -84.6221924
+      },
+      "occurrence": {
+        "rate": 0.0007,
+        "lift": 0.05,
+        "detection_count": 1,
+        "total_checklists": 1416,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": null,
+        "max_count": null
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.002,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0071,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.895515Z",
+    "data_version": "Dec-2025"
+  }
+}

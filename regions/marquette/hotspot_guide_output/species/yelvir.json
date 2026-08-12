@@ -1,0 +1,57 @@
+{
+  "species": {
+    "common_name": "Yellow-throated Vireo",
+    "code": "yelvir",
+    "scientific_name": "Vireo flavifrons"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0002,
+    "total_detections": 2,
+    "total_checklists_with_species": 3,
+    "total_checklists_countywide": 18703,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 2,
+    "highest_occurrence_rate": 0.0114
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L4508139",
+      "name": "Swanzy Plains",
+      "coordinates": {
+        "latitude": 46.3049629,
+        "longitude": -87.383709
+      },
+      "occurrence": {
+        "rate": 0.0114,
+        "lift": 70.84,
+        "detection_count": 2,
+        "total_checklists": 176,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0169,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0225,
+        "7": 0.0,
+        "8": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:24.025624Z",
+    "data_version": "Dec-2025"
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "species": {
+    "common_name": "Red Crossbill",
+    "code": "redcro",
+    "scientific_name": "Loxia curvirostra"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0036,
+    "total_detections": 32,
+    "total_checklists_with_species": 32,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 7
+  },
+  "summary": {
+    "total_hotspots_detected": 7,
+    "total_detections": 32,
+    "highest_occurrence_rate": 0.04
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L9491611",
+      "name": "Beavertail Point",
+      "coordinates": {
+        "latitude": 45.9672318,
+        "longitude": -84.1716363
+      },
+      "occurrence": {
+        "rate": 0.04,
+        "lift": 10.98,
+        "detection_count": 1,
+        "total_checklists": 25,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "5": 0.0,
+        "6": 0.25,
+        "10": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L4801090",
+      "name": "Carl A. Gerstacker Nature Preserve",
+      "coordinates": {
+        "latitude": 45.9838274,
+        "longitude": -84.1289234
+      },
+      "occurrence": {
+        "rate": 0.0309,
+        "lift": 8.49,
+        "detection_count": 3,
+        "total_checklists": 97,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.3,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0938,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "5": 0.0968,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L3813691",
+      "name": "Brevoort Lake CG",
+      "coordinates": {
+        "latitude": 46.0099735,
+        "longitude": -84.9705523
+      },
+      "occurrence": {
+        "rate": 0.026,
+        "lift": 7.13,
+        "detection_count": 2,
+        "total_checklists": 77,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0556
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.3333
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L3661335",
+      "name": "John Arthur Woollam Preserve",
+      "coordinates": {
+        "latitude": 45.9883748,
+        "longitude": -84.2426223
+      },
+      "occurrence": {
+        "rate": 0.0116,
+        "lift": 3.17,
+        "detection_count": 2,
+        "total_checklists": 173,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0328,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "3": 0.2857,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L657101",
+      "name": "Pointe LaBarbe",
+      "coordinates": {
+        "latitude": 45.8421945,
+        "longitude": -84.7567749
+      },
+      "occurrence": {
+        "rate": 0.007,
+        "lift": 1.91,
+        "detection_count": 19,
+        "total_checklists": 2726,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.3,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0067,
+        "summer": 0.0,
+        "fall": 0.0087,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0088,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0038,
+        "9": 0.0,
+        "10": 0.0113,
+        "11": 0.0261,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L5111263",
+      "name": "Bridge View Park",
+      "coordinates": {
+        "latitude": 45.8471371,
+        "longitude": -84.7259143
+      },
+      "occurrence": {
+        "rate": 0.0049,
+        "lift": 1.34,
+        "detection_count": 2,
+        "total_checklists": 410,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 7.0,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0119,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.087,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L773674",
+      "name": "Mackinac Island",
+      "coordinates": {
+        "latitude": 45.8613249,
+        "longitude": -84.6221924
+      },
+      "occurrence": {
+        "rate": 0.0021,
+        "lift": 0.58,
+        "detection_count": 3,
+        "total_checklists": 1416,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.3,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0059,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0142,
+        "10": 0.0095,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.890206Z",
+    "data_version": "Dec-2025"
+  }
+}

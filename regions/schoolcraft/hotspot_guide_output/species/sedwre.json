@@ -1,0 +1,279 @@
+{
+  "species": {
+    "common_name": "Sedge Wren",
+    "code": "sedwre",
+    "scientific_name": "Cistothorus stellaris"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0663,
+    "total_detections": 376,
+    "total_checklists_with_species": 376,
+    "total_checklists_countywide": 5674,
+    "hotspots_detected": 7
+  },
+  "summary": {
+    "total_hotspots_detected": 7,
+    "total_detections": 376,
+    "highest_occurrence_rate": 0.1081
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L248863",
+      "name": "Seney NWR",
+      "coordinates": {
+        "latitude": 46.2721054,
+        "longitude": -86.0042381
+      },
+      "occurrence": {
+        "rate": 0.1081,
+        "lift": 1.63,
+        "detection_count": 304,
+        "total_checklists": 2812,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 25
+      },
+      "seasonal": {
+        "spring": 0.1109,
+        "summer": 0.1864,
+        "fall": 0.0201,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.1324,
+        "6": 0.2185,
+        "7": 0.1373,
+        "8": 0.0404,
+        "9": 0.0051,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1565285",
+      "name": "Seney NWR--Pine Ridge Nature Trail",
+      "coordinates": {
+        "latitude": 46.2910639,
+        "longitude": -85.9425617
+      },
+      "occurrence": {
+        "rate": 0.0813,
+        "lift": 1.23,
+        "detection_count": 67,
+        "total_checklists": 824,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.6,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0844,
+        "summer": 0.1348,
+        "fall": 0.0186,
+        "winter": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.1105,
+        "6": 0.1143,
+        "7": 0.1597,
+        "8": 0.0169,
+        "9": 0.0319,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L5808477",
+      "name": "Seney",
+      "coordinates": {
+        "latitude": 46.3455234,
+        "longitude": -85.9466157
+      },
+      "occurrence": {
+        "rate": 0.0263,
+        "lift": 0.4,
+        "detection_count": 1,
+        "total_checklists": 38,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0769,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0833,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L19434420",
+      "name": "Seney NWR--River Rd. Temporary Visitor Center",
+      "coordinates": {
+        "latitude": 46.2171955,
+        "longitude": -85.9697798
+      },
+      "occurrence": {
+        "rate": 0.0156,
+        "lift": 0.24,
+        "detection_count": 1,
+        "total_checklists": 64,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0714,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.1,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L19433726",
+      "name": "Seney NWR--Northern Hardwoods Trails",
+      "coordinates": {
+        "latitude": 46.2413282,
+        "longitude": -85.9442096
+      },
+      "occurrence": {
+        "rate": 0.0088,
+        "lift": 0.13,
+        "detection_count": 1,
+        "total_checklists": 114,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0263,
+        "fall": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.1667,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L2145284",
+      "name": "Seul Choix Point",
+      "coordinates": {
+        "latitude": 45.9204231,
+        "longitude": -85.9114659
+      },
+      "occurrence": {
+        "rate": 0.007,
+        "lift": 0.11,
+        "detection_count": 1,
+        "total_checklists": 142,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0128,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0154,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L1222504",
+      "name": "Lakeview Park/Manistique Boardwalk",
+      "coordinates": {
+        "latitude": 45.9463175,
+        "longitude": -86.2352803
+      },
+      "occurrence": {
+        "rate": 0.0012,
+        "lift": 0.02,
+        "detection_count": 1,
+        "total_checklists": 836,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0032,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0039,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:31.098575Z",
+    "data_version": "Dec-2025"
+  }
+}

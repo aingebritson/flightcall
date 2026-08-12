@@ -1,0 +1,63 @@
+{
+  "species": {
+    "common_name": "Western Tanager",
+    "code": "westan",
+    "scientific_name": "Piranga ludoviciana"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0024,
+    "total_detections": 21,
+    "total_checklists_with_species": 21,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 21,
+    "highest_occurrence_rate": 0.0231
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L12132844",
+      "name": "Graham Point",
+      "coordinates": {
+        "latitude": 45.8493661,
+        "longitude": -84.705258
+      },
+      "occurrence": {
+        "rate": 0.0231,
+        "lift": 9.67,
+        "detection_count": 21,
+        "total_checklists": 908,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0638,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.1207,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.909940Z",
+    "data_version": "Dec-2025"
+  }
+}

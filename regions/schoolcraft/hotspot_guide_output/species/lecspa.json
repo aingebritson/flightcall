@@ -1,0 +1,136 @@
+{
+  "species": {
+    "common_name": "LeConte's Sparrow",
+    "code": "lecspa",
+    "scientific_name": "Ammospiza leconteii"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0108,
+    "total_detections": 61,
+    "total_checklists_with_species": 61,
+    "total_checklists_countywide": 5674,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 61,
+    "highest_occurrence_rate": 0.0181
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L248863",
+      "name": "Seney NWR",
+      "coordinates": {
+        "latitude": 46.2721054,
+        "longitude": -86.0042381
+      },
+      "occurrence": {
+        "rate": 0.0181,
+        "lift": 1.69,
+        "detection_count": 51,
+        "total_checklists": 2812,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.3,
+        "max_count": 15
+      },
+      "seasonal": {
+        "spring": 0.0229,
+        "summer": 0.0314,
+        "fall": 0.001,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0273,
+        "6": 0.0476,
+        "7": 0.0064,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0058,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L19434420",
+      "name": "Seney NWR--River Rd. Temporary Visitor Center",
+      "coordinates": {
+        "latitude": 46.2171955,
+        "longitude": -85.9697798
+      },
+      "occurrence": {
+        "rate": 0.0156,
+        "lift": 1.45,
+        "detection_count": 1,
+        "total_checklists": 64,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0435,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0714,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L1565285",
+      "name": "Seney NWR--Pine Ridge Nature Trail",
+      "coordinates": {
+        "latitude": 46.2910639,
+        "longitude": -85.9425617
+      },
+      "occurrence": {
+        "rate": 0.0109,
+        "lift": 1.02,
+        "detection_count": 9,
+        "total_checklists": 824,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0282,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0114,
+        "7": 0.0486,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:31.092856Z",
+    "data_version": "Dec-2025"
+  }
+}

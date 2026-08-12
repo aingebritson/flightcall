@@ -1,0 +1,378 @@
+{
+  "species": {
+    "common_name": "Green-winged Teal",
+    "code": "gretea",
+    "scientific_name": "Anas crecca"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0338,
+    "total_detections": 192,
+    "total_checklists_with_species": 192,
+    "total_checklists_countywide": 5674,
+    "hotspots_detected": 10
+  },
+  "summary": {
+    "total_hotspots_detected": 10,
+    "total_detections": 192,
+    "highest_occurrence_rate": 0.0714
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L6782642",
+      "name": "Cope Bridge",
+      "coordinates": {
+        "latitude": 45.992605,
+        "longitude": -86.2878576
+      },
+      "occurrence": {
+        "rate": 0.0714,
+        "lift": 2.11,
+        "detection_count": 2,
+        "total_checklists": 28,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.1667,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.4,
+        "5": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L248863",
+      "name": "Seney NWR",
+      "coordinates": {
+        "latitude": 46.2721054,
+        "longitude": -86.0042381
+      },
+      "occurrence": {
+        "rate": 0.053,
+        "lift": 1.57,
+        "detection_count": 149,
+        "total_checklists": 2812,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 8.8,
+        "max_count": 175
+      },
+      "seasonal": {
+        "spring": 0.0757,
+        "summer": 0.0314,
+        "fall": 0.066,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0476,
+        "4": 0.0563,
+        "5": 0.0798,
+        "6": 0.0392,
+        "7": 0.0193,
+        "8": 0.0447,
+        "9": 0.0846,
+        "10": 0.0877,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L5808477",
+      "name": "Seney",
+      "coordinates": {
+        "latitude": 46.3455234,
+        "longitude": -85.9466157
+      },
+      "occurrence": {
+        "rate": 0.0526,
+        "lift": 1.56,
+        "detection_count": 2,
+        "total_checklists": 38,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.1538,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.1667,
+        "6": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L19434420",
+      "name": "Seney NWR--River Rd. Temporary Visitor Center",
+      "coordinates": {
+        "latitude": 46.2171955,
+        "longitude": -85.9697798
+      },
+      "occurrence": {
+        "rate": 0.0469,
+        "lift": 1.39,
+        "detection_count": 3,
+        "total_checklists": 64,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.087,
+        "summer": 0.0,
+        "fall": 0.0385
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.1429,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.125,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L1565285",
+      "name": "Seney NWR--Pine Ridge Nature Trail",
+      "coordinates": {
+        "latitude": 46.2910639,
+        "longitude": -85.9425617
+      },
+      "occurrence": {
+        "rate": 0.0267,
+        "lift": 0.79,
+        "detection_count": 22,
+        "total_checklists": 824,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.9,
+        "max_count": 20
+      },
+      "seasonal": {
+        "spring": 0.0444,
+        "summer": 0.0031,
+        "fall": 0.0409,
+        "winter": 0.0
+      },
+      "monthly": {
+        "4": 0.1176,
+        "5": 0.0233,
+        "6": 0.0057,
+        "7": 0.0,
+        "8": 0.0169,
+        "9": 0.0638,
+        "10": 0.0638,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L1565306",
+      "name": "Seney NWR--Driggs River Rd.",
+      "coordinates": {
+        "latitude": 46.3228736,
+        "longitude": -86.1134867
+      },
+      "occurrence": {
+        "rate": 0.0175,
+        "lift": 0.52,
+        "detection_count": 5,
+        "total_checklists": 286,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.8,
+        "max_count": 9
+      },
+      "seasonal": {
+        "spring": 0.0588,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0889,
+        "5": 0.0256,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L19433726",
+      "name": "Seney NWR--Northern Hardwoods Trails",
+      "coordinates": {
+        "latitude": 46.2413282,
+        "longitude": -85.9442096
+      },
+      "occurrence": {
+        "rate": 0.0175,
+        "lift": 0.52,
+        "detection_count": 2,
+        "total_checklists": 114,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.0,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0513
+      },
+      "monthly": {
+        "1": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.1538
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L12121751",
+      "name": "Indian Lake SP",
+      "coordinates": {
+        "latitude": 45.94301,
+        "longitude": -86.332424
+      },
+      "occurrence": {
+        "rate": 0.0116,
+        "lift": 0.34,
+        "detection_count": 1,
+        "total_checklists": 86,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0833,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0909,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L8028872",
+      "name": "Palms Book SP",
+      "coordinates": {
+        "latitude": 46.0047573,
+        "longitude": -86.3830805
+      },
+      "occurrence": {
+        "rate": 0.0062,
+        "lift": 0.18,
+        "detection_count": 1,
+        "total_checklists": 161,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0189,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0588,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L1222504",
+      "name": "Lakeview Park/Manistique Boardwalk",
+      "coordinates": {
+        "latitude": 45.9463175,
+        "longitude": -86.2352803
+      },
+      "occurrence": {
+        "rate": 0.006,
+        "lift": 0.18,
+        "detection_count": 5,
+        "total_checklists": 836,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.4,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0032,
+        "summer": 0.0094,
+        "fall": 0.0056,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0208,
+        "5": 0.0,
+        "6": 0.0125,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0167,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:31.090166Z",
+    "data_version": "Dec-2025"
+  }
+}

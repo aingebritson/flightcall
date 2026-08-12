@@ -1,0 +1,609 @@
+{
+  "species": {
+    "common_name": "Cliff Swallow",
+    "code": "cliswa",
+    "scientific_name": "Petrochelidon pyrrhonota"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0259,
+    "total_detections": 227,
+    "total_checklists_with_species": 227,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 16
+  },
+  "summary": {
+    "total_hotspots_detected": 16,
+    "total_detections": 227,
+    "highest_occurrence_rate": 0.2167
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L7709064",
+      "name": "St. Ignace Boardwalk/Wawatam Lighthouse",
+      "coordinates": {
+        "latitude": 45.865572,
+        "longitude": -84.71682
+      },
+      "occurrence": {
+        "rate": 0.2167,
+        "lift": 8.38,
+        "detection_count": 44,
+        "total_checklists": 203,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 7.0,
+        "max_count": 20
+      },
+      "seasonal": {
+        "spring": 0.1786,
+        "summer": 0.6129,
+        "fall": 0.013,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.3571,
+        "6": 0.6286,
+        "7": 0.5926,
+        "8": 0.0303,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L773674",
+      "name": "Mackinac Island",
+      "coordinates": {
+        "latitude": 45.8613249,
+        "longitude": -84.6221924
+      },
+      "occurrence": {
+        "rate": 0.065,
+        "lift": 2.51,
+        "detection_count": 92,
+        "total_checklists": 1416,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 6.0,
+        "max_count": 150
+      },
+      "seasonal": {
+        "spring": 0.0474,
+        "summer": 0.1206,
+        "fall": 0.0138,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0179,
+        "5": 0.0577,
+        "6": 0.1017,
+        "7": 0.1481,
+        "8": 0.0283,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L9491611",
+      "name": "Beavertail Point",
+      "coordinates": {
+        "latitude": 45.9672318,
+        "longitude": -84.1716363
+      },
+      "occurrence": {
+        "rate": 0.04,
+        "lift": 1.55,
+        "detection_count": 1,
+        "total_checklists": 25,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "5": 0.0,
+        "6": 0.25,
+        "10": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L2699232",
+      "name": "Brevoort Lake",
+      "coordinates": {
+        "latitude": 45.9944573,
+        "longitude": -84.8857355
+      },
+      "occurrence": {
+        "rate": 0.0357,
+        "lift": 1.38,
+        "detection_count": 1,
+        "total_checklists": 28,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0909,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "6": 0.125,
+        "7": 0.0,
+        "8": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L10664869",
+      "name": "Engadine Loop",
+      "coordinates": {
+        "latitude": 46.1617958,
+        "longitude": -85.5713815
+      },
+      "occurrence": {
+        "rate": 0.0303,
+        "lift": 1.17,
+        "detection_count": 3,
+        "total_checklists": 99,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 5.0,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.0145,
+        "summer": 0.0909,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0185,
+        "6": 0.1111,
+        "7": 0.0769
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L12132844",
+      "name": "Graham Point",
+      "coordinates": {
+        "latitude": 45.8493661,
+        "longitude": -84.705258
+      },
+      "occurrence": {
+        "rate": 0.0297,
+        "lift": 1.15,
+        "detection_count": 27,
+        "total_checklists": 908,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 6.4,
+        "max_count": 30
+      },
+      "seasonal": {
+        "spring": 0.0578,
+        "fall": 0.0144,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.1092,
+        "6": 0.0,
+        "8": 0.1071,
+        "9": 0.0143,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L3694203",
+      "name": "St. Ignace City Park Dock #3",
+      "coordinates": {
+        "latitude": 45.8540565,
+        "longitude": -84.7022496
+      },
+      "occurrence": {
+        "rate": 0.021,
+        "lift": 0.81,
+        "detection_count": 3,
+        "total_checklists": 143,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.7,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.1765,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.1,
+        "7": 0.2857,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L4352602",
+      "name": "American Legion Memorial Park",
+      "coordinates": {
+        "latitude": 45.863576,
+        "longitude": -84.716939
+      },
+      "occurrence": {
+        "rate": 0.0181,
+        "lift": 0.7,
+        "detection_count": 3,
+        "total_checklists": 166,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.0,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.0169,
+        "summer": 0.1176,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0476,
+        "6": 0.0,
+        "7": 0.1818,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L6686778",
+      "name": "Father Marquette National Memorial",
+      "coordinates": {
+        "latitude": 45.8519287,
+        "longitude": -84.726119
+      },
+      "occurrence": {
+        "rate": 0.0172,
+        "lift": 0.67,
+        "detection_count": 1,
+        "total_checklists": 58,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": null,
+        "max_count": null
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0435,
+        "fall": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.1429,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L657101",
+      "name": "Pointe LaBarbe",
+      "coordinates": {
+        "latitude": 45.8421945,
+        "longitude": -84.7567749
+      },
+      "occurrence": {
+        "rate": 0.0147,
+        "lift": 0.57,
+        "detection_count": 40,
+        "total_checklists": 2726,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.9,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.0202,
+        "summer": 0.0088,
+        "fall": 0.0146,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0265,
+        "6": 0.0091,
+        "7": 0.0082,
+        "8": 0.0492,
+        "9": 0.0214,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L9084351",
+      "name": "Naubinway Marina",
+      "coordinates": {
+        "latitude": 46.0867664,
+        "longitude": -85.4448248
+      },
+      "occurrence": {
+        "rate": 0.0143,
+        "lift": 0.55,
+        "detection_count": 1,
+        "total_checklists": 70,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 10.0,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.0294,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0526,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L4278270",
+      "name": "Pickford (Mackinac Co.)",
+      "coordinates": {
+        "latitude": 46.1540652,
+        "longitude": -84.3709135
+      },
+      "occurrence": {
+        "rate": 0.0119,
+        "lift": 0.46,
+        "detection_count": 4,
+        "total_checklists": 336,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.2667,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.3077,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 13,
+      "locality_id": "L5111263",
+      "name": "Bridge View Park",
+      "coordinates": {
+        "latitude": 45.8471371,
+        "longitude": -84.7259143
+      },
+      "occurrence": {
+        "rate": 0.0098,
+        "lift": 0.38,
+        "detection_count": 4,
+        "total_checklists": 410,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.8,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.0122,
+        "summer": 0.0153,
+        "fall": 0.006,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0185,
+        "6": 0.0,
+        "7": 0.05,
+        "8": 0.0227,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 14,
+      "locality_id": "L6212651",
+      "name": "Mackinac Bay Nature Preserve",
+      "coordinates": {
+        "latitude": 46.005979,
+        "longitude": -84.415868
+      },
+      "occurrence": {
+        "rate": 0.0086,
+        "lift": 0.33,
+        "detection_count": 1,
+        "total_checklists": 116,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0196,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0263,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 15,
+      "locality_id": "L4662993",
+      "name": "Cedar Campus",
+      "coordinates": {
+        "latitude": 45.9792498,
+        "longitude": -84.2224789
+      },
+      "occurrence": {
+        "rate": 0.0052,
+        "lift": 0.2,
+        "detection_count": 1,
+        "total_checklists": 193,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.0,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0065,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0135,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 16,
+      "locality_id": "L2194367",
+      "name": "Cedarville Wastewater",
+      "coordinates": {
+        "latitude": 46.0201244,
+        "longitude": -84.3785033
+      },
+      "occurrence": {
+        "rate": 0.0049,
+        "lift": 0.19,
+        "detection_count": 1,
+        "total_checklists": 206,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 10.0,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.0133,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0192,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.818943Z",
+    "data_version": "Dec-2025"
+  }
+}

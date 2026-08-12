@@ -1,0 +1,105 @@
+{
+  "species": {
+    "common_name": "Franklin's Gull",
+    "code": "fragul",
+    "scientific_name": "Leucophaeus pipixcan"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0002,
+    "total_detections": 4,
+    "total_checklists_with_species": 4,
+    "total_checklists_countywide": 18703,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 4,
+    "highest_occurrence_rate": 0.0025
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L2130407",
+      "name": "Founder's Landing",
+      "coordinates": {
+        "latitude": 46.5372407,
+        "longitude": -87.393558
+      },
+      "occurrence": {
+        "rate": 0.0025,
+        "lift": 11.84,
+        "detection_count": 2,
+        "total_checklists": 790,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0079,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0177,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1324218",
+      "name": "Dead River mouth",
+      "coordinates": {
+        "latitude": 46.5770053,
+        "longitude": -87.3929787
+      },
+      "occurrence": {
+        "rate": 0.0015,
+        "lift": 7.11,
+        "detection_count": 2,
+        "total_checklists": 1315,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0043,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0093,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:24.024587Z",
+    "data_version": "Dec-2025"
+  }
+}

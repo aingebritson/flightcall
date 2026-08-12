@@ -1,0 +1,175 @@
+{
+  "species": {
+    "common_name": "Least Sandpiper",
+    "code": "leasan",
+    "scientific_name": "Calidris minutilla"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.013,
+    "total_detections": 74,
+    "total_checklists_with_species": 74,
+    "total_checklists_countywide": 5674,
+    "hotspots_detected": 4
+  },
+  "summary": {
+    "total_hotspots_detected": 4,
+    "total_detections": 74,
+    "highest_occurrence_rate": 0.049
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1222504",
+      "name": "Lakeview Park/Manistique Boardwalk",
+      "coordinates": {
+        "latitude": 45.9463175,
+        "longitude": -86.2352803
+      },
+      "occurrence": {
+        "rate": 0.049,
+        "lift": 3.76,
+        "detection_count": 41,
+        "total_checklists": 836,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.8,
+        "max_count": 26
+      },
+      "seasonal": {
+        "spring": 0.1029,
+        "summer": 0.0125,
+        "fall": 0.0281,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.1236,
+        "6": 0.0083,
+        "7": 0.0253,
+        "8": 0.0702,
+        "9": 0.0167,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L19434420",
+      "name": "Seney NWR--River Rd. Temporary Visitor Center",
+      "coordinates": {
+        "latitude": 46.2171955,
+        "longitude": -85.9697798
+      },
+      "occurrence": {
+        "rate": 0.0156,
+        "lift": 1.2,
+        "detection_count": 1,
+        "total_checklists": 64,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0435,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0714,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L248863",
+      "name": "Seney NWR",
+      "coordinates": {
+        "latitude": 46.2721054,
+        "longitude": -86.0042381
+      },
+      "occurrence": {
+        "rate": 0.0092,
+        "lift": 0.71,
+        "detection_count": 26,
+        "total_checklists": 2812,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.5,
+        "max_count": 23
+      },
+      "seasonal": {
+        "spring": 0.0141,
+        "summer": 0.0025,
+        "fall": 0.0143,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0168,
+        "6": 0.0014,
+        "7": 0.0043,
+        "8": 0.0234,
+        "9": 0.0103,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L1565285",
+      "name": "Seney NWR--Pine Ridge Nature Trail",
+      "coordinates": {
+        "latitude": 46.2910639,
+        "longitude": -85.9425617
+      },
+      "occurrence": {
+        "rate": 0.0073,
+        "lift": 0.56,
+        "detection_count": 6,
+        "total_checklists": 824,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 4.0,
+        "max_count": 11
+      },
+      "seasonal": {
+        "spring": 0.0178,
+        "summer": 0.0,
+        "fall": 0.0074,
+        "winter": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0233,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0213,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:31.132041Z",
+    "data_version": "Dec-2025"
+  }
+}

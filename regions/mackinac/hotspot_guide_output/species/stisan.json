@@ -1,0 +1,163 @@
+{
+  "species": {
+    "common_name": "Stilt Sandpiper",
+    "code": "stisan",
+    "scientific_name": "Calidris himantopus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0018,
+    "total_detections": 16,
+    "total_checklists_with_species": 16,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 4
+  },
+  "summary": {
+    "total_hotspots_detected": 4,
+    "total_detections": 16,
+    "highest_occurrence_rate": 0.3077
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L26737135",
+      "name": "Round Lake",
+      "coordinates": {
+        "latitude": 45.9612756,
+        "longitude": -84.8710053
+      },
+      "occurrence": {
+        "rate": 0.3077,
+        "lift": 168.87,
+        "detection_count": 4,
+        "total_checklists": 13,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 5.0,
+        "max_count": 6
+      },
+      "seasonal": {
+        "fall": 0.3636
+      },
+      "monthly": {
+        "9": 0.6667,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L10664869",
+      "name": "Engadine Loop",
+      "coordinates": {
+        "latitude": 46.1617958,
+        "longitude": -85.5713815
+      },
+      "occurrence": {
+        "rate": 0.0101,
+        "lift": 5.54,
+        "detection_count": 1,
+        "total_checklists": 99,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0145,
+        "summer": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0185,
+        "6": 0.0,
+        "7": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L657101",
+      "name": "Pointe LaBarbe",
+      "coordinates": {
+        "latitude": 45.8421945,
+        "longitude": -84.7567749
+      },
+      "occurrence": {
+        "rate": 0.0033,
+        "lift": 1.81,
+        "detection_count": 9,
+        "total_checklists": 2726,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0052,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0076,
+        "9": 0.0125,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L12132844",
+      "name": "Graham Point",
+      "coordinates": {
+        "latitude": 45.8493661,
+        "longitude": -84.705258
+      },
+      "occurrence": {
+        "rate": 0.0022,
+        "lift": 1.21,
+        "detection_count": 2,
+        "total_checklists": 908,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "fall": 0.0036,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "8": 0.0357,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.906033Z",
+    "data_version": "Dec-2025"
+  }
+}

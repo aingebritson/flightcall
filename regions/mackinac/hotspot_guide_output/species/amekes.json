@@ -1,0 +1,597 @@
+{
+  "species": {
+    "common_name": "American Kestrel",
+    "code": "amekes",
+    "scientific_name": "Falco sparverius"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0932,
+    "total_detections": 814,
+    "total_checklists_with_species": 818,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 18
+  },
+  "summary": {
+    "total_hotspots_detected": 16,
+    "total_detections": 814,
+    "highest_occurrence_rate": 0.4949
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L10664869",
+      "name": "Engadine Loop",
+      "coordinates": {
+        "latitude": 46.1617958,
+        "longitude": -85.5713815
+      },
+      "occurrence": {
+        "rate": 0.4949,
+        "lift": 5.31,
+        "detection_count": 49,
+        "total_checklists": 99,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.3,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.5797,
+        "summer": 0.4091,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.6667,
+        "4": 0.8333,
+        "5": 0.5185,
+        "6": 0.2222,
+        "7": 0.5385
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L21220526",
+      "name": "Allenville fields",
+      "coordinates": {
+        "latitude": 45.9845641,
+        "longitude": -84.8118238
+      },
+      "occurrence": {
+        "rate": 0.413,
+        "lift": 4.43,
+        "detection_count": 19,
+        "total_checklists": 46,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.7,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.55,
+        "summer": 0.2,
+        "fall": 0.6,
+        "winter": 0.0
+      },
+      "monthly": {
+        "4": 0.1667,
+        "5": 0.6923,
+        "6": 0.2,
+        "9": 1.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L657101",
+      "name": "Pointe LaBarbe",
+      "coordinates": {
+        "latitude": 45.8421945,
+        "longitude": -84.7567749
+      },
+      "occurrence": {
+        "rate": 0.2172,
+        "lift": 2.33,
+        "detection_count": 592,
+        "total_checklists": 2726,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 5.1,
+        "max_count": 49
+      },
+      "seasonal": {
+        "spring": 0.0924,
+        "summer": 0.0205,
+        "fall": 0.309,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.1802,
+        "5": 0.0773,
+        "6": 0.0182,
+        "7": 0.0246,
+        "8": 0.25,
+        "9": 0.5758,
+        "10": 0.217,
+        "11": 0.0224,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L2699232",
+      "name": "Brevoort Lake",
+      "coordinates": {
+        "latitude": 45.9944573,
+        "longitude": -84.8857355
+      },
+      "occurrence": {
+        "rate": 0.1786,
+        "lift": 1.92,
+        "detection_count": 5,
+        "total_checklists": 28,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 0.8,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.2727,
+        "summer": 0.1818,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.25,
+        "6": 0.125,
+        "7": 0.3333,
+        "8": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L4278270",
+      "name": "Pickford (Mackinac Co.)",
+      "coordinates": {
+        "latitude": 46.1540652,
+        "longitude": -84.3709135
+      },
+      "occurrence": {
+        "rate": 0.1101,
+        "lift": 1.18,
+        "detection_count": 37,
+        "total_checklists": 336,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.9,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.3191,
+        "summer": 0.3333,
+        "fall": 0.2,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0909,
+        "4": 0.4048,
+        "5": 0.5263,
+        "6": 0.2308,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L12132844",
+      "name": "Graham Point",
+      "coordinates": {
+        "latitude": 45.8493661,
+        "longitude": -84.705258
+      },
+      "occurrence": {
+        "rate": 0.0749,
+        "lift": 0.8,
+        "detection_count": 68,
+        "total_checklists": 908,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.076,
+        "fall": 0.0776,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.172,
+        "5": 0.0517,
+        "6": 0.0,
+        "8": 0.0179,
+        "9": 0.2643,
+        "10": 0.0168,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L4570736",
+      "name": "Carp River CG",
+      "coordinates": {
+        "latitude": 46.032588,
+        "longitude": -84.720616
+      },
+      "occurrence": {
+        "rate": 0.0625,
+        "lift": 0.67,
+        "detection_count": 1,
+        "total_checklists": 16,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.2
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "9": 0.25
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L1542457",
+      "name": "Carp River Rd. Fishing Access",
+      "coordinates": {
+        "latitude": 46.0238982,
+        "longitude": -84.6939652
+      },
+      "occurrence": {
+        "rate": 0.0533,
+        "lift": 0.57,
+        "detection_count": 8,
+        "total_checklists": 150,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0714,
+        "summer": 0.0,
+        "fall": 0.0638
+      },
+      "monthly": {
+        "4": 0.1667,
+        "5": 0.0625,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0667,
+        "9": 0.1176,
+        "10": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L9491611",
+      "name": "Beavertail Point",
+      "coordinates": {
+        "latitude": 45.9672318,
+        "longitude": -84.1716363
+      },
+      "occurrence": {
+        "rate": 0.04,
+        "lift": 0.43,
+        "detection_count": 1,
+        "total_checklists": 25,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "5": 0.0,
+        "6": 0.25,
+        "10": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L4851032",
+      "name": "Pointe aux Chenes",
+      "coordinates": {
+        "latitude": 45.9239204,
+        "longitude": -84.9092392
+      },
+      "occurrence": {
+        "rate": 0.0309,
+        "lift": 0.33,
+        "detection_count": 3,
+        "total_checklists": 97,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0417,
+        "summer": 0.0,
+        "fall": 0.0667
+      },
+      "monthly": {
+        "4": 0.3333,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.125,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L2194367",
+      "name": "Cedarville Wastewater",
+      "coordinates": {
+        "latitude": 46.0201244,
+        "longitude": -84.3785033
+      },
+      "occurrence": {
+        "rate": 0.0291,
+        "lift": 0.31,
+        "detection_count": 6,
+        "total_checklists": 206,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.3,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0667,
+        "summer": 0.0,
+        "fall": 0.0204,
+        "winter": 0.0
+      },
+      "monthly": {
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0962,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0625,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L5111263",
+      "name": "Bridge View Park",
+      "coordinates": {
+        "latitude": 45.8471371,
+        "longitude": -84.7259143
+      },
+      "occurrence": {
+        "rate": 0.022,
+        "lift": 0.24,
+        "detection_count": 9,
+        "total_checklists": 410,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0732,
+        "summer": 0.0,
+        "fall": 0.0179,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.3158,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0227,
+        "9": 0.0385,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 13,
+      "locality_id": "L773674",
+      "name": "Mackinac Island",
+      "coordinates": {
+        "latitude": 45.8613249,
+        "longitude": -84.6221924
+      },
+      "occurrence": {
+        "rate": 0.0085,
+        "lift": 0.09,
+        "detection_count": 12,
+        "total_checklists": 1416,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0219,
+        "summer": 0.0067,
+        "fall": 0.004,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.1,
+        "4": 0.0893,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0165,
+        "8": 0.0,
+        "9": 0.0071,
+        "10": 0.0095,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 14,
+      "locality_id": "L3694203",
+      "name": "St. Ignace City Park Dock #3",
+      "coordinates": {
+        "latitude": 45.8540565,
+        "longitude": -84.7022496
+      },
+      "occurrence": {
+        "rate": 0.007,
+        "lift": 0.08,
+        "detection_count": 1,
+        "total_checklists": 143,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0588,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.1,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 15,
+      "locality_id": "L831393",
+      "name": "Straits SP",
+      "coordinates": {
+        "latitude": 45.8533298,
+        "longitude": -84.720329
+      },
+      "occurrence": {
+        "rate": 0.0066,
+        "lift": 0.07,
+        "detection_count": 2,
+        "total_checklists": 302,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0187,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0488,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 16,
+      "locality_id": "L3661335",
+      "name": "John Arthur Woollam Preserve",
+      "coordinates": {
+        "latitude": 45.9883748,
+        "longitude": -84.2426223
+      },
+      "occurrence": {
+        "rate": 0.0058,
+        "lift": 0.06,
+        "detection_count": 1,
+        "total_checklists": 173,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0417
+      },
+      "monthly": {
+        "3": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0909
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.804024Z",
+    "data_version": "Dec-2025"
+  }
+}

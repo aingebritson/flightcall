@@ -1,0 +1,63 @@
+{
+  "species": {
+    "common_name": "Eurasian Wigeon",
+    "code": "eurwig",
+    "scientific_name": "Mareca penelope"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0002,
+    "total_detections": 3,
+    "total_checklists_with_species": 3,
+    "total_checklists_countywide": 18703,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 3,
+    "highest_occurrence_rate": 0.0052
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1164477",
+      "name": "Gwinn Sewage Ponds",
+      "coordinates": {
+        "latitude": 46.2675962,
+        "longitude": -87.4394989
+      },
+      "occurrence": {
+        "rate": 0.0052,
+        "lift": 32.19,
+        "detection_count": 3,
+        "total_checklists": 581,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0092,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0135,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:24.019155Z",
+    "data_version": "Dec-2025"
+  }
+}

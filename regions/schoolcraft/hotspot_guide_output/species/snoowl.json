@@ -1,0 +1,64 @@
+{
+  "species": {
+    "common_name": "Snowy Owl",
+    "code": "snoowl",
+    "scientific_name": "Bubo scandiacus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0014,
+    "total_detections": 8,
+    "total_checklists_with_species": 8,
+    "total_checklists_countywide": 5674,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 8,
+    "highest_occurrence_rate": 0.0096
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1222504",
+      "name": "Lakeview Park/Manistique Boardwalk",
+      "coordinates": {
+        "latitude": 45.9463175,
+        "longitude": -86.2352803
+      },
+      "occurrence": {
+        "rate": 0.0096,
+        "lift": 6.79,
+        "detection_count": 8,
+        "total_checklists": 836,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0096,
+        "summer": 0.0,
+        "fall": 0.0169,
+        "winter": 0.0714
+      },
+      "monthly": {
+        "1": 0.1333,
+        "3": 0.0,
+        "4": 0.0208,
+        "5": 0.0077,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.1111,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:31.143708Z",
+    "data_version": "Dec-2025"
+  }
+}

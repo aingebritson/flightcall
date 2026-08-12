@@ -1,0 +1,65 @@
+{
+  "species": {
+    "common_name": "American Goshawk",
+    "code": "amegos",
+    "scientific_name": "Astur atricapillus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0026,
+    "total_detections": 15,
+    "total_checklists_with_species": 15,
+    "total_checklists_countywide": 5674,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 15,
+    "highest_occurrence_rate": 0.0053
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L248863",
+      "name": "Seney NWR",
+      "coordinates": {
+        "latitude": 46.2721054,
+        "longitude": -86.0042381
+      },
+      "occurrence": {
+        "rate": 0.0053,
+        "lift": 2.02,
+        "detection_count": 15,
+        "total_checklists": 2812,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 0.9,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0053,
+        "summer": 0.0085,
+        "fall": 0.0019,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0063,
+        "6": 0.0084,
+        "7": 0.0086,
+        "8": 0.0,
+        "9": 0.0051,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:31.130085Z",
+    "data_version": "Dec-2025"
+  }
+}

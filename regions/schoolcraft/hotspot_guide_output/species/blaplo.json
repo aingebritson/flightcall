@@ -1,0 +1,138 @@
+{
+  "species": {
+    "common_name": "Black-bellied Plover",
+    "code": "blaplo",
+    "scientific_name": "Pluvialis squatarola"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0116,
+    "total_detections": 66,
+    "total_checklists_with_species": 66,
+    "total_checklists_countywide": 5674,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 66,
+    "highest_occurrence_rate": 0.0514
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L1222504",
+      "name": "Lakeview Park/Manistique Boardwalk",
+      "coordinates": {
+        "latitude": 45.9463175,
+        "longitude": -86.2352803
+      },
+      "occurrence": {
+        "rate": 0.0514,
+        "lift": 4.42,
+        "detection_count": 43,
+        "total_checklists": 836,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.1,
+        "max_count": 15
+      },
+      "seasonal": {
+        "spring": 0.1061,
+        "summer": 0.0157,
+        "fall": 0.0281,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.1274,
+        "6": 0.0208,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0833,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L19434420",
+      "name": "Seney NWR--River Rd. Temporary Visitor Center",
+      "coordinates": {
+        "latitude": 46.2171955,
+        "longitude": -85.9697798
+      },
+      "occurrence": {
+        "rate": 0.0156,
+        "lift": 1.34,
+        "detection_count": 1,
+        "total_checklists": 64,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0435,
+        "summer": 0.0,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0714,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L248863",
+      "name": "Seney NWR",
+      "coordinates": {
+        "latitude": 46.2721054,
+        "longitude": -86.0042381
+      },
+      "occurrence": {
+        "rate": 0.0078,
+        "lift": 0.67,
+        "detection_count": 22,
+        "total_checklists": 2812,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.9,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.0176,
+        "summer": 0.0008,
+        "fall": 0.0105,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.021,
+        "6": 0.0,
+        "7": 0.0021,
+        "8": 0.0064,
+        "9": 0.0154,
+        "10": 0.0117,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:31.134687Z",
+    "data_version": "Dec-2025"
+  }
+}

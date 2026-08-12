@@ -1,0 +1,373 @@
+{
+  "species": {
+    "common_name": "Canada Jay",
+    "code": "canjay",
+    "scientific_name": "Perisoreus canadensis"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0175,
+    "total_detections": 328,
+    "total_checklists_with_species": 328,
+    "total_checklists_countywide": 18703,
+    "hotspots_detected": 10
+  },
+  "summary": {
+    "total_hotspots_detected": 10,
+    "total_detections": 328,
+    "highest_occurrence_rate": 0.2476
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L385151",
+      "name": "Peshekee Grade",
+      "coordinates": {
+        "latitude": 46.542198,
+        "longitude": -88.0017864
+      },
+      "occurrence": {
+        "rate": 0.2476,
+        "lift": 14.12,
+        "detection_count": 258,
+        "total_checklists": 1042,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.3,
+        "max_count": 9
+      },
+      "seasonal": {
+        "spring": 0.2441,
+        "summer": 0.0766,
+        "fall": 0.2531,
+        "winter": 0.3508
+      },
+      "monthly": {
+        "1": 0.4274,
+        "2": 0.3296,
+        "3": 0.3894,
+        "4": 0.0889,
+        "5": 0.0727,
+        "6": 0.0811,
+        "7": 0.0676,
+        "8": 0.0556,
+        "9": 0.1471,
+        "10": 0.3793,
+        "11": 0.3232,
+        "12": 0.2727
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L4127426",
+      "name": "Clowry Truck Trail",
+      "coordinates": {
+        "latitude": 46.5231619,
+        "longitude": -87.8962269
+      },
+      "occurrence": {
+        "rate": 0.2188,
+        "lift": 12.47,
+        "detection_count": 14,
+        "total_checklists": 64,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.375,
+        "summer": 0.1765,
+        "fall": 0.0,
+        "winter": 0.4545
+      },
+      "monthly": {
+        "1": 0.625,
+        "4": 0.6,
+        "5": 0.0,
+        "6": 0.1579,
+        "7": 0.2,
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L16925397",
+      "name": "Republic",
+      "coordinates": {
+        "latitude": 46.4059821,
+        "longitude": -87.9799095
+      },
+      "occurrence": {
+        "rate": 0.2105,
+        "lift": 12.0,
+        "detection_count": 4,
+        "total_checklists": 19,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "summer": 0.5
+      },
+      "monthly": {
+        "4": 0.0,
+        "6": 0.5714,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L3444399",
+      "name": "Wolf Lake Rd.",
+      "coordinates": {
+        "latitude": 46.527247,
+        "longitude": -87.8674078
+      },
+      "occurrence": {
+        "rate": 0.1633,
+        "lift": 9.31,
+        "detection_count": 8,
+        "total_checklists": 49,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.6,
+        "max_count": 5
+      },
+      "seasonal": {
+        "spring": 0.2857,
+        "summer": 0.0,
+        "fall": 0.125,
+        "winter": 0.2174
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.2857,
+        "3": 0.6667,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "11": 0.125,
+        "12": 0.2727
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L23371104",
+      "name": "County Road 478",
+      "coordinates": {
+        "latitude": 46.433735,
+        "longitude": -87.948205
+      },
+      "occurrence": {
+        "rate": 0.1489,
+        "lift": 8.49,
+        "detection_count": 7,
+        "total_checklists": 47,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 2.6,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.4286,
+        "summer": 0.1176,
+        "fall": 0.0769,
+        "winter": 0.1
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.2,
+        "6": 0.0,
+        "7": 0.2,
+        "11": 0.0833
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L4090888",
+      "name": "Diorite",
+      "coordinates": {
+        "latitude": 46.5105268,
+        "longitude": -87.8304425
+      },
+      "occurrence": {
+        "rate": 0.0701,
+        "lift": 4.0,
+        "detection_count": 11,
+        "total_checklists": 157,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.5,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.2308,
+        "winter": 0.0575
+      },
+      "monthly": {
+        "1": 0.0526,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "11": 0.25,
+        "12": 0.1667
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L3003229",
+      "name": "Dishno Road",
+      "coordinates": {
+        "latitude": 46.5958461,
+        "longitude": -87.95122
+      },
+      "occurrence": {
+        "rate": 0.0667,
+        "lift": 3.8,
+        "detection_count": 1,
+        "total_checklists": 15,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "fall": 0.0
+      },
+      "monthly": {
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L1649173",
+      "name": "McCormick Wilderness--White Deer Lake Trail",
+      "coordinates": {
+        "latitude": 46.6494141,
+        "longitude": -88.0409156
+      },
+      "occurrence": {
+        "rate": 0.0471,
+        "lift": 2.68,
+        "detection_count": 20,
+        "total_checklists": 425,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.1,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.0141,
+        "summer": 0.0085,
+        "fall": 0.0752,
+        "winter": 0.0769
+      },
+      "monthly": {
+        "1": 0.0789,
+        "2": 0.0444,
+        "3": 0.027,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.027,
+        "8": 0.0682,
+        "9": 0.0244,
+        "10": 0.1538,
+        "11": 0.0909,
+        "12": 0.1429
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L1110707",
+      "name": "Kate's Grade",
+      "coordinates": {
+        "latitude": 46.1851119,
+        "longitude": -87.5687599
+      },
+      "occurrence": {
+        "rate": 0.0374,
+        "lift": 2.13,
+        "detection_count": 4,
+        "total_checklists": 107,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.5,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.1111,
+        "summer": 0.0323
+      },
+      "monthly": {
+        "4": 0.3333,
+        "5": 0.0,
+        "6": 0.038,
+        "7": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L1331196",
+      "name": "South Beach Park",
+      "coordinates": {
+        "latitude": 46.5275198,
+        "longitude": -87.3912845
+      },
+      "occurrence": {
+        "rate": 0.0022,
+        "lift": 0.13,
+        "detection_count": 1,
+        "total_checklists": 451,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0333,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0526,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:23.821342Z",
+    "data_version": "Dec-2025"
+  }
+}

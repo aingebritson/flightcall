@@ -1,0 +1,65 @@
+{
+  "species": {
+    "common_name": "American Three-toed Woodpecker",
+    "code": "amewoo",
+    "scientific_name": "Picoides dorsalis"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0002,
+    "total_detections": 3,
+    "total_checklists_with_species": 3,
+    "total_checklists_countywide": 18703,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 3,
+    "highest_occurrence_rate": 0.0029
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L385151",
+      "name": "Peshekee Grade",
+      "coordinates": {
+        "latitude": 46.542198,
+        "longitude": -88.0017864
+      },
+      "occurrence": {
+        "rate": 0.0029,
+        "lift": 17.95,
+        "detection_count": 3,
+        "total_checklists": 1042,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0083
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0455
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:24.022989Z",
+    "data_version": "Dec-2025"
+  }
+}

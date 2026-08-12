@@ -1,0 +1,130 @@
+{
+  "species": {
+    "common_name": "Northern Pintail",
+    "code": "norpin",
+    "scientific_name": "Anas acuta"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0037,
+    "total_detections": 21,
+    "total_checklists_with_species": 21,
+    "total_checklists_countywide": 5674,
+    "hotspots_detected": 3
+  },
+  "summary": {
+    "total_hotspots_detected": 3,
+    "total_detections": 21,
+    "highest_occurrence_rate": 0.05
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L20539631",
+      "name": "Manistique River Roadside Park",
+      "coordinates": {
+        "latitude": 46.2314561,
+        "longitude": -85.9282048
+      },
+      "occurrence": {
+        "rate": 0.05,
+        "lift": 13.51,
+        "detection_count": 1,
+        "total_checklists": 20,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "summer": 0.0,
+        "fall": 0.2
+      },
+      "monthly": {
+        "5": 0.0,
+        "6": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L248863",
+      "name": "Seney NWR",
+      "coordinates": {
+        "latitude": 46.2721054,
+        "longitude": -86.0042381
+      },
+      "occurrence": {
+        "rate": 0.0068,
+        "lift": 1.83,
+        "detection_count": 19,
+        "total_checklists": 2812,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 12
+      },
+      "seasonal": {
+        "spring": 0.0106,
+        "summer": 0.0008,
+        "fall": 0.0115,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0141,
+        "5": 0.0105,
+        "6": 0.0,
+        "7": 0.0021,
+        "8": 0.0,
+        "9": 0.0179,
+        "10": 0.0292,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L1565285",
+      "name": "Seney NWR--Pine Ridge Nature Trail",
+      "coordinates": {
+        "latitude": 46.2910639,
+        "longitude": -85.9425617
+      },
+      "occurrence": {
+        "rate": 0.0012,
+        "lift": 0.33,
+        "detection_count": 1,
+        "total_checklists": 824,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0,
+        "fall": 0.0037,
+        "winter": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0106,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:31.130269Z",
+    "data_version": "Dec-2025"
+  }
+}

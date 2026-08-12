@@ -1,0 +1,58 @@
+{
+  "species": {
+    "common_name": "Wilson's Phalarope",
+    "code": "wilpha",
+    "scientific_name": "Phalaropus tricolor"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0013,
+    "total_detections": 11,
+    "total_checklists_with_species": 11,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 11,
+    "highest_occurrence_rate": 0.1111
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L10664869",
+      "name": "Engadine Loop",
+      "coordinates": {
+        "latitude": 46.1617958,
+        "longitude": -85.5713815
+      },
+      "occurrence": {
+        "rate": 0.1111,
+        "lift": 88.7,
+        "detection_count": 11,
+        "total_checklists": 99,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 4.4,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.1594,
+        "summer": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.2037,
+        "6": 0.0,
+        "7": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.908302Z",
+    "data_version": "Dec-2025"
+  }
+}

@@ -1,0 +1,644 @@
+{
+  "species": {
+    "common_name": "Pine Warbler",
+    "code": "pinwar",
+    "scientific_name": "Setophaga pinus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.2756,
+    "total_detections": 1556,
+    "total_checklists_with_species": 1564,
+    "total_checklists_countywide": 5674,
+    "hotspots_detected": 23
+  },
+  "summary": {
+    "total_hotspots_detected": 19,
+    "total_detections": 1556,
+    "highest_occurrence_rate": 0.6364
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L33125445",
+      "name": "Manistique Township Park",
+      "coordinates": {
+        "latitude": 45.957651,
+        "longitude": -86.147518
+      },
+      "occurrence": {
+        "rate": 0.6364,
+        "lift": 2.31,
+        "detection_count": 7,
+        "total_checklists": 11,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 4
+      },
+      "seasonal": {
+        "summer": 0.875
+      },
+      "monthly": {
+        "6": 1.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L28921335",
+      "name": "Riverbank Sanctuary",
+      "coordinates": {
+        "latitude": 45.9825818,
+        "longitude": -86.2786229
+      },
+      "occurrence": {
+        "rate": 0.5333,
+        "lift": 1.93,
+        "detection_count": 8,
+        "total_checklists": 15,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 0.8,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.875,
+        "summer": 0.2
+      },
+      "monthly": {
+        "5": 0.875,
+        "6": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L5096682",
+      "name": "East Branch Fox River CG",
+      "coordinates": {
+        "latitude": 46.4655007,
+        "longitude": -85.9437342
+      },
+      "occurrence": {
+        "rate": 0.5185,
+        "lift": 1.88,
+        "detection_count": 14,
+        "total_checklists": 27,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 4
+      },
+      "seasonal": {
+        "summer": 0.7143,
+        "fall": 0.25
+      },
+      "monthly": {
+        "5": 0.5,
+        "6": 0.7143,
+        "7": 0.7143,
+        "8": 0.25
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L248863",
+      "name": "Seney NWR",
+      "coordinates": {
+        "latitude": 46.2721054,
+        "longitude": -86.0042381
+      },
+      "occurrence": {
+        "rate": 0.3688,
+        "lift": 1.34,
+        "detection_count": 1037,
+        "total_checklists": 2812,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.3,
+        "max_count": 22
+      },
+      "seasonal": {
+        "spring": 0.3785,
+        "summer": 0.478,
+        "fall": 0.2467,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.1268,
+        "5": 0.4328,
+        "6": 0.5196,
+        "7": 0.4142,
+        "8": 0.2681,
+        "9": 0.3179,
+        "10": 0.0468,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L1565285",
+      "name": "Seney NWR--Pine Ridge Nature Trail",
+      "coordinates": {
+        "latitude": 46.2910639,
+        "longitude": -85.9425617
+      },
+      "occurrence": {
+        "rate": 0.3544,
+        "lift": 1.29,
+        "detection_count": 292,
+        "total_checklists": 824,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.7,
+        "max_count": 16
+      },
+      "seasonal": {
+        "spring": 0.3911,
+        "summer": 0.4796,
+        "fall": 0.1896,
+        "winter": 0.0
+      },
+      "monthly": {
+        "4": 0.0588,
+        "5": 0.4942,
+        "6": 0.5029,
+        "7": 0.4514,
+        "8": 0.2288,
+        "9": 0.234,
+        "10": 0.0426,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L12350051",
+      "name": "Mead Creek SF CG",
+      "coordinates": {
+        "latitude": 46.1816578,
+        "longitude": -85.9879088
+      },
+      "occurrence": {
+        "rate": 0.3077,
+        "lift": 1.12,
+        "detection_count": 4,
+        "total_checklists": 13,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.8,
+        "max_count": 2
+      },
+      "seasonal": {
+        "summer": 0.3333
+      },
+      "monthly": {
+        "5": 0.6667,
+        "7": 0.25,
+        "8": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L19433726",
+      "name": "Seney NWR--Northern Hardwoods Trails",
+      "coordinates": {
+        "latitude": 46.2413282,
+        "longitude": -85.9442096
+      },
+      "occurrence": {
+        "rate": 0.2982,
+        "lift": 1.08,
+        "detection_count": 34,
+        "total_checklists": 114,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 7
+      },
+      "seasonal": {
+        "spring": 0.5152,
+        "summer": 0.2632,
+        "fall": 0.1795
+      },
+      "monthly": {
+        "1": 0.0,
+        "5": 0.5172,
+        "6": 0.25,
+        "7": 0.3333,
+        "8": 0.0769,
+        "9": 0.3846,
+        "10": 0.0769
+      }
+    },
+    {
+      "rank": 8,
+      "locality_id": "L1565306",
+      "name": "Seney NWR--Driggs River Rd.",
+      "coordinates": {
+        "latitude": 46.3228736,
+        "longitude": -86.1134867
+      },
+      "occurrence": {
+        "rate": 0.2622,
+        "lift": 0.95,
+        "detection_count": 75,
+        "total_checklists": 286,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.5,
+        "max_count": 8
+      },
+      "seasonal": {
+        "spring": 0.3294,
+        "summer": 0.3495,
+        "fall": 0.1122
+      },
+      "monthly": {
+        "4": 0.0889,
+        "5": 0.6154,
+        "6": 0.4035,
+        "7": 0.2826,
+        "8": 0.2045,
+        "9": 0.087,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 9,
+      "locality_id": "L4787175",
+      "name": "Bullock Ranch State WMA",
+      "coordinates": {
+        "latitude": 46.3460981,
+        "longitude": -86.0375834
+      },
+      "occurrence": {
+        "rate": 0.2619,
+        "lift": 0.95,
+        "detection_count": 11,
+        "total_checklists": 42,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.9,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.3636,
+        "summer": 0.375,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.5,
+        "6": 0.5,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 10,
+      "locality_id": "L11904941",
+      "name": "Fox River SF CG",
+      "coordinates": {
+        "latitude": 46.399674,
+        "longitude": -86.0301645
+      },
+      "occurrence": {
+        "rate": 0.25,
+        "lift": 0.91,
+        "detection_count": 5,
+        "total_checklists": 20,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.25
+      },
+      "monthly": {
+        "5": 0.25,
+        "7": 0.5
+      }
+    },
+    {
+      "rank": 11,
+      "locality_id": "L12121751",
+      "name": "Indian Lake SP",
+      "coordinates": {
+        "latitude": 45.94301,
+        "longitude": -86.332424
+      },
+      "occurrence": {
+        "rate": 0.2442,
+        "lift": 0.89,
+        "detection_count": 21,
+        "total_checklists": 86,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.3,
+        "max_count": 4
+      },
+      "seasonal": {
+        "spring": 0.25,
+        "summer": 0.3448,
+        "fall": 0.1778
+      },
+      "monthly": {
+        "5": 0.2727,
+        "6": 0.4167,
+        "7": 0.0,
+        "8": 0.3158,
+        "9": 0.1,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 12,
+      "locality_id": "L2753999",
+      "name": "Seney NWR--Creighton Truck Trail",
+      "coordinates": {
+        "latitude": 46.326987,
+        "longitude": -86.2616229
+      },
+      "occurrence": {
+        "rate": 0.2353,
+        "lift": 0.85,
+        "detection_count": 4,
+        "total_checklists": 17,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "summer": 0.0,
+        "fall": 0.1667
+      },
+      "monthly": {
+        "5": 0.75,
+        "7": 0.0,
+        "8": 0.25
+      }
+    },
+    {
+      "rank": 13,
+      "locality_id": "L19434420",
+      "name": "Seney NWR--River Rd. Temporary Visitor Center",
+      "coordinates": {
+        "latitude": 46.2171955,
+        "longitude": -85.9697798
+      },
+      "occurrence": {
+        "rate": 0.1562,
+        "lift": 0.57,
+        "detection_count": 10,
+        "total_checklists": 64,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.6,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.2609,
+        "summer": 0.2857,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.1111,
+        "5": 0.3571,
+        "6": 0.3,
+        "7": 0.25,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 14,
+      "locality_id": "L5808477",
+      "name": "Seney",
+      "coordinates": {
+        "latitude": 46.3455234,
+        "longitude": -85.9466157
+      },
+      "occurrence": {
+        "rate": 0.1316,
+        "lift": 0.48,
+        "detection_count": 5,
+        "total_checklists": 38,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 4.8,
+        "max_count": 10
+      },
+      "seasonal": {
+        "spring": 0.3077,
+        "summer": 0.125,
+        "fall": 0.0
+      },
+      "monthly": {
+        "5": 0.3333,
+        "6": 0.1429,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+      }
+    },
+    {
+      "rank": 15,
+      "locality_id": "L4746375",
+      "name": "Environmental Education Laboratory",
+      "coordinates": {
+        "latitude": 45.9774082,
+        "longitude": -86.2085232
+      },
+      "occurrence": {
+        "rate": 0.1143,
+        "lift": 0.41,
+        "detection_count": 4,
+        "total_checklists": 35,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.1739,
+        "summer": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.2105,
+        "6": 0.0
+      }
+    },
+    {
+      "rank": 16,
+      "locality_id": "L3962898",
+      "name": "Rainey Wildlife Area",
+      "coordinates": {
+        "latitude": 46.022393,
+        "longitude": -86.312389
+      },
+      "occurrence": {
+        "rate": 0.0976,
+        "lift": 0.35,
+        "detection_count": 4,
+        "total_checklists": 41,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.1538,
+        "fall": 0.0
+      },
+      "monthly": {
+        "4": 0.0,
+        "5": 0.2222,
+        "8": 0.0,
+        "9": 0.0
+      }
+    },
+    {
+      "rank": 17,
+      "locality_id": "L2145284",
+      "name": "Seul Choix Point",
+      "coordinates": {
+        "latitude": 45.9204231,
+        "longitude": -85.9114659
+      },
+      "occurrence": {
+        "rate": 0.0634,
+        "lift": 0.23,
+        "detection_count": 9,
+        "total_checklists": 142,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0641,
+        "summer": 0.0,
+        "fall": 0.125,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0769,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.4444,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 18,
+      "locality_id": "L8028872",
+      "name": "Palms Book SP",
+      "coordinates": {
+        "latitude": 46.0047573,
+        "longitude": -86.3830805
+      },
+      "occurrence": {
+        "rate": 0.0124,
+        "lift": 0.05,
+        "detection_count": 2,
+        "total_checklists": 161,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "spring": 0.027,
+        "summer": 0.0,
+        "fall": 0.0189,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0455,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0588,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      }
+    },
+    {
+      "rank": 19,
+      "locality_id": "L1222504",
+      "name": "Lakeview Park/Manistique Boardwalk",
+      "coordinates": {
+        "latitude": 45.9463175,
+        "longitude": -86.2352803
+      },
+      "occurrence": {
+        "rate": 0.012,
+        "lift": 0.04,
+        "detection_count": 10,
+        "total_checklists": 836,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.1,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0096,
+        "summer": 0.0125,
+        "fall": 0.0169,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0208,
+        "5": 0.0077,
+        "6": 0.0125,
+        "7": 0.0127,
+        "8": 0.0,
+        "9": 0.05,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:31.096013Z",
+    "data_version": "Dec-2025"
+  }
+}

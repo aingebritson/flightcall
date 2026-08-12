@@ -1,0 +1,103 @@
+{
+  "species": {
+    "common_name": "Least Bittern",
+    "code": "leabit",
+    "scientific_name": "Botaurus exilis"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0025,
+    "total_detections": 22,
+    "total_checklists_with_species": 22,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 22,
+    "highest_occurrence_rate": 0.0084
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L3640326",
+      "name": "Cedarville Bay",
+      "coordinates": {
+        "latitude": 45.9957989,
+        "longitude": -84.3620074
+      },
+      "occurrence": {
+        "rate": 0.0084,
+        "lift": 3.35,
+        "detection_count": 1,
+        "total_checklists": 119,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0312,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0667,
+        "6": 0.0,
+        "7": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L657101",
+      "name": "Pointe LaBarbe",
+      "coordinates": {
+        "latitude": 45.8421945,
+        "longitude": -84.7567749
+      },
+      "occurrence": {
+        "rate": 0.0077,
+        "lift": 3.07,
+        "detection_count": 21,
+        "total_checklists": 2726,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0017,
+        "summer": 0.0088,
+        "fall": 0.0099,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0022,
+        "6": 0.0,
+        "7": 0.0246,
+        "8": 0.0076,
+        "9": 0.0267,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.903487Z",
+    "data_version": "Dec-2025"
+  }
+}

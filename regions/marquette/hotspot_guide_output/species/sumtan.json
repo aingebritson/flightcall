@@ -1,0 +1,56 @@
+{
+  "species": {
+    "common_name": "Summer Tanager",
+    "code": "sumtan",
+    "scientific_name": "Piranga rubra"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0001,
+    "total_detections": 2,
+    "total_checklists_with_species": 2,
+    "total_checklists_countywide": 18703,
+    "hotspots_detected": 1
+  },
+  "summary": {
+    "total_hotspots_detected": 1,
+    "total_detections": 2,
+    "highest_occurrence_rate": 0.0465
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L6851355",
+      "name": "Champion",
+      "coordinates": {
+        "latitude": 46.510791,
+        "longitude": -87.9762411
+      },
+      "occurrence": {
+        "rate": 0.0465,
+        "lift": 434.95,
+        "detection_count": 2,
+        "total_checklists": 43,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.1,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.5,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:24.025928Z",
+    "data_version": "Dec-2025"
+  }
+}

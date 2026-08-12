@@ -1,0 +1,285 @@
+{
+  "species": {
+    "common_name": "Boreal Chickadee",
+    "code": "borchi",
+    "scientific_name": "Poecile hudsonicus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0283,
+    "total_detections": 529,
+    "total_checklists_with_species": 529,
+    "total_checklists_countywide": 18703,
+    "hotspots_detected": 7
+  },
+  "summary": {
+    "total_hotspots_detected": 7,
+    "total_detections": 529,
+    "highest_occurrence_rate": 0.3733
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L385151",
+      "name": "Peshekee Grade",
+      "coordinates": {
+        "latitude": 46.542198,
+        "longitude": -88.0017864
+      },
+      "occurrence": {
+        "rate": 0.3733,
+        "lift": 13.2,
+        "detection_count": 389,
+        "total_checklists": 1042,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.2,
+        "max_count": 16
+      },
+      "seasonal": {
+        "spring": 0.338,
+        "summer": 0.2027,
+        "fall": 0.3388,
+        "winter": 0.5221
+      },
+      "monthly": {
+        "1": 0.5641,
+        "2": 0.5196,
+        "3": 0.5398,
+        "4": 0.1778,
+        "5": 0.0545,
+        "6": 0.2162,
+        "7": 0.1757,
+        "8": 0.2778,
+        "9": 0.3235,
+        "10": 0.3103,
+        "11": 0.3939,
+        "12": 0.4545
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L1649173",
+      "name": "McCormick Wilderness--White Deer Lake Trail",
+      "coordinates": {
+        "latitude": 46.6494141,
+        "longitude": -88.0409156
+      },
+      "occurrence": {
+        "rate": 0.2847,
+        "lift": 10.07,
+        "detection_count": 121,
+        "total_checklists": 425,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 2.4,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.2535,
+        "summer": 0.1709,
+        "fall": 0.3008,
+        "winter": 0.4135
+      },
+      "monthly": {
+        "1": 0.5,
+        "2": 0.4444,
+        "3": 0.2432,
+        "4": 0.3846,
+        "5": 0.1905,
+        "6": 0.125,
+        "7": 0.2703,
+        "8": 0.3182,
+        "9": 0.3171,
+        "10": 0.1538,
+        "11": 0.4091,
+        "12": 0.1905
+      }
+    },
+    {
+      "rank": 3,
+      "locality_id": "L3003229",
+      "name": "Dishno Road",
+      "coordinates": {
+        "latitude": 46.5958461,
+        "longitude": -87.95122
+      },
+      "occurrence": {
+        "rate": 0.2667,
+        "lift": 9.43,
+        "detection_count": 4,
+        "total_checklists": 15,
+        "confidence": "low"
+      },
+      "abundance": {
+        "average_count": 2.0,
+        "max_count": 3
+      },
+      "seasonal": {
+        "fall": 0.4
+      },
+      "monthly": {
+        "11": 0.4,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 4,
+      "locality_id": "L3444399",
+      "name": "Wolf Lake Rd.",
+      "coordinates": {
+        "latitude": 46.527247,
+        "longitude": -87.8674078
+      },
+      "occurrence": {
+        "rate": 0.0816,
+        "lift": 2.89,
+        "detection_count": 4,
+        "total_checklists": 49,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 1.5,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.2857,
+        "summer": 0.0,
+        "fall": 0.25,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.5,
+        "6": 0.0,
+        "7": 0.0,
+        "11": 0.25,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 5,
+      "locality_id": "L4127426",
+      "name": "Clowry Truck Trail",
+      "coordinates": {
+        "latitude": 46.5231619,
+        "longitude": -87.8962269
+      },
+      "occurrence": {
+        "rate": 0.0781,
+        "lift": 2.76,
+        "detection_count": 5,
+        "total_checklists": 64,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 4.8,
+        "max_count": 6
+      },
+      "seasonal": {
+        "spring": 0.125,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.3636
+      },
+      "monthly": {
+        "1": 0.375,
+        "4": 0.2,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "11": 0.0,
+        "12": 0.3333
+      }
+    },
+    {
+      "rank": 6,
+      "locality_id": "L1331196",
+      "name": "South Beach Park",
+      "coordinates": {
+        "latitude": 46.5275198,
+        "longitude": -87.3912845
+      },
+      "occurrence": {
+        "rate": 0.0022,
+        "lift": 0.08,
+        "detection_count": 1,
+        "total_checklists": 451,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.0,
+        "max_count": 1
+      },
+      "seasonal": {
+        "spring": 0.0,
+        "summer": 0.0333,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0526,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    },
+    {
+      "rank": 7,
+      "locality_id": "L888959",
+      "name": "Presque Isle Park",
+      "coordinates": {
+        "latitude": 46.5857658,
+        "longitude": -87.3825073
+      },
+      "occurrence": {
+        "rate": 0.0013,
+        "lift": 0.04,
+        "detection_count": 5,
+        "total_checklists": 3970,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 1.2,
+        "max_count": 2
+      },
+      "seasonal": {
+        "spring": 0.0036,
+        "summer": 0.0,
+        "fall": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0062,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:23.816898Z",
+    "data_version": "Dec-2025"
+  }
+}

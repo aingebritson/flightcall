@@ -1,0 +1,98 @@
+{
+  "species": {
+    "common_name": "Short-billed Dowitcher",
+    "code": "shodow",
+    "scientific_name": "Limnodromus griseus"
+  },
+  "baseline": {
+    "county_occurrence_rate": 0.0058,
+    "total_detections": 51,
+    "total_checklists_with_species": 51,
+    "total_checklists_countywide": 8781,
+    "hotspots_detected": 2
+  },
+  "summary": {
+    "total_hotspots_detected": 2,
+    "total_detections": 51,
+    "highest_occurrence_rate": 0.1616
+  },
+  "hotspots": [
+    {
+      "rank": 1,
+      "locality_id": "L10664869",
+      "name": "Engadine Loop",
+      "coordinates": {
+        "latitude": 46.1617958,
+        "longitude": -85.5713815
+      },
+      "occurrence": {
+        "rate": 0.1616,
+        "lift": 27.83,
+        "detection_count": 16,
+        "total_checklists": 99,
+        "confidence": "medium"
+      },
+      "abundance": {
+        "average_count": 6.1,
+        "max_count": 14
+      },
+      "seasonal": {
+        "spring": 0.2319,
+        "summer": 0.0,
+        "winter": 0.0
+      },
+      "monthly": {
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.2963,
+        "6": 0.0,
+        "7": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "locality_id": "L657101",
+      "name": "Pointe LaBarbe",
+      "coordinates": {
+        "latitude": 45.8421945,
+        "longitude": -84.7567749
+      },
+      "occurrence": {
+        "rate": 0.0128,
+        "lift": 2.21,
+        "detection_count": 35,
+        "total_checklists": 2726,
+        "confidence": "high"
+      },
+      "abundance": {
+        "average_count": 3.0,
+        "max_count": 50
+      },
+      "seasonal": {
+        "spring": 0.042,
+        "summer": 0.0088,
+        "fall": 0.0041,
+        "winter": 0.0
+      },
+      "monthly": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0552,
+        "6": 0.0,
+        "7": 0.0246,
+        "8": 0.0227,
+        "9": 0.0018,
+        "10": 0.0,
+        "11": 0.0,
+        "12": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-12T00:34:08.897763Z",
+    "data_version": "Dec-2025"
+  }
+}
